@@ -9,13 +9,16 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - uses: docker/setup-buildx-action@v4
       - uses: docker/login-action@v4
         with:
           username: kristianwindsor
           password: ${{ secrets.DOCKERHUB_TOKEN }}
+
       - uses: docker/build-push-action@v7
         with:
           push: true
+          platforms: linux/amd64,linux/arm64
           tags: |
             kristianwindsor/isaakstory.org:b${{ github.run_number }}
             kristianwindsor/isaakstory.org:latest
