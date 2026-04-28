@@ -1,0 +1,25 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: isaakstory
+  labels:
+    app: isaakstory
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: isaakstory
+  template:
+    metadata:
+      labels:
+        app: isaakstory
+    spec:
+      containers:
+        - name: isaakstory
+          image: kristianwindsor/isaakstory.org
+          ports:
+            - containerPort: 8000
+          readinessProbe:
+            httpGet:
+              path: /
+              port: 8000

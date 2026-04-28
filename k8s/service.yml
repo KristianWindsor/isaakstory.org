@@ -1,0 +1,9 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: isaakstory
+spec:
+  selector:
+    app: isaakstory
+  ports:
+    - port: 8000
