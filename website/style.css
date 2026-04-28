@@ -1,0 +1,79 @@
+*, *::before, *::after { box-sizing: border-box; }
+
+body {
+    font-family: Georgia, 'Times New Roman', serif;
+    max-width: 780px;
+    margin: 0 auto;
+    padding: 3rem 1.5rem;
+    line-height: 1.8;
+    color: #2c2c2c;
+    background: #faf8f5;
+}
+
+a { color: #7a4e2d; }
+a:hover { color: #4a2e10; }
+
+/* Homepage */
+h1 {
+    font-size: 2rem;
+    font-weight: normal;
+    letter-spacing: .02em;
+    border-bottom: 1px solid #d8cfc4;
+    padding-bottom: .6rem;
+    margin-bottom: .4rem;
+}
+
+.subtitle {
+    color: #888;
+    font-style: italic;
+    margin-top: 0;
+    margin-bottom: 2rem;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+li {
+    padding: .45rem 0;
+    border-bottom: 1px solid #ede8e1;
+}
+
+li:last-child { border-bottom: none; }
+
+li a {
+    text-decoration: none;
+    font-size: 1.05rem;
+}
+
+li a:hover { text-decoration: underline; }
+
+/* Chapter page */
+.back {
+    display: inline-block;
+    margin-bottom: 2rem;
+    font-size: .9rem;
+    text-decoration: none;
+    color: #999;
+    letter-spacing: .03em;
+}
+
+.back:hover { color: #555; }
+
+#content h1, #content h2 {
+    font-weight: normal;
+    letter-spacing: .02em;
+}
+
+#content h1 { font-size: 1.9rem; margin-top: 2.5rem; }
+#content h2 { font-size: 1.2rem; color: #888; margin-bottom: .2rem; }
+
+#content p { margin: 1rem 0; }
+
+#content hr {
+    border: none;
+    border-top: 1px solid #d8cfc4;
+    margin: 2.5rem 0;
+}
