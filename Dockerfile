@@ -2,7 +2,7 @@ FROM php:8.3-cli-alpine
 
 WORKDIR /app
 
-COPY img/ img/
+COPY img/ website/img/
 COPY story/ story/
 COPY website/ website/
 
