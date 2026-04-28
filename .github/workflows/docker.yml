@@ -1,0 +1,21 @@
+name: Build and push Docker image
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: docker/login-action@v4
+        with:
+          username: kristianwindsor
+          password: ${{ secrets.DOCKERHUB_TOKEN }}
+      - uses: docker/build-push-action@v7
+        with:
+          push: true
+          tags: |
+            kristianwindsor/isaakstory.org:b${{ github.run_number }}
+            kristianwindsor/isaakstory.org:latest
