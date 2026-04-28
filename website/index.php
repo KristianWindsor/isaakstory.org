@@ -1,7 +1,7 @@
 <?php
 $chapter = $_GET['chapter'] ?? null;
 
-if ($chapter !== null && !preg_match('/^chapter\d+$/', $chapter)) {
+if ($chapter !== null && !preg_match('/^chapter\d+(-[a-z0-9]+)*$/', $chapter)) {
     $chapter = null;
 }
 
