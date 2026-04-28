@@ -2,19 +2,9 @@
 
 # Black Earth
 
----
-
-*By 1844, the colony of Kulm was nearly thirty years old. The sod huts of the first settlers had given way to whitewashed mud-brick houses roofed with thatch, each one set on a narrow lot that stretched back a quarter mile into the steppe. Acacia trees — planted by the colonists themselves, because the steppe had none — lined the main street and shaded the yards.*
-
-*The first generation had found death. The second had found need. The third was beginning — just beginning — to find bread.*
-
-*Karl Isaak was forty-eight. He had walked to Bessarabia as a nineteen-year-old and spent his entire adult life turning steppe grass into wheat fields. He had married Anna Elizabeth Louise Schimke in 1819 and given her more children than either of them could easily feed. The farm was sixty-six hectares of the blackest soil in Europe — so rich it needed no fertilizer, so flat you could watch your dog run away for three days.*
-
-*Gottlieb Isaak, Karl's son, was ten years old.*
-
----
-
 Kulm, Bessarabia — A day in late summer, 1844
+
+---
 
 The rooster woke him, as it always did, in the grey half-light before dawn. Gottlieb lay on the straw mattress he shared with his brother Andreas and listened to the sounds of the house coming alive — his mother at the stove, the iron clang of the door, water being poured into the kettle.
 
@@ -28,6 +18,12 @@ This had been a sore subject lately. Three weeks ago, something had gotten into 
 
 Gottlieb checked. The chickens were alive, irritable, and unimpressed. Four eggs today. He carried them inside in his cap, and his mother cracked two into the pan without comment. Breakfast was eggs, dark bread with lard, and chicory coffee. His father said grace — the same grace in the same German, the same words reaching back through the family like a rope to a church in Westphalia none of them had ever seen.
 
+Gottlieb reached for the bread before the amen and his father's hand came down on the back of his wrist, not hard, but with the precise weight of a man who did not need to do it twice. Gottlieb pulled his hand back and stared at the table and felt his face go hot. Andreas, across from him, kept his eyes on his plate. Their father finished the prayer in the same unhurried voice as before, as if nothing had happened, which was somehow worse than if he had shouted.
+
+"Now," Karl said.
+
+Gottlieb took the bread.
+
 ---
 
 School was a low mud-brick building near the prayer house. One room, one teacher, one purpose: to make Lutheran Germans out of the children of Lutheran Germans.
@@ -35,6 +31,8 @@ School was a low mud-brick building near the prayer house. One room, one teacher
 The teacher was the *Küster* — the sexton — Herr Brauer, a thick-shouldered man with a voice that could fill the prayer house without effort. He also led the Sunday service most weeks, because the pastor lived in Tarutino, an hour's ride away, and could only come once or twice a month. The schoolbooks were the Bible, the hymnal, and Luther's Small Catechism. Reading was taught from Scripture. Writing was taught by copying Scripture. Arithmetic was taught because you needed it to measure land and sell wheat, and for no other reason.
 
 What Gottlieb liked was the singing. The old Lutheran hymns — *Ein feste Burg*, *Nun danket alle Gott* — were the best part of school and the best part of Sunday and, if he was honest, the best part of being alive. When the whole village sang together in the prayer house, the sound was enormous, far bigger than the small building that contained it, and Gottlieb felt that he was part of something that could not be taken away — something that did not change when the borders changed or the government changed or the language on the official documents changed. The hymns were the same. The words were the same. The God was the same.
+
+The girls sat on the left side of the room and the boys on the right. On the girls' bench, third from the front, was Louisa Schulz, who was eight years old and the daughter of the man who fixed wagons at the south end of the village. She had two brown braids and a habit of biting her lower lip when she was concentrating, and when the singing started she sang louder than any of the other girls — not showing off, just unable to help it, the way some children cannot help running when they are happy. Gottlieb noticed her the way you notice a particular bird in a flock, without quite knowing why your eye keeps going back to it.
 
 School let out at noon. Gottlieb walked home along the main street, kicking dust, past the whitewashed houses with their acacia trees and kitchen gardens, past the smithy and the prayer house and the cemetery where the oldest stones — the ones from the hunger years — were already sinking into the black earth as if the steppe were slowly swallowing them.
 
@@ -62,12 +60,24 @@ The afternoon was fieldwork. The wheat stood golden and heavy in the fields beyo
 
 The steppe wind blew from the southeast, steady and warm, smelling of dry grass and distance. It never stopped. It was the one constant of life in Bessarabia — more reliable than the rain, more permanent than the government, more faithful than anything except the church. You did not fight the wind. You built your house with its back to it, planted your acacias to slow it, and eventually you stopped hearing it at all, the way you stop hearing your own heartbeat.
 
-They worked until the sun touched the western horizon — a horizon so flat and far that the sunset seemed to take an hour, the sky turning from blue to gold to copper to a deep, bruised red that spread across the entire dome of the heavens. It was the most beautiful thing about this country. The land was plain. The village was plain. The work was plain. But the sky was operatic, excessive, absurdly generous — a sky that belonged to a grander country than this one, a sky that had been here before the Germans and the Bulgarians and the Tatars and the Turks, and that would be here long after all of them were gone.
+Toward evening, his father straightened up from his row, pressed both hands into the small of his back, and looked west. Gottlieb followed his gaze.
+
+The sun was sitting on the rim of the steppe like something set down to cool. There was nothing between them and it — no tree, no hill, no roof, nothing — and so the whole western half of the world was on fire. The wheat in the foreground was the color of beaten gold. The sky above the horizon was orange, and above the orange was a band of deep rose, and above the rose was a blue so pale and so vast that it seemed less like a color than like an idea of one.
+
+Gottlieb stopped raking. He stood with the rake in both hands and watched.
+
+He had seen this every evening of his life. He had never once stopped watching it. The other boys made fun of him for it sometimes — Andreas called him *der Himmelsgucker*, the sky-watcher — but Gottlieb did not care. He had decided, years ago, that anyone who could stand in a wheat field at sunset and not look up was missing the only part of the day that was free.
+
+His father did not say anything. He stood there beside him with his hands on his hips and looked at the sky too, and for a moment Gottlieb felt — without words for it, the way ten-year-olds feel large things — that his father had once been a boy who stopped raking at sunset, and that the fact had not entirely been beaten out of him.
+
+Then Karl picked up his scythe and went back to work, and Gottlieb followed.
+
+They worked until the sun touched the western horizon — a horizon so flat and far that the sunset seemed to take an hour, the sky turning from blue to gold to copper to a deep, bruised red that spread across the entire dome of the heavens. The land was plain. The village was plain. The work was plain. But the sky was operatic, excessive, absurdly generous — a sky that belonged to a grander country than this one, a sky that had been here before the Germans and the Bulgarians and the Tatars and the Turks, and that would be here long after all of them were gone.
+
+---
 
 Gottlieb walked home in the blue dusk, shoulders aching, hands raw from the straw, his boots heavy with the black earth that stuck to everything and never fully came off. His mother had supper on the table — soup with potatoes and onions, bread, a glass of the thin wine that Karl made from his own vines. Grace was said. The same words. The same God.
 
-After supper, his mother sewed by the door. His father smoked his pipe in the yard. The acacias rustled. From somewhere down the street came the sound of someone playing a fiddle, badly.
+After supper, his mother sewed by the door. His father smoked his pipe in the yard. The acacias rustled.
 
-Gottlieb sat on the doorstep and looked at the sky. The first stars were out — the same stars that shone over Soest and Blacka and Brandenburg and every other place the Isaak family had ever been. He was ten years old. He had never been anywhere but Kulm. He had never seen a forest or a mountain or a city or the sea, though it was only sixty miles to the south. He knew the steppe, the village, the church, the field, and the sky, and he did not yet know that the same restlessness that had driven his great-grandfather from Soest and his grandfather from Poland would, in time, drive his own children across an ocean to a place called Dakota, where the prairie looked almost exactly like this and the wind blew just as hard and the sky was just as big, and where, at last, after six generations of moving, the Isaak family would finally stop.
-
-But that was decades away. Tonight, the wheat was almost ready. The stars were out. The wolf, if it was a wolf, had not come back. And Gottlieb Isaak — ten years old, great-great-grandson of a woman who had married in a black dress in a cold church in Westphalia — was home.
+Gottlieb sat on the doorstep and looked at the sky. The first stars were out. From somewhere down the street came the sound of someone playing a fiddle, badly.

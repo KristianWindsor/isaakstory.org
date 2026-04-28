@@ -1,217 +1,353 @@
 ## Chapter Ten
 
-# Tante Frieda
+# The Hardware Store
+
+Eureka, South Dakota — 1892 to 1899
 
 ---
 
-*On October 29, 1929, the stock market crashed and the American century stumbled. Banks failed. Factories closed. Bread lines formed in cities that had been building skyscrapers a year earlier. In the farm country of the northern plains, the catastrophe was double: wheat prices, which had been climbing through the twenties, collapsed overnight. A bushel that had sold for a dollar now sold for twenty-five cents — less than it cost to grow. Farmers who had borrowed against their land to buy tractors and seed found themselves owing more than the land was worth.*
+David came to his father in February of 1892, in the dead of a Mercer County winter, with a proposition.
 
-*Then the rain stopped.*
+He drove the mile from his own claim to Gottlieb's in a wagon that should have been a sled, because the snow was old and packed and the runners would have caught on the bare patches. Hanna was with him. They had left Josephine and Albert and the new baby, Edward, with one of the Schulz girls for the afternoon, because what David had to say to his father was not going to be said in front of children.
 
-*The drought began in 1930 and did not fully break for seven years. Without rain, the crops withered. Without crops, the topsoil — plowed bare of the native grasses that had held it for ten thousand years — turned to powder. The wind took it. Massive dust storms rolled across the Great Plains like brown walls, blackening the sky at noon, burying fence posts, choking cattle, sifting through closed windows and sealed doors until everything inside was coated in fine, gritty dirt. They called it the Dust Bowl. They called it the Dirty Thirties. In South Dakota, no other state lost a greater share of its population.*
+They sat at Gottlieb's kitchen table. Louisa poured coffee and then sat down at the end of the table without saying anything, which was Louisa's way of indicating that she intended to listen to every word and that she would speak when she had decided what she wanted to say.
 
-*The Isaaks had survived the steppe, survived the Atlantic, survived the sod houses and the blizzards and the failed partnerships and the war. Now they had to survive the wind.*
+"There is a man named Mewing in Eureka," David said. "He is in the hardware business. He wants partners."
 
----
+Gottlieb wrapped both hands around his coffee cup.
 
-**Eureka, South Dakota — 1932**
+"Hardware."
 
-Albert and Eva and the girls lived above the store.
+"Nails, plowshares, axe heads, stove parts. Everything a settler needs that is not food. Mewing has the building and the inventory and a year of accounts. He needs capital and he needs men he can trust. He has approached me because he knows the family. He thinks four of us together — you, me, Solomon, and him — could make a real business of it."
 
-The apartment was small — two bedrooms, a kitchen, a sitting room — built directly over the Isaaks 5&10¢ on one of Eureka's modest commercial blocks. The floor shook when the front door opened downstairs. The smell of the store — dust and candy and cardboard and the faint metallic trace of the old hardware days — rose through the floorboards and settled into the furniture and the curtains and the girls' hair. If you grew up above a store, the store was in everything. It was the smell of home.
+"In Eureka."
 
-Eva worked the counter downstairs. Albert handled the ordering and the books. Between them, they kept the doors open, though keeping the doors open in Eureka in 1932 was an act of stubbornness that bordered on faith. Half the storefronts on Main Street had gone dark. The grain elevator was nearly idle. The customers who came in had less money every month, and the ones who had credit were the ones who would never pay, because there was nothing to pay with.
+"In Eureka. McPherson County. There is a railroad. There are German families pouring in from every direction — Bessarabians, Hannoveraners, Württembergers, all of them needing tools. There is a church already. There is a school. It is a town, Father. A real town, the kind of town we have been trying to live next to for fourteen years and have never quite managed."
 
-Alice was eleven, growing tall but not yet serious — that would come later. She had joined the Girl Scouts, a handful of Eureka girls in brown uniforms learning knots and first aid and the particular brand of prairie resourcefulness that no Scout handbook covered but that South Dakota demanded. She loved it. The meetings, the projects, the badges, the feeling of belonging to something organized and purposeful in a world that was coming apart at the seams — all of it suited her. In May of 1933, just after her twelfth birthday, Alice stood with her troop for a photograph, and she was smiling. Not the dutiful half-smile of a girl told to hold still, but a real smile — the kind that comes from a twelve-year-old who has found her people and does not yet know that the world will ask her to leave them.
+Gottlieb did not say anything for a moment. He looked into his coffee.
 
-Edith was five. She had begun piano lessons with her aunt Josie — who had the patience, the musical ear, and the understanding that a five-year-old's attention span is approximately the length of one hymn, and that the hymn had better be interesting. Josie sat beside her on the bench and guided her fingers and did not lose her temper when the wrong notes came, which was often, because Edith was five and the piano was enormous and her hands were the size of teacups. But the lessons took. The music took. Something in the child responded to the instrument the way her father responded to the clarinet — not as a skill to be mastered but as a language to be spoken, a way of saying things that words could not reach.
+"David."
 
-And Tante Frieda was upstairs, mending a dress.
+"Yes."
 
----
+"I have been a farmer since I was eight years old. I know how to break ground and I know how to plant wheat and I know how to bargain for swine and I know how to read a contract for rented land. I do not know how to sell a box of nails to a man I have never met. I am fifty-eight years old and my hands are stiff in the mornings and my back hurts at night and I am tired in a way I do not remember being tired before. I have misgivings, David. I have very serious misgivings about whether your mother and I have the proper determination for this."
 
-**Tante Frieda**
+"I know."
 
-She was a middle-aged German immigrant who had recently arrived in Eureka — a newcomer in a town that had stopped receiving newcomers, a woman with broken English and sturdy hands and the particular gentleness of someone who has crossed an ocean alone and knows what it means to need company.
+"You know."
 
-Eva hired her to care for Edith during the day while Eva worked the store.
+"I have been thinking about it for two years. I knew you would say exactly that. I am asking you anyway, because Hanna and I cannot do it alone, and because Solomon will come if you come, and because the four of us together can do something that none of us can do separately."
 
-The arrangement was simple. Tante Frieda cooked. Tante Frieda cleaned. Tante Frieda washed Edith's hair, mended her dresses, served her goat's milk and homemade bread, and hovered over her during the terrifying bouts of whooping cough and a blood infection that nearly killed her. And in the hours between the crises, the two of them sat together in the small apartment above the store and taught each other language.
+Gottlieb looked over at Solomon, who had come in from outside during the conversation and was standing by the stove with his hat in his hands. Solomon was twenty-six. He had spent the last three years on his own quarter section near the Knife and he had broken sixty acres and he had been quietly miserable for most of it.
 
-Edith taught Tante Frieda English. Tante Frieda taught Edith to sew.
+"Solomon."
 
-They were an unlikely pair — the five-year-old who chattered without pause and the immigrant woman who struggled with every vowel — but the struggle was the joy. They laughed over the pronunciations. They laughed over the sewing. They laughed over nothing, the way people laugh when they are happy in each other's company and do not need a reason. The apartment filled with the sound of a child's voice and a woman's laughter and the clatter of the sewing machine, and if you stood at the bottom of the stairs and listened, you could hear the two languages braiding together into something that was neither German nor English but was, unmistakably, love.
+"Yes, Father."
 
-Then, when Edith was seven, Tante Frieda left.
+"Do you want to leave Mercer County?"
 
-She did not warn the child. One day she was there — mending a dress, heating the milk, humming a German hymn — and the next day she was gone, moved far away to marry a German widower, and the apartment above the store was silent in a way it had never been silent before.
+Solomon glanced at Klein, who was not in the room because Klein was at his own farm, and then he looked his father in the eye and said the thing he had been waiting to say.
 
-Edith's grief was enormous. It was the kind of grief that fills a child's entire body, that cannot be reasoned with or consoled. She cried for days. Nobody could comfort her. Tante Frieda's leaving seemed worse than death, because Tante Frieda was still alive — still somewhere in the world, still breathing and sewing and humming — but they were not together, and never would be again.
+"At the first opportunity that comes along, I am going to leave. Klein is going to leave too. We have talked about it. The land is good but the country is empty in a way that even Bessarabians cannot live with, and the winters are killing us. If you go to Eureka, I will follow you. If you do not go, I will go anyway. I am sorry, Father, but that is the truth."
 
-It was 1934\. The dust was blowing outside, and the woman who had smelled of bread and goat's milk was gone, and Edith Allegra Isaak learned, at seven years old, the lesson that every Isaak eventually learned: that the people you love can leave, and that the leaving does not kill you, but it changes the shape of the room.
+Gottlieb was quiet for a long moment.
 
----
+"Even my own children are ready to move on."
 
-**Sundays**
+"Yes."
 
-But there were Sundays.
+"And what does your wife say, David?"
 
-Every single Sunday, without exception, the family drove out to Grandma Roesch's farm — Eva's mother, who had been widowed in 1930 but who ran the homestead with the same iron will that had built it. Edith had been coming here since she was a baby. The farm was the fixed point around which the rest of the week rotated, and no drought or depression or death was going to change that.
+David looked at Hanna. Hanna had not said a word during the entire conversation, which was unusual enough that even Gottlieb had noticed.
 
-Getting there was an adventure in itself. Some of the cousins rode with Uncle Ed — Edith's cousin Melvin wedged between them in the back seat — in a car with an incurable muffler problem that turned every trip into a shouting match with physics. The noise was so deafening that conversation was impossible, but everyone tried anyway, arriving hoarse and half-deaf and grateful to both Uncle Ed and Henry Ford as they recalled the horse-and-buggy alternative of former years.
+"My wife," David said, "told me in 1886 that the next house we lived in would be a house in a town. She has been waiting six years."
 
-Upon arrival they were greeted by Grandma and the enormous dinner she had prepared.
+Hanna allowed herself a small dry smile.
 
-The big oilcloth-covered table was set for the invasion. The meal was everything Grandma had to offer — mountains of mashed potatoes, loaves of homemade bread, and her specialty: fried chicken. These were birds she had lovingly raised, dutifully decapitated, patiently plucked, bravely eviscerated, and expertly cooked, all as a love-gift for her family.
+"It is a town, *Vater*," she said. "It has streets and a school and a doctor. I can walk to the doctor in less than ten minutes. I can send Albert to a school where he will learn to read English. I can buy flour at a store instead of grinding it from grain that we have threshed by hand. I am not asking you to do this for me. But I am telling you that David and I are going, and the question on the table is whether you and Mother are coming with us."
 
-"Edith, sit. Eat."
+Gottlieb looked at Louisa.
 
-"I'm not hungry, Grandma."
+Louisa was sitting at the end of the table with her hands folded in her lap and her face perfectly composed. She had been watching the conversation the way she watched everything — closely, without expression, with the patience of a woman who had been making decisions her entire life by listening first. Now she stood up. She walked to the cupboard against the far wall and she opened it, and she began taking down the plates — slowly, one at a time — and stacking them on the counter.
 
-"You are hungry. Sit."
+David and Hanna and Gottlieb watched her.
 
-Edith sat. She was always hungry. She had said she wasn't because she wanted to go play, but Grandma Roesch was not a woman who entertained the concept of a child who was not hungry, and the argument — if you could call it an argument — lasted approximately two seconds.
+She did not turn around.
 
-Grandma was a strong woman. She had emigrated from Russia, settled on raw prairie, survived winters that killed livestock and summers that blistered paint. She had given birth to fourteen children without anesthetic — nothing but a wooden spoon from the kitchen clenched between her teeth for biting down on when the contractions got unbearable. Her teeth-marks were still on that spoon. Edith knew. She had seen the spoon. It was in the mashed potatoes.
+"Louisa."
 
-After dinner, the family dispersed into its natural groups.
+"Yes, Gottlieb."
 
-The aunties stayed at the table with Grandma, discussing the matters that grandmas and aunties are particularly qualified to handle. The uncles went out to the pasture to geld horses, talking in German, their conversation incomprehensible to the children and — even translated — not much of a way to spend a Sunday afternoon.
+"What are you doing?"
 
-The girl cousins had better ideas.
+"I am taking down the plates. We are going to need to pack them, and the packing will be easier if I start with the dishes I do not use every day."
 
-They played with dolls — Grandma had a few orphaned ones upstairs, very much in need of love and clothing. She had scraps of cloth, too, from which they would have made dresses, but sewing was a sin on Sunday. And so they wrapped the scraps around each doll and tied these "dresses" in place with string, because tying was not a sin on Sunday. They considered cutting ladies from the Sears and Roebuck catalog to make paper dolls, but using scissors was a sin on Sunday, too.
+That was all she said. She kept taking down the plates. Gottlieb looked back at his son and his daughter-in-law, and then at his fourth son standing by the stove, and then at his coffee cup, and then he sighed once — the long slow sigh of a man who has just been outvoted by his own family in his own kitchen — and he said:
 
-"What about glue?" one cousin asked.
+"All right. Tell Mewing we are coming."
 
-"Glue isn't sewing."
+David let out a breath he had not realized he was holding. Hanna reached across the table and squeezed Gottlieb's hand once and let it go. Solomon, by the stove, almost smiled.
 
-"But is glue a sin?"
-
-Nobody was sure. They decided not to risk it.
-
-There was never any thought of challenging the regulations. They accepted them the way they accepted gravity — as parental directives, and thereby God-ordained. Edith, for one, was terrified by the thought of deliberately disobeying God. She had been raised Lutheran, confirmed Lutheran, and intended to remain Lutheran, and if God did not want her to use scissors on Sunday, then scissors would wait until Monday, and God would be satisfied, and Edith would be safe.
-
-When the dolls were exhausted, they moved to the real sport of the house: killing flies.
-
-This was a highly competitive event — a genuine test of stealth and skill. The most promising playing field was the entry hall off the kitchen, where the fragrance of Grandma's cooking had drawn prey from every corner of the prairie. Grandma encouraged the activity with the enthusiasm of a woman who had been fighting flies since long before any of these children were born.
-
-"I got four\!" a cousin shouted.
-
-"I got six\!"
-
-"Edith got nine," another cousin reported, with the grudging respect of an athlete acknowledging a superior performance. "With one swat."
-
-Edith held up the flyswatter. Nine flies. Or was it eleven? The historical record is ambiguous, but the glory was not.
-
-The fly-killing got noisy. The aunties, still deep in their *Gemütlichkeit* around the dining table, sent the girls outside.
-
-Outside was better. Outside, they played house — and the building material was the one resource the South Dakota prairie had in abundance: stones. Each girl gathered a supply and laid them on the ground to form the perimeter of a house, with an opening that was the door. Woe to anyone who tried to enter by stepping over the wall instead of using the door. Within each outline, they laid more stones for rooms. And when the houses were built, they straightened them up, tended their imaginary families, and went out through their designated doors to visit the cousins who lived nearby.
-
-For a break from domesticity, they walked out to the pasture to pick wool left by the sheep on the barbed-wire fences. They brought their bundles of fluff back to their stone houses, planning to sew little mattresses for their dolls. On Monday. When it wasn't a sin.
-
-When they came in from play, thirsty and grass-stained, they lined up beside the single source of drinking water: a big pail with a single ladle, shared by everyone. The shared germs from that one ladle probably gave every cousin in McPherson County immunity to every disease in South Dakota, including the ones that killed the cattle.
-
-Grandma and Grandpa's house had one remarkable feature: a big, beautiful indoor bathroom — a genuine upgrade for its day, surely the only one in the area. In reality, the plumbing was notoriously uncooperative. The bathroom did little to shorten the line of relatives waiting by a certain small outbuilding visible from the window. The outbuilding was no showcase. But nothing ever went wrong with its plumbing.
-
-There were always new dogs to meet — an astonishing variety of breeds and origins, few of them named, all of them battling fleas. Farm dogs did not last long. The greatest threat to their survival was the gravel highway past Grandma's house — what the family considered the Interstate, the Turnpike of the Prairie. In the dogs' eyes, it was Death Row.
-
-And then there was the player piano.
-
-It was Grandma's most valuable possession, at least as far as the cousins were concerned. They took turns pumping the pedals with ferocious determination — one cousin per pedal, since the smallest girls lacked the size or strength to manage both. They learned every tune and melodic run: all the World War I songs, all the hits of the twenties, everything that remarkable instrument could produce. The player piano threatened to destroy forever any desire to learn a regular piano, because they knew they could never get that good.
-
-At the end of the day, the family loaded back into the cars and drove home down the gravel road that kicked up dust so thick it shrouded each car until it was out of sight. Edith sat in the back seat and watched the farm grow smaller through the dust and felt the particular satisfaction of a child who has spent a day among people who belong to her and to whom she belongs, and who will be there again next Sunday, and the Sunday after that, and every Sunday until the world ends or the roads close, whichever comes first.
+Behind them, Louisa kept stacking the plates.
 
 ---
 
-**The Drought**
+Albert was seven years old when he counted his first wrong change.
 
-The roads did close.
+It was a morning in the spring of 1894, two years after the family had moved to Eureka. The hardware store stood on the main street between the grain elevator and the land office, and the bell above the door rang from seven in the morning until six at night, all day, every day, except Sundays and the high holidays. The store smelled like metal and oil and fresh sawdust from the lumber stacked against the back wall, and the shelves were stacked with nails and hinges and rope and chain and plowshares and axe heads and saw blades and stove parts and the hundred other small iron necessities that held a prairie life together.
 
-The drought during those years was beyond anything the German-Russian families had experienced — and these were people whose grandparents had survived the Bessarabian steppe. The fields turned to desert. The government's newly planted windbreak trees became dry sticks, bending to the ground in the storms. The prairies were strewn with the carcasses of cattle. Farmhouses and barns stood empty. People left behind homes and land in which they had invested their lives.
+Albert had grown up behind the counter the way other boys grew up behind a plow. He swept floors. He stacked shelves. He restocked the small wooden bins of nails when they got low — six-penny in this bin, eight-penny in this bin, ten-penny in this bin — and he had learned the difference between a horseshoe nail and a roofing nail before he had learned to read English. His father had let him handle the cash drawer for the first time on his seventh birthday, with the solemn understanding that handling the drawer was a privilege, not a right, and that if he made a mistake he was to tell his mother immediately.
 
-Water became the center of everything, because there was almost none.
+The customer was a man named Mueller. He was a Bessarabian German from a farm eight miles south of town, and he came in every six weeks for the same things — a pound of nails, a length of rope, a bar of yellow soap. He spoke the same colony German Albert spoke at home, and he was patient with children, and Albert liked him.
 
-The family's only supply was a meager pool at the bottom of their cistern — a few inches of water that was cloudy and smelled wrong and tasted of minerals and rust and the particular desperation of a resource that is running out. It was all they had. Eva filled one sink basin in the morning, and that basin of water was asked to do the work of a river. She washed the dishes in it. She washed her hands in it. She washed the girls' clothes in it. The water turned grey, then brown, then the color of weak coffee, and still she used it, because there was no more and there would be no more until it rained, and it was not going to rain.
+That morning Mueller bought his usual order. Albert added it up on the brown paper that David kept by the register for that purpose. The total came to forty-three cents. Mueller put a fifty-cent piece on the counter, and Albert opened the drawer and counted out the change.
 
-Albert, who had drunk from shell craters in the Argonne and breathed mustard gas in a hollow, did not complain about the water. But Eva — Eva, who had grown up on a farm that had a well, who had worked in a bank with clean running water, who had spent the twenties in a store where the faucet worked and the toilet flushed and the girls had baths every night — Eva felt the drought as a personal humiliation. She had married a veteran and a businessman. She had built a life. And now she was washing her daughters' underwear in water that had already washed the breakfast dishes, and hanging them on a line where the dust would coat them before they dried, and bringing them inside still gritty, still faintly damp, still not clean — because nothing was clean, because clean required water and water required rain and rain required God's cooperation and God, for reasons He did not explain, had decided to cooperate with someone else.
+He gave Mueller a nickel.
 
-The dust storms were like blizzards — walls of brown dirt rolling across the prairie, burying everything. One night, driving home from Grandma's house, a storm blew the car off the road and into a ditch. The wind buried them. Dust sifted inside the car, and it became hard to breathe. An uncle crawled out through a window and made it to a farmhouse, and eventually returned with a farmer and a team of horses that pulled them free.
+A nickel was five cents. The change should have been seven cents. Albert was off by two cents and he did not know it, because he had counted the total as forty-five cents instead of forty-three, because he had read his own number wrong on the brown paper.
 
-Then, on a winter day in 1934, Albert and Alice were driving home when they reached the railroad crossing.
+Mueller looked at the nickel in his palm. He glanced at the brown paper on the counter — Albert's small careful handwriting, the column of figures, the total at the bottom. He looked at Albert. Albert was watching him with the bright concentration of a seven-year-old who had just done a hard thing for the first time and was waiting to be told he had done it right.
 
-Albert saw the train. He hit the brakes. The car did not stop. The tires locked and the wheels slid on the ice as if the road had turned to glass, the car drifting forward with the slow, sickening inevitability of something that is no longer under anyone's control. Albert gripped the wheel. Alice braced her hands against the dashboard. The train filled the windshield — enormous, black, moving — and the car slid into it sideways.
+Mueller closed his hand around the nickel.
 
-The impact was a sound Alice would never forget — the shriek of steel on steel, the explosion of glass, the way the car folded around them as though it were made of tin. The world spun. Her head struck something hard and the light went white.
+"*Danke schön, Albert.*"
 
-Then silence.
+"*Bitte schön, Herr Mueller.*"
 
-Albert opened his eyes. His hands were shaking. He turned to Alice — thirteen years old, slumped in the passenger seat, covered in glass, a gash on her forehead bleeding freely into her eyes. She blinked at him. She was conscious. She was breathing.
+Mueller picked up his nails and his rope and his soap and walked out of the store, and the bell above the door rang once on his way out, and Albert turned to look at his father with the small triumphant look of a boy who had just executed his first solo transaction, and David — who had been at the other end of the counter watching the whole thing without appearing to watch it — gave his son a small nod and went back to what he was doing.
 
-"Alice."
+David did not say anything to Albert about the missing two cents.
 
-"I'm okay," she said, though her ears were ringing and the blood was warm on her face and the word *okay* did not mean anything it usually meant.
+He thought about it for a long time afterward — whether to correct it, whether to make Albert recount the slip, whether to ride out to Mueller's farm that weekend and quietly pay him back. But Mueller had seen the mistake. Mueller had seen it and had closed his hand around the nickel and had said *thank you* in the formal old-country way and had walked out, and David understood that Mueller had decided, in the half-second between looking at the nickel and closing his hand on it, that two cents was a small price to pay for the dignity of a seven-year-old boy who was learning his father's trade. Mueller had given Albert the two cents the way a man gives any small kindness to another man's child. To say anything about it now would be to undo it.
 
-The car was destroyed — crumpled against the train's undercarriage, every window shattered, steam rising from the engine into the winter air. The train moved on. Albert and Alice climbed out through what had been the driver's side door. They stood on the frozen road beside the wreckage, their hearts hammering with the wild, electric clarity that comes after the body decides it is not dead, and they looked at what was left of the car, and they looked at each other, and there was nothing to do.
+So David said nothing.
 
-They walked home.
+Years later, when Albert was grown — when he was twenty and clerking for his father at the same counter, then twenty-two and about to ship out to France in a uniform — he would sometimes remember the morning of the wrong nickel. He never knew, until much later, that he had gotten the change wrong. By then Mueller had been dead for ten years and David had never mentioned it once, and the only reason Albert ever found out was that he was going through his father's old account books in the attic of the store and saw, in David's careful hand on a slip from April of 1894, the figures *43¢ paid 50¢ change due 7¢* with a small notation beside it: *boy gave 5. Mueller said nothing. Let it stand.*
 
-It was miles. The road was icy. Albert's hands would not stop shaking. The blood on Alice's forehead dried in the cold and cracked when she moved her eyebrows.
+He understood then. He sat in the attic with the ledger in his lap for a long time, and he understood.
 
-When they came through the door, Eva saw their faces and went white.
+But that was thirty years away. On the morning of the wrong nickel, Albert was seven years old, and the bell above the door was ringing for the next customer, and his father was reaching for a length of chain on the back shelf, and his mother was at the small desk by the window writing in the ledger, and the spring sun was coming through the front window and falling across the wooden floor in a long bright rectangle that smelled, faintly, of sawdust and oil.
 
-Albert looked at her. He looked at the dust on the windowsill. He looked at his daughter, who was bleeding from the head and standing in the kitchen of an apartment above a store in a town that had no water and no rain and no prospects and had just tried to kill them with a train.
-
-"We're leaving," he said.
+Albert closed the cash drawer and went to sweep up the nails he had spilled on the floor that morning before the store opened.
 
 ---
 
-**Cedar Falls, Iowa — 1935**
+Wilhelmina was thirty-three years old in the autumn of 1898, and she still lived with her parents in the larger house Gottlieb had bought when the family first moved to Eureka.
 
-"It's a city that has running water," Albert told the family, and the way he said it — with the quiet wonder of a man who had spent five years washing dishes in the same water he washed his socks — made running water sound like a miracle, which, to the Isaaks, it was.
+She was the quiet daughter. She had been the quiet daughter since the day she was born in Bessarabia, thirty years before — the second-to-youngest of Louisa's surviving girls, the one who looked most like her mother, the one who had carried the wooden doll across the Atlantic and had not let go of it until she was twelve. She had never married. There had been opportunities — a Schulz cousin had hovered around the door for a year when she was twenty, and a young Hannoveraner farmer had paid serious court when she was twenty-five — but Wilhelmina had said no to both of them in the dry quiet voice she had inherited from Louisa, and her mother had not pressed her, and her father had not pressed her, and after a while the village had stopped expecting her to marry and had begun to think of her as the daughter who would stay.
 
-Edith was eight. She had never lived anywhere but the apartment above the store. She had never lived in a house with a yard and a door that opened onto grass instead of a staircase.
+She did stay. She was indispensable. Louisa was sixty now, and her hands hurt in the cold, and her back was beginning to give her trouble, and Wilhelmina did the things a daughter does for an aging mother without anyone having to ask. She kneaded the bread in the mornings. She mended the clothes. She walked to the butcher and to the post office. She read aloud from the German newspaper in the evenings while Louisa sat in the chair by the stove with her hands folded, because Louisa had begun to find reading hard in the lamplight and she would not admit it.
 
-Albert wanted a new kind of store. Not the 5&10¢, not the prairie general store with its penny candy and muddy boots. He had an artistic streak, a restlessness, a need to build things nobody else had thought of. He hired a professional architect and designed a women's clothing store that would have been at home on Fifth Avenue. To name it, he held a contest — inviting customers and neighbors to submit ideas, generating buzz for a store that did not yet exist. Someone suggested **Apparel Art**. Albert heard it and knew it was right. They opened it at 217 Main Street in Cedar Falls.
+On a Wednesday afternoon in October of 1898, Wilhelmina was in the kitchen with her mother, kneading bread.
 
-Chrome and glass fixtures. Rose-tinted mirrors that made every woman look better than she felt. Lighted shadow boxes. Imported woods. Rich fabrics. A design so unconventional it was featured in a national magazine. It was Albert Friedrich Isaak's masterpiece — the expression of a man who had grown up behind a counter in a prairie town and who had seen enough ugliness in the Argonne to spend the rest of his life building beautiful things.
+Louisa was in the chair by the stove. The afternoon light was already going gold in the way October light goes, slanting through the kitchen window across the table where Wilhelmina was working. The dough was on the third folding. The kitchen smelled like flour and yeast and the small wood fire in the stove.
 
-Eva worked beside him, as she always had. The customers were different now — they did not wear muddy boots, and nobody spoke German. For the first time, the Isaaks lived in a real house, a mile from the store. The floor did not shake when the front door opened. The water came from a tap.
+Louisa was watching her daughter's hands.
 
-Albert's inventive mind did not stop at architecture. He had always been a man who noticed problems and could not rest until he had solved them — the same restlessness that had made him bring his violin to France, the same impulse that had driven him to design a store that looked like it belonged on Fifth Avenue instead of Main Street. In 1939, he filed a patent for a clothes hanger he called the **Time Saver** — a hanger shaped so that garments could be slid on and off without stretching the neckline. The patent was approved on February 18, 1941, and he stamped each hanger *Albert F. Isaak, Cedar Falls, Iowa* and marketed them to retailers in Minneapolis and across the Midwest. The idea was so good that he filed a second patent for an improved version in 1944, which was approved in early 1945\. But Albert, as his daughter would say later, "wasn't a pusher" — he was an inventor, not a salesman, a man who could see a problem and build a solution but who lacked the particular shamelessness required to knock on doors and demand that strangers buy it. The Time Saver remained what it was: a small, perfect thing, designed by a man who could not leave a problem unsolved. He was always inventing things. The world was full of problems that had elegant solutions, and Albert could see them all, even if he could not always sell them.
+"Mina."
+
+"Yes, *Mutter*."
+
+"You should have married the Hannoveraner."
+
+Wilhelmina did not stop kneading. She had heard this from her mother perhaps four times in the last eight years, always at unexpected moments, always in the same dry resigned voice.
+
+"Mother, the Hannoveraner is now married to a Schmidt girl from Tarutino, and they have three children."
+
+"I know. I am only saying you should have."
+
+"And I am only saying that I did not, and that he is happily married, and that I am here making your bread."
+
+Louisa was quiet for a moment.
+
+"You do not have to stay, Mina. You know that."
+
+"I know."
+
+"Your father and I are not so old that we cannot manage without you. If you wanted to go to Bismarck, or to the Sailers in Krem, or to start your own house here in Eureka — if there were a man you wanted, even now, even at thirty-three —"
+
+"Mother."
+
+"Yes."
+
+Wilhelmina folded the dough one more time and pressed it down with the heels of her hands and looked up at her mother. Her face was very calm.
+
+"I am where I want to be. I have always been where I want to be. I did not marry the Hannoveraner because I did not love him, and I did not marry the Schulz cousin because I could not bear the way he chewed, and I have not married anyone since because I have never met a man whose company I preferred to yours and Father's. That is the whole of it. I am not waiting for something. I am not regretting anything. I am here because here is where I want to be, and you are going to have to make peace with that, because I am not changing my mind."
+
+Louisa looked at her daughter for a long moment.
+
+"You are like your father."
+
+"I am like you."
+
+"You are both."
+
+"Yes, *Mutter*. I am both."
+
+Wilhelmina turned the dough into the bread pan and covered it with a clean cloth and set it on the back of the stove to rise. She wiped her hands on her apron. Then she walked over to the chair by the stove and bent down and kissed the top of her mother's head — a quick small kiss, the kind a daughter gives a mother she sees every day — and she went out into the yard to bring in the wash before the light failed.
+
+It was the last conversation Louisa would remember her having with her daughter for any specific reason. There would be others — many others, over the next ten weeks — but this was the one she would remember, because of the line about the Schulz cousin and the way he chewed, which had made Louisa laugh out loud after Wilhelmina had gone outside, the kind of small private laugh you laugh at a child who has just shown you, without meaning to, exactly who they are.
 
 ---
 
-**The War — Again**
+The hardware store began to fail in the autumn of 1898.
 
-And then, because the world had not yet finished with the Isaak family, another war came.
+It had been failing for longer than that, really — David and Hanna had seen it coming for two years, in the way the ledger at Hanna's small desk by the window had begun to fill with names of men who were never going to pay. Each time a customer purchased something, it would be said: *Of course, you will have to write this up on a charge.* And David, who had grown up watching his father be told the same thing in Sophiental, who knew what it was to need a thing and not have the money for it, would say yes, of course, write it up, pay me when you can.
 
-On December 7, 1941, Japan bombed Pearl Harbor, and the United States entered the Second World War. For Albert — who had carried a machine gun through the Argonne, who had breathed gas in a hollow, who had let a seventeen-year-old German spy go free because he could not kill a boy who spoke his grandfather's language — the declaration was a door opening onto a room he had spent twenty years trying to leave.
+The settlers were poor. They were German-Russians and Norwegians and Americans, all of them homesteading on the same empty prairie, all of them one bad harvest from ruin. They paid when they could. When they could not, they did not pay. And after three or four years, the news would arrive that this or that customer had moved away — to Montana, to Saskatchewan, to wherever the next promise of rain was — and the notes in Hanna's ledger became wallpaper.
 
-He was fifty-four. He was too old to fight. But the war took the young men the way wars always take them — eighteen-year-olds were required to register, and the seventeen-year-olds, not wanting to be left behind, volunteered. The seniors vanished from Cedar Falls High School first, then the juniors. The hallways thinned. The girls who remained — Edith among them — watched the gaps appear in the rows of desks and said nothing, because what was there to say? The boys were gone. The women took their places — in the factories, on the machines, behind the counters, doing the work that men had always claimed required a man, and doing it fine.
+By December of 1898, the wallpaper was thick.
 
-Five months before Pearl Harbor, on April 6, 1941, Edith had been confirmed at St. John Lutheran Church in Cedar Falls. She was thirteen — standing before the congregation in a white dress, reciting the catechism that her great-great-grandfather Gottlieb had memorized in Kulm, answering the same questions in English that he had answered in German, affirming the same faith that had carried the Isaaks from Soest to Brandenburg to Bessarabia to Dakota to Iowa. The language had changed. The faith had not.
+Gottlieb came home from the store on a Tuesday evening in the second week of December and sat down at the kitchen table without taking off his coat. Louisa was at the stove. Wilhelmina was at the table mending one of his shirts. Hanna had walked over from her own house to bring a pot of soup, because Hanna had been bringing soup to her in-laws on Tuesdays for six years now, and she was sitting at the other end of the table waiting for him to say what was clearly going to be said.
 
-By fifteen, she was the church organist.
+"It is over."
 
-The organ at St. John was a full pipe organ — multiple keyboards, foot pedals, a rank of pipes that reached toward the ceiling like the interior of a cathedral compressed into a Lutheran church in Iowa. Playing it required hands and feet and the ability to read three staves of music simultaneously while managing the stops and the swell pedals and the particular mechanical temperament of an instrument that had been built to fill a room with sound and did not care whether its operator was fifteen or fifty. Edith found it terrifying and magnificent. She practiced every afternoon, alone in the empty sanctuary, the pipes responding to her touch with a sound so large it vibrated in her sternum, and she thought: *This is what it feels like to hold thunder in your hands.*
+Louisa did not turn around from the stove. Wilhelmina did not look up from the shirt. Hanna folded her hands on the table and waited.
 
-She was also a clerk at Apparel Art. She designed the window displays and assembled the outfits on the mannequins. On the side, she wrote music. She was, in short, the kind of teenager who makes other teenagers feel tired just by existing — but she did not think of it that way. She thought of it as normal, because in the Isaak family, everyone worked. Everyone had always worked. Gottlieb had broken sod at fifty-two. Louisa had crossed an ocean with nine children. Hanna had kept the books until the numbers blurred. Work was not something the Isaaks did because they had to. It was something the Isaaks were.
+"Mewing wants out. Sailer is leaving for Mannhaven — he has the chance to start his own store there, and I told him to take it because he has earned it. Solomon and Raab are going to start their own implement business; they have been planning it for six months. The four of us cannot keep the partnership together because the partnership has nothing left to keep together. The notes are uncollectable. The cash is gone. We are dissolving the company."
 
-Albert and Eva worked day and night. Part of their motivation was the store. Part of it was the war economy — defense contracts, rationing, the strange prosperity that comes when a country turns its factories to munitions. But surely the deepest part was this: they wanted their daughters to go to college. Albert had never gone past third grade — not for lack of intelligence but because when he was a boy in Eureka, there were no more grades to go to. The rest of his education was learned by living and attempting. He wanted something different for Edith. He wanted her to have the thing no Isaak had ever had.
+Hanna looked at him very steadily.
 
-Edith knew what she wanted to study. Writing — the love of her life, the thing she had been doing since Tante Frieda taught her to hold a pencil, the thing that felt as natural to her as music felt to her father, as farming had felt to Gottlieb, as walking felt to everyone who had ever put one foot in front of the other and refused to stop.
+"What are the actual numbers, *Vater*?"
+
+Gottlieb told her. The numbers were bad. They were worse than David had told her last week, which meant that David had been protecting her, which meant that David had known and had not wanted her to know until Gottlieb himself said it.
+
+Hanna listened to all of it without changing her expression. Then she said:
+
+"What is your share when it dissolves?"
+
+"My share is nothing. Mewing and Solomon will each get back a few notes receivable and a small portion of their original investment. I am the senior partner and I am the one who put in the most capital and I am the one who is going to walk away with the loss. That is how it falls. I am not arguing about it."
+
+"You should argue about it."
+
+"I am not going to."
+
+"*Vater* —"
+
+"Hanna." He looked at her. His face was very tired. "I have spent my life arguing with men about contracts and signatures and what is owed to whom. I argued in a stone courtroom in Akkerman in 1874 and the judge told me I was arguing so I would know how to behave myself, and I have never forgotten it, and I am not going to spend my last years in another courtroom in another country fighting for a few hundred dollars I do not need. David and Hanna will keep the store. David will run it alone, with you, and you will make it work because you are the one who can. The store is yours now. I am going home and I am going to sit on the porch and think about what kind of small house I am going to buy."
+
+Hanna was quiet for a long moment.
+
+"All right, *Vater*."
+
+"All right."
+
+Louisa, at the stove, finally turned around. She was holding a wooden spoon in one hand and a pot lid in the other and her face was perfectly calm.
+
+"Gottlieb."
+
+"Yes, Louisa."
+
+"Have you eaten today?"
+
+"No."
+
+"Then sit there and stop talking and let me feed you. We will talk about the small house tomorrow."
+
+Gottlieb sat there. He stopped talking. Louisa fed him. Wilhelmina kept mending the shirt without looking up, but the corner of her mouth had moved into something that was almost a smile, because she had been watching her mother manage her father this way for thirty-three years and it was the most reliable thing in her world.
+
+That night, after Hanna had walked home in the dark and Wilhelmina had gone up to her room and the house was quiet, Gottlieb sat on the edge of the bed in his undershirt and looked at his hands in the lamplight. They were stiff and rough and the knuckles were beginning to swell in the way old men's knuckles swelled. He flexed them. They hurt.
+
+Louisa, already in bed, watched him.
+
+"You will be all right, Gottlieb."
+
+"I know."
+
+"We have been worse off."
+
+"I know that too."
+
+"We will buy the small house and rent the larger one. The rent will be enough. We will have a quiet year."
+
+"Yes."
+
+"And then another quiet year after that."
+
+He turned and looked at her.
+
+"Louisa."
+
+"Yes."
+
+"Thank you for taking down the plates in 1892."
+
+She smiled in the lamplight — the small dry smile she had been giving him for forty-four years.
+
+"You are welcome, Gottlieb. Go to sleep."
+
+He went to sleep.
 
 ---
 
-**May 1945**
+Wilhelmina took ill in the first week of January, 1899.
 
-In the spring of 1945, the war ended in Europe.
+It came on quickly. She had felt poorly on a Wednesday and had stayed in bed on a Thursday, and by Friday she was running a high fever and her chest had begun to fill, and Louisa sent for the doctor on Saturday morning, and the doctor came and looked at her and gave her something for the fever and told Louisa to keep her warm and to wait. Sometimes they came through it, the doctor said. Sometimes they did not. There was no way to know.
 
-On May 8 — V-E Day — the same continent that had swallowed Albert's youth and scarred his lungs and sent him home with a clarinet and a silence that lasted the rest of his life finally stopped killing people. Church bells rang in Cedar Falls. People wept in the streets. Albert stood in the doorway of Apparel Art at 217 Main Street and listened to the bells and said nothing, because the end of a war is not the same thing to a man who fought one as it is to a man who read about it in the newspaper.
+It was pneumonia. The doctor did not call it that, because in 1899 in a small town in South Dakota it did not always have a name, but that is what it was. Wilhelmina lay in her bed in the upstairs room of the larger house — the house Gottlieb had not yet sold, the house they had already begun to talk about renting out — and her fever climbed for three days, and on the morning of the fourth day it broke and she was clear-headed for an hour, and Louisa sat beside her and held her hand, and Wilhelmina said:
 
-That same month, Edith graduated from Cedar Falls High School. She was seventeen.
+"Mother."
 
-The bells were ringing. The war — her father's war, the war that had shaped him and scarred him and silenced him — was finally over, at least in Europe. And the girl who had grown up above a 5&10¢ store on the South Dakota prairie, who had killed eleven flies with a single swat and played thunder on a pipe organ and lost Tante Frieda and survived a train — that girl was going to college.
+"Yes, Mina."
 
-She was going to study writing.
+"Tell Father not to be sad about the store. It does not matter."
+
+"I will tell him."
+
+"And tell Magdalena I am sorry I was not at her last baby's baptism."
+
+"I will tell her."
+
+"And tell —"
+
+She did not finish the sentence. The clarity passed. The fever climbed again.
+
+She died at dawn on the ninth of January, 1899. Louisa was in the chair beside the bed. Gottlieb was in the doorway. David had come from his own house an hour earlier, having walked the four blocks through the snow because the wagon would not have been any faster, and he was standing at the foot of the bed when his sister stopped breathing.
+
+Nobody said anything for a long time.
+
+Louisa did not move from the chair. She was still holding Wilhelmina's hand. Her face was perfectly still and her eyes were dry and she did not look up when Gottlieb crossed the room and put his hand on her shoulder.
+
+After a while she said: "Bring me her hairbrush."
+
+Gottlieb went to the small dressing table by the window and brought back the hairbrush. Louisa took it without looking at him, and she began, very gently, to brush her daughter's hair — smoothing it back from her forehead the way she had smoothed it back when Mina was small and ill with one of the smaller fevers that children get, the kind of fevers they recover from. She brushed it for a long time. David and Gottlieb stood in the room and did not interrupt her.
+
+When she was done, she put the hairbrush down on the bedside table and folded her hands in her lap and looked at her daughter's face.
+
+"She was the quiet one," Louisa said. To no one in particular. "I should have told her more often that I noticed."
+
+Gottlieb sat down on the edge of the bed beside her and put his arm around her shoulders, and Louisa, who had not cried in the room, leaned her head against her husband's chest and stayed there.
+
+David went downstairs.
+
+---
+
+Later that morning, after the doctor had come back to fill out the certificate, after the women from the church had begun to arrive with food, after Hanna had walked over from her own house with Albert and Josephine and Edward in tow and had taken charge of the kitchen the way Hanna took charge of any room she walked into in a crisis, Gottlieb went into the small parlor where the family Bible — the old one, the one from Sophiental, the one with the Russian-debt entry on the flyleaf and the mother's-death entry below it — was sitting on the side table where it had sat for six years.
+
+He took it down. He carried it to the small writing desk by the window. He sat down. He opened it to the front flyleaf.
+
+The two entries were there in his careful schoolmaster's hand:
+
+*Den 14. September 1878. Die russische Schuld bezahlt.*
+
+*Den 12. Juni 1882. Meine Mutter ist gestorben in Kulm. Anna Elisabeth Louise Schimke Isaak. Sie war 83 Jahre alt.*
+
+He dipped the pen.
+
+He held it over the page. His hand was steady — steadier than it had been in years, in fact, in the strange way that grief sometimes settles a man's hands when nothing else can. The point of the pen hovered an inch above the paper. He waited for the words to come.
+
+The words did not come.
+
+He sat there for a very long time. The morning light moved across the desk. Downstairs, Hanna's voice was giving instructions about the soup. Upstairs, Louisa was still sitting in the chair beside her daughter's body. The pen hovered over the page.
+
+He could not write it.
+
+He had written *the Russian debt is paid*. He had written *my mother died in Kulm*. Those had been hard things to write, both of them, but the words had come because the words had been the right size for the things, and a man with a pen could put those words on a page if he had the will to do it.
+
+There were no words the right size for this.
+
+He set the pen down on the desk. He looked at the blank space below the second entry — the empty white paper where the third entry should have been — and he understood that there was not going to be a third entry. Not today. Not next week. Not ever. Some things could be written down and some things could not, and the difference was not a matter of will or of love or of memory but of whether the language was equal to the thing, and the language was not equal to this, and he was not going to pretend that it was.
+
+He closed the Bible.
+
+He carried it back to the side table and set it down where it had been. Then he went upstairs to his wife.

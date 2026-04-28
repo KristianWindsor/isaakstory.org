@@ -1,297 +1,365 @@
 ## Chapter Nine
 
-# The Corporal
+# In This Place We Do Not Want to Die
+
+Hebron and Mercer County, Dakota Territory — 1886 to 1889
 
 ---
 
-*On April 6, 1917, the United States declared war on Germany. Within six weeks, Congress passed the Selective Service Act, requiring every man between twenty-one and thirty-one to register for the draft. In Eureka, South Dakota — a town where seventy percent of the population spoke German, where the church services were in German, where the store signs and the newspapers and the kitchen conversations and the prayers before supper were all in German — the declaration landed like an artillery shell in a wheat field.*
+The train pulled into Hebron at four o'clock on an afternoon in May, and Gottlieb and Louisa stepped down onto the wooden platform together and stopped.
 
-*Overnight, the language became the accusation. Sauerkraut became "liberty cabbage." Libraries pulled German books from their shelves. The state Council of Defense banned German in public gatherings, including church. In Collinsville, Illinois, a man was lynched for having a German accent.*
+The rest of the family was still in the car. David had stayed behind to start handing the trunks down — Hanna with two-year-old Josephine on her hip and Albert, eleven months old, asleep against her shoulder; Daniel and Solomon arguing about which trunk was whose; Magdalena helping Emilie and Antonie with the smaller bundles. The conductor was waiting for the trunks to come off so he could close the car. Nobody had noticed yet that Gottlieb and Louisa had walked to the end of the platform and were not coming back.
 
-*Albert Friedrich Isaak was twenty-nine years old. He ran the family store. He played clarinet in the Eureka band. He spoke English without an accent and German without apology. And on June 5, 1917, he walked to the McPherson County courthouse to put his name on a piece of paper that might send him to France to kill men who spoke the same language his grandfather had carried across an ocean.*
+They were looking at the country.
 
----
+It was not flat.
 
-**The Store**
+The land around the Hebron station rolled away to the west in long slow swells that broke into harder shapes further out — buttes and coulees and eroded badlands the color of old brick, with the spring grass coming up in patches between the bare places. There were no trees. The wind was the same wind. But the *land* — the land was wrong. The land buckled and rose and fell, and somewhere on the horizon a low ridge ran north to south like the spine of an animal half-buried in the ground, and beyond that ridge there was probably another ridge, and beyond that another, and none of it looked like any country either of them had ever lived in.
 
-The sign above the door read **Isaaks 5&10¢ Store**. It had been David's hardware business once — plowshares and axe heads, the iron necessities of the frontier — but Eureka was not a frontier anymore, and the store had changed with it. Thread, buttons, penny candy, school supplies, kitchen utensils: the small commerce of a settled town.
+Louisa put a hand on the wooden rail of the platform.
 
-Albert and his brother Ed ran it now. Albert was the older brother by two years — five feet eleven, brown-haired, blue-eyed, reserved in the way of a man who does his thinking before he opens his mouth. Ed was shorter, quicker to laugh, gifted with the easy warmth that makes customers feel remembered. Albert handled the stock and the ordering. Ed handled the people. Between them, the store ran.
+"Gottlieb."
 
-Their father David sat behind the register most mornings, on a wooden stool, watching his sons work. He nodded when they did something right and said nothing when they did something wrong. He was fifty-seven and looked older. His heart had been failing since a severe illness years earlier — a slow, interior collapse that showed itself in shortness of breath and grey mornings and the way he sometimes gripped the counter with both hands, as though the floor might tilt. The customers noticed. Nobody mentioned it.
+"I see it."
 
-Their mother Hanna kept the books — precise, unforgiving, balanced to the penny. She had buried two children: Richard, who lived fifty-eight days in the winter of 1892, and Anna, who died at three in the summer of 1900\. Albert had been thirteen when Anna died. He had carried her on his shoulders through the store, letting her grab penny candy from the jars on the top shelf, and then one July morning she was gone and the jars were still there and everything was the same except the weight on his shoulders, which he would never feel again.
+"This is not Parkston."
 
-Their older sister Josie managed the household — the cooking, the cleaning, the daily machinery of a family that was held together by a woman who did not ask for thanks and did not receive it.
+"No."
 
-On Sunday evenings, after the store closed and the dishes were cleared, Albert played clarinet. He played in the Eureka band with his cousins — Hank, Walter, Edwin, Otto — Solomon's boys, the next generation of Isaaks, a loose assembly of German-Russian musicians who performed at church suppers and harvest dances and the occasional wedding. Otto was seventeen, the youngest, and he played with the unself-conscious joy of a boy who has not yet learned that the world has teeth. Albert was the steady one, the man who held the tempo and kept the others from rushing. Music was the only thing he did that was not practical, and perhaps that was why he loved it — because it existed purely for the sake of something beautiful, and beauty was a thing the Isaaks had always carried with them but rarely spoke about.
+"This is not Kulm. This is not Sophiental. This is not anything."
 
----
+"No."
 
-**June 5, 1917**
+She did not say anything for a long moment. The wind moved her shawl. Behind them, on the other end of the platform, Daniel was telling Solomon that if he dropped one more bundle he was going to throw him onto the tracks.
 
-The night before Registration Day, Albert and Ed sat in their mother's kitchen.
+"Gottlieb," Louisa said.
 
-David was upstairs. He was having a bad month — the breathlessness worse, the pallor deepening. Josie brought him broth and read to him from the family Bible.
+"Yes."
 
-Hanna was at the stove, not cooking but gripping the cast-iron rim, the way she always did when something needed to be said.
+"In this place we do not want to die."
 
-"What do you think they'll ask?" Ed said. Nobody knew exactly. The questions had not been published.
+He looked at her. She was looking straight out across the broken country. Her face had the particular expression he had only seen on it twice before in thirty-two years of marriage — once at the kitchen table in Sophiental when she had said *yes* without turning around, and once in the steerage bunk on the *Mosel* when she had reached down for his hand in the dark.
 
-"They'll ask about dependents," Albert said. "And whether we have a reason not to go."
+"No," he said. "We do not."
 
-They looked at their mother. Hanna set down the spoon.
+"Then we will not."
 
-"Your father is sick. He cannot work. I have no income that does not come through you."
+"No."
 
-In the morning, they walked to the courthouse together. Josie watched them go from the porch.
+"We will stay long enough to know we cannot stay, and then we will go somewhere else."
 
-The board was set up inside — a long table, a registrar, a line of men stretching out the door. Every eligible man in McPherson County, standing in work clothes, holding his hat, waiting to sit across from a stranger who would ask him twelve questions and write the answers on a card.
+"All right."
 
-Ed sat down first. The registrar asked the questions aloud, one by one, and wrote the answers in his own hand. Name. Address. Date of birth. Occupation. Then: dependents?
+"Help me with the trunks."
 
-"Mother and sickly father," Ed said.
-
-Grounds for exemption? Ed explained that he was the buyer and general manager of a department store, that it was nearly impossible for him to get away. Also, his eyes — he was having trouble with his eyes.
-
-The registrar wrote it down. Ed signed the card and stood.
-
-Albert sat down. The same questions.
-
-Dependents? "Mother and sickly father."
-
-Exemption? He explained that he was necessary to manage the farm and store business. He would like to explain it to the board in person, if they'd allow it.
-
-The registrar looked at the two brothers — same surname, same address, same sickly father — and wrote his assessment in the margin of both cards:
-
-*Greater part of excuses questionable.*
-
-Six weeks later, on July 20, the Secretary of War drew numbers from a glass bowl in Washington. Albert's number came up. Ed's did not.
-
-"I'll keep the store," Ed said.
-
-"You'll keep Mother," Albert said. "And Father."
+He helped her with the trunks.
 
 ---
 
-**Camp Funston**
+They built the sod house on a quarter section three miles west of the station, in country that turned out to be even harder than it looked from the platform. The soil was thin. The grass was sparse. The wind came across the buttes from a direction that did not match any wind they knew, and it had a different sound — higher, drier, with a faint whistle in it where the steppe wind had been a low continuous howl.
 
-No Isaak, in any generation, had ever served in a military. The Isaaks were peaceful people — Lutherans who believed killing was wrong, and who had arranged their entire history around that conviction. Every generation, when a government demanded they bear arms, had chosen to leave instead. Brandenburg. Russia. Across the Atlantic.
+Gottlieb and David and Daniel and Solomon broke fifty acres anyway, because that was what they knew how to do, and they planted potatoes — an enormous amount of potatoes, because Johann's last letter from Parkston had said that Hebron was potato country and that the soil up there was good for tubers if it was good for nothing else. They planted swine, too. They had brought a small herd from Mercer — eleven pigs, kept alive on the train through the careful labor of Solomon, who had become the family's authority on livestock by virtue of being too restless to stay in the house — and they let the pigs root through the broken sod for whatever roots and grubs the prairie would give up.
 
-But Albert was an American. This was the last country.
+Then they waited for the rain.
 
-He was sent to Camp Funston, at Fort Riley, Kansas, where the 340th Machine Gun Battalion was being organized as part of the 89th Division. The 340th drew its men from South Dakota — which meant that many of Albert's fellow soldiers were German-Russians like himself, boys from Eureka and Hosmer and Leola who spoke German at home and carried surnames the drill instructors mangled. This was a comfort, but not a shield. The anti-German poison that had sickened civilian life was worse in the barracks — concentrated, inescapable, delivered by men from other outfits who had nothing to do after drill except find someone to hate. The South Dakota boys were called Kaiser. Called Hun. A man from Kansas urinated on a private's bunk because the private's name was Schreiber. A drill sergeant asked Albert, in front of the company, whether he planned to shoot the wrong way when they got to France.
+The rain did not come.
 
-Albert said nothing. He ran the drills. He learned the Hotchkiss M1914 — a French-made heavy machine gun, fifty-two pounds without the tripod, strip-fed, air-cooled, eight rounds per second. He learned to strip it and reassemble it in the dark, by feel alone. He was promoted to corporal — squad leader for a machine gun crew — because the Army needed men who could stay calm when the world was exploding, and Albert, at twenty-nine, had a decade of life on most of the boys in his battalion, and a steadiness that the younger men recognized and leaned on even when they could not have explained why.
+It did not come in May. It did not come in June. By the first week of July the potato shoots that had pushed through the dry ground in May had withered back into the soil, and the grass that should have been a foot high was eight inches and brown at the tips, and the swine were thinner than they had been when they got off the train.
 
-He brought his clarinet. He played it in the barracks at night, after lights-out, quietly, for the men who could not sleep. German hymns and American folk songs and things he made up as he went. The music traveled through the thin wooden walls and reached the men in the next building, who said nothing about it and were grateful.
+David stood at the edge of the potato field one morning in July with Hanna beside him, and they looked at the failed crop together for a long time without speaking.
 
----
+"How bad is it?" Hanna asked.
 
-**France**
+"Bad."
 
-On June 4, 1918, Corporal Albert Isaak boarded the SS *Khyber* in New York Harbor. He stood on the deck and saw the Statue of Liberty on her island. His grandfather Gottlieb had not seen her — she hadn't been built when the family arrived in 1878\. Albert saw her now, growing smaller as the ship headed for the Atlantic.
+"Bad enough that we leave?"
 
-His family had come *from* Europe, fleeing war. Now he was going back to fight one. Against men who spoke the language he had grown up speaking. Against boys who looked like his cousin Otto.
+"Not yet. Father wants to wait through August. He thinks there is still a chance for a late rain."
 
-He brought the clarinet.
+"Is there?"
 
-The 89th Division landed in France and was sent to the Lucey Sector in Lorraine for training under French supervision. The French officers who received them were polite and exhausted — hollow-eyed men in faded uniforms who had been fighting this war for four years, who had survived Verdun and the Somme and the mutinies of 1917\. They regarded the Americans with a courtesy that was also a kind of pity. The Americans were strong and well-fed and eager. They had never smelled a trench in summer. They had never heard the sound a man makes when a shell fragment enters his body. They had not yet learned the thing that four years on the Western Front had taught every soldier who survived it: that bravery is not the thing you need. The thing you need is endurance, and endurance is not something you can train. It is something you discover in yourself at three in the morning in a shell crater full of rainwater when the man beside you has stopped breathing and the barrage will not stop.
+David was quiet. He was twenty-six. He had spent every summer of his life watching wheat and potatoes and looking at the sky, and he had learned the difference between a dry year that turned and a dry year that did not.
 
-Then came the fighting.
+"No," he said.
 
----
+Hanna shifted Albert to her other hip. The baby was awake now and squinting at the sun. Josephine, two and a half, was crouched down in the dirt at her mother's feet picking up pebbles and putting them in a small pile.
 
-**Saint-Mihiel — September 12, 1918**
+"David."
 
-A German salient that had bulged into Allied lines for four years. Albert's crew moved forward before dawn — the Hotchkiss on one man's back, the tripod on another's, ammunition strips in canvas bags. Albert positioned the gun behind a low ridge, mapped the field of fire, and waited.
+"Yes."
 
-The barrage started at one in the morning. Three thousand guns opened fire along a forty-mile front. The ground dissolved. The sky turned white — not the white of daylight but the white of sustained explosion, a strobing, percussive whiteness that seared the afterimage into your eyes so that when you closed them the landscape was still there, inverted, pulsing. The sound was beyond sound. It was a physical pressure — a wall of concussion that compressed the air in your lungs and turned your heartbeat into something you could feel in your teeth. The man next to Albert pressed his face into the mud and screamed, and the scream was inaudible, and Albert put his hand on the man's shoulder and held it there, because that was all the barrage allowed.
+"I am going to say something and I want you to listen to all of it before you answer."
 
-Then the infantry went forward, and Albert gave the order, and the Hotchkiss hammered to life.
+"All right."
 
-The salient fell in two days. Thirteen thousand German prisoners.
+"I love you. I married you knowing what I was marrying. I knew your family moves. I knew it then and I know it now and I am not asking you to be a different man than the man I chose. But I am going to tell you something that I have been thinking about since we got off the train in May, and I am going to tell you once, and then I am not going to tell you again, because I am not the kind of woman who repeats herself."
 
-Sometime after Saint-Mihiel, Albert was on guard duty at the American camp. It was night. He had orders to shoot on sight.
+He waited.
 
-He heard movement in the dark — not the random noise of the forest but the deliberate, careful movement of a man trying not to be heard. Albert raised his rifle. He waited. The shape materialized out of the shadows: a boy, maybe seventeen, in a German uniform, moving through the American perimeter with the tense, crouching gait of someone who was not supposed to be there.
+"I cannot raise these children in another sod house in another empty country sixty miles from a town. I did it once. I am doing it now. I am not going to do it a third time. The next place we go has to be a town. A real town, with a school and a church and a store I can walk to in less than an hour. I do not care if the land is as good as Kulm or as bad as Hebron — I am not raising Josephine and Albert as prairie children. They will speak English. They will read books. They will not grow up knowing only the inside of a sod house and the smell of buffalo chips burning. Do you understand me?"
 
-A spy. Or a saboteur — someone sent to scout the camp's layout, or worse, to set charges. Albert's orders were clear. Shoot on sight.
+"Yes."
 
-But Albert looked at this boy. Seventeen. The same age as his cousin Otto, his bandmate, the kid who played with unself-conscious joy. This was someone's Otto. Someone's son. Someone who, before governments drew their lines and issued their orders, had been not an enemy but a brother — a German, like Albert's grandfather, like Albert's father, like every Isaak since Soest.
+"Do you agree?"
 
-He could not do it.
+He looked at her. She was twenty-five years old, and she had her chin set the way her chin set when she had decided a thing, and her grey eyes were perfectly dry and perfectly clear.
 
-He spoke to the boy in German — sharply, the way you speak to a child you've caught doing something dangerous. *Raus. Verschwinde. Sofort.* Get out. Disappear. Now. And never come back.
+"Yes," he said. "I agree."
 
-The boy froze. He had not expected German from an American soldier. He stared at Albert with the wide, uncomprehending eyes of a seventeen-year-old who has just been handed his life by a man who had every right and every order to take it. Then he turned and ran — back into the darkness, back through the perimeter, back into the war — and Albert stood alone in the night with his rifle unfired and his orders broken and the absolute certainty that he had done the only thing a man of his blood and his faith could do.
+"Then when your father decides to leave Hebron — and he will, because he is going to come to the same conclusion you have come to, he is just going to take a few more weeks to come to it — when he decides, you and I are not going wherever he goes. We are going where I say. We can go in the same direction. We can go to the same county. But the next house we live in will be a house in a town. Promise me."
 
-He never reported it. He never spoke of it publicly. He carried it the way the Isaaks carried everything — inward, silent, certain.
+"I promise."
 
----
+"Good." She bent down and picked up Josephine, who had collected nine pebbles and was very serious about it. "Now go help your father pretend the potatoes are going to come back."
 
-**The Argonne**
-
-Two weeks after Saint-Mihiel, the 89th Division was redeployed to the Meuse-Argonne.
-
-It was the worst of the war. Dense forest, fortified ridges, interlocking machine gun fire, artillery registered on every road. The offensive lasted forty-seven days. Over 1.2 million Americans fought in it. Twenty-six thousand were killed. A hundred and twenty thousand were wounded or gassed.
-
-And for Albert — a man whose family had spoken German for two hundred years, whose grandfather had grown up among Germans in Bessarabia, whose cousins still wrote letters in German script — the Argonne was a particular kind of hell. The men on the other side of the wire spoke his language. The commands shouted across no-man's-land were commands he could understand. The curses, the prayers, the cries of the wounded — he heard them in German, and he understood every word, and each word was a knife.
-
-Albert's crew set up in shell craters and ruined farmhouses, broke down the gun and hauled it forward through knee-deep mud, set it up, laid down fire, moved again. The rain never stopped. The dead lay where they fell.
-
-Sometime in late September or early October, the gas came.
-
-It came at night, which was the worst way, because you couldn't see it. Mustard gas was heavier than air, and it settled into the low places — the shell craters, the trenches, the hollows between ridges where men sheltered from artillery. It smelled like garlic, or like horseradish, or like something burning that should not be burning. By the time you smelled it, it was already on you.
-
-Albert was in a hollow. He may have been sleeping, or trying to sleep, or lying on his back staring at nothing the way soldiers stare when they have been awake too long. The gas found him the way water finds a drain — silently, invisibly, pooling around his body in the dark. He didn't know it was there until his eyes began to burn.
-
-Then his skin began to burn.
-
-Then his throat closed.
-
-The gas did not kill quickly. That was the cruelty of it. Mustard gas was not designed to kill — it was designed to incapacitate, to overwhelm, to fill hospitals and consume resources and break the will of men who could endure bullets and shrapnel but could not endure the feeling of their own skin blistering and their own lungs filling with fluid and their own eyes swelling shut while they clawed at their face in the dark. The blisters came within hours — rising on his arms, his neck, the soft skin of his armpits and groin, everywhere the gas had touched, which was everywhere, because the gas was everywhere. His eyes streamed and swelled. His throat burned as though he had swallowed a coal. And his lungs — his lungs felt as though someone had poured acid into them and then asked him to breathe.
-
-He was pulled from the line. Stretcher bearers carried him to a field hospital behind the front, where he lay on a cot in a long tent filled with gassed men — dozens of them, rows of cots, the air thick with the sound of labored breathing and the sharp, chemical smell of the agents still seeping from their skin and clothes. His eyes were bandaged. His blisters were dressed. The nurses moved between the cots with saline and cotton and the particular gentleness of women who have seen enough suffering to know that sometimes the most you can do is be present while it happens.
+David went and helped his father pretend the potatoes were going to come back. They did not come back.
 
 ---
 
-**The Hospital**
+In late August, Solomon came to his father with a proposition.
 
-In the hospital, Albert learned two things.
+He was twenty-one. He had been quiet for most of the summer in a way that was very unlike Solomon, and Gottlieb had noticed but had not asked, because Gottlieb had learned that Solomon would tell you what he was thinking when he was ready and not before. On a Tuesday morning, after the breakfast dishes were cleared, Solomon followed his father out to the yard where Gottlieb was sharpening a scythe blade he was not going to need this autumn, and he said:
 
-The first was that his father was dead.
+"Father. I am going to ride west with Johann Klein. We are going to look for better land."
 
-David had died on December 21, 1917 — nine months earlier, while Albert was still training at Camp Funston. The heart that had been failing him for years had given out on a Friday morning, two days before Christmas. *Death found him in midst of duty.* The funeral was held on Sunday at the Lutheran church David had helped to found. Hanna sat in the front row with Josie and Ed. Albert's chair was empty.
+Gottlieb looked up from the scythe.
 
-Hanna had written to Albert in France. The letter had followed him from camp to camp, from sector to sector, through the chaos of a war that moved men like chess pieces and delivered mail like an afterthought. It reached him in the hospital. She told him his father was gone. She told him to read Psalm 91\. She told him to cling to the Lord.
+"How far west?"
 
-*He that dwelleth in the secret place of the most High shall abide under the shadow of the Almighty. Thou shalt not be afraid for the terror by night; nor for the arrow that flieth by day; nor for the pestilence that walketh in darkness.*
+"As far as we have to. Sixty miles, maybe more. Klein has heard there is open country along the Knife River and the Missouri, north of the Mandan country. Some Norwegians up there. A few Germans from Hannover. Mostly empty. Good grass."
 
-Albert lay on his cot with his eyes bandaged and his lungs scarred and his father nine months dead and read his mother's letter with his fingers, because he could not see the words, and the words did not need to be seen because Psalm 91 was a psalm he already knew, the way he knew the Lord's Prayer and the hymns and the sound of the clarinet and the smell of the store and his mother's voice — all the things that belonged to the world before the war, the world that was still there, waiting for him, if his lungs would let him breathe long enough to reach it.
+"Who told Klein this?"
 
-The second thing he learned was the Spanish flu.
+"A man at the depot. A surveyor coming back from the Black Hills. Klein bought him three drinks and got the whole map out of him."
 
-The field hospital was full of it. Men who had survived bullets and shrapnel and gas were dying of influenza — choking on their own fluids, turning blue, filling the cots that the gassed men had just vacated. The flu had been burning through the American Expeditionary Forces since September, filling hospitals faster than the fighting could empty them. It would kill forty-five thousand American servicemen — more than the combat did. Worldwide, fifty million people would die before it burned itself out, twice the war's total. It was the deadliest disease in human history, and it was in the next cot.
+"Klein bought a man three drinks for a map drawn on a depot napkin and you want to ride sixty miles on it."
 
-Albert survived. His lungs healed enough to breathe, though the tissue was scarred in a way that would never fully repair — the emphysema that would shadow his breathing for the rest of his life.
+"Yes."
 
-The armistice came on November 11\. The guns stopped. The silence that followed was louder than the barrage had been.
+Gottlieb set down the scythe. He looked at his fourth son — restless, sunburned, twenty-one years old, with the particular set of jaw that Gottlieb recognized because it was his own jaw at twenty-one, and his grandfather's jaw, and probably the jaw of every Isaak man going back to Soest who had ever decided to go look at something himself rather than wait for someone else to describe it to him.
 
----
+"How long?"
 
-**Home**
+"Four days. Maybe five."
 
-Albert did not go home with the 340th — the battalion would not return until May 1919\. He was discharged from the hospital and assigned to a casual company at Saint-Aignan for transport home. On January 7, 1919, he boarded the USS *Pueblo* at Brest. Thirteen days later, the ship entered New York Harbor.
+"You have water?"
 
-The Statue of Liberty. He had seen her shrinking behind the *Khyber* going out. Now she was growing, coming home.
+"Klein has a canteen. I have a canteen. We have hardtack and dried beef and a rifle for whatever comes up. We are not children, Father."
 
-On February 14, 1919, Corporal Albert Friedrich Isaak was discharged from the United States Army.
+"You are exactly children. You are twenty-one and Klein is twenty-two."
 
-He was thirty-one. He was home. He still played the clarinet.
+"Then we are old enough."
 
----
+Gottlieb almost smiled. He picked the scythe back up.
 
-**Eva**
+"Take the bay mare. She is the only one of our horses that is still in any condition to go anywhere. And Solomon."
 
-His cousin Hank Isaak called one day.
+"Yes."
 
-Hank was Albert's age, Solomon's eldest son, the boy who had played beside Albert in the Eureka band for years — dependable, gregarious, the kind of man who knew everyone and who could not leave a friend unmatched. He wanted to organize a sleigh ride party. Albert said he'd come but didn't have a partner.
+"If you find good land, you do not file on it without coming back here first. You come back. You tell me what you have seen. We decide together."
 
-"Call the new girl at the bank," Hank said. "Eva Roesch. She might like to get acquainted with the bunch."
+"Yes, Father."
 
-Albert called. She said she'd be glad to go.
+"And if you do not find good land, you come back anyway. I would rather have you back empty-handed than not have you back."
 
-Eva Roesch was nineteen years old — five foot two, dark-haired, clear-eyed, one of nine children, raised by her grandparents. She was working as a clerk at a bank in McPherson County, and she carried herself with the direct, unsentimental composure of a woman who had been taking care of herself for a long time and did not intend to stop. Her family was German-Russian — the same Black Sea origins, the same wheat fields, the same Lutheran faith.
+"Yes, Father."
 
-The sleigh ride was in winter — bundled in blankets and buffalo robes, the horses' breath steaming in the air, a group of friends crowded into sleighs with the particular giddiness that comes from being young and cold and close to someone whose shoulder you can feel through three layers of wool.
+Solomon left at dawn the next morning with Klein and the bay mare and a borrowed gelding from a neighbor, and Gottlieb stood in the yard and watched the two of them ride west into the broken country until they were two specks on the rim of the buttes and then they were nothing.
 
-She became his partner for the sleigh ride. She became his partner for life.
+He was gone four days.
 
-Eva's family encouraged the match. Albert was a veteran. He had a business. He was thirty-two, but the Roesches understood that a man who has been tested the way Albert had been tested and has come through it still steady is not a risk but a certainty.
+He came back on the evening of the fourth day, alone — Klein had stayed at a Norwegian farm halfway back to do something with a horse that had picked up a stone — and he came riding into the yard at sunset with dirt on his face and dust in his beard and his hat tipped back on his head, and Gottlieb saw him from the door of the sod house and walked out to meet him without a word.
 
-On November 11, 1919 — the first anniversary of the armistice, the day the world had stopped killing itself — Albert Friedrich Isaak married Eva Roesch. He chose the date the way he chose everything: quietly, deliberately, and for reasons he did not explain to anyone but that the people who knew him understood without being told.
+Solomon swung down from the bay. He was grinning the way he had grinned at the antelope on the train in 1878.
 
----
+"Father."
 
-On January 20, 1921, Albert's grandfather Gottlieb died in Tripp, South Dakota, at eighty-six. The old man who had crossed an ocean, fought judges, broken sod, and prayed away his rheumatism at midnight was gone.
+"Solomon."
 
-Four months later, on May 8, Albert and Eva's first daughter was born. They named her Alice Estelle Isaak.
+"It is there."
 
----
+"Tell me."
 
-**Autumn 1926**
+Solomon reached into his coat and pulled out a folded piece of paper. It was a depot map of central Dakota Territory with section lines penciled in, and along the lower edge of the map, in Solomon's handwriting, were a series of township and range numbers and the words *Knife River — flat — black — open*.
 
-Alice was five and a half, and she had opinions about everything.
+"Sixty miles west and a little north," Solomon said. "Country flat as a table. Grass higher than the grass at Parkston was in '78. Black soil — I dug a hole with my bayonet and went in elbow-deep before I hit anything I could not push through. There are six families up there. Two of them German, four of them Norwegian. The closest town is forty miles. The land is open in every direction for as far as you want it. Klein and I sat on a rise yesterday morning and watched the sun come up over it and there was nothing — *nothing*, Father — between us and the horizon for as far as we could see. We could file ten quarter sections without filing on top of anyone."
 
-She had her father's blue eyes and her mother's stubbornness, and she moved through the world with the purposeful velocity of a child who knows that adults will always be a step behind.
+Gottlieb took the paper. He held it close to his face in the failing light.
 
-That October, she was playing near the schoolhouse with two neighbor children when she stopped and stared.
+"Father."
 
-A man was walking along the road at the edge of the schoolyard. He was tall and lean, with dark skin and black hair worn in two long braids that fell past his shoulders. He wore a cotton work shirt and denim trousers, but over the shirt he had a vest of tanned hide worked with geometric beadwork in red and blue and white — patient, intricate handwork that spoke a language older than English or German. His face was deeply lined by wind and weather, and he walked with the unhurried stride of a man who knows exactly where he is.
+"Yes."
 
-Alice had heard about Indians. Every child in McPherson County had — the stories at school, the names: Sitting Bull, Crazy Horse, Red Cloud. The Standing Rock Reservation was less than fifty miles west across the Missouri. But she had never seen one. The German families in Eureka had almost no contact with the people whose land they were farming — a silence so old it had become invisible.
+"This is exactly what we wanted."
 
-The man glanced at the schoolyard. His eyes met Alice's.
-
-She waved.
-
-She was five. She waved at everyone. Nobody had taught her yet that some people were supposed to be invisible.
-
-The man paused. Something shifted in his face — not a smile, but a softening, the faintest acknowledgment that a child's wave reaches across every wall ever built between strangers. He raised one hand. A single, slow, open-palmed gesture. Then he turned and walked on.
-
-That evening at supper, Alice announced that she had waved at an Indian and he had waved back.
-
-Albert set down his fork. "You don't wave at strangers, Alice."
-
-"He wasn't a stranger. He waved back."
-
-"He was a stranger. You don't know him."
-
-"But he was *nice*."
-
-Albert picked up his fork and said nothing. Eva, who noticed things that Albert did not, saw Alice's face — the confusion, the faint hurt of being corrected for kindness — and later that night, after the girls were in bed, she said quietly: "She was just being polite."
-
-Albert said nothing. He went to bed. The wind blew outside.
+"I know," Gottlieb said quietly. "I can see that you know. Come inside. Your mother has saved you supper."
 
 ---
 
-**Edith Allegra — July 2, 1927**
+They moved in October.
 
-The following summer, in Aberdeen, a second daughter arrived. She had blonde hair — golden, fine, the color of wheat in August — and they named her Edith Allegra Isaak.
+They sold the Hebron house for almost nothing — there were no buyers for a sod house on a failed potato farm in a year when everyone in the county was trying to leave — and they loaded what they could carry onto two wagons and drove sixty miles west and a little north, into the country Solomon had described, and they filed claims on the land along the section lines Klein had written down on the depot map.
 
-The names came from a poem.
+David and Hanna filed on a quarter section a mile from Gottlieb's, near the small settlement at the edge of the new county that was already being called Krem after a family of early settlers. There was a schoolhouse going up. There was talk of a church. There was a road, of a kind, to a railhead twenty miles south. It was not yet a town. It was the beginning of one.
 
-Albert had been called Kaiser at Camp Funston. He had been mocked for his heritage. He had fought a war against men who spoke his grandfather's language. He had come home to a country that had banned his mother tongue from the church pulpit. And when it came time to name his daughters, he reached not for the old family names — not for Louisa or Magdalena or Regina — but for the most American poem he knew.
+Hanna did not say anything when David showed her the spot. She walked the boundary of the quarter section with Albert on her hip and Josephine running ahead of her in the grass, and when she came back to where David was waiting with the wagon, she said:
 
-Henry Wadsworth Longfellow. *The Children's Hour*:
+"There will be a town here."
 
- 
+"In a few years."
 
-From my study I see in the lamplight,  Descending the broad hall stair, Grave Alice, and laughing Allegra,  And Edith with golden hair.
+"In a few years. Good. I can wait a few years if I know it is coming."
 
- 
-
-His first-born was Alice. His second was Edith Allegra — both of Longfellow's other daughters pressed into a single name, as though he could not bear to leave either one out. And when the baby arrived with golden hair, the poem completed itself.
-
-He did not teach Alice or Edith to speak German. He broke the chain — deliberately, permanently — so that his daughters would never hear what he had heard. The girls called their German nanny Tante Freda, and Tante Freda was the last thread of the old language in their daily lives. When Tante Freda married and moved away, little Edith was heartbroken. She cried for days. It was her first loss, and she did not yet understand that people leave — that the ones you love can be there one morning and gone the next, and that this is the way of the world and always has been.
+She climbed up into the wagon beside him. They drove back to Gottlieb's claim, where the family was already setting up the first sod house of the second prairie.
 
 ---
 
-**The Roaring Twenties**
+The first winter in Mercer County was nothing like the first winter at Parkston.
 
-But the world, for once, was cooperating.
+At Parkston they had been alone — eleven people in a half-finished sod house, listening to a sound in the dark that might have been wolves or might have been wind. In Mercer County they were not alone. They were never alone. From the day the snow fell in late November, settlers began arriving — singly, in pairs, in small frozen groups of two or three — German-Russians and Norwegians and the occasional American who had heard there was open land along the Knife and had come to see for themselves and had been caught by the weather before they could get back.
 
-The 1920s arrived in Eureka like a season that had been delayed. Wheat prices climbed. The railroad ran full. New buildings went up on Main Street — a pharmacy, a movie theater, a second barbershop. Automobiles appeared on roads that had known only wagons. Electricity reached houses that had been lit by kerosene. The country was becoming modern so fast it could barely keep up with itself, and the German-Russian families of McPherson County — who had known poverty for five generations and scarcity for longer than that — looked at the abundance and blinked, and then they smiled, and then they spent.
+They came to Gottlieb's house because Gottlieb's house was the closest. Word had spread within a month that the Isaaks would take you in.
 
-Albert and Eva's store thrived. The 5&10¢ store was exactly the right business for the moment — small luxuries, affordable goods, the things people buy when they have a little money and the confidence that more is coming. Hair ribbons and costume jewelry. School supplies and kitchen gadgets. The candy jars were always full. Eva handled the customers with the instinct of a woman who knew what people wanted before they asked. Albert handled the ordering and the books, and on Sundays they went to church, and in the evenings the cousins gathered and the music started — Hank and Walter and Edwin, and Albert with his clarinet, the Eureka band playing on.
+The sod house had two rooms and a loft. By Christmas there were nineteen people sleeping in it most nights — eleven Isaaks and however many strangers were currently between somewhere and somewhere else. The strangers slept on hay spread across the floor of the larger room, body to body, with their boots near the stove to thaw. They ate at two seatings because the table only held nine. Louisa cooked. Magdalena cooked. Hanna walked the mile from her own claim every other day to bring flour and to help Louisa with the bread, because Louisa was sixty years old now and her back was beginning to give her trouble.
 
-Ed married and had a son — Melvin, who would grow up alongside Alice and Edith in the small orbit of German-Russian Eureka. Josie remained unmarried, remained steady. Hanna, widowed since 1917, lived quietly in McPherson County, sustained by her children and her faith.
+*During every meal two servings had to be made,* Gottlieb would write later, and the sentence has the quiet pride of a man who has learned that there is no point in hoarding food when the people who need it are sleeping on your floor.
 
-Albert's lungs were not right. They would never be right — the emphysema from the gas was a permanent tenant, a tightness, a ceiling on every deep breath. He did not complain. But Eva noticed the way he paused at the top of the stairs, the way the cough never went away — not in spring, not in summer, not ever — and she said nothing, because Eva understood that some things are managed and not cured, and that the managing is its own kind of love.
+One night in January, in the dead of the worst week of the worst month, a man named Hofstetter showed up at the door with two small daughters and no wife. The wife had died of fever in October, in a sod house thirty miles south, and Hofstetter had been trying to get to a brother in Bismarck for two months and had not made it because every time he started, the weather turned, and the daughters were six and four, and he could not lose them too.
 
-On a summer evening in 1928, the family sat on the porch of their house in Eureka. Alice was seven. Edith was one, balanced on Eva's hip, pulling at her mother's hair and laughing. The store was doing well. The wheat was high. The band was playing Saturday night. The candy jars were full — the same jars that had been full when Albert was a boy, the same jars Anna had reached for from his shoulders, the same jars that had stood on the top shelf through everything: the deaths, the war, the gas, the silence.
+Louisa took the daughters by the hand without saying a word and led them to the stove and stripped them out of their wet clothes and wrapped them in her own shawl and gave them bread soaked in warm milk and they fell asleep in her lap on the bench by the fire within ten minutes. Hofstetter sat at the kitchen table across from Gottlieb and put his face in his hands and did not lift his head for a long time. Gottlieb did not say anything. He poured the man a cup of coffee and pushed it across the table and waited.
 
-The Isaaks had been moving for two hundred years — from Brandenburg to Poland, from Poland to Bessarabia, from Bessarabia to Dakota — peaceful people, always seeking peace.
+After a while Hofstetter looked up.
 
-Albert had found it. He was home. The house was full. The wheat was high, and the evening was warm, and the century was young, and nobody on that porch knew what was coming next.
+"I cannot pay you for the food."
+
+"I have not asked you to pay for the food."
+
+"I will pay you when I get to my brother."
+
+"You will pay me by getting to your brother and by remembering that someone fed you when you needed it and by feeding the next man who needs it when it is your turn."
+
+Hofstetter looked at him.
+
+"That is not how the world works, *Herr Isaak*."
+
+"It is how the world works in my house," Gottlieb said. "Drink your coffee."
+
+Hofstetter drank his coffee. He stayed three days. The girls slept in the loft with Magdalena and Emilie and Antonie. On the fourth morning the weather broke just enough for him to go on, and he loaded the girls onto a borrowed sled and Gottlieb gave him bread for the road and a wool blanket from his own bed, and Hofstetter took both of Gottlieb's hands in both of his and stood in the doorway and could not speak for a moment, and then he said something in a thick southern German that Gottlieb did not entirely understand but that he understood completely, and then he was gone.
+
+That night, after supper, Solomon said: "Father. We are going to run out of flour by February at this rate."
+
+"Then we will run out of flour by February."
+
+"And then?"
+
+"And then we will figure out what to do in February. Pass the bread."
+
+Solomon passed the bread.
+
+They did not run out of flour. People who had stayed at Gottlieb's house through the worst of the winter and then made it to where they were going began sending things back in the spring — sacks of flour, smoked pork, a new axe head, a length of rope, once a small wooden box of dried apples from a Norwegian family forty miles away who had been at Gottlieb's table for one night in February and had not forgotten. The bread on the Isaak table never quite ran out, because the bread on the Isaak table was being baked from flour that other people kept sending, and that was the whole secret of the first winter in Mercer County, and Gottlieb would remember it for the rest of his life.
+
+---
+
+Magdalena married Adam Sailer on the twenty-seventh of October, 1889, in the Krem schoolhouse, on a Sunday afternoon two days after North Dakota became a state.
+
+Adam was a Bessarabian German from a family that had come over in 1882 and settled near Bismarck, and he had met Magdalena at a harvest gathering in September of '88 and had been writing her letters every two weeks since, and in August of '89 he had ridden up from Bismarck on a borrowed horse and asked Gottlieb's permission in the formal old-country way that nobody in Mercer County still bothered with except the most serious young men, and Gottlieb had said yes because Adam was steady and quiet and obviously in love with his daughter and because Magdalena, when asked, had said yes herself in the dry matter-of-fact voice she had inherited from her mother.
+
+She was twenty-one. She had grown into a tall, serious woman with the wide watching eyes she had carried since the *Mosel*, and on the morning of her wedding she sat very still on a kitchen chair in the middle of Hanna's small frame house in Krem while Hanna did her hair.
+
+Hanna had decided weeks ago what the hair was going to look like. Magdalena had not been consulted. Magdalena had not needed to be consulted, because Hanna was the only person in Mercer County who knew how to do the new style, and the new style was what Magdalena was having, and that was the end of the discussion.
+
+It took an hour and forty minutes.
+
+Hanna pulled the bulk of Magdalena's brown hair back from her face and gathered it tightly into a chignon at the nape of her neck — the heavy knot, the proper knot, the knot that announced to everyone who saw it that this was a woman who had decided to be taken seriously. Then she went to work on the front. She combed out a section of hair across Magdalena's forehead, and she crimped it with a small hot iron she had bought from a catalogue in Bismarck the previous spring for exactly this purpose, and she shaped it into a short puffy textured fringe — *frizeties*, the magazines from the East called them — that sat across Magdalena's forehead like a small dark crown.
+
+When she was finished, she stepped back and looked at her sister-in-law in the mirror.
+
+"Magdalena."
+
+"Yes."
+
+"You look like a woman who is about to get married in 1889."
+
+"I am a woman who is about to get married in 1889."
+
+"That is exactly what I mean. Look at yourself."
+
+Magdalena looked. The chignon was tight and heavy and it changed the line of her neck in a way she had not expected. The frizeties were soft and dark and they framed her face like a kind of architecture. She looked, she realized, slightly older than she was, and slightly more formidable than she had thought she was, and she liked it.
+
+"Hanna."
+
+"Yes."
+
+"Promise me you will fix my hair like this for every important thing for the rest of my life."
+
+"I promise."
+
+"Good. Then I am ready."
+
+She stood up. Hanna handed her the small bouquet of dried prairie grass and bittersweet that Wilhelmina had made the day before, and the two of them walked out of the small frame house and across the yard to the wagon where Albert, two and a half, was sitting on his grandfather Gottlieb's lap watching the proceedings with the deep gravity of a small child who knows something important is happening but is not sure what.
+
+---
+
+The Krem schoolhouse was full.
+
+Every German family within twenty miles had come — Isaaks, Schulzes, Kleins, Hofstetters (the Hofstetter girls were there with their father, who had not gone to Bismarck after all but had filed his own claim eight miles east of Gottlieb's in the spring), the Norwegian neighbors from the farms north of the Knife, the circuit-riding Lutheran pastor from Bismarck who had ridden forty miles on Saturday to be there on Sunday. The wooden benches were packed three to a bench. The windows were open because the day had turned mild and the schoolhouse with so many bodies in it was warm.
+
+Magdalena walked down the center aisle on her father's arm.
+
+Gottlieb was fifty-five. He had walked his daughter down the center of a room that was not a church to give her to a man she had chosen, and he had done it in a state that had been a state for two days, in a country he had been a citizen of for ten years, in a county that had not existed when he arrived in America, and he was wearing the same coat he had worn to court in Akkerman in 1874, because it was still his best coat and he was not the kind of man who bought a new coat for a wedding when the old one fit.
+
+The pastor performed the ceremony. The vows were the same vows. The Bible reading was Genesis, the same Genesis that had been read at Gottlieb and Louisa's wedding in Kulm in 1854 and at Andreas and Anna Elisabeth's wedding in Soest in 1760, the same words in the same German, threading backward through the family like a rope tied to a place that no longer existed.
+
+After the *Amen*, the pastor produced a piece of paper and a pen and laid both on the small wooden table at the front of the schoolhouse, and Adam and Magdalena and the two witnesses — David for Magdalena, and a friend of Adam's named Boschee for him — came forward to sign the marriage certificate.
+
+The certificate was new. It had been printed by the new state of North Dakota and shipped to county clerks across the western counties two weeks ago. The clerk of Mercer County, a thin Norwegian named Larsen who had ridden over from the county seat for the wedding as a personal favor, set the certificate on the table and dipped his pen and wrote the names and the date and, in the upper right corner, in a small careful hand, the number.
+
+He wrote the number 1.
+
+Adam Sailer, who was twenty-four years old and had been raised in a country where forms were forms and meant nothing, glanced down at the certificate as he picked up the pen to sign it. He looked at the number. He looked at Larsen.
+
+"Number one?"
+
+"Number one," Larsen said. "First marriage on file in Mercer County under the new state. Congratulations. You are in the books."
+
+Adam looked at Magdalena. Magdalena looked at the certificate. Then she looked up at Adam, and the small line between her eyebrows that she had inherited from her mother smoothed out, and she smiled — the first real smile she had given anyone all day, the smile she had been saving.
+
+"Adam."
+
+"Yes."
+
+"Sign the paper."
+
+Adam signed the paper. Magdalena signed the paper. David signed as a witness, and Boschee signed as a witness, and Larsen blotted the ink and folded the certificate carefully and put it in his leather satchel, and the wedding was over.
+
+---
+
+Outside the schoolhouse, in the long yellow light of an October afternoon in a brand-new state, the families gathered for the meal. Two long tables had been set up under canvas in the schoolyard, the way two long tables were always set up under canvas for an Isaak family meal, and the women had been cooking since Friday and the food covered both tables end to end. A fiddler had come up from Bismarck with Adam — a better fiddler than the one at the Schmidt wedding six years ago, Wilhelm Schulz noted approvingly — and after the eating there was dancing.
+
+Gottlieb sat on the bench by the schoolhouse door with Louisa beside him and watched.
+
+He watched his daughter, whose hair was pinned in a chignon and crowned with frizeties, dancing with her new husband in a schoolyard in a state that was forty-eight hours old. He watched his second-eldest son David standing at the edge of the yard with his American wife and their American children. He watched Solomon, twenty-four now, dancing with one of the Norwegian girls from the farm by the Knife. He watched Daniel and Jacob and the older boys who were now men with wives and children of their own, and he watched the younger ones, Antonie and Emilie, running between the tables with the Hofstetter girls and the neighbor children, and he watched his wife of thirty-five years, Louisa, sitting beside him with her hands folded in her lap and her face turned toward the dancing.
+
+"Louisa."
+
+"Yes."
+
+"In Kulm, in 1854, did you imagine this?"
+
+She thought about it for a long time. The fiddler started a new tune. Magdalena and Adam were laughing in the middle of the yard.
+
+"No," she said finally. "But I imagined something. I do not remember exactly what. I think I imagined being old, and being with you, and watching one of our children laugh at a wedding that had nothing to do with the old country."
+
+"And?"
+
+"And here we are. Old, and together, and watching."
+
+"Are you happy, Louisa?"
+
+She turned her head and looked at him. Her eyes, in the long October light, were the same eyes that had looked at him at the stove in Sophiental on the morning after Simon died, the same eyes that had said *yes* without turning around, the same eyes that had said *I will not die on this ship* in a Bessarabian whisper to her own mother in steerage on the *Mosel*.
+
+"I am content," she said. "Which is better."
+
+She turned back to the dancing.
+
+The fiddler played on. The wind moved across the schoolyard. In the leather satchel of a Norwegian county clerk on the bench beside the door, the first marriage certificate of Mercer County, North Dakota lay folded between two sheets of blotting paper, the ink not yet entirely dry.

@@ -4,81 +4,113 @@
 
 ---
 
-*By the 1850s, the mother colonies of Bessarabia were full. The original sixty-six hectares that each family had received from the Tsar were being divided among sons and grandsons, and the math was unforgiving — what had sustained one family could not sustain four.*
+**Kulm, Bessarabia — Late August 1853**
 
----
-
-**Kulm, Bessarabia — Winter 1853**
-
-Karl August Isaak died on a Tuesday in November, at fifty-seven, and left behind a widow, a sixty-six-hectare farm, and ten living sons.
+Karl August Isaak died on a Thursday at the end of August, at fifty-seven, and left behind a widow, a sixty-six-hectare farm, and ten living sons.
 
 The trouble started before the funeral was over.
 
-It did not look like trouble. It looked like brothers standing around a kitchen table after a burial, drinking coffee, not saying much. Gottfried, the eldest at thirty-three, stood at the head of the table because no one had told him not to, and no one told him not to because he had been running the farm for the last five years while their father's health failed, and everyone knew it. Christian and Karl Ludwig flanked him, thick-armed and sunburned, men who had been pulling plows since boyhood. Andreas leaned against the doorframe with his arms crossed, already calculating.
+It did not look like trouble. It looked like brothers standing around a kitchen table after a burial, drinking coffee, not saying much. The shutters were closed against the heat. The wheat was in. The flies had found the kitchen, the way flies always find a kitchen on a hot day in August, and one of them was working its way along the rim of the sugar bowl while nobody bothered to wave it off.
 
-The younger boys lined the walls. Gottlieb, nineteen, stood next to August, who was fourteen, who stood next to Johann, who was eleven, who stood next to Daniel, who was nine, who stood next to Martin, who was six and did not understand why everyone was so quiet.
+Gottfried, the eldest at thirty-three, stood at the head of the table because no one had told him not to, and no one told him not to because he had been running the farm for the last five years while their father's health failed, and everyone knew it. Christian and Karl Ludwig flanked him, thick-armed and sunburned, men who had been pulling plows since boyhood. Andreas leaned against the doorframe with his arms crossed, already calculating.
+
+The younger boys lined the walls. Gottlieb, eighteen, stood next to August, who was fourteen, who stood next to Johann, who was eleven, who stood next to Daniel, who was nine, who stood next to Martin, who was six and did not understand why everyone was so quiet.
 
 Their mother sat in the corner and said nothing. She had buried a husband that morning. She did not have the energy to referee what was about to happen.
 
 Nobody spoke the word *land*. They didn't need to. The farm was sixty-six hectares. There were ten of them. Even little Martin, standing on his toes to see over the table, could feel the weight of that arithmetic pressing down on the room like a change in weather.
 
-What followed was not a single conversation but a slow, grinding negotiation that stretched across months — argued in kitchens and barns and fields, in voices that started reasonable and ended raw. The custom in the colonies was equal division among sons, but custom was a luxury that assumed a manageable number of heirs, not a battalion. Gottfried had five mouths to feed. Christian had four. They needed more land, and they said so, and they were not wrong. Andreas, who had married young and started building his own household, fought for the parcels nearest the village road. The younger brothers — still boys, most of them — got what was left, which in some cases was a strip of earth barely wide enough to turn a plow on.
-
-Gottlieb did not fight. He watched. He watched Gottfried and Andreas square off across a rough sketch someone had drawn on the back of a feed bill, arguing over a piece of bottomland no wider than a wagon track. He watched Christian walk the boundary lines with a length of rope, measuring and remeasuring, as though precision could solve a problem that was not about precision but about the simple, brutal fact that the earth did not multiply with the family.
-
-He was the seventh son. He understood, with the clarity of a man looking at a horizon he cannot reach, that his inheritance was not land. It was the knowledge that there was not enough.
+Gottlieb watched his brothers' faces and understood, with the clarity of a man looking at a horizon he cannot reach, that his inheritance was not land. It was the knowledge that there was not enough.
 
 ---
 
-**Kulm, Bessarabia — December 17, 1854**
+**Kulm, Bessarabia — November 26, 1854**
 
-He married Louisa Schulz a year later, on a cold Tuesday in the prayer house at Kulm. She was seventeen. He was twenty. The pastor from Tarutino performed the service — the same Lutheran rite, the same vows at the door, the same reading from Genesis — and afterward there was a meal at his mother's house, because the house was the family's now, which meant it was nobody's, which meant it was crowded and tense and full of brothers pretending the food was what mattered.
+He married Louisa Schulz on a cold Sunday in the prayer house at Kulm. She was sixteen. He was twenty. The pastor from Tarutino performed the service — the same Lutheran rite, the same vows at the door, the same reading from Genesis — and afterward there was a meal at his mother's house, crowded and tense and full of brothers pretending the food was what mattered.
 
-They tried. For five years, they tried. They worked their thin strip alongside the brothers, sharing tools and draft animals and the particular friction of men who love each other and resent each other in equal measure. Their daughter Regina came in 1856 — a healthy girl, strong-lunged, born in the same room where Gottlieb had been born twenty-two years earlier. The following year, Louisa bore a son, Simon, who lived eleven months and then did not. They buried him in the colony cemetery on a hill where the steppe wind never stopped, and Louisa did not speak for three days afterward, and Gottlieb did not ask her to. Jacob arrived in 1858, then David in 1860, and with each child the house grew louder and the fields grew quieter, because there was simply nothing left to grow.
+Louisa's father stood by the stove with a glass of *Schnaps* in his hand, watching his daughter across the room. Johann Schulz was fifty-five, a wagon-fixer by trade, with hands the color of oiled leather and the still, observant manner of a man who had spent his life listening to wood for cracks. He raised his glass to Gottlieb across the room and drank. Gottlieb raised his back.
 
-Gottlieb would later describe those five years in Kulm in a single sentence: *troubled and burdened, primarily because of the shortage of land.* He did not elaborate. He did not need to. Every young couple in every mother colony in Bessarabia understood exactly what those words meant.
-
-In 1859, he packed a wagon, loaded his wife and three surviving children, and left Kulm for a daughter colony called Sophiental, where a Russian landowner was renting parcels to Germans who could not afford to be choosy. It was not a triumphant departure. Nobody lined the road. His brother Andreas, who had wanted to leave but couldn't, watched from the fence and said nothing. August, still a teenager, helped load the wagon and then stood in the yard with his hands in his pockets, looking like a boy watching a train he wasn't old enough to board.
-
-Johann — quiet, eleven-year-old Johann — walked alongside the wagon for half a mile before Gottlieb told him to go home. He turned back without a word, but he stood at the crossroads and watched until the wagon disappeared into the steppe, and Gottlieb, looking over his shoulder, saw him there — a small figure on the flat plain, not waving, just watching — and felt something shift in his chest that he would not be able to name for another sixteen years.
+Their daughter Regina came in February of 1856 — a healthy girl, strong-lunged, born in the same room where Gottlieb had been born twenty-one years earlier. The following summer, on the twenty-ninth of July, Louisa bore a son. They named him Simon, after her grandfather.
 
 ---
 
-**Sophiental, Bessarabia — 1860s**
+He was a good baby. He slept. He ate. He learned to laugh at five months and to sit up at seven and to pull himself along the packed-earth floor at nine, dragging one leg behind him in a way that made Gottlieb's mother say, *That one will walk early*, with the certainty of a woman who had watched a great many babies become children. By the following July he was standing. By his first birthday he had two teeth and a word — *Ma*, or something close enough that Louisa decided it counted — and Gottlieb had begun, in the secret way that fathers do, to imagine the man this small loud creature might become.
 
-Sophiental was not Kulm.
+He died four days after his first birthday. Gottlieb never wrote down what it was — fever, probably, the kind that came in the hot weeks at the end of summer and took the small ones first. He went to bed crying and woke up quiet, and by midmorning he was gone.
 
-Kulm sat in the Bessarabian black earth belt — the richest farmland in southern Russia, soil so dark and deep you could push your arm in to the elbow. Sophiental was rented land, and the soil was light and sandy, pale as flour compared to the heavy black loam Gottlieb had grown up with. The rent was cheap, which was why they had come. The harvests were poor, which was why the rent was cheap.
+Louisa held him for the rest of that day and would not put him down. She sat in the chair by the window with the baby in her arms and her face turned toward the wall, and when Gottlieb came in from the field at evening she was still there, and the baby was still in her arms, and she had not spoken to anyone since dawn. Gottlieb knelt down in front of her and put his hand on her knee. She did not look at him. He stayed there a long time.
 
-You learned this trade-off with your hands, not your head. Every spring the wheat came up thin and yellow instead of thick and green. Every autumn the yield was short. Every winter you counted what was in the granary and what was owed to the landlord and tried to make the first number cover the second.
+She was four months pregnant. She had not yet told him.
 
-Most years, it didn't. *Most of the time, cattle and horses had to be sold to pay for the rent,* Gottlieb would write later, and the sentence has the flatness of a man who has said the same thing so many times that the anger has gone out of it and only the fact remains. You sold a horse to pay the rent. Then you plowed with fewer horses. Then the harvest was worse because you had plowed with fewer horses. Then you sold another horse.
+That night, after Louisa had finally let his mother take the baby and wash him and wrap him in the linen they kept for this, Gottlieb walked out of the house and across the yard and into the wheat field behind the barn. The wheat was nearly ripe. The wind was coming from the southeast, the way it always came, dry and steady and warm. He walked until he was far enough from the house that no one would see him, and then he knelt down between two rows of wheat and put his hands flat on the earth.
 
-Louisa bore children. The house filled. The farm did not grow.
+He tried to pray. The words he had said every morning of his life — the *Vater unser*, the same German Luther had given to people like him three hundred years ago — would not come. He opened his mouth and nothing was in it. He closed his eyes and saw the baby, alive, dragging his leg across the floor.
 
-And then, because the steppe had not yet finished with Gottlieb Isaak, the village elected him mayor.
+After a long time he said, in a voice that did not sound like his own: *Herr, ich verstehe nicht. Aber ich bin noch da.*
+
+Lord, I do not understand. But I am still here.
+
+He stayed in the field until the stars came out.
 
 ---
 
-**Sophiental — 1873**
+Louisa did not speak for three days.
 
-The crop failed completely in 1873\.
+On the morning of the fourth day Gottlieb came in from the yard and found her at the stove. She was making porridge. Regina was sitting on the floor at her feet, playing with a wooden spoon, and Louisa was stirring the pot with the slow patience of a woman who had decided, sometime in the night, that the pot needed stirring and that she was the one who would stir it.
 
-It was not only Sophiental. The entire region — the sandy country south and east of the mother colonies, where the daughter settlements scratched at soil that gave grudgingly in good years and gave nothing at all in bad ones — went dry that summer. The rain did not come. The wheat did not come. The corn withered in the fields. By August it was clear that there would be no harvest, and by September it was clear what that meant: no feed for the animals, no seed for next year's planting, no money for the rent, and nothing to live on.
+Gottlieb stood in the doorway.
 
-Gottlieb was thirty-eight years old, the father of a growing family, and the mayor of a village that was about to starve.
+"I am going to have another one," she said, without turning around. "In March."
 
-The contract with the landowner — the Russian who owned the soil they farmed — had a clause for this. Gottlieb had read it carefully, because he was the kind of man who read contracts carefully. In the event of a crop failure, the clause said, the rent payment would be delayed and rolled into the following years. It was there in writing. It was clear. It was, he believed, the law.
+He did not move.
 
-He believed wrong.
+"I will not name him Simon," she said. "We do not name them twice." She tapped the spoon against the rim of the pot. "But I will have him and he will live, Gottlieb, because I have decided he will live, and if God has anything to say about it He can say it to me directly." She turned around then, and her eyes were dry and very clear. "Go wash. Breakfast is almost ready."
 
-The administrators — the Russian officials who managed the estate — came to Sophiental in the autumn and demanded the rent. Gottlieb showed them the contract. They told him to submit intelligence reports on the village's financial condition. He submitted them. They asked again for the money. He pointed again to the clause. The correspondence went back and forth through the fall and into the winter, the letters growing shorter and colder on both sides, until one day a letter arrived that ended the conversation.
+Gottlieb went to wash.
+
+Jacob was born in December — four months after his brother's funeral, three months earlier than Louisa had calculated. He was healthy. She held him without crying for the first hour, and then she cried for an hour without stopping, and Gottlieb sat on the edge of the bed and held both of them.
+
+Nine more children came after him. The fields did not.
+
+---
+
+**Sophiental, Bessarabia — 1859**
+
+The first time Gottlieb tried to push an iron rod into the soil at Sophiental, it went in six inches and stopped.
+
+He had grown up in Kulm, in the Bessarabian black earth belt, where as a boy he had once sunk his arm into a freshly turned furrow up to the elbow on a dare from his brother and pulled it out black to the shoulder. The Sophiental ground was light and pale, the color of flour, and it would not take the rod past his ankle. He stood there with the rod in his hand and looked down at it for a long time.
+
+That night, sitting at the rough table in the rented house, he said: "This ground is sand, Louisa. This ground is punishment."
+
+She did not disagree.
+
+They had come because the rent was cheap. The rent was cheap because the harvests were poor, and the harvests were poor because the ground was sand, and they had known all of this before they loaded the wagon in Kulm and yet they had come anyway, because the alternative was to stay in a village where the farm had been divided ten ways and Gottlieb's share would not feed a family of four, let alone the family they were about to have. Sophiental was a worse farm on better terms. That was the whole of it.
+
+*Most of the time, cattle and horses had to be sold to pay for the rent,* Gottlieb would write, fifty-five years later, in the margins of a Bible in a sod house on another continent. The sentence has the flatness of a man who has said the same thing so many times that the anger has gone out of it and only the fact remains.
+
+The years in Sophiental were like that sentence. Flat. Repeating. You sold a horse to pay the rent. You plowed with fewer horses. The harvest was worse. You sold another horse. Louisa bore children and buried none of them — a small mercy that felt like the only mercy left — and the house filled and the farm did not grow, and Gottlieb, who was the kind of man who read contracts carefully, was elected mayor of the village because the other men trusted him to read things carefully on their behalf.
+
+That was how it stood in the autumn of 1873, when the rain did not come.
+
+---
+
+**Sophiental — Autumn and Winter 1873**
+
+The crop failed completely.
+
+It was not only Sophiental. The entire region — the sandy country south and east of the mother colonies, where the daughter settlements scratched at soil that gave grudgingly in good years and gave nothing at all in bad ones — went dry that summer. By August it was clear that there would be no harvest, and by September it was clear what that meant: no feed for the animals, no seed for next year's planting, no money for the rent, and nothing to live on.
+
+Gottlieb was thirty-eight years old, the father of eight living children, and the mayor of a village that was about to starve.
+
+The contract with the landowner had a clause for this. He had read it carefully when he signed it fourteen years earlier, because he was the kind of man who read contracts carefully, and because a man who rents his life from another man learns to pay attention to the small print. In the event of a crop failure, the clause said, the rent payment would be delayed and rolled into the following years. It was there in writing. It was clear. It was, he believed, the law.
+
+The administrators came to Sophiental in October and demanded the rent. Gottlieb showed them the contract. They told him to submit intelligence reports on the village's financial condition. He submitted them. They asked again for the money. He pointed again to the clause. The correspondence went back and forth through the fall and into the winter, the letters growing shorter and colder on both sides, until one day a letter arrived that ended the conversation.
 
 The contract, it said, had been sold to the Crown's broker. The rent was due immediately. If the money was not paid, the colony would be cleared away and removed. They had thirty days.
 
 ---
 
-**Akkerman — Thirty days later**
+**Akkerman — January 1874**
 
 The justice court in Akkerman was a stone building in a town that smelled like the sea, which was only a few miles away. Gottlieb had never been to Akkerman. He had never been to court. He wore his best clothes — the same coat he wore to church, brushed and pressed by Louisa — and he carried the contract in his inside pocket, folded into quarters, the paper already soft from handling.
 
@@ -88,9 +120,7 @@ He knew, before anyone spoke, that it had been arranged. The judges did not look
 
 "Submit the money or leave," they said, voting as one.
 
-Gottlieb requested that the contract be read aloud. This was his right, and they could not refuse it, and so the clerk read the contract, line by line, in a droning voice, while the judges waited.
-
-When the clerk reached the paragraph about crop failures — the clause that specified, in plain language, that rent payments would be delayed in the event of a failed harvest — Gottlieb stopped him.
+Gottlieb requested that the contract be read aloud. This was his right, and they could not refuse it, and so the clerk read the contract, line by line, in a droning voice, while the judges waited. When the clerk reached the paragraph about crop failures — the clause that specified, in plain language, that rent payments would be delayed in the event of a failed harvest — Gottlieb stopped him.
 
 "Is this as expressed in the contract?" he asked.
 
@@ -102,150 +132,152 @@ The judge looked at him. It was not an unkind look, exactly — it was worse tha
 
 "So you will know how to behave yourselves," the judge said. "And that settles the matter."
 
-Gottlieb stood in the stone courtroom and felt the words land on him like a physical weight. He thought of things he could say. He thought of the German word *Gerechtigkeit* — justice — and the Russian word for prison, which he also knew. He thought of Louisa at home with the children, waiting for him to walk through the door with an answer, and he thought of what her face would look like when he told her what the answer was.
+Gottlieb stood in the stone courtroom and felt the words land on him like a physical weight. He thought of things he could say. He thought of the German word *Gerechtigkeit* — justice — and the Russian word for prison, which he also knew. He thought of Louisa at home with the children, waiting for him to walk through the door with an answer.
 
-He said nothing. He borrowed the money from his neighbors and paid what the contract said he did not owe. He went home. He went back to work.
-
-But he kept the contract. He folded it and put it in a drawer, and for the rest of his life it stayed there, next to a Bible and a hymnal — the paper getting softer, the ink getting fainter, the words *so you will know how to behave yourselves* getting louder.
+He said nothing. He borrowed the money from his neighbors and paid what the contract said he did not owe.
 
 ---
 
-**The Decree**
+When he walked out of the courthouse he did not go straight to the inn where his horse was stabled. He stood on the stone steps for a long time with his hands in his coat pockets.
 
-The Tsar's decree had come two years before the crop failure, though its full weight would not be felt for years.
+Akkerman was a port town. The Black Sea was three miles to the south, close enough that the wind off the water reached the courthouse steps and carried the smell of salt and tar and wet rope. Gottlieb had never seen the sea. He had lived his entire life in a country that had a coastline and he had never walked down to the water and looked at it, because there had never been a reason to, because the steppe did not require you to know what lay beyond it and the church did not require it and the farm did not require it.
 
-On June 4, 1871, Alexander II revoked the privileges that had drawn the German colonists to Russia in the first place — the exemption from military service, the right to self-governance, the freedom to worship and educate their children in German. Everything the old tsars had promised was now undone. The colonists' sons would be drafted into the Russian army. Their schools would teach in Russian. Their villages would answer to Russian administrators.
+He turned his head and looked south.
 
-They had ten years to comply.
+He could not see the water. The town was in the way, and beyond the town were the marshes of the Dniester estuary, and beyond the marshes was the sea. But the wind was coming from there. It was the wrong wind — the steppe wind came from the southeast, steady and dry and familiar — and this one was different. Wetter. Stranger. It smelled like somewhere else.
 
-The colonists responded the way the Isaaks had always responded when a government broke its promises: they started looking for the door.
+He thought, standing there on the stone steps with the contract in his pocket: *ships leave from the sea.*
 
-Railroad companies were distributing pamphlets across Europe and Russia, advertising the American frontier — vast, cheap, empty grasslands in a place called Dakota Territory, where the United States government was offering 160 acres of free land to anyone willing to settle it. The Northern Pacific Railroad had reached Dakota in 1872\. Scouts from the colonies traveled to America and came back with reports that sounded almost too familiar: flat country, black soil, big sky, hard winters. It was the steppe. It was Bessarabia, but without the tsar.
+He did not know yet that he was thinking it. He would not be able to name the thought for almost two years. But something in him turned, on those steps, in that wrong wind, and began walking in a direction it had not walked before.
 
-The first families left in 1873\. Within two years, the trickle had become a river, and the colonies were hemorrhaging families the way a man hemorrhages blood — slowly at first, then fast enough to notice, then fast enough to kill.
+He folded the contract more tightly in his pocket and went to find his horse.
 
 ---
 
-**Sophiental — Autumn 1875**
+**Sophiental — Early Spring 1876**
 
-Johann showed up on a Sunday.
+Johann came in February.
 
-Gottlieb hadn't seen his youngest brother in months — the fifteen miles between Sophiental and Kulm might as well have been a hundred when the fields needed working — and he was surprised to see him at the fence, climbing down from a borrowed cart with the careful, unhurried movements of a man who has driven a long way to say something important.
+He had driven the fifteen miles from Kulm on bad roads, through a thaw that had turned the wagon ruts into ankle-deep mud, and when he climbed down from the cart at Gottlieb's gate his boots were black to the knee. He was thirty-three, the father of five, and he had come to tell his older brother something he had already told his wife.
 
-Johann was thirty-three now. He had grown into the quietest of the Isaak brothers, which was saying something in a family not known for wasted words. He had their father's jaw and their mother's eyes and a way of standing in a doorway that made you feel like he'd been there for an hour before you noticed him. He had never married — or rather, he had married late, to a woman as practical as himself, and they had no children yet, which meant he was the lightest of the brothers. The one with the least to lose and the most to carry.
+Gottlieb found him in the yard and knew, from the way Johann was standing, what was coming.
 
-He found Gottlieb behind the barn, mending a harness that had already been mended twice, and he sat down on an upturned bucket and watched his brother work without saying anything for a while, which was how Johann began most important conversations — with silence, until the silence itself became a kind of opening.
+"Come inside," Gottlieb said.
 
-"I'm going to America," he said.
+"No. Out here is better."
 
-Gottlieb's hands stopped moving on the leather.
+They walked to the low wall behind the barn, out of the wind. Johann took off his hat and held it in both hands and looked at the crown of it for a long moment before he spoke.
 
-"I've been reading the letters," Johann said. "The Kellers went last spring. The Schmidts. The Wentzels. Half of Kulm is talking about it, and the other half is packing." He paused. "I want to go first. Get across, find the land, file the homestead. Then send for you."
+"Caroline and I are leaving for America," he said. "In April. We're traveling with the Warnkes and the Kremers — Christof has three children, Christian has two, we've all pooled the ticket money. We go by rail to Bremen and then by ship to New York and then by train to the Dakota Territory, where the American government is giving a hundred and sixty acres of free land to any family that will work it."
 
-Gottlieb set the harness down. "You're talking about the Dakota Territory."
+Gottlieb said nothing for a while. Somewhere in the village a dog was barking.
 
-"I'm talking about a hundred and sixty acres of free land." Johann let the number sit in the air between them. A hundred and sixty acres. Their father's entire farm in Kulm had been sixty-six hectares — about a hundred and sixty acres — and it had been divided among ten sons. What Johann was describing was the whole thing. The whole farm. For one family. For free.
+"A hundred and sixty acres," he said finally.
 
-"The pamphlets say the soil is black," Johann said. "The settlers say it's like Kulm — the real Kulm, the black earth, not this." He gestured at the sandy fields behind them, the pale, exhausted ground that had been slowly starving Gottlieb's family for sixteen years.
+"For one family. For free."
 
-"Pamphlets say a lot of things."
+"No landlord."
 
-"So do the Kellers. So do the Schmidts. They're not pamphlet writers, Gottlieb. They're farmers. They know dirt."
+"No landlord. No broker. No contract that someone can sell out from under you while you're standing in a courtroom being told how to behave yourself."
 
-Gottlieb stood up and walked to the corner of the barn where he could see the fields — his fields, or rather, the landlord's fields that he rented and worked and bled into and sold horses to keep. The steppe stretched out flat and pale and empty in every direction, the same view he had looked at every day for sixteen years, the same sandy nothing that had taken a baby son and a milk cow and three draft horses and most of his pride and given back just enough wheat to keep them alive but never enough to get ahead.
+Gottlieb looked at him sharply. Johann had not been in Akkerman — he had been fifteen miles away in Kulm, mending his own fences — but the story had traveled. Of course it had. Everything traveled in the colonies, every humiliation and every injustice passed from mouth to mouth like scripture, and Johann had carried this one with him for two years the way Gottlieb had carried the contract, folded up and put away but never forgotten.
 
-"I've got nine children," he said.
+"Gottlieb." Johann turned the hat in his hands. "I am not here to say goodbye. I am here to tell you what I am doing so that you can do it too. You and Louisa. August and his family. Daniel if he will come. All of us. I will cross first because I can go in April and you cannot — you have the mayor's accounts to settle, and Louisa's mother is not well enough for a winter crossing, and August has that business with Gottfried and the plow team. I know all of this. I have been thinking about it for a year." He looked up from the hat. "But I am going. And when I am there, I will find the land, and I will write, and I will tell you exactly what to do and when to do it. And then you will come."
+
+"And if it is not as the pamphlets say?"
+
+"Then I will write that too."
+
+"And if the letter does not come?"
+
+"The letter will come."
+
+Gottlieb looked out across the fields — the pale, sandy, exhausted fields that had been the whole of his world for seventeen years — and said nothing.
+
+"There is a thing the Tsar did in '71," Johann said quietly. "You know this. The grace period runs out in 1881. After that the boys go to the army, Gottlieb. Yours and mine. Jacob will be twenty-three. David will be twenty-one. My Johann right behind them. Every boy in this family who can hold a rifle will be in a Russian uniform within five years, and the Tsar does not give boys back. You know this too."
 
 "I know."
 
-"Louisa."
+"So come."
 
-"I know."
+"I need to talk to Louisa."
 
-"The passage alone —"
+"Talk to her. And then come."
 
-"That's why I'm going first." Johann stood up. He was taller than Gottlieb, and thinner, and he had a way of holding himself that made him look like a man standing at a ship's railing, looking at something on the horizon that no one else could see yet. "One ticket. One man. I cross, I find the land, I build something. You sell the farm, settle the debts, get the passports. By the time you're ready, I'll be waiting at the station in Dakota with a wagon and directions to your quarter section."
-
-"My quarter section," Gottlieb repeated. The words sounded foreign. They sounded American.
-
-"Your quarter section. Your land. No landlord. No broker. No contract that someone can sell out from under you while you're standing in a courtroom being told how to behave."
-
-Gottlieb looked at his brother sharply. Johann had not been in Akkerman. He had not stood before those judges. But the story had traveled — of course it had, everything traveled in the colonies, every humiliation and every injustice passed from mouth to mouth like scripture — and Johann had carried it with him for two years the way Gottlieb had carried the contract, folded up and put away but never forgotten.
-
-From inside the house came the sound of Louisa singing to the baby — a German lullaby, the same one their mother had sung in Kulm, the same one her mother had sung before that, the melody threading backward through the generations like a rope tied to a place that no longer existed.
-
-"Let me talk to Louisa," Gottlieb said.
-
-Johann nodded. He picked up the harness, examined Gottlieb's repair, and finished the stitch his brother had abandoned — tighter, neater, the kind of small correction that only a younger brother would dare.
+Johann put his hat back on. He climbed back into the cart. He drove toward Kulm through the same mud he had driven through to get here, and Gottlieb watched him go until the cart was a speck on the plain, and then he went inside.
 
 ---
 
-Johann left Bessarabia in the early spring of 1876\. He traveled by rail to Bremen, by steamship across the Atlantic, and by train to the Dakota Territory, arriving on the first of May in a country he had never seen, on a continent he could barely imagine, carrying everything he owned in a single trunk.
+Johann and Caroline left Bessarabia with the Warnkes and the Kremers in early April of 1876. They reached New York on the first of May. The first letter arrived in Sophiental in October — two pages, practical, unhurried, written in Johann's careful hand. The soil was black. The wind was constant. The land was flat and enormous and free. He had filed a homestead claim. He was building a sod house. There were no trees, but there were also no landlords, no brokers, no Russian officials, and no one — not a single person in the entire territory — who had ever told him how to behave himself.
 
-He wrote his first letter home within weeks. It was two pages long, practical, unhurried, and it changed everything.
-
-The soil was black. The wind was constant. The land was flat and enormous and free. He had filed a homestead claim. He was building a sod house. The nearest neighbor was a family from Tarutino who had arrived the year before and already had twenty acres broken. There was a creek for water. There were no trees, but there were also no landlords, no brokers, no Russian officials, and no one — not a single person in the entire territory — who had ever told him how to behave himself.
-
-The letter reached Sophiental in the autumn, and Gottlieb read it at the kitchen table, and then he read it again, and then he handed it to Louisa without a word.
+Gottlieb read it at the kitchen table. Then he read it again. Then he folded it and put it in the drawer with the contract, and he did not speak of it to Louisa for six weeks, because he was not yet ready to say out loud the thing Johann's letter had said to him in silence.
 
 ---
 
 **Sophiental — Autumn 1877**
 
-August came on a Saturday.
+The second crop failure came in the autumn of '77.
 
-He rode the fifteen miles from Kulm after the last of the harvest was in — what there was of it, which wasn't much — and he brought a jug of *Schnaps* and the particular set of his jaw that Gottlieb recognized immediately. It was their father's jaw. It was the jaw of a man who has made a decision and is working up to saying it out loud.
+It was not as bad as 1873 — the wheat came up, at least, and some of it lived to harvest — but the yield was short and the rent was due and the landlord, remembering the previous argument, was not inclined to be patient. Gottlieb sold two horses that autumn and borrowed against the next year's crop and sat at his desk in the village office by candlelight, reconciling the colony's accounts for the last time, though he did not know it was the last time. Or perhaps he did know, and had known since Akkerman, and was only now letting himself admit it.
 
-They sat behind the barn, out of the wind, with a fire between them. The steppe sky was enormous and cold and full of stars. From inside the house came the muffled sounds of too many children in too few rooms — a baby crying, an older boy shushing it, Louisa's voice cutting through like a blade, restoring order.
+Johann had written four more letters from Dakota by then. Each one was better than the last. He had broken twenty acres. He had built a second room onto the sod house. His nearest neighbor was a family from Tarutino. He was planting winter wheat in ground so rich it made him laugh out loud the first time he ran it through his fingers.
 
-August passed the jug. "When?" he said.
+In October, the newest letter arrived. It contained a single practical paragraph near the end:
 
-"Spring."
+*The railroad company in Bremen will arrange passage for whole families at a reduced rate if you book together. I have made inquiries through a man in Yankton who has a cousin in the office. Come in the winter, not the spring — the winter ships are cheaper and the crossing is rougher but you will reach Dakota in time to plant. Come before April 1878 or the boys will be too close to the conscription rolls to leave.*
 
-"The boys?"
+Gottlieb read the paragraph twice. Then he folded the letter and laid it on the kitchen table alongside the other four, in the order they had arrived, and next to them he laid the contract — the one the judge in Akkerman had told him existed so he would know how to behave.
 
-"Jacob is nineteen. David is seventeen. If I wait another year, they'll be on the conscription rolls and we'll never get the passports."
+Louisa was at the stove. Her back was to him. The oldest children were outside; the younger ones were somewhere in the back room, fighting quietly over a toy. She had heard every letter as it came. She had said nothing about any of them, because Louisa was the kind of woman who listened first and spoke only when she knew exactly what she wanted to say.
 
-August nodded. He drank. He stared at the fire.
-
-"I can't go with you," he said. "Not yet."
-
-"I know."
-
-"One more harvest. I need to settle things with Gottfried — the land, the house, the plow team. He's being Gottfried about it." August smiled thinly. Being Gottfried about something meant being stubborn and righteous and absolutely certain that whatever Gottfried wanted was what God wanted, which was a personality trait that their eldest brother had refined into a kind of art form. "Six months. I'll be behind you by six months."
-
-"You'll be behind me by an ocean."
-
-"I'll be behind you by six months," August said again, firmly, as though repetition could collapse the distance between Bessarabia and the American prairie. "You go in the spring. You get across. Johann's already there — he'll have the land, the house, whatever he's built. You get settled, and by the time the first snow falls, I'll be on a train from New York with four children and a wife who's going to kill me for doing this to her."
-
-Gottlieb laughed. He couldn't help it. The image of August's wife — a formidable woman from Leipzig colony who had once thrown a soup pot at a tax collector — arriving on the Dakota frontier with four children and murder in her eyes was too vivid to resist.
-
-"She'll adapt," August said. "She always does."
-
-"She threw a pot at a government official."
-
-"Exactly. She'll do well in America."
-
-They laughed together, and the laughter felt like something breaking loose — not joy, exactly, but release. The release of men who have been carrying something heavy for a long time and have just realized they can set it down.
-
-The fire burned low. The jug went back and forth. The stars wheeled overhead, the same stars that had watched over every place the Isaak family had ever been — the same stars that were, at this exact moment, shining down on Johann in a sod house in the Dakota Territory, lying awake on a straw mattress, thinking about his brothers on the steppe and wondering if they had decided yet.
-
-They had.
-
-August stayed the night. In the morning he stood in the yard, squinting against the autumn sun, looking east across the fields — the pale, sandy, miserable fields that had been the whole of Gottlieb's world for eighteen years.
-
-"I won't miss it," August said.
-
-"No," Gottlieb said. "But you'll remember it."
-
-August climbed into the cart and drove toward Kulm. Gottlieb watched him go until the cart was a speck on the plain, and then he turned and went inside.
-
-The kitchen table was covered in the ordinary debris of a family morning — cups, bread crumbs, a child's wooden toy, a scrap of mending Louisa hadn't finished. He cleared a space and laid out Johann's letters, one by one, in the order they had arrived. Next to them he placed the contract from the landlord — the one the judge in Akkerman had told him existed so he would know how to behave.
-
-Louisa was at the stove. Her back was to him. She had heard everything the night before — every word, through the thin walls and the open window — and she had not said a thing, because Louisa was the kind of woman who listened first and spoke only when she knew exactly what she wanted to say.
+He sat down at the table. "Louisa."
 
 She did not turn around.
 
 "Yes," she said.
 
-Gottlieb folded the letters and put them back in the drawer. He left the contract on the table. He would not need it where they were going.
+"I haven't —"
+
+"I know what you have not. Yes."
+
+He looked at the back of her head — the dark hair pinned up, a few grey strands at the temples that had not been there five years ago — and felt the thing in his chest that had started turning on the courthouse steps in Akkerman finally come all the way around and point at a direction.
+
+"Your parents," he said.
+
+"I will go tell them now."
+
+"It is evening. It can wait until morning."
+
+"It can," she said, and set the spoon down on the stove, and turned around, and looked at him for the first time since he had come in. "But it will not."
+
+She took her shawl down from the peg by the door and went out.
+
+---
+
+The walk was half a mile. The prayer house, the wagon yard, the lane that ran past the smithy. The autumn wind was up and the sky was the color of iron and Louisa walked with her hands tucked into the shawl and did not rehearse what she was going to say, because she had known for six months exactly what she was going to say and she did not need to practice it.
+
+Her father opened the door before she knocked.
+
+He was standing in the *Stube* in his shirtsleeves, and behind him — on the floor in the middle of the room — was a wooden trunk. The lid was open. Her mother was kneeling beside it, folding a shawl into the bottom.
+
+Louisa stopped in the doorway.
+
+The trunk was the one her father had carried out of Poland in 1815, when he was a boy of sixteen, in another *Kolonne*, on another road. It had sat in the loft of his house for sixty-two years. She had never seen it open.
+
+"I was going to come find you in the morning," her father said. "Your brother is coming over after supper. We need to decide what goes in the trunk, because there is only one trunk and there are a great many of us."
+
+"Father —"
+
+"Your husband had a letter from Dakota two weeks ago. I saw the boy bring it. It is November. I am seventy-eight, Louisa, and I am not stupid." He looked at her over the lid of the trunk. "And I have been waiting since 1871 for someone in this family to say the word out loud."
+
+Her mother, at the trunk, made a sound that was almost a laugh.
+
+"Wilhelm and Susanne will come," her father said. "The grandchildren will come. Your mother and I will come. We will all come, because the alternative is to stay, and the alternative is no longer an alternative. Come help us pack, daughter. We are going to America."
+
+Louisa walked across the room and knelt down beside the trunk, between her father and her mother, and put her hand on the folded shawl in the bottom. It was the wool blanket her grandmother had wrapped her father in when they left Blacka in 1815. She had heard about it her whole life. She had never touched it before.
+
+None of them cried. There was too much to do.
+
+Wilhelm pushed the door open without knocking.
+
+"What," he said, "are we all looking at?"

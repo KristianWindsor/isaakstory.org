@@ -1,145 +1,289 @@
 ## Chapter Twelve
 
-# Pig Feet
+# The Beloved Journeys
+
+South Dakota and Wisconsin — 1905 to 1914
 
 ---
 
-*By the early 1970s, the Isaak family's westward migration had come to rest in Daly City, California — a suburb of identical pastel houses on the foggy hills above the Pacific, where the wind came off the ocean and the supermarkets were open until nine and the nearest prairie was two thousand miles behind them. Allegra was forty-three. She had six children, a Stanford degree, a husband who made her laugh, and a faith that had been building pressure for years, the way a river builds behind a dam — quietly, invisibly, until the force of it demands an outlet.*
+In the second week of July, two months and a few days after his wife had died in the back room of the small house in Eureka, Gottlieb sat on the edge of a strange bed in his son Solomon's farmhouse and tried to tie his bootlaces.
 
-*In 1971, she found one.*
+The bed was not the problem. The bed was a perfectly good bed in a perfectly good room with a window that looked out east toward the wheat fields that Solomon and his wife Caroline had broken six summers ago, and the morning light coming through the window was the same kind of long flat prairie light he had been waking up to every morning of his adult life. It was a familiar light. It was the only familiar thing in the room.
 
----
+The boots were the problem.
 
-**The Ministries**
+The boots were the same boots he had been wearing for four years — the second pair he had owned in Eureka, bought in 1901 at the dry-goods store on the main street, broken in carefully through two winters until they fit the particular shape of his feet — and the laces were the same laces, and the bending-down-to-tie-them was the same bending-down he had been doing every morning of his life for sixty years. But this morning his fingers would not close on the laces. He could see the laces. He could see his fingers. The fingers were doing what fingers had always done — moving, gripping, looping — except that the gripping part was failing, because the joints in the first knuckles of both hands had decided in the night that they were not going to bend properly today, and the laces kept slipping out of his fingers and falling back against the leather of the boots.
 
-Allegra started a radio ministry.
+He sat on the edge of the bed and looked at his hands and felt, for a moment, an emotion he had no word for — something between embarrassment and fury and the small private grief of a man who has just discovered that his body has decided something without consulting him.
 
-It was not a large operation — not the kind of broadcast that reaches millions, not the kind with a studio and a staff and a toll-free number scrolling across the bottom of a television screen. It was Allegra, with a microphone and a script she had written herself, speaking into the air the way her great-great-grandfather Gottlieb had spoken into the darkness of a rocking chair at midnight in 1913 — directly, without apology, to a God she believed was listening and to an audience she hoped was too.
+Then he tried again. The right boot, this time, with the lace gripped between thumb and forefinger of the right hand and held in place against the side of the boot with the left hand pressing the loop down. It almost worked. The loop slipped at the last second and the lace came undone and Gottlieb's fingers, when he straightened up, were trembling from the effort.
 
-She had been writing all her life. She had studied writing at Stanford. She had composed music, designed window displays, taught English to a German nanny, played a pipe organ that vibrated in her sternum. But the radio ministry was different. It was the first time she had used her voice — her actual, physical voice — to do the thing the Isaaks had been doing since Soest: carry the faith forward, across whatever distance was required, to whoever was willing to hear it.
+There was a knock at the bedroom door.
 
-That same year, she and Jack founded Grace Bible Church of Daly City. It started small — a handful of families meeting in a living room, the way David Isaak had started the Lutheran congregation in Mercer County with a handful of homesteaders in a schoolhouse. The Isaaks had been founding churches for three generations. It was, apparently, in the blood.
+"*Vater?*"
 
-In 1972, Allegra started the San Francisco Christian School. Because when you have built a church and a radio ministry and raised six children and graduated from Stanford with honors, the obvious next step is to build a school. The Isaaks did not do things halfway. They never had. Gottlieb had broken fifty acres of virgin prairie in his first year. Albert had designed a clothing store that belonged on Fifth Avenue. Allegra built institutions the way her ancestors had built sod houses — with whatever materials were at hand, on whatever ground was available, and with the absolute conviction that the thing being built was necessary.
+It was Caroline. Solomon's wife. A practical Tarutino German with three children of her own and the patient unhurried voice of a woman who had been managing a household and a husband and three small boys for ten years and had never raised her voice once.
 
----
+"Yes, Caroline."
 
-**The Van — Summer 1973**
+"Breakfast is ready when you are. Take your time. There is no hurry."
 
-And then Allegra decided to take the whole family to Europe.
+He looked at the laces in his lap.
 
-All eight of them. Jack, Allegra, Mike, Mark, Connie, Davey, Scotty, and Kim — ages twenty-one down to seven — packed into a rented Volkswagen van with a sliding door that would become, over the course of six weeks, the most important architectural feature of their lives.
+"Caroline."
 
-The trip was missionary in purpose. Jack and Allegra were exploring opportunities for overseas ministry — looking for contacts, visiting churches, scouting locations where the work they had been doing in Daly City might be needed and welcomed. The children understood this in theory. In practice, what they understood was that they were driving across Europe in a van with seven other people who did not bathe.
+"Yes."
 
-They flew to London. They rented the van. They bought a budget guidebook — the kind that promised Europe on five and ten dollars a day — and they did everything in it. Everything. If the guidebook said a castle was worth seeing, they saw it. If it said a cathedral was free, they entered it. If it said a public park had a view, they found the view and stood in it and took a photograph and got back in the van.
+"Could you — would you mind coming in for a moment."
 
----
+The door opened. She came in. She was already dressed for the day, her hair in the practical knot she wore for housework, an apron over the brown dress, her sleeves rolled back to the elbow because she had been kneading bread when the knock came. She took one look at Gottlieb sitting on the edge of the bed with his boots half-laced and her face did the small kind thing that good daughters-in-law's faces do, which is to register the situation completely without making any comment about it.
 
-**England and Scotland — Two Weeks**
+She knelt down on the rag rug in front of him.
 
-They started in England. In a public square — the kind of cobblestoned plaza where street performers gather and tourists stop and pigeons strut with the confidence of animals who have never been told they are unwelcome — the entire McBirney family set up and played music.
+"May I?"
 
-All of them. Jack and Allegra and every child who could hold an instrument or carry a tune, performing for the crowd the way Albert had performed with his cousins in the Eureka band, the way Gottlieb had sung hymns in the schoolhouse in Kulm. The music was in the family the way the farming had once been in the family — not a talent but a trait, passed down through the generations like blue eyes or stubbornness or the inability to sit still when there was work to be done.
+"Yes."
 
-The English were polite about it. The English are polite about everything.
+She tied the right boot. Then the left. She did it with the quick efficient hands of a woman who had tied her children's boots a thousand times and was tying these the same way, with no more ceremony and no less. When she was finished she did not stand up immediately. She rested her hands on her knees and looked up at him.
 
-Scotland was rain and hills and the particular greenness of a country that has never experienced a drought and cannot imagine one. They drove the van through valleys so narrow that the road was the valley, and the sheep on the hillsides watched them pass with the flat, philosophical stare of animals who have seen tourist vans before and are not impressed.
+"Mornings are the worst, *Vater*."
 
----
+"You have noticed."
 
-**The Continent — Four Weeks**
+"My grandmother had it. The same thing. She said the mornings were the worst, and she said the only thing that helped was to sit by the stove for ten minutes before she tried to do anything with her hands. The warmth gets into the joints. After ten minutes she could do most things. Not quickly, but most things."
 
-They crossed the Channel and entered a world that was larger, older, and more confusing than anything the guidebook had prepared them for. France. Austria. Switzerland. Holland. Italy. Spain. The van became a house on wheels — sleeping quarters, dining room, changing room, argument chamber, and mobile embassy of the McBirney family to the nations of Western Europe.
+"Ten minutes."
 
-They did not bathe. This is not an exaggeration. Bathing, in a VW van with eight people and a budget that measured its daily expenditure in single digits, was a luxury that ranked somewhere below fuel and food and the five-franc admission to the Eiffel Tower, which was one of the few things they actually paid for. Occasionally they found public showers — five-minute affairs, coin-operated, lukewarm at best — and they lined up and took turns with the efficiency of a family that has learned to do everything in formation. Every few days they splurged on a hotel room, and the scramble for the bathroom was competitive in a way that would have impressed the fly-killing cousins of McPherson County.
+"Ten minutes. I will set a chair by the stove for you. You can come to breakfast when you are ready."
 
-The older kids — Mike and Mark — took turns driving, with Jack navigating from the passenger seat using a large paper map that folded and unfolded with the reluctant cooperation of a document that had been folded and unfolded too many times. The map became a character in its own right — consulted, argued with, blamed for wrong turns, and occasionally held upside down, which explained certain detours through villages that the guidebook had not mentioned because they were not worth mentioning.
+She stood up. She brushed off her apron. She did not pat his shoulder or kiss the top of his head or do any of the small kindness-gestures that some women would have done in that moment, because Caroline had a sure instinct for when a man needed a kindness and when he needed to be left in his own dignity. She left him in his own dignity. She walked out of the bedroom and closed the door behind her, and a minute later, through the closed door, he heard her voice in the kitchen telling Solomon to move the rocking chair next to the stove because his father was going to want to sit there in the mornings.
 
-Scotty had sandals. Bad sandals — the kind that expose every toe and offer no protection from the dust and dirt and cobblestones and general filth of six weeks of European travel on foot. His feet got dirtier and dirtier. The dirt was not the ordinary dirt of a child who has been playing outside. It was the accumulated grime of multiple nations — French dirt, Austrian dirt, Swiss dirt, Italian dirt, layered and compressed until his feet were a geological record of the trip itself.
+Solomon, in the kitchen, said: "Why?"
 
-His siblings called him Pig Feet.
+Caroline, very quietly: "Because I said so. Move the chair."
 
-"I don't want to sit next to Scotty and his pig feet\!" became the rallying cry of the van, the daily objection, the hill upon which sibling diplomacy died and was reborn every morning. Scotty sat on the floor. The sliding door was kept open while they drove — not for the scenery, though the scenery was spectacular, but for the air, because eight unwashed people in a Volkswagen van in July produce an atmosphere that the Geneva Convention should have addressed.
+Solomon moved the chair.
 
----
+Gottlieb sat on the edge of the bed for another minute with his boots tied. Then he stood up — slowly, the way he stood up most mornings now — and he went out to the kitchen, and there was a rocking chair next to the stove that had not been there yesterday, and he sat down in it without saying anything, and Caroline put a cup of coffee into his hands without saying anything, and after ten minutes the heat from the stove had crept into his fingers and his shoulders and the deep stiff places at the base of his neck, and he could pick up a fork.
 
-**The Castles**
-
-When they saw a castle, they pulled over.
-
-This was not a policy. It was a compulsion. The European countryside was littered with castles — crumbling stone towers on hilltops, walled estates behind iron gates, medieval ruins rising from fields like the bones of a civilization that had been enormous and was now decorative. The McBirneys could not pass one without stopping. They parked the van, climbed out, and approached the castle with the cheerful determination of a family that has confused tourism with a constitutional right.
-
-Many of the castles were on private property. The McBirneys did not always notice this, and when they did notice, they did not always care, because the castle was *right there* and the fence was *not very high* and the sign — if there was a sign — was in a language they did not read. They trespassed. They explored. They took photographs. And then a groundskeeper or a farmer or an actual aristocrat would appear, speaking rapidly in French or German or Italian, and the McBirneys would smile apologetically and retreat to the van with the particular grace of a family that has been kicked off private property before and has developed a system for it.
+He stayed at Solomon's for four months.
 
 ---
 
-**Innsbruck**
+He left Solomon's in November, before the first hard freeze, and went to David and Hanna's in Eureka. Hanna had been waiting. She had cleared a small room at the back of the house above the hardware store and had put a bed in it and a chair and a small table and a kerosene lamp, and she had bought a thick wool coverlet for the bed at the dry-goods store the week before he arrived, because Hanna was Hanna and she had thought ahead.
 
-In Innsbruck, Davey wandered off.
+He stayed at David's for the winter. The room at the back of the house above the hardware store was warm because the chimney from the store's stove ran up through the wall, and the chimney throbbed gently with the heat all day, and Gottlieb's joints were better there than they had been at Solomon's. He could go down to the store in the mornings and sit on the wooden chair behind the counter that David and Hanna kept for him — *Grandfather's chair*, the children called it — and watch the customers come in. He did not sell anything. He had stopped selling anything a year before Wilhelmina died. But he watched, and the men who came in tipped their hats to him because he was Old Gottlieb Isaak who had been one of the founders of the store, and some of them sat down on the bench by the door and talked to him in Bessarabian German about the weather and the wheat and the price of swine, and that was enough.
 
-He was fourteen. He had the Isaak tendency toward independence and the teenager's conviction that he was perfectly capable of navigating a foreign city without assistance. He left the group — to look at something, to explore a street, to follow a sound or a smell or the simple magnetic pull of a direction that seemed more interesting than the one the family was going — and then he was gone.
+Albert was eighteen that winter. He was working in the store full-time now, learning the ledger from his mother and the floor from his father, and in the slow afternoons when the store was empty he would come over to Gottlieb's chair and sit on the floor at his grandfather's feet and ask him questions. Not the questions a small child asks, but the questions an eighteen-year-old asks when he has begun to understand that the old man in front of him is going to die before the eighteen-year-old is ready and that any question not asked now is going to be a question that goes unanswered forever.
 
-There was no way to contact him. No cell phones. No pagers. No technology of any kind that could bridge the gap between a fourteen-year-old boy and his family in a city of a hundred thousand people where nobody spoke his language. Jack and Allegra split up. The older kids fanned out. They searched the streets, the squares, the churches, the parks, the train station, the places a fourteen-year-old might go and the places he might not, and the hours passed — one, two, three, four, five — and the panic that every parent carries in the back of their mind, the panic that is always there and is usually wrong, was no longer in the back of anyone's mind.
+"Grandfather. What was Sophiental like?"
 
-Six hours later, they found him sitting on the steps of a building in the center of town, calm and unbothered, with the serene expression of a boy who has spent an interesting afternoon in Innsbruck and does not understand what all the fuss is about.
+"Sandy. Bad. The ground would not take a plow rod past your ankle."
 
-The fuss was considerable.
+"And the courthouse in Akkerman?"
+
+"Stone. Three judges. They had decided before I walked in. The judge said the contract existed so I would know how to behave myself."
+
+"Did you ever go back? To Bessarabia?"
+
+"No, Albert. You do not go back."
+
+"Did you want to?"
+
+Gottlieb thought about this for a moment.
+
+"Sometimes. Not the country. The people. My mother. My father, who I never properly knew because I was eighteen when he died. My brothers who stayed. They are all dead now. Daniel in 1883. Gottfried in 1890. The cousins who never came over. I think about them sometimes — not as they were when I left, but as they would have been if they had come with me. What kind of farm Daniel would have built next to mine in Mercer County. What kind of grandchildren Gottfried would have had. The phantom families. The lives that did not happen. That is what you miss when you leave a place, Albert. Not the place. The lives that did not happen."
+
+Albert was quiet for a long moment. Then he said: "I am not going to leave Eureka."
+
+Gottlieb almost smiled.
+
+"You may not have to."
+
+"What do you mean?"
+
+"I mean that you are the first one in this family in six generations to be born in a place your father chose to stay in. Your father is not going to leave Eureka. Your mother is not going to leave Eureka. The store is here and the church is here and the cemetery where your grandmother is buried is here, and you are going to grow up in this town and you are going to marry a girl from this town and you are going to die in this town, and you will never know what it is like to walk away from a place where everyone you love is buried, because you will not have to. That is the gift, Albert. That is the entire gift. Everything I did, everything my father did, everything my grandfather did — all of it was so that you would not have to do it."
+
+Albert thought about this.
+
+"Grandfather."
+
+"Yes."
+
+"What if there is a war?"
+
+Gottlieb looked at him sharply.
+
+"What war?"
+
+"I do not know. A war. They are talking about Europe in the newspapers. I read the *Eureka Post*."
+
+"There has been talk of a war in Europe since 1815. There will be talk of a war in Europe in 1915 and in 2015 and in every year between. Do not borrow trouble, Albert. There is no war coming for you."
+
+Albert nodded. He did not entirely believe his grandfather, but he was eighteen years old and his grandfather was seventy-one and there were certain disagreements an eighteen-year-old did not pursue. He sat at Gottlieb's feet for another minute and then he got up and went back to the floor of the store, where a customer had just come in needing a length of chain.
+
+Gottlieb watched him go. The bell above the door rang. Albert disappeared down the aisle of the store to fetch the chain.
+
+There was no war coming for Albert. There was no war coming for Albert. Gottlieb had said it twice to himself in the rocking chair by the stove, and he had said it because he had needed to hear it said, and because the first stirring of a thing he had no name for had moved across the back of his neck when Albert said the word *war*, and he had wanted very much to push it back where it had come from.
+
+He pushed it back. The chair was warm. The hardware store smelled like metal and oil and the sawdust David swept out of the back every Friday. Albert came back up the aisle with the chain over his shoulder. The bell above the door rang again as another customer came in.
 
 ---
 
-**Holland**
+In the spring of 1906 he went to Magdalena and Adam Sailer in Krem. He stayed three months. Magdalena's hair was still pinned in the chignon with the frizeties across the forehead, the way Hanna had fixed it for her on the morning of her wedding seventeen years ago, and she had four children now and a fifth on the way, and the house in Krem was loud and full and smelled like fresh bread and small children and the woodsmoke from the stove that burned all day long. Magdalena was happier than Gottlieb had ever seen her, and that was hard for him in a way he had not expected. He had not realized, until he sat at her kitchen table in the mornings and watched her with her children, how much of his daughter he had not seen for twenty years, and how much he had missed.
 
-In Holland, on the day before they were scheduled to leave, they discovered a camping supply store.
+He went from there to Antonie and Pastor Bruntsch in their parish on the eastern side of the state. He stayed two months. Pastor Bruntsch was a thin earnest man with a large library of theological books in German, and Gottlieb spent the evenings sitting in the pastor's study reading old sermons by old pastors he had never heard of, and Antonie brought him coffee and sat in the chair across from him and did not interrupt. Antonie had been the baby on Louisa's chest in the bunk on the *Mosel*, and she did not remember any of it, and Gottlieb told her about the *Mosel* one evening over the coffee — about the storm on the tenth night, about the prayer in the dark, about Louisa reaching down from the upper bunk for his hand — and Antonie listened with her hands folded in her lap and her face very still, and when he was finished she said: "Father. Thank you for telling me. I have wanted to know this my whole life."
 
-The van was full. It had been full since France and had become fuller in every country — souvenirs, brochures, clothing that had been washed and clothing that had not, the paper map, the guidebook, the instruments, and the accumulated debris of six weeks of family travel at close quarters. There was no room for anyone to sleep comfortably, and there had not been room for several countries.
+He left Antonie's in the autumn of 1906 and went back to David and Hanna's for the winter. The room at the back of the house above the store was waiting for him with the wool coverlet, and Albert was nineteen now, and they sat in the slow afternoons and talked about the same things they had talked about the year before.
 
-The camping store had display tents — set up outside, fully assembled, the kind of demonstration models that are meant to be admired and not inhabited. The McBirneys parked the van, took the pillows from the car, walked into the display tents, and went to sleep.
+He went to Solomon's in the summer of 1907. He went to David's for the winter. He went to Magdalena's in the spring of 1908. He went to Antonie's in the autumn of 1908. He went to David's for the winter of 1908 and 1909.
 
-It was, in hindsight, one of the great triumphs of McBirney logistics — the moment when the family's refusal to spend money intersected with the camping industry's refusal to lock up its display models, and both sides got what they needed.
+The years began to telescope. He could not always remember, in the third week of a stay at one of his children's houses, which year it was or how long he had been there. The grandchildren grew. The babies he had held at one visit were walking at the next and reading at the one after. Hanna's youngest, Marie, had been an infant when Gottlieb first arrived at David's in November of 1905, and by the winter of 1910 she was five years old and she would climb into his lap in the rocking chair by the stove and ask him to tell her about the camel.
 
----
+"What camel, *Großvater*?"
 
-**Italy**
+"The camel I saw when I was a boy. In Kulm. Herr Raugust had bought wool from a Tatar trader, and the trader had brought a camel into Herr Raugust's yard, and I stopped on my way home from school to look at it because I had never seen anything so ridiculous in my life."
 
-Mark found a sign.
+"What did it look like?"
 
-It was a no-parking sign — the Italian variety, a cardboard placard in a plastic sleeve, the kind of bureaucratic artifact that holds no aesthetic value and possesses no intrinsic interest to any reasonable person. Mark was not a reasonable person. He was nineteen, and the sign was foreign, and foreign signs are, to a nineteen-year-old abroad, irresistible. He took it. He put it in his suitcase. He did not mention this to anyone.
+"It looked like God had made it on the seventh day, after He was already tired."
 
-The sign got wet. Suitcases on the floor of a VW van that has been driving through Europe for five weeks get wet. The ink from the cardboard bled through the plastic and imprinted itself on Mark's clothes — a mirror-image Italian no-parking notice, transferred permanently onto his shirt, as though the Italian *polizia* had stamped him with a citation he could not remove.
-
-He wore the shirt for the rest of the trip. He did not have a choice. The van was full, the laundry situation was what it was, and Mark McBirney walked through the remaining countries of Western Europe with the word *DIVIETO* printed backwards across his chest, a walking monument to the consequences of petty theft and inadequate luggage.
+Marie laughed. She made him tell her the camel story every time he visited. She would ask him for it the way other children asked for fairy tales, and Gottlieb would tell it the same way every time — the green saliva, the long eyelashes, the contemptuous brown eye, the *Pfannkuchen* on the cobblestones — and Marie would laugh in the same places every time, and the camel, which had been dead for seventy years and a continent away, would walk through the kitchen of a house in Eureka, South Dakota one more time on its long ridiculous knees.
 
 ---
 
-**Spain**
+In September of 1912 he went to Wisconsin.
 
-In Spain, they found a department store that sold fencing swords.
+He had not been to Wisconsin before. Emanuel had been asking him to come for years — Emanuel, the youngest, the American, the only one of Louisa's eleven children who had left the Dakotas — and Gottlieb had been putting it off because Wisconsin was a long way and his joints were a long way past the point of pretending that long ways were not a problem. But Emanuel had pressed harder in the spring of 1912, and Gottlieb had finally said yes, and on a morning in early September he boarded a train in Eureka with a single trunk and rode east through Minnesota and across the St. Croix and into Wisconsin, and Emanuel met him at the depot in Oshkosh with a handshake and a coat that was too warm for the September day and a buggy waiting in the street outside.
 
-Real ones. Or real enough — the kind of blunted practice foils that a sporting goods section might carry, displayed alongside soccer balls and tennis rackets and the general athletic merchandise of a country that takes its sports seriously. The McBirney children, who had been cooped up in a van for five weeks and who had the accumulated physical energy of six young people who have not bathed properly since London, regarded the fencing swords with the reverence of knights discovering Excalibur.
+The Wisconsin house was warm. That was the first thing Gottlieb noticed about it. Not the size of it or the furniture in it or the smell of cooking from the kitchen, but the warmth — a deep steady warmth from a coal furnace in the basement, the kind of warmth that filled every room of the house at the same temperature, the kind of warmth Gottlieb had never lived in before in his life. The Dakotas had taught him that a house in winter had a warm side and a cold side. You sat on the warm side near the stove and you slept on the cold side under three blankets and you accepted the gradient as the price of being indoors. The Wisconsin house had no gradient. The whole house was warm. The bedroom was warm. The bathroom — there was a bathroom inside the house — was warm. Even the stairs were warm.
 
-Whether any swords were purchased is a matter of family debate. What is not debated is that the Spanish sporting goods section provided the McBirneys with approximately forty-five minutes of entertainment, which was, by the standards of the trip, a significant achievement.
+His joints loved it for two days.
+
+On the third day they began to hurt in a new way.
+
+It was not the cold-morning stiffness he was used to. It was a deeper pain — a slow grinding ache that started in his hips and worked its way down into his knees and back up into his shoulders, the kind of pain that was not relieved by warmth or by movement or by any of the small accommodations he had learned to make in the rocking chair by Solomon's stove. It was the kind of pain that was worse at night than during the day, and worse on the third night than on the second, and worse on the fourth than on the third. By the end of the first week in Wisconsin, Gottlieb was lying awake in the dark in the warmest house he had ever slept in, and the warmth, which had felt like a kindness when he arrived, had begun to feel like the cause of the trouble.
+
+He did not understand it at the time. He understood it years later, when an old farmer in Eureka explained that some kinds of joint trouble got worse in damp climates and that Wisconsin in September and October was nothing but damp because of the lakes — Lake Winnebago to the south, Lake Michigan to the east — and the damp came up through the basement and the basement warmed it and the warm damp settled into a man's joints and stayed there. But in the autumn of 1912, lying awake in Emanuel's spare bedroom, Gottlieb only knew that the pain was getting worse and that it was not getting better and that he could not sleep.
+
+He stayed three weeks. Then four. Then six.
+
+Emanuel was kind. Emanuel had inherited his mother's quiet and his father's careful eye, and he watched his father with the steady worried attention of a youngest son who knew his father was failing and did not know what to do about it. He brought him hot water bottles. He bought a thicker mattress and put it on the bed. He hired a doctor in Oshkosh who came to the house and listened to Gottlieb's chest and pressed on his joints and prescribed a tincture from a bottle that did nothing.
+
+In the second week of October, Gottlieb sat at the breakfast table in Emanuel's kitchen and could not lift the coffee cup with his right hand. He had to use his left. The left was almost as bad as the right but it was the better of the two, and he lifted the cup with both hands the way a child lifts a heavy mug, and he set it down without drinking, and Emanuel saw all of it from across the table without saying anything.
+
+"Father."
+
+"Yes, Emanuel."
+
+"I am going to send for Magdalena."
+
+"You are not going to send for Magdalena."
+
+"You cannot lift your coffee."
+
+"I can lift my coffee. I am lifting it slowly. There is no rule that says coffee must be lifted quickly."
+
+"Father —"
+
+"Emanuel. I am going home."
+
+Emanuel set down his own coffee.
+
+"Father, you are not in any condition to travel."
+
+"I am not in any condition to stay. The damp here is doing something to my bones that the dry air in Dakota does not do. I have been here six weeks and I am worse every week. I am going home."
+
+"Home is not Eureka anymore. Home is wherever you are. You can stay here. Mary and I will take care of you. The children love having you. We have the room and the warmth and the doctor —"
+
+"Emanuel."
+
+"Yes, Father."
+
+"I lack the patience to remain."
+
+He said it slowly, and he said it looking down at his coffee cup, and he said it with the small dry shame of a man who had just admitted the most personal thing he was ever going to admit out loud. *I lack the patience to remain.* Not *I cannot stay*. Not *the damp is killing me*. Not *I miss the Dakotas*. *I lack the patience to remain.* It was a confession about his own character — a confession that the same restlessness that had driven him from Kulm to Sophiental to America to Hebron to Mercer County to Eureka had not been ground out of him by seventy-eight years of moving, that it was still in him, that it would not let him sit still in a warm house with a son who loved him because sitting still in a warm house was the one thing his blood had been refusing to do since 1857.
+
+Emanuel looked at his father across the kitchen table for a long moment.
+
+"All right, Father."
+
+"Emanuel, I —"
+
+"I know. I knew before you said it. I have known since you got off the train in September. I was hoping I would be wrong, and I was not." He stood up from the table. "I will get the buggy ready. We can be at the depot by noon."
+
+He went to get the buggy ready. Gottlieb sat at the kitchen table with the coffee cup in front of him that he could not lift, and he looked out the window at Emanuel's small Wisconsin yard with the maple trees beginning to turn red at the edges, and he understood that he had just done the thing he was going to regret most in his life — that he had walked away from his youngest son's table for the same reason he had walked away from every other table in his life, which was that he did not know how to stay. He understood it completely, in the moment, with no protection from the understanding, the way some old men understand things at the end. And he did it anyway, because the alternative was to stay, and he did not know how to stay, and he had not known how to stay since he was twenty years old in a kitchen in Kulm watching his brothers fight over their father's sixty-six hectares.
+
+He boarded the train for South Dakota that afternoon. Emanuel stood on the depot platform in his coat and watched the train pull out, and Gottlieb watched his youngest son grow smaller and smaller through the window of the rail car until the train rounded a curve and the platform was gone.
+
+He arrived back in Eureka on the twenty-eighth of October, 1913.
 
 ---
 
-Somewhere in the countryside — the country is disputed, the details are hazy, the way details always get hazy when a family of eight is telling a story and each member remembers a different version — a family of strangers invited the McBirneys into their home.
+Two weeks later, on the night of the thirteenth of November, he could not sleep.
 
-They had sheep. The strangers, not the McBirneys. The sheep were in a field behind the house, and the McBirney children — city kids from Daly City, California, who had never been closer to livestock than Grandma Roesch's unnamed dogs and their brief, tragic relationship with the gravel highway — were delighted. They chased the sheep. The sheep ran. The children ran faster. The sheep ran faster still. And then the sheep were gone — scattered across the countryside, fled into hedgerows and over fences and into the kind of deep, committed hiding that prey animals achieve when they have been chased by six American children who do not understand that sheep are not toys.
+He had been back at David and Hanna's for the two weeks since Wisconsin, in his room at the back of the house above the store, and the rheumatism had not gotten better. It had gotten worse. The damp was gone but the damage the damp had done was still in him, and his joints in the night were a low continuous burning that no position would relieve. He lay on his back. He lay on his side. He turned over and lay on the other side. The pain was in his hips and his knees and his shoulders and the small bones of his hands — the hands that had gripped plows and contracts and Bibles and the rail of the *Mosel*, the hands that had buried Wilhelmina's hairbrush back on the dressing table after Louisa had brushed her dead daughter's hair — and the burning would not stop, and the night was very long.
 
-The strangers were less delighted than the children.
+At midnight he got out of bed.
 
-The McBirneys returned to the van. They drove on. The sheep, presumably, eventually came home, because sheep do, and because the McBirneys were no longer there to chase them.
+He did not light the lamp. He moved by feel, slowly, in the dark, the way an old man moves through a familiar room when his joints are bad. He made it to the small wooden chair in the corner — not the rocking chair by the stove downstairs, but a smaller hard-backed chair he had been using to sit in when he wanted to put his boots on — and he sat down. The chair was cold. He folded his hands in his lap, slowly, knuckle by knuckle, until both hands were folded together over his heart in the old position he had been folding his hands in for prayer since he was four years old in a kitchen in Kulm.
 
-Connie, throughout all of this, was waiting for a letter from Dave Tucker. Every town, every post office, every hotel lobby — she checked. The letter was coming. She was sure of it. Love letters, like sheep, find their way home eventually. Whether this particular letter arrived before the end of the trip is another matter of family debate.
+He spoke aloud, in German. The words were not loud. They were the kind of words a man speaks when he is alone in a room in the dark and there is no one to hear him except the one he is speaking to.
+
+"*Herr.*"
+
+The room was silent.
+
+"*Herr. I have lived my life in the belief that your word is the truth, and this I have firmly believed since I was a boy. You have said: all that you shall ask for, in my name, I will grant you. You have said it. It is in the book. It is the promise.*"
+
+He waited. The room was still silent.
+
+"*I am asking. I have been asking for thirteen months. I do not ask for many things and I have not asked for anything for myself in a very long time, but I am asking now. Take this pain from me. Not because I deserve it taken — I do not. Not because my faith is strong — I do not know if it is. But because you said you would, and because I have read the words carefully and the words are clear, and because I am holding you to the contract.*"
+
+The word *contract* hung in the air for a moment after he said it.
+
+He almost smiled in the dark. He had spent his entire life reading contracts and being told by men in stone rooms how to behave himself, and now here he was at midnight in the dark in his son's house in Eureka, holding the Lord of Heaven and Earth to a contract written in a Bible, and the absurdity of it would have made him laugh if his joints had not hurt so much.
+
+But he was not joking. He had never been more serious about anything. He had read the words. The words were clear. *All that you shall ask for, in my name, I will grant you.* It was the promise. He was not begging. He was not pleading. He was holding God to His word the way he had held the Russian crown broker to the rent contract in Akkerman in 1874, and the difference, the only difference, was that he believed God was not going to be like the crown broker.
+
+"*This you can prove to me by removing my pain.*"
+
+He waited.
+
+The room was silent. The pain in his hands and his hips and his shoulders was the same pain. Nothing changed in the room. Nothing changed in his body. The chair was still cold. The dark was still dark.
+
+After a while he stood up — slowly, the way he stood up most things now — and he made his way back to the bed and he lay down. He closed his eyes. He did not expect to sleep. He had not slept properly in three nights.
+
+He slept.
+
+He slept through the rest of the night. He slept until the grey light of morning was coming through the window above the bed, and he woke to the sound of David moving around in the kitchen downstairs, and he opened his eyes, and he lay very still for a moment because something was different and he could not at first identify what.
+
+The pain was gone.
+
+He moved his right hand. The fingers closed. He moved his left. The fingers closed. He flexed his shoulders. The shoulders moved. He sat up in bed and bent his knees and put his feet on the floor and stood up, and his hips did not seize, and his knees did not catch, and the burning that had been in him for thirteen months was simply not there anymore. Not reduced. Not better. Gone. As though it had been in a room and had walked out and had closed the door behind it.
+
+He stood in the middle of the small room above the hardware store in Eureka and he looked at his hands, which were old man's hands, with the swollen knuckles and the brown spots and the thin papery skin, but which were also his hands again, the hands that did what he asked them to do, and he understood — not slowly this time, but all at once, the way some old men understand things at the end — that he had been answered.
+
+He sat down on the edge of the bed and he wept.
 
 ---
 
-They came home.
+Four months later, on the morning of the seventeenth of March, 1914, Gottlieb sat down at the small table in his room at the back of the house above the hardware store with the Golden Wedding Bible and a pen and an inkwell, and he kept his promise to his wife.
 
-Eight people, six weeks, one VW van, zero consistent hygiene, an unknown number of trespassing violations, a stolen Italian sign, a flock of dispersed sheep, and enough mosquito bites to qualify as a medical event. They had played music in an English square, lost a child in Innsbruck, slept in display tents in Holland, and driven across a continent with the sliding door open because Scotty's feet smelled like a war crime.
+He opened the Bible to the blank pages at the back. The pages were thick and creamy and they had been waiting there since December of 1904. He dipped the pen. He held it for a moment over the first blank page. The hand that held the pen was steady — steadier than it had been in two years, in fact, in the strange way that purpose sometimes settles a man's hand when nothing else can.
 
-It was the best trip any of them ever took. They would argue about the details for the rest of their lives — which country had the best castles, which country had the worst showers, who was driving when they got lost in Austria, and whether the sheep incident was in France or Switzerland or somewhere else entirely. But they would never argue about the trip itself. It was magnificent. It was ridiculous. It was the McBirneys at their most McBirney — loud, unwashed, deeply faithful, and absolutely certain that the world was theirs to explore, even the parts that had fences around them.
+He began to write.
 
-Allegra, sitting in the passenger seat on the drive back to the airport, looked at her family — her beautiful, filthy, sunburned, mosquito-bitten family — and thought about her grandmother Louisa, who had crossed an ocean with nine children in 1878 and had not, so far as anyone knew, complained about it once.
+He wrote in German, in the cramped careful schoolmaster's hand he had been writing in for sixty-five years. He wrote in the small clean letters of a man who had read contracts more carefully than any other man in Bessarabia and who knew that the only way to be sure a thing would be remembered was to write it down so clearly that no one could mistake it.
 
-Six was plenty. But she understood the impulse.
+He wrote for a long time.
+
+Antonie came in once around midmorning with a cup of coffee. She set the cup on the small table without speaking. She looked at her father bent over the Bible with the pen in his hand and the cramped German script filling the page, and she did not interrupt. She walked back out and closed the door.
+
+He wrote until the light through the small window had moved across the table and across his hands, and he wrote until the inkwell was nearly empty, and he wrote until his fingers were tired in the way that fingers get tired from honest work — not the burning of the rheumatism, just the tiredness of muscles that have been doing a thing for hours.
+
+He set down the pen.
+
+He looked at the page in front of him. The page was full. The writing was small and clean and steady. He read the last sentence over once. Then he closed the Bible.
+
+The wind blew outside the window, the same wind that had blown in Kulm.
