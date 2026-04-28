@@ -427,3 +427,5 @@ She was seventeen.
 She was going to be a writer.
 
 She had always been going to be a writer.
+
+![Jack, Allegra, and Mike McBirney, 1955](/img/photos/1955-jack-allegra-mike-mcbirney.jpg)

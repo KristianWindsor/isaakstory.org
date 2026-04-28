@@ -6,6 +6,8 @@ Blacka, Duchy of Warsaw — June, 1812
 
 ---
 
+![Map of the Duchy of Warsaw, 1809-1813](/img/maps/1809-duchy-of-warsaw.png)
+
 The wheat was not yet ripe when the soldiers came.
 
 Karl August Isaak was nine years old. He was in the east field with his older brother Johann Michael, pulling weeds from between the rows, when they heard it — a low sound, felt more than heard at first, like distant thunder on a clear day. Johann Michael straightened up and shaded his eyes, looking south toward the road. Karl August stood beside him, the pulled weeds still in his fist, and followed his brother's gaze.

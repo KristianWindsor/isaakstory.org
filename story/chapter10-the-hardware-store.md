@@ -92,6 +92,8 @@ Behind them, Louisa kept stacking the plates.
 
 ---
 
+![The Eureka Hardware Store, 1892](/img/photos/1892-eureka-hardware-store.jpg)
+
 Albert was seven years old when he counted his first wrong change.
 
 It was a morning in the spring of 1894, two years after the family had moved to Eureka. The hardware store stood on the main street between the grain elevator and the land office, and the bell above the door rang from seven in the morning until six at night, all day, every day, except Sundays and the high holidays. The store smelled like metal and oil and fresh sawdust from the lumber stacked against the back wall, and the shelves were stacked with nails and hinges and rope and chain and plowshares and axe heads and saw blades and stove parts and the hundred other small iron necessities that held a prairie life together.

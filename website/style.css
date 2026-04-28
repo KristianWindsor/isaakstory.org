@@ -77,3 +77,11 @@ li a:hover { text-decoration: underline; }
     border-top: 1px solid #d8cfc4;
     margin: 2.5rem 0;
 }
+
+#content img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 2rem auto;
+    border: 1px solid #e0d8cf;
+}
