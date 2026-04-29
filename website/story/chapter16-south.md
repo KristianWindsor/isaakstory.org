@@ -1,4 +1,4 @@
-## Chapter Seventeen
+## Chapter Sixteen
 
 # South
 
@@ -32,7 +32,7 @@ The official looked at her. He looked at the birth certificate. He looked at her
 
 On the other side, she boarded the Mexican National Railway — the *Ferrocarriles Nacionales de México* — and the train pulled out of Nuevo Laredo and headed south through the dry plains of Tamaulipas toward Monterrey. The trip from the border to Mexico City would take thirty hours. Thirty hours through a country she had never seen, in a train that was older and slower and louder than the American ones, with passengers who spoke a language she did not understand and who ate food she did not recognize and who looked at the blonde girl by the window with friendly curiosity and said things to her that she smiled at because smiling is a language that works everywhere.
 
-The train climbed. The desert gave way to mountains. The mountains gave way to valleys, and the valleys gave way to more mountains, and the air grew cooler as the elevation rose, and somewhere past Querétaro the landscape turned green — not Iowa green, not the flat, monotonous green of a corn field, but the green of a volcanic highland, layered and complex, with agave plants and pine forests and terraced fields carved into hillsides by people who had been farming this land for a thousand years before the Isaaks left Soest.
+The train climbed. The desert gave way to mountains. The mountains gave way to valleys, and the valleys gave way to more mountains, and the air grew cooler as the elevation rose, and somewhere past Querétaro the landscape turned green — not Iowa green, not the flat, monotonous green of a corn field, but the green of a volcanic highland, layered and complex, with agave plants and pine forests and terraced fields carved into hillsides by people who had been farming this land for a thousand years before the Isaaks left Brandenburg.
 
 Mexico City, when it arrived, was the largest city Edith had ever seen.
 
@@ -152,7 +152,7 @@ And then the Isaaks did what the Isaaks had always done. They moved.
 
 In 1963, Jack and Allegra packed all five children into a van and drove across the continent to Newfoundland for missionary work.
 
-It was the farthest east any Isaak had gone since Johann Michel left Brandenburg in 1760. The family that had spent two centuries moving west was now moving east — not fleeing, not seeking land or water or escape from a draft, but answering a call. Allegra's faith, the same faith that had carried the family from Soest to California, had pointed her to the rocky coast of Canada's easternmost province, and she had followed it the way Gottlieb had followed Johann's letter to Dakota: completely, without reservation, with five children in the back seat.
+It was the farthest east any Isaak had gone since Johann Michel left Brandenburg in 1760. The family that had spent two centuries moving west was now moving east — not fleeing, not seeking land or water or escape from a draft, but answering a call. Allegra's faith, the same faith that had carried the family from Brandenburg to California, had pointed her to the rocky coast of Canada's easternmost province, and she had followed it the way Gottlieb had followed Johann's letter to Dakota: completely, without reservation, with five children in the back seat.
 
 They went for a year. When the year was over, they drove all the way home to Santa Barbara. Then they decided they wanted to go back.
 

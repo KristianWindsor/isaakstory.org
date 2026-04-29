@@ -1,4 +1,4 @@
-## Chapter Seven
+## Chapter Six
 
 # Wide Open Spaces
 

@@ -1,4 +1,4 @@
-## Chapter Nine
+## Chapter Eight
 
 # In This Place We Do Not Want to Die
 
@@ -136,7 +136,7 @@ Gottlieb looked up from the scythe.
 
 "Yes."
 
-Gottlieb set down the scythe. He looked at his fourth son — restless, sunburned, twenty-one years old, with the particular set of jaw that Gottlieb recognized because it was his own jaw at twenty-one, and his grandfather's jaw, and probably the jaw of every Isaak man going back to Soest who had ever decided to go look at something himself rather than wait for someone else to describe it to him.
+Gottlieb set down the scythe. He looked at his fourth son — restless, sunburned, twenty-one years old, with the particular set of jaw that Gottlieb recognized because it was his own jaw at twenty-one, and his grandfather's jaw, and probably the jaw of every Isaak man going back to Brandenburg who had ever decided to go look at something himself rather than wait for someone else to describe it to him.
 
 "How long?"
 
@@ -308,7 +308,7 @@ Magdalena walked down the center aisle on her father's arm.
 
 Gottlieb was fifty-five. He had walked his daughter down the center of a room that was not a church to give her to a man she had chosen, and he had done it in a state that had been a state for two days, in a country he had been a citizen of for ten years, in a county that had not existed when he arrived in America, and he was wearing the same coat he had worn to court in Akkerman in 1874, because it was still his best coat and he was not the kind of man who bought a new coat for a wedding when the old one fit.
 
-The pastor performed the ceremony. The vows were the same vows. The Bible reading was Genesis, the same Genesis that had been read at Gottlieb and Louisa's wedding in Kulm in 1854 and at Andreas and Anna Elisabeth's wedding in Soest in 1760, the same words in the same German, threading backward through the family like a rope tied to a place that no longer existed.
+The pastor performed the ceremony. The vows were the same vows. The Bible reading was Genesis, the same Genesis that had been read at Gottlieb and Louisa's wedding in Kulm in 1854, the same words in the same German, threading backward through the family like a rope tied to a place that no longer existed.
 
 After the *Amen*, the pastor produced a piece of paper and a pen and laid both on the small wooden table at the front of the schoolhouse, and Adam and Magdalena and the two witnesses — David for Magdalena, and a friend of Adam's named Boschee for him — came forward to sign the marriage certificate.
 

@@ -1,4 +1,4 @@
-## Chapter Eighteen
+## Chapter Seventeen
 
 # Pig Feet
 
@@ -18,7 +18,7 @@ Allegra started a radio ministry.
 
 It was not a large operation — not the kind of broadcast that reaches millions, not the kind with a studio and a staff and a toll-free number scrolling across the bottom of a television screen. It was Allegra, with a microphone and a script she had written herself, speaking into the air the way her great-great-grandfather Gottlieb had spoken into the darkness of a rocking chair at midnight in 1913 — directly, without apology, to a God she believed was listening and to an audience she hoped was too.
 
-She had been writing all her life. She had studied writing at Stanford. She had composed music, designed window displays, taught English to a German nanny, played a pipe organ that vibrated in her sternum. But the radio ministry was different. It was the first time she had used her voice — her actual, physical voice — to do the thing the Isaaks had been doing since Soest: carry the faith forward, across whatever distance was required, to whoever was willing to hear it.
+She had been writing all her life. She had studied writing at Stanford. She had composed music, designed window displays, taught English to a German nanny, played a pipe organ that vibrated in her sternum. But the radio ministry was different. It was the first time she had used her voice — her actual, physical voice — to do the thing the Isaaks had been doing since Brandenburg: carry the faith forward, across whatever distance was required, to whoever was willing to hear it.
 
 That same year, she and Jack founded Grace Bible Church of Daly City. It started small — a handful of families meeting in a living room, the way David Isaak had started the Lutheran congregation in Mercer County with a handful of homesteaders in a schoolhouse. The Isaaks had been founding churches for three generations. It was, apparently, in the blood.
 

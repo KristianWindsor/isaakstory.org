@@ -1,4 +1,4 @@
-## Chapter Sixteen
+## Chapter Fifteen
 
 # Apparel Art
 

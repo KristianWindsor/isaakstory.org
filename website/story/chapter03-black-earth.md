@@ -1,4 +1,4 @@
-## Chapter Four
+## Chapter Three
 
 # Black Earth
 
@@ -16,7 +16,7 @@ His father was already in the yard. Karl Isaak rose before the rooster — a hab
 
 This had been a sore subject lately. Three weeks ago, something had gotten into the henhouse. Gottlieb had been the one to find them — feathers everywhere, blood on the straw, two hens dead and a third dying with her throat torn open. His father said it was a fox. Old Herr Flegel down the street said it was a wolf, the last wolf in the Budschak, come down from the hills to remind the Germans that the steppe had been here first. Karl had patched the henhouse with heavier boards, set a trap baited with offal, and told Gottlieb to check the coop every morning before dawn.
 
-Gottlieb checked. The chickens were alive, irritable, and unimpressed. Four eggs today. He carried them inside in his cap, and his mother cracked two into the pan without comment. Breakfast was eggs, dark bread with lard, and chicory coffee. His father said grace — the same grace in the same German, the same words reaching back through the family like a rope to a church in Westphalia none of them had ever seen.
+Gottlieb checked. The chickens were alive, irritable, and unimpressed. Four eggs today. He carried them inside in his cap, and his mother cracked two into the pan without comment. Breakfast was eggs, dark bread with lard, and chicory coffee. His father said grace — the same grace in the same German, the same words reaching back through generations none of them had ever witnessed.
 
 Gottlieb reached for the bread before the amen and his father's hand came down on the back of his wrist, not hard, but with the precise weight of a man who did not need to do it twice. Gottlieb pulled his hand back and stared at the table and felt his face go hot. Andreas, across from him, kept his eyes on his plate. Their father finished the prayer in the same unhurried voice as before, as if nothing had happened, which was somehow worse than if he had shouted.
 

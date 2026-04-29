@@ -1,4 +1,4 @@
-## Chapter Ten
+## Chapter Nine
 
 # The Hardware Store
 
