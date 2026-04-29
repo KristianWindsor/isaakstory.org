@@ -228,6 +228,12 @@ On winter evenings, when the store was closed and Alice was asleep, Albert went 
 
 ---
 
+![Postcard from early 1900s](/img/photos/1900s-eureka-duck-hunt.jpg)
+
+![Albert Isaak and the Eureka City Band, 1922](/img/photos/1922-eureka-band.jpg)
+
+---
+
 Edith Allegra was born in a hospital in Aberdeen on the second of July, 1927, at ten-past-four in the morning, in a delivery room with three electric lamps and a new white-enameled metal bassinet.
 
 She had blonde hair. Fine and golden and the color of wheat in August. Albert looked down at her in the bassinet and thought of the poem he had read at nine in the Eureka schoolhouse — *grave Alice, and laughing Allegra, and Edith with golden hair* — and he turned to Eva in the hospital bed and said *both of them*.

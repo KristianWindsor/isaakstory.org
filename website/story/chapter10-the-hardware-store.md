@@ -92,7 +92,11 @@ Behind them, Louisa kept stacking the plates.
 
 ---
 
+![Eureka, South Dakota, 1892](/img/photos/1892-eureka-wheat-market.jpg)
+
 ![The Eureka Hardware Store, 1892](/img/photos/1892-eureka-hardware-store.jpg)
+
+---
 
 Albert was seven years old when he counted his first wrong change.
 
