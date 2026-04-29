@@ -43,7 +43,7 @@ function chapterInfo(string $file): array {
         if (!$h2 && str_starts_with($line, '## ')) { $h2 = substr($line, 3); continue; }
         if (!$h1 && str_starts_with($line, '# '))  { $h1 = substr($line, 2); continue; }
         if ($h1 && !$loc && $line !== '---' && !str_starts_with($line, '!')) {
-            $loc = $line;
+            $loc = str_replace('**', '', $line);
             break;
         }
     }

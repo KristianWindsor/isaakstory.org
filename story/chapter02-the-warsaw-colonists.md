@@ -2,7 +2,7 @@
 
 # The Warsaw Colonists
 
-Blacka, Duchy of Warsaw — June, 1812
+Blacka, Duchy of Warsaw — June 1812
 
 ---
 

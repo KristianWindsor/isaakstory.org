@@ -2,7 +2,7 @@
 
 # The Steppe
 
-Blacka, Western Poland — Spring, 1815
+Blacka, Western Poland — Spring 1815
 
 ---
 

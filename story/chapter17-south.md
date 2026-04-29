@@ -2,7 +2,7 @@
 
 # South
 
----
+Cedar Falls, Iowa — Summer 1945
 
 *In the summer of 1945, the war in Europe was over but the war in the Pacific was not. American boys were still dying on islands whose names their parents could not pronounce. The atomic bomb had not yet been dropped. The world was holding its breath, waiting for an ending that had not arrived, and in Cedar Falls, Iowa, a seventeen-year-old girl who had just graduated from high school was packing a suitcase for Mexico.*
 

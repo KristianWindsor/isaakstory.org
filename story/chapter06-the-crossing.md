@@ -2,9 +2,9 @@
 
 # The Crossing
 
----
+The Road to Odessa — February 1878
 
-**The Road to Odessa — February 1878**
+---
 
 August came with the cart at dawn.
 

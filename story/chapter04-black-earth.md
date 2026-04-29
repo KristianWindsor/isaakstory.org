@@ -2,7 +2,7 @@
 
 # Black Earth
 
-Kulm, Bessarabia — A day in late summer, 1844
+Kulm, Bessarabia — Late Summer 1844
 
 ---
 

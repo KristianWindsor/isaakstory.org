@@ -2,9 +2,9 @@
 
 # The Contract
 
----
+Kulm, Bessarabia — Late August 1853
 
-**Kulm, Bessarabia — Late August 1853**
+---
 
 Karl August Isaak died on a Thursday at the end of August, at fifty-seven, and left behind a widow, a sixty-six-hectare farm, and ten living sons.
 

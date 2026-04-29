@@ -2,9 +2,11 @@
 
 # Pig Feet
 
----
+Daly City, California — 1971
 
-*By the early 1970s, the Isaak family's westward migration had come to rest in Daly City, California — a suburb of identical pastel houses on the foggy hills above the Pacific, where the wind came off the ocean and the supermarkets were open until nine and the nearest prairie was two thousand miles behind them. Allegra was forty-three. She had six children, a Stanford degree, a husband who made her laugh, and a faith that had been building pressure for years, the way a river builds behind a dam — quietly, invisibly, until the force of it demands an outlet.*
+*By the early 1970s, the Isaak family's westward migration had 
+come to rest in Daly City, California — a suburb of identical 
+pastel houses on the foggy hills above the Pacific...*
 
 *In 1971, she found one.*
 
