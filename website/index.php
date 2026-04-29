@@ -5,24 +5,8 @@ if (is_file(__DIR__ . $uri)) {
     return false;
 }
 
-if (str_starts_with($uri, '/img/')) {
-    $imgDir = realpath(__DIR__ . '/../img/');
-    $imgFile = realpath(__DIR__ . '/..' . $uri);
-    if ($imgFile && $imgDir && str_starts_with($imgFile, $imgDir)) {
-        $mimes = ['jpg' => 'image/jpeg', 'jpeg' => 'image/jpeg', 'png' => 'image/png', 'gif' => 'image/gif', 'webp' => 'image/webp'];
-        $ext = strtolower(pathinfo($imgFile, PATHINFO_EXTENSION));
-        if (isset($mimes[$ext])) {
-            header('Content-Type: ' . $mimes[$ext]);
-            readfile($imgFile);
-            exit;
-        }
-    }
-    http_response_code(404);
-    exit;
-}
-
-$storyDir = __DIR__ . '/../story/';
-$imgDir   = __DIR__ . '/../img/';
+$storyDir = __DIR__ . '/story/';
+$imgDir   = __DIR__ . '/img/';
 $slug     = trim($uri, '/');
 
 $chapter     = null;
