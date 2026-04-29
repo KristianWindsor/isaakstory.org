@@ -1,6 +1,10 @@
 <?php
 $uri = parse_url($_SERVER['REQUEST_URI'], PHP_URL_PATH);
 
+if (is_file(__DIR__ . $uri)) {
+    return false;
+}
+
 if (str_starts_with($uri, '/img/')) {
     $imgDir = realpath(__DIR__ . '/../img/');
     $imgFile = realpath(__DIR__ . '/..' . $uri);
