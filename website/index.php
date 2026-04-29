@@ -1,5 +1,6 @@
 <?php
 $uri = parse_url($_SERVER['REQUEST_URI'], PHP_URL_PATH);
+
 if (str_starts_with($uri, '/img/')) {
     $imgDir = realpath(__DIR__ . '/../img/');
     $imgFile = realpath(__DIR__ . '/..' . $uri);
@@ -16,16 +17,26 @@ if (str_starts_with($uri, '/img/')) {
     exit;
 }
 
-$chapter = $_GET['chapter'] ?? null;
-
-if ($chapter !== null && !preg_match('/^chapter\d+(-[a-z0-9]+)*$/', $chapter)) {
-    $chapter = null;
-}
-
 $storyDir = __DIR__ . '/../story/';
+$imgDir   = __DIR__ . '/../img/';
+$slug     = trim($uri, '/');
 
-if ($chapter !== null && !file_exists($storyDir . $chapter . '.md')) {
-    $chapter = null;
+$chapter     = null;
+$contentFile = null;
+$pageType    = 'home';
+
+if ($slug === 'photo-gallery') {
+    $pageType    = 'gallery';
+    $contentFile = $imgDir . 'photo-gallery.md';
+} elseif ($slug === 'map-gallery') {
+    $pageType    = 'gallery';
+    $contentFile = $imgDir . 'map-gallery.md';
+} elseif ($slug !== '') {
+    if (preg_match('/^chapter\d+(-[a-z0-9]+)*$/', $slug) && file_exists($storyDir . $slug . '.md')) {
+        $chapter     = $slug;
+        $pageType    = 'chapter';
+        $contentFile = $storyDir . $slug . '.md';
+    }
 }
 
 $files = glob($storyDir . 'chapter*.md');
@@ -51,16 +62,16 @@ function chapterInfo(string $file): array {
 }
 
 $prevChapter = $nextChapter = null;
-$prevTitle = $nextTitle = '';
+$prevTitle   = $nextTitle   = '';
 if ($chapter !== null) {
     $idx = array_search($chapter, $chapters);
     if ($idx > 0) {
         $prevChapter = $chapters[$idx - 1];
-        $prevTitle = chapterInfo($storyDir . $prevChapter . '.md')['title'];
+        $prevTitle   = chapterInfo($storyDir . $prevChapter . '.md')['title'];
     }
     if ($idx < count($chapters) - 1) {
         $nextChapter = $chapters[$idx + 1];
-        $nextTitle = chapterInfo($storyDir . $nextChapter . '.md')['title'];
+        $nextTitle   = chapterInfo($storyDir . $nextChapter . '.md')['title'];
     }
 }
 ?>
@@ -70,34 +81,35 @@ if ($chapter !== null) {
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>IsaakStory.org</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="/style.css">
 </head>
 <body>
-<?php if ($chapter !== null): ?>
+<?php if ($pageType !== 'home'): ?>
     <nav class="top-nav">
         <a class="home-link" href="/">IsaakStory.org</a>
     </nav>
     <div id="content"></div>
+    <?php if ($pageType === 'chapter'): ?>
     <nav class="bottom-nav">
         <?php if ($prevChapter): ?>
-            <a class="nav-btn prev" href="?chapter=<?= $prevChapter ?>">
+            <a class="nav-btn prev" href="/<?= $prevChapter ?>">
                 <span class="nav-label">Previous chapter</span>
                 <span class="nav-title"><?= htmlspecialchars($prevTitle) ?></span>
             </a>
         <?php endif; ?>
         <?php if ($nextChapter): ?>
-            <a class="nav-btn next" href="?chapter=<?= $nextChapter ?>">
+            <a class="nav-btn next" href="/<?= $nextChapter ?>">
                 <span class="nav-label">Next chapter</span>
                 <span class="nav-title"><?= htmlspecialchars($nextTitle) ?></span>
             </a>
         <?php endif; ?>
     </nav>
+    <?php endif; ?>
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
     <script>
-        const md = <?= json_encode(file_get_contents($storyDir . $chapter . '.md')) ?>;
+        const md = <?= json_encode(file_get_contents($contentFile)) ?>;
         document.getElementById('content').innerHTML = marked.parse(md);
-
-        // Drop cap on first paragraph after first hr, skip all-italic paragraphs
+        <?php if ($pageType === 'chapter'): ?>
         const hr = document.querySelector('#content hr');
         if (hr) {
             let el = hr.nextElementSibling;
@@ -106,6 +118,7 @@ if ($chapter !== null) {
                 el.classList.add('drop-cap');
             }
         }
+        <?php endif; ?>
     </script>
 <?php else: ?>
     <header class="site-header">
@@ -117,7 +130,7 @@ if ($chapter !== null) {
         $info = chapterInfo($storyDir . $name . '.md');
     ?>
         <li>
-            <a href="?chapter=<?= $name ?>">
+            <a href="/<?= $name ?>">
                 <span class="chapter-label"><?= htmlspecialchars($info['label']) ?></span>
                 <span class="chapter-title"><?= htmlspecialchars($info['title']) ?></span>
                 <?php if ($info['location']): ?>
@@ -126,6 +139,15 @@ if ($chapter !== null) {
             </a>
         </li>
     <?php endforeach; ?>
+    </ul>
+    <hr class="gallery-divider">
+    <ul>
+        <li><a href="/photo-gallery">
+            <span class="chapter-title">Photo Gallery</span>
+        </a></li>
+        <li><a href="/map-gallery">
+            <span class="chapter-title">Map Gallery</span>
+        </a></li>
     </ul>
 <?php endif; ?>
 </body>
