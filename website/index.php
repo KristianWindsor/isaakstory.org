@@ -28,15 +28,40 @@ if ($chapter !== null && !file_exists($storyDir . $chapter . '.md')) {
     $chapter = null;
 }
 
-function chapterTitle(string $file): string {
+$files = glob($storyDir . 'chapter*.md');
+usort($files, function ($a, $b) {
+    preg_match('/(\d+)/', basename($a), $ma);
+    preg_match('/(\d+)/', basename($b), $mb);
+    return (int) $ma[1] - (int) $mb[1];
+});
+$chapters = array_map(fn($f) => basename($f, '.md'), $files);
+
+function chapterInfo(string $file): array {
     $lines = file($file, FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
-    $h2 = $h1 = '';
+    $h2 = $h1 = $loc = '';
     foreach ($lines as $line) {
-        if (!$h2 && str_starts_with($line, '## ')) $h2 = ltrim($line, '# ');
-        elseif (!$h1 && str_starts_with($line, '# '))  $h1 = ltrim($line, '# ');
-        if ($h2 && $h1) break;
+        if (!$h2 && str_starts_with($line, '## ')) { $h2 = substr($line, 3); continue; }
+        if (!$h1 && str_starts_with($line, '# '))  { $h1 = substr($line, 2); continue; }
+        if ($h1 && !$loc && $line !== '---' && !str_starts_with($line, '!')) {
+            $loc = $line;
+            break;
+        }
     }
-    return $h2 && $h1 ? "$h2: $h1" : ($h2 ?: $h1 ?: basename($file, '.md'));
+    return ['label' => $h2, 'title' => $h1, 'location' => $loc];
+}
+
+$prevChapter = $nextChapter = null;
+$prevTitle = $nextTitle = '';
+if ($chapter !== null) {
+    $idx = array_search($chapter, $chapters);
+    if ($idx > 0) {
+        $prevChapter = $chapters[$idx - 1];
+        $prevTitle = chapterInfo($storyDir . $prevChapter . '.md')['title'];
+    }
+    if ($idx < count($chapters) - 1) {
+        $nextChapter = $chapters[$idx + 1];
+        $nextTitle = chapterInfo($storyDir . $nextChapter . '.md')['title'];
+    }
 }
 ?>
 <!DOCTYPE html>
@@ -49,29 +74,57 @@ function chapterTitle(string $file): string {
 </head>
 <body>
 <?php if ($chapter !== null): ?>
-    <a class="back" href="/">← All chapters</a>
+    <nav class="top-nav">
+        <a class="home-link" href="/">IsaakStory.org</a>
+    </nav>
     <div id="content"></div>
+    <nav class="bottom-nav">
+        <?php if ($prevChapter): ?>
+            <a class="nav-btn prev" href="?chapter=<?= $prevChapter ?>">
+                <span class="nav-label">Previous chapter</span>
+                <span class="nav-title"><?= htmlspecialchars($prevTitle) ?></span>
+            </a>
+        <?php endif; ?>
+        <?php if ($nextChapter): ?>
+            <a class="nav-btn next" href="?chapter=<?= $nextChapter ?>">
+                <span class="nav-label">Next chapter</span>
+                <span class="nav-title"><?= htmlspecialchars($nextTitle) ?></span>
+            </a>
+        <?php endif; ?>
+    </nav>
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
     <script>
         const md = <?= json_encode(file_get_contents($storyDir . $chapter . '.md')) ?>;
         document.getElementById('content').innerHTML = marked.parse(md);
+
+        // Drop cap on first paragraph after first hr, skip all-italic paragraphs
+        const hr = document.querySelector('#content hr');
+        if (hr) {
+            let el = hr.nextElementSibling;
+            while (el && el.tagName !== 'P') el = el.nextElementSibling;
+            if (el && !(el.children.length === 1 && el.firstElementChild.tagName === 'EM')) {
+                el.classList.add('drop-cap');
+            }
+        }
     </script>
 <?php else: ?>
-    <h1>IsaakStory.org</h1>
-    <p class="subtitle">The Ancestral Journey of Allegra McBirney and the Isaak Family</p>
+    <header class="site-header">
+        <h1 class="site-title">IsaakStory.org</h1>
+        <p class="subtitle">The Ancestral Journey of Allegra McBirney and the Isaak Family</p>
+    </header>
     <ul>
-    <?php
-    $files = glob($storyDir . 'chapter*.md');
-    usort($files, function ($a, $b) {
-        preg_match('/(\d+)/', basename($a), $ma);
-        preg_match('/(\d+)/', basename($b), $mb);
-        return (int) $ma[1] - (int) $mb[1];
-    });
-    foreach ($files as $file):
-        $name = basename($file, '.md');
-        $title = chapterTitle($file);
+    <?php foreach ($chapters as $name):
+        $info = chapterInfo($storyDir . $name . '.md');
     ?>
-        <li><a href="?chapter=<?= $name ?>"><?= htmlspecialchars($title) ?></a></li>
+        <li>
+            <a href="?chapter=<?= $name ?>">
+                <span class="chapter-label"><?= htmlspecialchars($info['label']) ?></span>
+                <span class="chapter-title"><?= htmlspecialchars($info['title']) ?></span>
+                <?php if ($info['location']): ?>
+                <span class="chapter-location"><?= htmlspecialchars($info['location']) ?></span>
+                <?php endif; ?>
+            </a>
+        </li>
     <?php endforeach; ?>
     </ul>
 <?php endif; ?>
