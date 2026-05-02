@@ -1,4 +1,4 @@
-## Chapter Four
+## Chapter Six
 
 # The Contract
 
