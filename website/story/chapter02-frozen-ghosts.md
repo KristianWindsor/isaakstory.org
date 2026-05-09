@@ -2,7 +2,7 @@
 
 # Frozen Ghosts
 
-Duchy of Warsaw, December 1812
+Pabianice, Duchy of Warsaw — December 1812
 
 ---
 
@@ -14,7 +14,7 @@ Karl and Johann had gone up to the rise at the edge of the rye field because the
 
 The horse came from the east at a slow walk, alone, down the middle of the ice-rutted road, the bridle dragging behind it. A cavalry horse — a bay with good lines, the kind of animal Karl had watched the French officers ride past in June and privately admired. Now, its coat was heavily rimed with white frost. No rider. No saddle. Someone had opened it along the haunch: a long ragged cut, not the clean work of a man with the right tools and enough time, but sawed, back and forth, by something inadequate for the purpose. The wound was dark against the grey morning. The blood was no longer dripping; it was freezing into thick, black icicles down the animal's leg before it could reach the ground. The horse was still walking. Still bleeding, in the slow way of things that have lost so much blood the body has nearly stopped noticing. Its breath plumed in weak, ragged clouds that instantly vanished into ice dust.
 
-It passed below them and went around the bend toward Sochaczew.
+It passed below them and went around the bend toward Lask.
 
 Johann did not speak. Karl did not speak. They stood at the windbreak a long time after the horse was gone, looking at the empty road.
 
@@ -94,11 +94,11 @@ Father went out to meet the steward.
 
 He had known the steward since 1798. They had shaken hands at markets and through two changes of government and the steward had been to the farm for a shared pipe on three or four winter evenings over the years. The steward was exhausted and ashamed and he asked the question because he had to ask it.
 
-Father said his eldest was gone — three weeks ago, to a cousin in Płock, before any of this. He said it without blinking. He said it looking directly at a man who had known him for fourteen years and knew he had never told a lie in any of them.
+Father said his eldest was gone — three weeks ago, to a cousin in Blacka, before any of this. He said it without blinking. He said it looking directly at a man who had known him for fourteen years and knew he had never told a lie in any of them.
 
 The steward looked at Father for a long moment.
 
-He said: tell your son in Płock that the manor lord will be counting heads when the thaw comes. He took a sack of potatoes and salt pork and a chicken and left, and Father watched him go, and then came back inside and sat at the table and looked at his hands.
+He said: tell your son in Blacka that the manor lord will be counting heads when the thaw comes. He took a sack of potatoes and salt pork and a chicken and left, and Father watched him go, and then came back inside and sat at the table and looked at his hands.
 
 When Michael came up out of the cellar an hour later, blinking, with dirt in his hair, he stood in the middle of the Stube and could not look at his father. He had heard every word through the floorboards. He had heard his father lie for him — this man who had not lied, who had bent but not broken through the French and the taxes and the foraging parties — and he stood in the warm room and the weight of it was visible on him, the specific shame of being the thing your father has staked his good name on.
 

@@ -2,7 +2,7 @@
 
 # The Tsar's Manifesto
 
-Duchy of Warsaw, Spring 1814
+Pabianice, Duchy of Warsaw — Spring 1814
 
 ---
 

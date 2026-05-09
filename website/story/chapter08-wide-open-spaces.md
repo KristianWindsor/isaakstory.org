@@ -42,7 +42,7 @@ Wilhelm thought about this for a moment. "Then we file next to each other. As cl
 
 Old Johann Schulz set down his fork. He was eighty years old and he had not, in all that time, been the kind of man who made speeches at the table.
 
-"In Blacka," he said, "my father's farm and his brother's farm were separated by a wagon road. You could shout from one porch to the other and be heard. A half-mile is not a wagon road. But it is closer than an ocean."
+"In Pabianice," he said, "my father's farm and his brother's farm were separated by a wagon road. You could shout from one porch to the other and be heard. A half-mile is not a wagon road. But it is closer than an ocean."
 
 Christiana put her hand on his sleeve. He covered her hand with his own and did not move it.
 
@@ -188,7 +188,7 @@ They came in from the section road in twos and threes — Johann and Caroline an
 
 Twenty-nine people. Eleven of them under the age of twelve. Five sod houses on a half-mile of section road, all of them within shouting distance, none of them more than a brisk walk from the next.
 
-Old Johann Schulz said the grace. He said it slowly, in the German of Blacka, which was almost but not quite the German of Kulm, and the differences in his pronunciation reminded Gottlieb that this old man had been born in another century in another country and had carried his trunk down from the loft and had crossed an ocean at seventy-eight years of age in order to be sitting at this table on this Sunday saying grace over his daughter's husband's new son.
+Old Johann Schulz said the grace. He said it slowly, in the German of Pabianice, which was almost but not quite the German of Kulm, and the differences in his pronunciation reminded Gottlieb that this old man had been born in another century in another country and had carried his trunk down from the loft and had crossed an ocean at seventy-eight years of age in order to be sitting at this table on this Sunday saying grace over his daughter's husband's new son.
 
 After the *Amen*, Louisa held Emanuel up so that everyone could see him.
 

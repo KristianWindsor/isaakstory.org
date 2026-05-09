@@ -2,7 +2,7 @@
 
 # The Year of the Locust
 
-Duchy of Warsaw, June 1812
+Pabianice, Duchy of Warsaw — June 1812
 
 ---
 

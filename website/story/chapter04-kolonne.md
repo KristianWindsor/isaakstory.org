@@ -2,7 +2,7 @@
 
 # Kolonne
 
-Poland, Spring 1815
+Pabianice, Duchy of Warsaw — Spring 1815
 
 ---
 
@@ -62,7 +62,7 @@ The wagon was ready by mid-morning. Everything that was going was on it. Everyth
 
 ---
 
-The crossroads east of Blacka was already full when they arrived. Twenty-two families, and their wagons and their animals and their noise and their smell — horses switching at flies, a baby crying in one of the forward wagons, two men arguing in low voices about the order of march. Old men who had not spoken in years were shaking hands, calling each other by names not used since the last time their villages had cause to gather. A dog ran between the wheels and was shouted at from three directions.
+The crossroads east of Pabianice was already full when they arrived. Twenty-two families, and their wagons and their animals and their noise and their smell — horses switching at flies, a baby crying in one of the forward wagons, two men arguing in low voices about the order of march. Old men who had not spoken in years were shaking hands, calling each other by names not used since the last time their villages had cause to gather. A dog ran between the wheels and was shouted at from three directions.
 
 Karl climbed onto the wagon seat to see over the crowd. The column stretched back along the road farther than he had expected. Above the canvas hoops and the bobbing heads of horses and oxen, in all directions, the flat Polish spring spread out pale and windswept to the horizon. He had never seen this many of his own people assembled in one place.
 
@@ -70,13 +70,13 @@ Mr. Leischner sat his gelding at the head of the column with the self-possession
 
 The elected leader came past on a dark horse at an unhurried pace — Johann Ferdinand Roloff, out of Parlin, somewhere in his mid-fifties, broad-shouldered and grey-bearded, with a face that had seen enough to stop being surprised by hardship. Eighty families in total, once all the sections had joined. He stopped briefly at each wagon, offered his hand, said whatever needed saying, and moved on. Karl watched him from the wagon seat for no more than a moment. The face stayed with him anyway.
 
-Pastor Hartmann climbed onto his wagon seat, opened his Bible, and the column went quiet. The Isaaks had known him for years — the Lutheran circuit pastor from Blacka, older than Father, slightly stooped, his satchel worn smooth at the corners. Seeing him at the head of the column was its own kind of comfort. He read from Genesis — the call, the going out, the promise — and then the Gesangbücher came out and the column sang. Quietly, because they were still on Polish soil. But they sang, four parts, voices carrying across the fields in the thin morning.
+Pastor Hartmann climbed onto his wagon seat, opened his Bible, and the column went quiet. The Isaaks had known him for years — the Lutheran circuit pastor from Pabianice, older than Father, slightly stooped, his satchel worn smooth at the corners. Seeing him at the head of the column was its own kind of comfort. He read from Genesis — the call, the going out, the promise — and then the Gesangbücher came out and the column sang. Quietly, because they were still on Polish soil. But they sang, four parts, voices carrying across the fields in the thin morning.
 
-When the singing was done, Elisabeth climbed onto the wagon seat. She folded the wool blanket double beneath her, settled her skirt, and straightened her spine. She did not look back toward Blacka. Karl noticed this and said nothing. He thought of it later — how she had arranged herself as though she had already departed, had been gone since before they loaded, and only her body was completing the formality.
+When the singing was done, Elisabeth climbed onto the wagon seat. She folded the wool blanket double beneath her, settled her skirt, and straightened her spine. She did not look back toward Pabianice. Karl noticed this and said nothing. He thought of it later — how she had arranged herself as though she had already departed, had been gone since before they loaded, and only her body was completing the formality.
 
 Michael went to the lead horse's head. Father and Karl and Johann took their places beside the wheels. Christian settled in the wagon bed with Dorothea and Ernst. Leischner's voice carried down the column — a single phrase, clear and carrying — and the wagons began to move.
 
-Karl walked. The wheel iron turned in its groove beside his left hand, and the road opened ahead of them, and Blacka — if he had looked — was already only a line of rooftops he had no occasion to look at. He didn't look. He kept his eyes on the road and felt something shift in his chest that was not happiness, not grief, not anything he could have named in either German or Polish. It was lighter than sorrow and more honest than joy. He would not find a word for it until he was much older, and by then he would not need one.
+Karl walked. The wheel iron turned in its groove beside his left hand, and the road opened ahead of them, and Pabianice — if he had looked — was already only a line of rooftops he had no occasion to look at. He didn't look. He kept his eyes on the road and felt something shift in his chest that was not happiness, not grief, not anything he could have named in either German or Polish. It was lighter than sorrow and more honest than joy. He would not find a word for it until he was much older, and by then he would not need one.
 
 ---
 
@@ -92,7 +92,7 @@ They had been talking about it all winter, in the Lutheran prayer-houses of Mazo
 
 "Sixty desjatines," said a man named Becker, from the wagon ahead of the Isaaks. He held up both hands, working out the geometry. "How wide is that? How wide, exactly?"
 
-Father knew what one desjatine looked like. He had cleared one himself, in the first years at Blacka. Sixty was beyond him to picture.
+Father knew what one desjatine looked like. He had cleared one himself, in the first years at Pabianice. Sixty was beyond him to picture.
 
 "It is wide enough," he said.
 

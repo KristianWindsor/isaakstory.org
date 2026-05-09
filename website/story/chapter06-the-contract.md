@@ -274,7 +274,7 @@ Her mother, at the trunk, made a sound that was almost a laugh.
 
 "Wilhelm and Susanne will come," her father said. "The grandchildren will come. Your mother and I will come. We will all come, because the alternative is to stay, and the alternative is no longer an alternative. Come help us pack, daughter. We are going to America."
 
-Louisa walked across the room and knelt down beside the trunk, between her father and her mother, and put her hand on the folded shawl in the bottom. It was the wool blanket her grandmother had wrapped her father in when they left Blacka in 1815. She had heard about it her whole life. She had never touched it before.
+Louisa walked across the room and knelt down beside the trunk, between her father and her mother, and put her hand on the folded shawl in the bottom. It was the wool blanket her grandmother had wrapped her father in when they left Pabianice in 1815. She had heard about it her whole life. She had never touched it before.
 
 None of them cried. There was too much to do.
 
