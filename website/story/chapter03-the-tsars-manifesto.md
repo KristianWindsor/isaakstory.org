@@ -10,7 +10,7 @@ The Duchy of Warsaw was dead. In its place, a Russian-controlled Polish state ha
 
 For the German colonists, the peace felt like a tightening noose. 
 
-Karl was twelve, nearly thirteen. Johann was fifteen. Michael had just turned twenty. Father’s hair had gone entirely grey at the temples, the color of winter iron.
+Karl was seventeen. Johann was fifteen. Michael had just turned twenty. Father’s hair had gone entirely grey at the temples, the color of winter iron. 
 
 On Sunday morning, the household put on its Sunday clothes. Karl and Johann wore Michael's outgrown jackets, the stiff linen sleeves riding high on their plow-calloused wrists. Mother fastened her pure white linen cap, pinned her shawl, and took up the hymnal. As they walked the dirt road, the painfully bright spring air only magnified the suffocating weight hanging over the family. 
 
@@ -68,29 +68,11 @@ The Leischners found the Isaaks near the gate.
 
 Katherina Leischner went straight to Mother, taking her arm in a tight, desperate grip. "I know, Lieschen," Katherina whispered, her eyes wet but fierce. "I know."
 
-While the women held each other, Wilhelm, now twelve himself, hurried across the grass with a chipped grey-brown stone clutched in his hand.
+While the women held each other, Wilhelm, now thirteen, practically ran across the grass toward Karl. His face was lit up with the desperate relief of finding something normal in a morning that felt entirely wrong. 
 
-"Johann," he said breathlessly. "Look what I found in the south field."
+"Karl, look," Wilhelm said, pulling a chipped, grey-brown stone from his Sunday coat. "In the south field. It has to be an old arrowhead, doesn't it?"
 
-Johann took the stone and turned it over once in his fingers with great seriousness.
-
-"Arrowhead," he declared immediately.
-
-"You don't know that," Karl said.
-
-Johann handed the stone over. "Then you tell him."
-
-Karl crouched beside Wilhelm and examined the chipped edge more carefully. Wilhelm watched him with complete concentration.
-
-"Could be one," Karl admitted at last. "Or just a broken piece from the riverbank."
-
-Wilhelm looked disappointed.
-
-Karl turned the stone again in his hand. "But if it's an arrowhead, the point would have been tied here." He tapped the narrower end with his thumb.
-
-Wilhelm brightened instantly.
-
-Over Wilhelm's shoulder, Karl caught sight of Johann leaning casually against the churchyard wall, wearing a jacket that was too short for his long arms. Rosina Leischner, seventeen and tall with thick chestnut braids, had drifted over to him. She was speaking to him from under her lashes. Johann was staring very hard at the horizon, trying desperately to pretend he didn't care that she was lingering, and failing completely. 
+Karl took the stone, turning it gravely in his hand, asking the right questions in the right places. Under Karl's steady attention, Wilhelm went perfectly still. Over Wilhelm's shoulder, Karl caught sight of Johann leaning casually against the churchyard wall, wearing a jacket that was too short for his long arms. Rosina Leischner, seventeen and tall with thick chestnut braids, had drifted over to him. She was speaking to him from under her lashes. Johann was staring very hard at the horizon, trying desperately to pretend he didn't care that she was lingering, and failing completely. 
 
 Then, Mr. Leischner spoke, and the quiet normalcy of the yard shattered. 
 
@@ -112,13 +94,9 @@ Father didn't finish the thought. He didn't have to. The race against time was s
 
 The two men stood together against the church wall. They did not speak for a long moment. They had stood together in the aftermath of plagues, crop failures, and regime changes, but this was the end of it. 
 
-Beside Karl, Wilhelm had stopped looking at the stone. The excitement had gone out of him entirely. He stared down at the grass between his boots.
+Beside Karl, Wilhelm had stopped looking at the arrowhead. The boy was staring at the ground. The lit-up thirteen-year-old who had run across the grass five minutes ago was gone. In his place was a child who had just learned, here in his own churchyard, that he was leaving the only world he knew—and leaving Karl behind. 
 
-Karl didn't know what to say. After a moment he handed the stone back.
-
-"Keep it," he said quietly. "In case it really is one."
-
-Wilhelm closed his fingers around it and nodded without looking up.
+Karl didn't say anything. He just reached out and put his hand firmly on Wilhelm's shoulder. Wilhelm didn't look up, but he leaned his small weight, just slightly, against Karl's leg. 
 
 ---
 
@@ -126,41 +104,23 @@ The Isaaks walked home across the fields. The light was high and clean, but the 
 
 Karl and Johann fell behind. By twenty paces, then thirty. 
 
-Johann looked down the dirt road, his pace quick and restless. The excitement in him was impossible to miss.
+Johann looked at the dirt road, his pace fast and restless. The eagerness was practically vibrating out of him. "Karl," he said, his voice low but fierce. "Did you hear him? One hundred and sixty acres. Travel allowances, seed grain, a house built on the Tsar's ruble. It’s an estate, Karl. We could go too."
 
-"Did you hear him?" Johann said. "One hundred and sixty acres. Our own land."
+Karl stared at the rutted track of the post-road beneath his boots. "It's a single estate, Johann. It can't be divided. Michael gets it all. You and I would just be working his dirt until we have to go find our own."
 
-Karl kicked at a stone in the road.
+"It's better than waiting here for the Polish draft board to come for him!" Johann shot back, his frustration flashing. "It’s a way out."
 
-"It's far," he said.
+"A way out to what?" Karl asked quietly. "It's a loan, not a gift. You heard Father. To get the visas, we'll have to sell everything for nothing. We'd be sleeping under a wagon in the winter, and we'd be in debt to an Emperor."
 
-"So?"
+"There's no war there," Johann insisted, refusing to let the dream die. 
 
-Karl shrugged inside Michael's old jacket. "Everything's far when you have to ride there in a wagon."
+Karl didn't answer. In his pocket, his fingers closed around the French sou. He had been carrying it for nearly two years now, rubbing it with his thumb whenever he was thinking, until Napoleon's profile was almost entirely worn away. The Roman wreath was still there, faintly. The emperor's face was gone, wiped blank by time and friction. Empires fade, Karl thought. Only the dirt remains.
 
-Johann laughed once under his breath.
+They reached the farmyard. 
 
-"You sound like Mother."
+Father stopped. The family stopped behind him. 
 
-Karl did not answer.
-
-"There'd be no draft boards," Johann went on. "No Polish clerks. No war."
-
-Karl thought about the empty pews in the church. He thought about the road in winter and the frozen drummer boy on the bench by the stove.
-
-"Father says there's always war somewhere," he said quietly.
-
-Johann's excitement dimmed a little, though not completely.
-
-"Maybe," he said. "But not there yet."
-
-Karl slid his hand into his pocket and closed his fingers around the old French sou. He had carried it for nearly two years now, rubbing it with his thumb whenever he was thinking. Napoleon's face was almost entirely gone from it, worn smooth by time and friction. Only the wreath remained.
-
-Ahead of them Father stopped in the center of the farmyard.
-
-The family stopped behind him.
-
-He stood looking at the *Wohnstallhaus*—the long timber-framed building that housed their family on one end and their cattle on the other. It was the house he had built with his own hands ten years ago. He looked at the thick clay-and-straw daub packed between the wooden beams, remembering the freezing autumn weeks he and Elisabeth had spent pressing it into place so the children wouldn't freeze.
+He stood in the center of the yard and looked at the *Wohnstallhaus*—the long timber-framed building that housed their family on one end and their cattle on the other. It was the house he had built with his own hands ten years ago. He looked at the thick clay-and-straw daub packed between the wooden beams, remembering the freezing autumn weeks he and Elisabeth had spent pressing it into place so the children wouldn't freeze. 
 
 He looked past the barn to the rye fields. He remembered the grueling, back-breaking agony of clearing it, hauling stones out of the earth yard by yard until his hands bled, just to force a harvest from it. And beyond the rye, at the edge of the tree line, were the three small wooden crosses marking the typhus winter—neighbors they had buried when the ground was like iron, because there was no one else left to dig. 
 
@@ -172,8 +132,8 @@ But to stay meant losing Michael to the Tsar’s army. It meant feeding his sons
 
 Father stood perfectly still for a long time. The crisp spring wind caught the edge of his long wool coat. 
 
-Then he turned around. The grim, silent exhaustion that had worn him down over the past two years was suddenly gone. In its place was a terrifying, absolute clarity.
+Then, he turned around. The grim, silent exhaustion that had worn him down over the past two years was suddenly gone. In its place was a terrifying, absolute clarity. Dirt was just dirt. A house was just wood. Blood was the only thing that mattered.
 
-He looked at Michael. Then at Johann, tall now in Michael's old jacket. Then finally at Karl.
+He looked at Michael. Then he looked at Karl. 
 
-"Michael. Johann," Father said, his voice booming across the quiet yard. "Open the barn doors. Pull the wagon out."
+"Michael. Karl," Father said, his voice booming across the quiet yard. "Open the barn doors. Pull the wagon out."
