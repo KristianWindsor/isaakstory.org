@@ -42,9 +42,11 @@ Three men crawling. Crawling, on their hands and knees, in a line, like men who 
 
 A man who fell fifty paces past the bend and did not get up. By the next morning he was a long shape under snow. By the third day the snow had covered the shape and there was nothing. The wolves had been working the road at night — Karl could see the disturbances in the drifts each morning from the rise, the places where the snow had been opened.
 
-Karl told no one what he saw from the rise. Not the crawling men, not the shapes under snow, not the wolves' work on the drifts. He understood, without being told, that his mother was keeping the younger children from knowing as much as she could, and that this was the right decision, and that his job was to carry it and not add to her weight.
+Karl told no one what he saw from the rise. Not the crawling men, not the shapes under snow, not the wolves' work on the drifts.
 
-He was fifteen years old and he had begun to understand that there are things a man carries alone.
+Once, at supper, Christian asked what was on the road now, and Karl saw Mother's hand stop against the soup pot for the space of a breath. After that he stopped speaking about it inside the house.
+
+He was eleven. He did not have words for what was happening on the road. He only knew that bringing it indoors felt wrong.
 
 ---
 
@@ -62,7 +64,7 @@ Three of his toes came away with the rags.
 
 She did not react.
 
-She washed what remained in warm water, slowly, and the boy did not make a sound because he could not feel them, and Karl stood in the doorway and watched and made himself watch, because he had decided in the loft that watching was his job now. The boy looked at the stove. His eyes were not tracking the room properly — they found the fire and stayed there with the fixed attention of a creature that has reduced its requirements to one thing.
+She washed what remained in warm water, slowly, and the boy did not make a sound because he could not feel them, and Karl stood in the doorway and watched and made himself keep watching, because looking away felt childish now, and he was trying very hard not to be childish anymore. The boy looked at the stove. His eyes were not tracking the room properly — they found the fire and stayed there with the fixed attention of a creature that has reduced its requirements to one thing.
 
 Dorothea came and sat next to him on the bench. She did not say anything. She put her shawl over his shoulders, the good wool one, and sat with him while he looked at the fire.
 
@@ -86,7 +88,7 @@ Every farm was to send one able body for corpse removal and grave-digging in gro
 
 The steward would take the son. Michael was eighteen. Father was fifty-four.
 
-Elisabeth put Michael in the cellar ten minutes before the steward reached the gate. Not the potato cellar — the deep one, below, the one with the ceiling so low you could not stand, the one that smelled so strongly ofearth it was like being inside the ground. The cold down there was not the sharp, biting wind of the yard, but a heavy, damp ache that sank immediately into the bones and stayed there. She covered the trapdoor with the old rag rug and stood her loom over it and put Dorothea on the bench in front of the loom and looked at her and said nothing.
+Elisabeth put Michael in the cellar ten minutes before the steward reached the gate. Not the potato cellar — the deep one, below, the one with the ceiling so low you could not stand, the one that smelled so strongly of earth it was like being inside the ground. The cold down there was not the sharp, biting wind of the yard, but a heavy, damp ache that sank immediately into the bones and stayed there. She covered the trapdoor with the old rag rug and stood her loom over it and put Dorothea on the bench in front of the loom and looked at her and said nothing.
 
 Dorothea was eight years old. She had been awake in the night when they carried the boy out to the woodshed. She did not move. She did not speak. She folded her hands in her lap and looked at the wall.
 
@@ -104,9 +106,11 @@ When Michael came up out of the cellar an hour later, blinking, with dirt in his
 
 Father said nothing. He went back outside.
 
-That night Karl lay awake in the loft listening to Michael not sleep on the other side of the boards. He thought: my brother has understood tonight that he is not yet a man. And then he thought: neither am I. And then he thought: I wonder what it will feel like when I am.
+That night Karl lay awake in the loft listening to Michael not sleep on the other side of the boards.
 
-He did not sleep for a long time.
+Earlier, when Michael had climbed out of the cellar, he had looked strange to Karl — not older, as Karl would have expected, but smaller somehow, standing in the middle of the warm room with dirt still in his hair and unable to look Father in the eye.
+
+Lying awake in the dark, Karl understood for the first time that grown men could become frightened too.
 
 ---
 
@@ -128,9 +132,11 @@ The men took everything. The salt pork, the bread, the children's milk, the iron
 
 They slept on the floor. All of them, around the stove, their weapons under their hands.
 
-Karl climbed to the loft. He lay on his stomach and looked down through the gap in the boards at the men sleeping below, and he counted their breathing — the uneven breathing of men past exhaustion — and he counted the knives on their belts. He watched the man who had killed Tasso. He lay in the loft for six hours and he thought, at some point in those six hours, that he could get down the ladder and across the room in the dark and cut the man's throat with the kitchen knife before the others woke.
+Karl climbed to the loft. He lay on his stomach and looked down through the gap in the boards at the men sleeping below, and he counted their breathing — the uneven breathing of men past exhaustion — and he counted the knives on their belts. He watched the man who had killed Tasso.
 
-He was fifteen years old. He was thinking clearly about killing a man and he knew it and the knowing did not make him feel young. He would never feel entirely young again after that night. He lay in the loft and watched and counted until the counting became familiar and the familiar became manageable, and somewhere in that process he slept without meaning to, and in the morning the men were gone.
+At some point in those hours he became certain he could climb down the ladder, cross the room barefoot, take the kitchen knife, and kill the man before the others woke. The certainty arrived suddenly and completely. He lay still afterward, frightened less by the thought itself than by how easy it had seemed.
+
+He counted the breathing. He counted the knives. He watched the man until the watching became a kind of work and the work was something to do, and somewhere in that process he slept without meaning to, and in the morning the men were gone.
 
 The seed grain under the byre floor was safe. The candlesticks and the locket were safe behind the chimney stone. The iron pot was gone, and the food, and Tasso was on the floor of the Stube.
 
@@ -170,7 +176,7 @@ Not a cake. A small dark bread with honey stirred in, because there was no butte
 
 Father lit two candles. This was also not ordinary. One candle was an evening. Two candles were a reason.
 
-They sat down together, all of them — Father, Mother, Michael, Karl, Johann, Christian, Dorothea, and Ernst on Mother's lap, awake for once at the right time, looking around at the candlelight with the mild satisfaction of a two-year-old who has no idea what is happening but has correctly identified that something is.
+They sat down together, all of them — Father, Mother, Michael, Johann, Christian, Karl, Dorothea, and Ernst on Mother's lap, awake for once at the right time, looking around at the candlelight with the mild satisfaction of a two-year-old who has no idea what is happening but has correctly identified that something is.
 
 Father opened to the Book of Isaiah and read slowly, his voice careful and low. "The people that walked in darkness have seen a great light," he read. "They that dwell in the land of the shadow of death, upon them hath the light shined." He did not look up from the page.
 

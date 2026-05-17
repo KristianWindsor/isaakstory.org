@@ -32,7 +32,7 @@ Dorothea considered this. "Better than here?"
 
 She said it the way you say something true that you are not quite ready to believe yet. Karl, who had come in for water and was standing by the door, looked at his mother's face. He had not seen her look like that — forward, not down — in years. It changed her face back into something younger, and he turned away from it the way you turn from a light.
 
-On the second-to-last evening, he walked alone up the rise at the eastern edge of the rye field. The rye was not planted this year. The ground lay open and grey and indifferent. He stood where he had stood in December of 1812, a boy of sixteen, watching the Grande Armée unspool itself across the plain in its thousands and its wretchedness. The Kampinos forest was the same dark line it had always been, the same distance. The field was the same field.
+On the second-to-last evening, he walked alone up the rise at the eastern edge of the rye field. The rye was not planted this year. The ground lay open and grey and indifferent. He stood where he had stood in June of 1812, a boy of eleven, watching the Grande Armée unspool itself across the plain in its thousands. He had stood here too in the December that followed, watching what came back. The Kampinos forest was the same dark line it had always been, the same distance. The field was the same field.
 
 He stood there until the light changed. He did not say anything. He was not sure there was anything to say to a field you were leaving, a field that had never belonged to you and would not miss you. He only wanted to look once more. Then he went back down.
 
@@ -46,7 +46,7 @@ Father was quiet for a moment. "He said, God go with you, Isaak." He went back t
 
 They loaded the Leiterwagen the next morning.
 
-Michael had been planning the load since February, and he ran the operation like a sergeant, pointing and lifting, checking the weight on each axle by pressing down on the boards with both hands. The seed grain went in last, under the wagon seat — linen sacks of rye, barley, flax, a little wheat, small enough that Karl could lift each one but heavy enough that they shifted the balance noticeably. Enough for the first sowing. Michael had counted the sacks and counted them again.
+Michael had been planning the load since February, and he ran the operation like a sergeant, pointing and lifting, checking the weight on each axle by pressing down on the boards with both hands. The seed grain went in last, under the wagon seat — linen sacks of rye, barley, flax, a little wheat, small enough that Karl could lift each one if he put his back into it, and heavy enough that they shifted the balance noticeably. Enough for the first sowing. Michael had counted the sacks and counted them again.
 
 The three books went in together, and Karl watched his mother pack them. The Bible first, into its straw-lined crate against the side panel of the wagon — she placed it flat and pressed the straw down around it and did not linger. The Catechism beside it. Then the Gesangbuch, the old Lutheran songbook, its cover worn soft as skin from years of Sunday hands. She held it a moment before she put it in. Just a moment. Her face didn't change but the way she held it did, something in the wrists, something less transactional than the way she had handled everything else. She set it down beside the Catechism and pressed the straw in on all sides. The three books lay in the dark of the crate together, and she closed the lid.
 
@@ -102,7 +102,7 @@ Father knew what one desjatine looked like. He had cleared one himself, in the f
 
 Michael sat across the fire and listened with the focused attention of a man being told the dimensions of his life. He was twenty-one. The eldest. He would have the primary claim on whatever those sixty desjatines became. He did not speak much at these fires, only listened, and Karl, watching him, thought his brother had aged a year for every hundred miles of road.
 
-Wilhelm Leischner was fourteen and walked beside Karl most days. He was a collector of useless things — hawk feathers tucked in his cap, river stones polished on his trouser leg until they gleamed, a spent musket ball he'd found in a roadside ditch and wouldn't stop turning in his fingers. He gave Karl one of the stones in the third week, a piece of white quartz smooth as a tooth.
+Wilhelm Leischner was thirteen and walked beside Karl most days. He was a collector of useless things — hawk feathers tucked in his cap, river stones polished on his trouser leg until they gleamed, a spent musket ball he'd found in a roadside ditch and wouldn't stop turning in his fingers. He gave Karl one of the stones in the third week, a piece of white quartz smooth as a tooth.
 
 "What's this for?" Karl said.
 
@@ -140,7 +140,7 @@ That night Elisabeth held Ernst while he slept, sitting beside the fire past the
 
 Dorothea had made a quiet friend of the dead child's older sister during the march. She had not understood, for nearly a day, what had happened. When she did understand — Karl saw it happen, watched his sister's face change in the middle of something else, the understanding arriving like weather — Elisabeth was there almost before it showed, arms already around her.
 
-The column moved on in the morning. In less than a minute, the grave was behind them and the road ahead was the same road. Karl walked beside the wheel in the grey dawn and thought about the mother of the dead child. He thought about her at the back of the column, traveling on, putting distance between herself and the place where her child was — and how the distance would never be distance, not really, because she would carry the place with her in the only way that mattered.
+The column moved on in the morning. In less than a minute, the grave was behind them and the road ahead was the same road. Karl walked beside the wheel in the grey dawn and thought about the mother of the dead child. He thought about her at the back of the column, traveling on, putting distance between herself and the place where her child was. The distance would not work the way distance was supposed to. He could not have said why. He only knew it would not.
 
 That evening, the men still talked about sixty desjatines. But they spoke more quietly, and for shorter stretches, and left more room between sentences.
 
@@ -160,7 +160,7 @@ The officer wrote it. He did not look up.
 
 The clerk worked through the line without looking up, sliding coins across the table with one finger — silver rubles, worn dull from handling, a few per soul. The empire beginning to make good on its end of the bargain. Father held out his hand and received his share. He didn't count them. He looked at the Tsar's face on the topmost coin — a stranger's profile, from a world that had gotten along fine without any of them and now meant to organize what came next — then closed his fist and put them away.
 
-Cossacks watched from a field to the north — four of them mounted, lances upright, perfectly still. Not approaching, not retreating, only watching with the professional patience of men whose business is observation. Karl looked at them for a long moment. They were not soldiers he had grown up with, not the ragged Cossack patrols that had passed through Mazovia in 1812. These were settled, purposeful, planted in their saddles like trees. He felt the assessment in their stillness. The column had changed status here, at this low wooden building, in this transaction recorded in a ledger. They were no longer travelers with papers. They were an investment.
+Cossacks watched from a field to the north — four of them mounted, lances upright, perfectly still. Not approaching, not retreating, only watching with the professional patience of men whose business is observation. Karl looked at them for a long moment. They were not soldiers he had grown up with, not the ragged Cossack patrols that had passed through Mazovia in 1812. These were settled, purposeful, planted in their saddles like trees. He felt them looking at the column the way a man looks at horses he has paid for. He did not have the word for what that meant. He only knew the feeling of it, and that it did not go away when he looked away.
 
 Mr. Leischner mounted his horse. The column moved on. The gate did not close behind them — there was no gate, only the wooden building and the road continuing east — but Karl felt it close anyway, felt some particular threshold pass underfoot, irreversible, permanent. The country he had been born in was now behind him. He did not look back at it.
 
@@ -186,7 +186,7 @@ It was in that same week, or the next, that Elisabeth stopped holding.
 
 It began as a headache she mentioned once and then stopped mentioning. Then a shivering that didn't match the temperature, a blanketing kind of cold that no amount of wool addressed. The marsh fever moved through her quietly at first, methodical, and by the time any of them understood what it was she was in the wagon and Katherina Leischner was walking alongside, climbing up at the noon halt to press a wet cloth to her forehead and feel her pulse and say something low and steady in her ear. 
 
-Elisabeth lay in the wagon bed on a doubled blanket, her white linen cap damp at the edges. Her breathing was steady but shallow. Her face in fever was changed — all the daily arrangement of it gone, reduced to the bare essential structure, the bones beneath the skin. She was, Karl realized with a start that sat in his stomach for days, still a beautiful woman, under the cap and the years and the work.
+Elisabeth lay in the wagon bed on a doubled blanket, her white linen cap damp at the edges. Her breathing was steady but shallow. Her face in fever was changed — all the daily arrangement of it gone, reduced to the bare essential structure, the bones beneath the skin. Karl looked at her and saw, for the first time, that she had a face apart from being his mother — that the bones under there had belonged to a girl once, and to a young woman, and were still doing whatever it was bones did when nobody was looking. The thought sat strangely in him. He did not know what to do with it, so he did not do anything with it.
 
 The family moved around her with the careful, wide berth of people who do not wish to crowd what they fear. Michael spooned thin broth into her at each halt, holding the bowl close, refusing to pull it away until she swallowed. Dorothea held her hand when the column was moving and sat beside her in silence when it stopped. Johann and Karl said nothing useful and so said nothing, and Karl thought about the child in the Brandt wagon, and then made himself stop thinking about it.
 
@@ -252,7 +252,7 @@ Karl climbed back down off the wagon seat. He walked beside the wheel. Standing 
 
 After a while Father came up beside him. They walked in silence. Then Father said, not loudly, without looking at him: "I had not pictured it like this."
 
-Karl looked at his father's face. The same face he had known all his life — the weathered creases, the missing fingertip, the jaw set in the habitual arrangement of a man who does not show difficulty. And in it now, something Karl had not seen before. Not fear, exactly. But what fear looked like in a man of fifty-six who had already carried a great deal and did not intend to say so.
+Karl looked up at his father's face. The same face he had known all his life — the weathered creases, the missing fingertip, the jaw set in the habitual arrangement of a man who does not show difficulty. And in it now, something Karl had not seen before. Not fear, exactly. But what fear looked like in a man of fifty-six who had already carried a great deal and did not intend to say so.
 
 "Neither had I," Karl said.
 
