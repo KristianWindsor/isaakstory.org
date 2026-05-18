@@ -8,7 +8,9 @@ Pabianice, Duchy of Warsaw — Spring 1815
 
 The plow went first.
 
-Father had sharpened it the autumn before out of habit, the way a man does a thing so many times it lives in his hands instead of his head. But the blade stayed bright through winter, unused, and when the miller came up the track in April with his cart and his small eyes and his knowledge of exactly what an Isaak needed to be debt-free, Father walked him out to the barn without ceremony and named a price. The miller named another. Father looked at the plowshare for a moment, at the high curved iron he had driven through ten years of Polish clay, and then said yes. He turned away before the miller had finished counting.
+It was a year later than it should have been. Half the village of Pabianice had already packed their wagons and vanished eastward in the frantic spring of 1814, leaving behind a heavy, echoing silence in the church and the empty dirt lanes. The Isaaks had stayed, tethered by stubborn hope and the sheer weight of the farm they had built, but the grueling Polish winter had finally broken them. Now, it was Spring 1815, and they were following the ghosts of their neighbors.
+
+Father had sharpened the plow the autumn before out of habit, the way a man does a thing so many times it lives in his hands instead of his head. But the blade stayed bright through winter, unused, and when the miller came up the track in April with his cart and his small eyes and his knowledge of exactly what an Isaak needed to be debt-free, Father walked him out to the barn without ceremony and named a price. The miller named another. Father looked at the plowshare for a moment, at the high curved iron he had driven through ten years of Polish clay, and then said yes. He turned away before the miller had finished counting.
 
 Karl was splitting kindling by the woodpile and saw his father come out of the barn alone. Father walked to the fence and stood looking at the far fields and did not move for a time. Then he slapped both hands on the rail and pushed off and went inside.
 
@@ -62,13 +64,15 @@ The wagon was ready by mid-morning. Everything that was going was on it. Everyth
 
 ---
 
-The crossroads east of Pabianice was already full when they arrived. Twenty-two families, and their wagons and their animals and their noise and their smell — horses switching at flies, a baby crying in one of the forward wagons, two men arguing in low voices about the order of march. Old men who had not spoken in years were shaking hands, calling each other by names not used since the last time their villages had cause to gather. A dog ran between the wheels and was shouted at from three directions.
+The crossroads east of Pabianice was already full — a dozen families, and their wagons, their animals, their noise and smell. Horses switching at flies, a baby crying somewhere in the forward wagons, two men arguing in low voices about the order of march. Old men who hadn't spoken in years were shaking hands, calling each other by names not used since the last time their villages had cause to gather. A dog ran between the wheels and was shouted at from three directions.
 
-Karl climbed onto the wagon seat to see over the crowd. The column stretched back along the road farther than he had expected. Above the canvas hoops and the bobbing heads of horses and oxen, in all directions, the flat Polish spring spread out pale and windswept to the horizon. He had never seen this many of his own people assembled in one place.
+It was a smaller gathering than the one that had left the year before. These were the ones left behind — families who had needed one more harvest, one more season to settle debts or bury parents, or simply enough time to gather the courage to leave.
+
+Karl climbed onto the wagon seat to see over the crowd. The column stretched back along the road beneath the pale Polish sky, canvas tops and wagon wheels fading into the flat spring distance.
 
 Mr. Leischner sat his gelding at the head of the column with the self-possession of a man who had been elected to something and intended to carry it properly. He was a square-shouldered man with a voice built for carrying across distances, wearing a heavy wool frock coat despite the mild morning. As Karl watched, he reached into his coat with one hand, pressed the breast flat for a moment, and withdrew it. The Kronpass — the Crown Passport for the whole column — was in there, folded in oiled leather, good from the Vistula to the Black Sea. Leischner touched the coat the way other men touched a ring.
 
-The elected leader came past on a dark horse at an unhurried pace — Johann Ferdinand Roloff, out of Parlin, somewhere in his mid-fifties, broad-shouldered and grey-bearded, with a face that had seen enough to stop being surprised by hardship. Eighty families in total, once all the sections had joined. He stopped briefly at each wagon, offered his hand, said whatever needed saying, and moved on. Karl watched him from the wagon seat for no more than a moment. The face stayed with him anyway.
+The elected leader came past on a dark horse at an unhurried pace — Johann Ferdinand Roloff, out of Parlin, somewhere in his mid-fifties, broad-shouldered and grey-bearded, with a face that had seen enough to stop being surprised by hardship. He stopped briefly at each wagon, offered his hand, said whatever needed saying, and moved on. Karl watched him from the wagon seat for no more than a moment. The face stayed with him anyway.
 
 Pastor Hartmann climbed onto his wagon seat, opened his Bible, and the column went quiet. The Isaaks had known him for years — the Lutheran circuit pastor from Pabianice, older than Father, slightly stooped, his satchel worn smooth at the corners. Seeing him at the head of the column was its own kind of comfort. He read from Genesis — the call, the going out, the promise — and then the Gesangbücher came out and the column sang. Quietly, because they were still on Polish soil. But they sang, four parts, voices carrying across the fields in the thin morning.
 
@@ -206,9 +210,7 @@ Father's voice came out softer than Karl had ever heard it. "Weeks yet."
 
 Something crossed his father's face. Not a smile exactly, and not anything else that had a clean name, but something that belonged to the same territory as both. He lifted her hand from the blanket and held it in both of his.
 
-She was alive in the morning. And the morning after that. Somewhere in those two days and nights she had settled something with herself — not hope, but a decision, the kind you make once and don't revisit. She had decided she would not die in Volhynia. She was keeping it.
-
-She was still alive in the morning. And the morning after. At some point during those two days and nights she had made a decision — not hope, which can fail, but a decision, which holds. She had decided she would not die in Volhynia. The decision was made. She intended to keep it.
+She was alive in the morning. And the morning after. At some point during those two days and nights she had made a decision — not hope, which can fail, but a decision, which holds. She had decided she would not die in Volhynia. The decision was made. She intended to keep it.
 
 ---
 
@@ -260,19 +262,27 @@ His father nodded once and kept walking.
 
 ---
 
-The registration had been underway for several days — names called forward, ledgers filling at a table inside the staging camp tent, Roloff moving back and forth between his master roster and the Russian clerks. Then on the first of September the land itself entered the picture. A surveyor rode out from the camp to meet them on the road above the Kogälnik valley, a translator and junior officer alongside him. Karl watched from the column as Roloff spoke with them at the edge of the rise — compact and still on his dark horse, the three figures small against the sky. After a time he turned and came back down. The column moved forward.
+After the Russian clerks finished with their ledgers and the surveyor had ridden out to meet them at the rise, Roloff came back down to the column and gave the word. They moved forward.
 
-The valley was not what Karl had imagined a valley to be. The Kogälnik in late summer was not a river — it was a string of stagnant muddy pools connected by wet grass, humming with insects, smelling of something ancient and vegetable and low. The country on either side of it was the same high steppe they had been walking through for days, grass and sky and wind, without modification.
+And then, from the top of the rise, Karl saw the colony.
 
-The officials were three: a junior officer with a ledger, a surveyor in a coat too heavy for August, and a translator whose German came out broken at the edges but serviceable. The junior officer sat his horse at the front and waited with the patient expression of a man whose work consists entirely of waiting for other people to arrive.
+Karl craned his neck and searched the valley below. A thousand miles of travel had given him plenty of time to imagine what a year's head start would produce. He'd expected half-built timber frames, maybe the skeleton of a church rising above the rooflines—the reassuring, familiar shape of a Polish village set down on foreign soil.
 
-The translator told the column, in his careful fractured German, that they would be settled here. The colony had no name yet — only a location on the officer's map, a mark on the grid of crown land being divided out among the new arrivals. Each family would receive sixty desjatines. The measurement would begin in the morning.
+Instead, he felt a cold shock of surprise.
 
-Michael looked at the Kogälnik. He stood beside the wagon with his arms crossed and looked at the muddy pools and then looked at Father.
+The Kogälnik valley spread out below, but it held no houses. No barns. Not one standing structure anywhere in sight. 
 
-"We'll need a deep well," he said, low enough that the officials wouldn't hear it if they were listening. "Before the week is out. Otherwise the animals are finished."
+A strange, sprawling settlement had been cut into the open steppe. It ran along a single enormous dirt avenue—a hundred meters wide and stretching more than two kilometers straight down the valley floor. Along both sides of this great road, sixty family lots had been laid out with rigid, mechanical uniformity. Yet the land around it was alive with work. Wheat fields ran perpendicular to the road, the rye and oats already harvested down to pale stubble by people who had arrived the year before and had been racing the seasons without pause. 
 
-Father looked at the valley. Then he looked at his eldest son. He nodded.
+But there were no houses. No church. No timber walls. No village as Karl understood the word. Instead, Karl saw a neat grid of smoking dirt mounds—Erdhütten, earth huts—with roofs of sod and dried reeds protruding just a few feet above the black ground. They looked like badger setts built by giants. Threads of smoke rose directly out of the earth, marking the burrows where their former neighbors were now living in the dirt.
+
+All around the village, the land was a hive of frantic activity. The older settlers—those who had survived the march a year ago—were aggressively plowing the rich, black dirt to plant winter wheat before the frost. Beyond them lay golden fields of chopped stubble, the remnants of a rushed summer harvest of spring rye and oats. And with absolutely no trees in sight on the vast steppe, families were desperately stacking mountains of dried weeds and *Kizyak*—sun-dried manure bricks—to burn for fuel against the coming winter.
+
+The officials were three: a junior officer with a ledger, a surveyor in a coat too heavy for August, and a translator whose German came out broken at the edges but serviceable. 
+
+The translator told the newly arrived column that they would be settled right here. The colony was to be called Kulm. 
+
+To accommodate future growth, several vacant spaces had been intentionally left open among the carefully measured plots from the year before. The surveyor walked the Isaak family to one of these empty gaps between two smoking earth huts. He was a compact man who moved with the practiced indifference of someone who had done this measurement many times. 
 
 The surveyor walked the Isaak family to their parcel. He was a compact man who moved through the high grass with the practiced indifference of someone who had done this measurement many times and expected to do it many more. He pointed, he paced, he drove two wooden pegs into the ground in the grass — the first at what would be the corner nearest the valley, the second at a distance Karl could not quite judge — and pointed with his riding crop at the land between them and gestured outward. Sixty desjatines. Crown land. He said something in Russian and the translator conveyed it: it was theirs.
 
