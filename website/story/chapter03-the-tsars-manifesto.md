@@ -12,7 +12,7 @@ For the German colonists, the changing of the guard felt like a tightening noose
 
 Karl was seventeen. Johann was fifteen. Michael had just turned twenty. Father’s hair had gone entirely grey at the temples, the exact color of the iron-grey January sky.
 
-On Sunday morning, the household bundled into their Sunday best. Karl and Johann wore Michael's outgrown winter coats, the stiff woolen cuffs riding uncomfortably high on their freezing, plow-calloused wrists. Mother fastened her thick woolen shawl, pinning it tightly against the biting frost, and took up her hymnal. As they walked the frozen, snow-crusted ruts of the road, the icy, bone-chilling morning air only magnified the suffocating weight hanging over the family.
+On Sunday morning, the household bundled into their Sunday best. Karl and Johann wore Michael's outgrown winter coats, the stiff woolen cuffs riding uncomfortably high on their freezing, plow-calloused wrists. Mother walked slower than usual, her face pale but resolute in the cold, fiercely shielding a tiny bundle against her chest. Inside her thick woolen shawl, completely enveloped against the biting frost to share her body heat, was Anna Maria—just a couple weeks old, the newest Isaak. Mother took up her hymnal with her free hand. As they walked the frozen, snow-crusted ruts of the road, the icy, bone-chilling morning air only magnified the suffocating weight hanging over the family.
 
 They walked in silence. There was no bell to call them over the snowdrifts.
 
@@ -46,7 +46,9 @@ Fourth, freedom of religion. They could build churches, cast bronze bells, and c
 
 In the third pew, Father sat perfectly still, his large, scarred hands resting heavily on his knees. He had heard this song before. Twenty years ago, the Prussian King had offered these exact same promises to convince young German families to settle this very soil when it was newly conquered Polish territory. Father and Mother had come as newlyweds. They had broken their backs turning wild, frozen scrub into productive fields.
 
-But empires shifted like the winter winds. Prussia had lost the land to the French, and the French had lost it to the Russians. The Germans were now a hated minority on land they had bled to tame. The Tsar was not offering them a gift. The Tsar needed a wild border secured, just as the Prussian King had. And Father knew that Crown loans were simply another way to bind a man to the dirt.
+Beside him, hidden beneath Mother's heavy shawl, little Maria stirred. She let out a tiny, breathy whimper that sounded incredibly loud in the freezing, silent room.
+
+Father looked at the small, bundled shape of his newborn daughter, brought into a dying country. Empires shifted like the winter winds. Prussia had lost the land to the French, and the French had lost it to the Russians. The Germans were now a hated minority on land they had bled to tame. The Tsar was not offering them a gift. The Tsar needed a wild border secured, just as the Prussian King had. And Father knew that Crown loans were simply another way to bind a man to the dirt.
 
 Then, the Russian agent looked up from the heavy paper and delivered the final term.
 
@@ -68,7 +70,7 @@ After the service, the colony spilled out into the pale, freezing winter sun. Th
 
 The Leischners found the Isaaks near the snow-capped gate.
 
-Katherina Leischner went straight to Mother, taking her arm in a tight, desperate grip. "I know, Lieschen," Katherina whispered, her eyes wet but fierce. "I know."
+Katherina Leischner went straight to Mother, taking her arm in a tight, desperate grip, careful not to press against the sleeping newborn. "I know, Lieschen," Katherina whispered, her eyes wet but fierce. "I know."
 
 While the women held each other, Wilhelm, now thirteen, practically ran across the icy grass toward Karl. His nose was bright red from the cold, but his face was lit up with the desperate relief of finding something normal in a morning that felt entirely wrong.
 
@@ -90,9 +92,15 @@ Father looked at his oldest friend. "You are leaving."
 
 Leischner nodded heavily. "I know. We will have to sell the heavy plows. The surplus grain. The extra livestock. Everything we cannot put in the wagon."
 
-"If we try to sell," Father said, "the whole village will be trying to sell. Prices will collapse to nothing." Father glanced over his shoulder at Michael, who stood silently near the icy fence. "And the draft boards are already writing lists. If the clerks delay the visas for months, and Michael’s name is drawn before the Russian passport is in my hand..."
+Father glanced over his shoulder at Michael, who stood silently near the icy fence. He was twenty, strong, and already marked by the Polish recruiters. If they stayed another year, Michael would be marched off to die for a foreign Tsar. 
 
-Father didn't finish the thought. He didn't have to. The race against time was suddenly, terrifyingly real.
+Then, Father looked down at the fragile, shifting bundle of Anna Maria tucked against Mother's chest. Taking a three-month-old infant out onto the deep, half-frozen mud of the spring thaw was a different kind of death sentence. The brutal pioneer road would kill her just as surely as a musket ball would kill his son.
+
+"How do I choose?" Father whispered, his voice stripped of its usual booming authority. It was the first time Karl had ever heard his father sound entirely lost. "If we leave now, the road kills the baby. If we stay a year to let her grow, the Tsar takes Michael."
+
+Leischner looked at the small bundle against Mother's chest, his face softening with grim sympathy. "I cannot make that choice for you, Michel. But the draft boards are already writing their lists. If the clerks delay the visas, and Michael’s name is drawn before you have the Russian passport in your hand..."
+
+Father didn't answer. He stood perfectly still, paralyzed between two terrible fates. The race against time was suddenly, terrifyingly real.
 
 The two men stood together against the church wall. They did not speak for a long moment. They had stood together in the aftermath of plagues, crop failures, and regime changes, but this was the end of it.
 
@@ -102,7 +110,7 @@ Karl didn't say anything. He just reached out and put his hand firmly on Wilhelm
 
 ---
 
-The Isaaks walked home across the fields. The pale sun was already sinking, and the silence among them was heavier than it had ever been. Mother walked ahead with Father, Ernst on her hip with his small hooded head against her neck. Michael walked with Christian. Dorothea was between them.
+The Isaaks walked home across the fields. The pale sun was already sinking, and the silence among them was heavier than it had ever been. Mother walked ahead with Father, Ernst holding tightly to her skirt while she kept both arms wrapped fiercely around the swaddled newborn against her chest. Michael walked with Christian. Dorothea was between them.
 
 Karl and Johann fell behind. By twenty paces, then thirty.
 
@@ -134,8 +142,10 @@ But to stay meant losing Michael to the Tsar’s army. It meant feeding his sons
 
 Father stood perfectly still for a long time. The howling January wind caught the edge of his long wool coat.
 
-Then, he turned around. The grim, silent exhaustion that had worn him down over the past two years was suddenly gone. In its place was a terrifying, absolute clarity. Dirt was just dirt. A house was just wood. Blood was the only thing that mattered.
+He turned to face his family. The silent exhaustion that had worn him down over the winter was gone, replaced by a cold, absolute clarity. He looked at his eldest son, whose name was already on a Polish draft list, and then at the tiny, swaddled shape of his newborn daughter in his wife's arms. He still did not know how to save them both. He only knew that standing still meant losing them.
 
-He looked at Michael. Then he looked at Karl.
+"Michael," Father said, his voice flat and heavy in the wind. "Keep your boots on."
 
-"Michael. Karl," Father said, his voice booming across the quiet, frozen yard. "Open the barn doors. Pull the wagon out."
+Michael blinked, his face tight with tension. "Father?"
+
+"Tomorrow morning, we go into Pabianice," Father said, staring down the frozen track. "We find the magistrate. We need to know exactly how much silver it costs to buy an exit visa, and how many months he will make us wait to hold it."

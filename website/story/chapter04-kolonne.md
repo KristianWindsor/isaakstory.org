@@ -8,7 +8,7 @@ Pabianice, Duchy of Warsaw — Spring 1815
 
 The plow went first.
 
-It was a year later than it should have been. Half the village of Pabianice had already packed their wagons and vanished eastward in the frantic spring of 1814, leaving behind a heavy, echoing silence in the church and the empty dirt lanes. The Isaaks had stayed, tethered by stubborn hope and the sheer weight of the farm they had built, but the grueling Polish winter had finally broken them. Now, it was Spring 1815, and they were following the ghosts of their neighbors.
+It was a year later than it should have been. Half the village of Pabianice had already packed their wagons and vanished eastward in the frantic spring of 1814, leaving behind a heavy, echoing silence in the church and the empty dirt lanes. The Isaaks had stayed, tethered by the fragile life of a winter newborn they refused to risk on the thousand mile journey. Now, it was Spring 1815, and they were following the ghosts of their neighbors.
 
 Father had sharpened the plow the autumn before out of habit, the way a man does a thing so many times it lives in his hands instead of his head. But the blade stayed bright through winter, unused, and when the miller came up the track in April with his cart and his small eyes and his knowledge of exactly what an Isaak needed to be debt-free, Father walked him out to the barn without ceremony and named a price. The miller named another. Father looked at the plowshare for a moment, at the high curved iron he had driven through ten years of Polish clay, and then said yes. He turned away before the miller had finished counting.
 
@@ -24,11 +24,11 @@ Father put his hand flat on the ox's shoulder and pushed. The animal didn't move
 
 He went back inside. Karl set down the bucket.
 
-In the kitchen, Elisabeth worked with the specific efficiency of a woman who had already made every decision in her head and was now only executing. The blue glazed bowl her mother had given her at her wedding — it went into the straw-lined crate. The iron pot. The good knife. The spare candles. Dorothea, eleven and serious, followed her mother from shelf to shelf and received each object with both hands, as though it were already precious by virtue of surviving the cut.
+In the kitchen, Elisabeth worked with the specific efficiency of a woman who had already made every decision in her head and was now only executing. The blue glazed bowl her mother had given her at her wedding — it went into the straw-lined crate. The iron pot. The good knife. The spare candles. Dorothea, eleven and serious, trailed behind her, simultaneously receiving each object with both hands and keeping a watchful eye on Anna Maria, who was now determinedly waddling toward every open crate she could find.
 
 "The tile stoves in Russia," Elisabeth said at one point, not to Dorothea exactly but not to herself either, wrapping the bowl in a length of cloth. "I've heard they go floor to ceiling. Glazed. They hold the heat all night."
 
-Dorothea considered this. "Better than here?"
+Dorothea considered this, pulling Maria away from a sack of flour. "Better than here?"
 
 "Different." Elisabeth's hands moved quickly over the knot. "Better, perhaps."
 
@@ -88,7 +88,9 @@ The road was alive in May.
 
 The column averaged ten miles on a good day — half that when the spring rains set in and turned the Polish roads to a soft, clinging clay that swallowed wheels and tested patience. The men would gather at each stuck wagon, four or five of them, knee-deep, leaning their shoulders into the spokes and pulling while the horses heaved and snorted and the women and children moved their weight toward the high side and held on. By the time the last wagon had been wrestled clear, the men were muddy to the waist, breathing hard, and grinning in a way that made no obvious sense. They were moving. The mud was what it cost.
 
-The rhythm of the column had its own liturgy. Up before light. Pastor Hartmann moved from wagon to wagon in the darkness — sometimes on his horse, sometimes walking, his satchel over one shoulder — and led the morning prayers before the teams were hitched, his voice low and unhurried in the grey before first light. Hard bread and cheese eaten walking or sitting in the wagon bed while the team was hitched. Movement at first grey light. A long noon halt beside whatever stream or pond the route provided, animals grazing, cold food, children asleep in the sun. Then the afternoon march, the light coming lower and cooler, until Roloff called the halt near water and the wagons formed their rough circle and the fires were lit and the hymns rose at the camp edge in the long spring dusk.
+The rhythm of the column had its own liturgy. Up before light. Pastor Hartmann moved from wagon to wagon in the darkness — sometimes on his horse, sometimes walking, his satchel over one shoulder — and led the morning prayers before the teams were hitched, his voice low and unhurried in the grey before first light. Hard bread and cheese eaten walking or sitting in the wagon bed while the team was hitched. 
+
+On the wagon seat, Mother rode with Maria bound tightly to her chest in a heavy woolen shawl. She had mastered a pioneer's ruthless economy of motion, quietly nursing the restless toddler beneath the thick wool while simultaneously mending a torn shirt with her free hands as the iron-rimmed wheels jolted over the ruts. Movement at first grey light. A long noon halt beside whatever stream or pond the route provided, animals grazing, cold food, children asleep in the sun. Then the afternoon march, the light coming lower and cooler, until Roloff called the halt near water and the wagons formed their rough circle and the fires were lit and the hymns rose at the camp edge in the long spring dusk.
 
 In the evenings the men talked about the manifesto.
 
@@ -144,7 +146,7 @@ That night Elisabeth held Ernst while he slept, sitting beside the fire past the
 
 Dorothea had made a quiet friend of the dead child's older sister during the march. She had not understood, for nearly a day, what had happened. When she did understand — Karl saw it happen, watched his sister's face change in the middle of something else, the understanding arriving like weather — Elisabeth was there almost before it showed, arms already around her.
 
-The column moved on in the morning. In less than a minute, the grave was behind them and the road ahead was the same road. Karl walked beside the wheel in the grey dawn and thought about the mother of the dead child. He thought about her at the back of the column, traveling on, putting distance between herself and the place where her child was — and how the distance would never be distance, not really, because she would carry the place with her in the only way that mattered.
+The column moved on in the morning. In less than a minute, the grave was behind them and the road ahead was the same road. Karl walked beside the wheel in the grey dawn and thought about the mother of the dead child. He thought about little Maria, safe in their own wagon, and felt a cold spike of dread. He thought about the Brandt woman at the back of the column, traveling on, putting distance between herself and the place where her child was — and how the distance would never be distance, not really, because she would carry the place with her in the only way that mattered.
 
 That evening, the men still talked about sixty desjatines. But they spoke more quietly, and for shorter stretches, and left more room between sentences.
 
@@ -190,7 +192,7 @@ It was in that same week, or the next, that Elisabeth stopped holding.
 
 It began as a headache she mentioned once and then stopped mentioning. Then a shivering that didn't match the temperature, a blanketing kind of cold that no amount of wool addressed. The marsh fever moved through her quietly at first, methodical, and by the time any of them understood what it was she was in the wagon and Katherina Leischner was walking alongside, climbing up at the noon halt to press a wet cloth to her forehead and feel her pulse and say something low and steady in her ear. 
 
-Elisabeth lay in the wagon bed on a doubled blanket, her white linen cap damp at the edges. Her breathing was steady but shallow. Her face in fever was changed — all the daily arrangement of it gone, reduced to the bare essential structure, the bones beneath the skin. She was, Karl realized with a start that sat in his stomach for days, still a beautiful woman, under the cap and the years and the work.
+Elisabeth lay in the wagon bed on a doubled blanket, her white linen cap damp at the edges. She was soon too weak to nurse. Anna Maria wailed with a fierce, confused hunger for two days until Dorothea learned to pacify the toddler with knotted rags soaked in warm goat's milk. Her breathing was steady but shallow. Her face in fever was changed — all the daily arrangement of it gone, reduced to the bare essential structure, the bones beneath the skin. She was, Karl realized with a start that sat in his stomach for days, still a beautiful woman, under the cap and the years and the work.
 
 The family moved around her with the careful, wide berth of people who do not wish to crowd what they fear. Michael spooned thin broth into her at each halt, holding the bowl close, refusing to pull it away until she swallowed. Dorothea held her hand when the column was moving and sat beside her in silence when it stopped. Johann and Karl said nothing useful and so said nothing, and Karl thought about the child in the Brandt wagon, and then made himself stop thinking about it.
 
@@ -224,7 +226,7 @@ Near the landing, visible from the bank at low water, the wreck of an earlier wa
 
 When the Isaak wagon reached the front of the queue, Karl studied the ferry — plank-built, flat, with low board rails and a rope running to the far bank. It looked like it had been made with adequate confidence but not excessive confidence. The horses did not want to board it. Michael went to the nearest horse's head and spoke to it with his face close to its ear, saying something Karl couldn't hear, until the animal's breathing slowed and it put one hoof on the planking and then the other and moved onto the ferry with its head low and trembling.
 
-Elisabeth sat in the wagon bed with Ernst in her lap. She had wrapped one arm around him and braced the other on the wagon side, and her face was calm — not the calm of someone not afraid, but the calm of someone who has already spent all her fear on the things worth being afraid of and has none left for a river.
+Elisabeth sat in the wagon bed with Ernst clinging to her skirt and Maria bound fiercely to her chest in the woolen shawl. She had wrapped one arm around the boy and braced the other on the wagon side, and her face was calm — not the calm of someone not afraid, but the calm of someone who has already spent all her fear on the things worth being afraid of and has none left for a river.
 
 The ferry pushed off. The current took it sideways at once and the rope went taut and they were in it — the brown water racing past the planks, the far bank seeming to draw no closer, the wagon settled on the platform with all their possessions in it and nothing between them and the Bessarabian side but the river and the rope and the horses on the far bank leaning into their traces somewhere in the haze.
 
@@ -282,15 +284,13 @@ The officials were three: a junior officer with a ledger, a surveyor in a coat t
 
 The translator told the newly arrived column that they would be settled right here. The colony was to be called Kulm. 
 
-To accommodate future growth, several vacant spaces had been intentionally left open among the carefully measured plots from the year before. The surveyor walked the Isaak family to one of these empty gaps between two smoking earth huts. He was a compact man who moved with the practiced indifference of someone who had done this measurement many times. 
-
-The surveyor walked the Isaak family to their parcel. He was a compact man who moved through the high grass with the practiced indifference of someone who had done this measurement many times and expected to do it many more. He pointed, he paced, he drove two wooden pegs into the ground in the grass — the first at what would be the corner nearest the valley, the second at a distance Karl could not quite judge — and pointed with his riding crop at the land between them and gestured outward. Sixty desjatines. Crown land. He said something in Russian and the translator conveyed it: it was theirs.
+To accommodate future growth, several vacant spaces had been intentionally left open among the carefully measured plots from the year before. The surveyor walked the Isaak family to one of these empty gaps between two smoking earth huts. He was a compact man who moved through the high grass with the practiced indifference of someone who had done this measurement many times and expected to do it many more. He pointed, he paced, he drove two wooden pegs into the ground in the grass — the first at what would be the corner nearest the valley, the second at a distance Karl could not quite judge — and pointed with his riding crop at the land between them and gestured outward. Sixty desjatines. Crown land. He said something in Russian and the translator conveyed it: it was theirs.
 
 The junior officer made the entry in his ledger. The date was the first of September, 1815. The Isaak name went into the book in Russian, in a hand that did not know the name and would not think of it again.
 
 Karl looked at the two pegs in the high grass. They were short stakes, barely knee-high, already half-hidden by the grass moving around them in the wind. Sixty desjatines. An empire's gift, or the Tsar's investment, or both, or neither — he did not have the language for what it was. He only knew that the grass went a very long way in every direction from where he was standing, and that somewhere in it were two stakes that meant this part of it was theirs.
 
-Elisabeth climbed down from the wagon.
+Elisabeth handed the heavy, fussing toddler to Dorothea and climbed down from the wagon by herself.
 
 Michael moved toward her — she was still slow, still careful, the fever weeks behind her but her body remembering it. She put up one hand, not sharply, only a small definitive gesture, the gesture of a woman who has decided how she is going to do this and does not require assistance. He stopped.
 
