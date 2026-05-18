@@ -50,11 +50,11 @@ He was fifteen years old and he had begun to understand that there are things a 
 
 The boy at the door was the size of Christian.
 
-He was perhaps fourteen years old. He was wearing a French drummer's coat that reached his knees, the blue of it so faded and so fouled it was barely a color anymore, and there was nothing under it that Elisabeth could see when she opened the door. His feet were wrapped in strips of blanket that had frozen solid around them. His face was the color of tallow — not pale, not the pale of a cold child, but the specific waxy yellow of a candle, the color of something from which the blood has very nearly given up.
+He was perhaps fourteen years old. He was wearing a French drummer's coat that reached his knees, the blue of it so faded and so fouled it was barely a color anymore, and there was nothing under it that Mother could see when she opened the door. His feet were wrapped in strips of blanket that had frozen solid around them. His face was the color of tallow — not pale, not the pale of a cold child, but the specific waxy yellow of a candle, the color of something from which the blood has very nearly given up.
 
 He could not speak any language they recognized. He was making sounds, but Karl, who had German and Polish and a little French from listening to soldiers, could not find a language in them. He may have been speaking. He may simply have been making sound because sound was what remained.
 
-Elisabeth opened the door wider and brought him inside before Father could stop her, and Father did not try very hard to stop her, because he looked at the boy and understood that trying would be a waste of breath that could be used for something else.
+Mother opened the door wider and brought him inside before Father could stop her, and Father did not try very hard to stop her, because he looked at the boy and understood that trying would be a waste of breath that could be used for something else.
 
 She knelt on the floor in front of him and began to unwrap his feet. The rags did not unspool; they were frozen so solid to the flesh that they made a dry, cracking sound as she worked them loose, like splitting kindling. Karl stood in the doorway of the Stube and watched his mother's face while she did it. She had the face she used for things she had decided not to react to — not blank, not closed, but controlled in the specific way of a woman who has been a mother for twenty-six years and understands that a child in the room will follow her face rather than the thing itself, and so the face must be managed first.
 
@@ -68,7 +68,7 @@ Dorothea came and sat next to him on the bench. She did not say anything. She pu
 
 He died in the night. On the bench by the stove, under Dorothea's shawl, with the warmth he had been following for however many miles finally reaching him too late to do what warmth is supposed to do. He simply stopped. He did not wake before he died.
 
-In the morning Father and Michael carried him to the woodshed, and Elisabeth stood at the threshold and said the prayer for the dead in a voice so quiet Karl could barely make out the words, quiet because the younger children were inside and she did not want them to hear. Karl heard. Johann heard.
+In the morning Father and Michael carried him to the woodshed, and Mother stood at the threshold and said the prayer for the dead in a voice so quiet Karl could barely make out the words, quiet because the younger children were inside and she did not want them to hear. Karl heard. Johann heard.
 
 Karl would hear it for the rest of his life — not the words, which were the ordinary words, but the specific sound of his mother's voice saying them in the cold, on a December morning, over a boy she had never met.
 
@@ -86,7 +86,7 @@ Every farm was to send one able body for corpse removal and grave-digging in gro
 
 The steward would take the son. Michael was eighteen. Father was fifty-four.
 
-Elisabeth put Michael in the cellar ten minutes before the steward reached the gate. Not the potato cellar — the deep one, below, the one with the ceiling so low you could not stand, the one that smelled so strongly ofearth it was like being inside the ground. The cold down there was not the sharp, biting wind of the yard, but a heavy, damp ache that sank immediately into the bones and stayed there. She covered the trapdoor with the old rag rug and stood her loom over it and put Dorothea on the bench in front of the loom and looked at her and said nothing.
+Mother put Michael in the cellar ten minutes before the steward reached the gate. Not the potato cellar — the deep one, below, the one with the ceiling so low you could not stand, the one that smelled so strongly ofearth it was like being inside the ground. The cold down there was not the sharp, biting wind of the yard, but a heavy, damp ache that sank immediately into the bones and stayed there. She covered the trapdoor with the old rag rug and stood her loom over it and put Dorothea on the bench in front of the loom and looked at her and said nothing.
 
 Dorothea was eight years old. She had been awake in the night when they carried the boy out to the woodshed. She did not move. She did not speak. She folded her hands in her lap and looked at the wall.
 
@@ -124,7 +124,7 @@ He was a large dog. He had been a large dog his whole life, enormous as a puppy,
 
 The man killed him with a bayonet. It was fast. Tasso made a sound — one sound — that Karl heard in dreams for the rest of his life, and then Tasso was on the floor of the Stube and the man stepped over him and came further into the room.
 
-The men took everything. The salt pork, the bread, the children's milk, the iron pot from above the stove. The cheese in the crock. The smoked goose they found by smell in the chimney. One of them found Ernst asleep in the corner and pulled the wool blanket off him, and Ernst woke and screamed, and the man raised his hand, and Elisabeth stepped between them. She did not say anything. She simply put herself there. The man stopped — not from mercy, but because she was in his way and he was too tired to push past a woman who had decided not to move.
+The men took everything. The salt pork, the bread, the children's milk, the iron pot from above the stove. The cheese in the crock. The smoked goose they found by smell in the chimney. One of them found Ernst asleep in the corner and pulled the wool blanket off him, and Ernst woke and screamed, and the man raised his hand, and Mother stepped between them. She did not say anything. She simply put herself there. The man stopped — not from mercy, but because she was in his way and he was too tired to push past a woman who had decided not to move.
 
 They slept on the floor. All of them, around the stove, their weapons under their hands.
 
@@ -146,7 +146,7 @@ Three days after the door. The door had been mended badly, boards nailed across 
 
 The man appeared at the gate alone, on foot, perhaps thirty, lean in the way that had not always been natural to him. He had a military coat that was just a coat now. He was not shivering badly, which meant he had been on the road long enough to be past shivering, which meant something about his condition that Karl understood without being able to articulate.
 
-When Elisabeth spoke to him in the ordinary German of their household—the specific, rounded vowels of Brandenburg—the man stopped as if struck. He answered in the same dialect. He hadn't heard it in eight months.
+When Mother spoke to him in the ordinary German of their household—the specific, rounded vowels of Brandenburg—the man stopped as if struck. He answered in the same dialect. He hadn't heard it in eight months.
 
 He sat at the Isaak table. He did not weep — he was past weeping, Karl could see it in his face, the way a field looks after a fire, not destroyed but finished with something — and he ate what was put in front of him and told them he was a colonist himself, from a village two days west on foot. He had gone with the Polish corps as a teamster, driving wagons, not a soldier. He had been at the Berezina.
 
@@ -158,13 +158,13 @@ He spoke for perhaps three minutes. He described sound only — not the river, n
 
 He turned to Michael. "It's over," he said, with the empty detachment of a man reporting the weather. "Napoleon's army is dead in the snow. The Russians are coming, and the Germans won't be welcome here anymore." He looked around the Stube. "When it thaws, leave."
 
-Elisabeth gave him Father's old felt boots, a loaf, and the last of the salt pork. He kissed her hand, gripped Father's in wordless gratitude, and stepped back out into the wind.
+Mother gave him Father's old felt boots, a loaf, and the last of the salt pork. He kissed her hand, gripped Father's in wordless gratitude, and stepped back out into the wind.
 
 Michael walked with him to the bend in the road. They didn't speak. Michael watched the man's new boots cut fresh tracks into the ice until the road curved and he vanished. Michael stood there alone for a long time, the wind biting through his coat, looking at the empty road and feeling the sudden, overwhelming weight of the spring thaw.
 
 ---
 
-There was not enough flour for a proper *Streuselkuchen*. There had not been since October, and there would not be again for a long time. But Elisabeth had been saving — a small handful of flour from every baking, folded into a cloth on the highest shelf, since the first week of December — and on Christmas Eve she brought it down.
+There was not enough flour for a proper *Streuselkuchen*. There had not been since October, and there would not be again for a long time. But Mother had been saving — a small handful of flour from every baking, folded into a cloth on the highest shelf, since the first week of December — and on Christmas Eve she brought it down.
 
 Not a cake. A small dark bread with honey stirred in, because there was no butter and no sugar and no almonds, and it was enough.
 
@@ -174,7 +174,7 @@ They sat down together, all of them — Father, Mother, Michael, Karl, Johann, C
 
 Father opened to the Book of Isaiah and read slowly, his voice careful and low. "The people that walked in darkness have seen a great light," he read. "They that dwell in the land of the shadow of death, upon them hath the light shined." He did not look up from the page.
 
-They sang. *Vom Himmel hoch da komm' ich her.* Then *Wie schön leuchtet der Morgenstern.* Then *Es ist ein Ros entsprungen*, and Elisabeth's voice held through the first verse and went on the second, and she did not finish it, and no one looked at her, and after a moment Father's voice came in where hers had been and carried it through to the end.
+They sang. *Vom Himmel hoch da komm' ich her.* Then *Wie schön leuchtet der Morgenstern.* Then *Es ist ein Ros entsprungen*, and Mother's voice held through the first verse and went on the second, and she did not finish it, and no one looked at her, and after a moment Father's voice came in where hers had been and carried it through to the end.
 
 When they stopped, the room was very quiet.
 

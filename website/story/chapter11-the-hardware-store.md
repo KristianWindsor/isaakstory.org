@@ -336,7 +336,7 @@ The two entries were there in his careful schoolmaster's hand:
 
 *Den 14. September 1878. Die russische Schuld bezahlt.*
 
-*Den 12. Juni 1882. Meine Mutter ist gestorben in Kulm. Anna Elisabeth Louise Schimke Isaak. Sie war 83 Jahre alt.*
+*Den 12. Juni 1882. Meine Mutter ist gestorben in Kulm. Anna Elisabeth Luise Strümpske Isaak. Sie war 83 Jahre alt.*
 
 He dipped the pen.
 

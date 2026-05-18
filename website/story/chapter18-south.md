@@ -152,7 +152,7 @@ And then the Isaaks did what the Isaaks had always done. They moved.
 
 In 1963, Jack and Allegra packed all five children into a van and drove across the continent to Newfoundland for missionary work.
 
-It was the farthest east any Isaak had gone since Johann Michel left Brandenburg in 1760. The family that had spent two centuries moving west was now moving east — not fleeing, not seeking land or water or escape from a draft, but answering a call. Allegra's faith, the same faith that had carried the family from Brandenburg to California, had pointed her to the rocky coast of Canada's easternmost province, and she had followed it the way Gottlieb had followed Johann's letter to Dakota: completely, without reservation, with five children in the back seat.
+It was the farthest east any Isaak had gone since Johann Michel Andreas Isaak left Brandenburg in 1760. The family that had spent two centuries moving west was now moving east — not fleeing, not seeking land or water or escape from a draft, but answering a call. Allegra's faith, the same faith that had carried the family from Brandenburg to California, had pointed her to the rocky coast of Canada's easternmost province, and she had followed it the way Gottlieb had followed Johann's letter to Dakota: completely, without reservation, with five children in the back seat.
 
 They went for a year. When the year was over, they drove all the way home to Santa Barbara. Then they decided they wanted to go back.
 

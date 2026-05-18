@@ -24,13 +24,13 @@ Father put his hand flat on the ox's shoulder and pushed. The animal didn't move
 
 He went back inside. Karl set down the bucket.
 
-In the kitchen, Elisabeth worked with the specific efficiency of a woman who had already made every decision in her head and was now only executing. The blue glazed bowl her mother had given her at her wedding — it went into the straw-lined crate. The iron pot. The good knife. The spare candles. Dorothea, eleven and serious, trailed behind her, simultaneously receiving each object with both hands and keeping a watchful eye on Anna Maria, who was now determinedly waddling toward every open crate she could find.
+In the kitchen, Mother worked with the specific efficiency of a woman who had already made every decision in her head and was now only executing. The blue glazed bowl her mother had given her at her wedding — it went into the straw-lined crate. The iron pot. The good knife. The spare candles. Dorothea, eleven and serious, trailed behind her, simultaneously receiving each object with both hands and keeping a watchful eye on Anna Maria, who was now determinedly waddling toward every open crate she could find.
 
-"The tile stoves in Russia," Elisabeth said at one point, not to Dorothea exactly but not to herself either, wrapping the bowl in a length of cloth. "I've heard they go floor to ceiling. Glazed. They hold the heat all night."
+"The tile stoves in Russia," Mother said at one point, not to Dorothea exactly but not to herself either, wrapping the bowl in a length of cloth. "I've heard they go floor to ceiling. Glazed. They hold the heat all night."
 
 Dorothea considered this, pulling Maria away from a sack of flour. "Better than here?"
 
-"Different." Elisabeth's hands moved quickly over the knot. "Better, perhaps."
+"Different." Mother's hands moved quickly over the knot. "Better, perhaps."
 
 She said it the way you say something true that you are not quite ready to believe yet. Karl, who had come in for water and was standing by the door, looked at his mother's face. He had not seen her look like that — forward, not down — in years. It changed her face back into something younger, and he turned away from it the way you turn from a light.
 
@@ -52,7 +52,7 @@ Michael had been planning the load since February, and he ran the operation like
 
 The three books went in together, and Karl watched his mother pack them. The Bible first, into its straw-lined crate against the side panel of the wagon — she placed it flat and pressed the straw down around it and did not linger. The Catechism beside it. Then the Gesangbuch, the old Lutheran songbook, its cover worn soft as skin from years of Sunday hands. She held it a moment before she put it in. Just a moment. Her face didn't change but the way she held it did, something in the wrists, something less transactional than the way she had handled everything else. She set it down beside the Catechism and pressed the straw in on all sides. The three books lay in the dark of the crate together, and she closed the lid.
 
-From the Christmas three years past, the small things came out of hiding: the pair of brass candlesticks, the Lyon locket on its fine chain. Elisabeth put them herself into the flour sack. Karl watched her hands.
+From the Christmas three years past, the small things came out of hiding: the pair of brass candlesticks, the Lyon locket on its fine chain. Mother put them herself into the flour sack. Karl watched her hands.
 
 Christian appeared at the wagon's gate with Hexe in a wicker basket. Hexe was the barn cat, thirteen years old and grey and one-eyed, a cat of serious and inflexible opinions. She had expressed her opinion of the basket loudly and at length all morning, but by midday she had settled into something colder than acceptance — a watchful, offended silence, sitting in the center of the basket with the posture of a minor empress in exile. Ernst, five years old, pressed his face against the basket's weave and whispered something to her. She looked at the middle distance and did not respond.
 
@@ -76,7 +76,7 @@ The elected leader came past on a dark horse at an unhurried pace — Johann Fer
 
 Pastor Hartmann climbed onto his wagon seat, opened his Bible, and the column went quiet. The Isaaks had known him for years — the Lutheran circuit pastor from Pabianice, older than Father, slightly stooped, his satchel worn smooth at the corners. Seeing him at the head of the column was its own kind of comfort. He read from Genesis — the call, the going out, the promise — and then the Gesangbücher came out and the column sang. Quietly, because they were still on Polish soil. But they sang, four parts, voices carrying across the fields in the thin morning.
 
-When the singing was done, Elisabeth climbed onto the wagon seat. She folded the wool blanket double beneath her, settled her skirt, and straightened her spine. She did not look back toward Pabianice. Karl noticed this and said nothing. He thought of it later — how she had arranged herself as though she had already departed, had been gone since before they loaded, and only her body was completing the formality.
+When the singing was done, Mother climbed onto the wagon seat. She folded the wool blanket double beneath her, settled her skirt, and straightened her spine. She did not look back toward Pabianice. Karl noticed this and said nothing. He thought of it later — how she had arranged herself as though she had already departed, had been gone since before they loaded, and only her body was completing the formality.
 
 Michael went to the lead horse's head. Father and Karl and Johann took their places beside the wheels. Christian settled in the wagon bed with Dorothea and Ernst. Leischner's voice carried down the column — a single phrase, clear and carrying — and the wagons began to move.
 
@@ -142,9 +142,9 @@ Pastor Hartmann read the full Lutheran burial liturgy over the grave — the pro
 
 Karl watched the child's mother. She stood at the graveside with her husband's hand in both of hers and her head up, looking at the cross. Her face was not the face of someone who had been undone. It was the face of someone who had been altered, the way you alter metal — permanently, by something applied at great force and heat.
 
-That night Elisabeth held Ernst while he slept, sitting beside the fire past the point when she would ordinarily have gone to her blankets. She did not weep where Karl could see her. He knew her well enough to know she would not weep where any of them could see her, and that knowing this was enough to make the knowing ache.
+That night Mother held Ernst while he slept, sitting beside the fire past the point when she would ordinarily have gone to her blankets. She did not weep where Karl could see her. He knew her well enough to know she would not weep where any of them could see her, and that knowing this was enough to make the knowing ache.
 
-Dorothea had made a quiet friend of the dead child's older sister during the march. She had not understood, for nearly a day, what had happened. When she did understand — Karl saw it happen, watched his sister's face change in the middle of something else, the understanding arriving like weather — Elisabeth was there almost before it showed, arms already around her.
+Dorothea had made a quiet friend of the dead child's older sister during the march. She had not understood, for nearly a day, what had happened. When she did understand — Karl saw it happen, watched his sister's face change in the middle of something else, the understanding arriving like weather — Mother was there almost before it showed, arms already around her.
 
 The column moved on in the morning. In less than a minute, the grave was behind them and the road ahead was the same road. Karl walked beside the wheel in the grey dawn and thought about the mother of the dead child. He thought about little Maria, safe in their own wagon, and felt a cold spike of dread. He thought about the Brandt woman at the back of the column, traveling on, putting distance between herself and the place where her child was — and how the distance would never be distance, not really, because she would carry the place with her in the only way that mattered.
 
@@ -188,21 +188,21 @@ The summer heat settled in. The column bought buckwheat kasha from Ruthenian far
 
 In the fourth week in Volhynia, a wheel broke. A spoke gave way at a creek crossing — a sudden crack, a list, the wheel riding the rim for ten feet before it stopped. Michael and the column's wheelwright worked on it for most of a day. The column did not wait; it went on at the morning's pace, and the Isaaks watched the last of it disappear around a bend in the road with the particular feeling of seeing a ship leave harbor while you are still standing on the dock. They caught up only by dusk, pulling into the camp circle at the moment the fires were being lit, and the relief of being back inside the column — of hearing familiar voices and smelling familiar smoke — was large enough that Karl was surprised by it.
 
-It was in that same week, or the next, that Elisabeth stopped holding.
+It was in that same week, or the next, that Mother stopped holding.
 
 It began as a headache she mentioned once and then stopped mentioning. Then a shivering that didn't match the temperature, a blanketing kind of cold that no amount of wool addressed. The marsh fever moved through her quietly at first, methodical, and by the time any of them understood what it was she was in the wagon and Katherina Leischner was walking alongside, climbing up at the noon halt to press a wet cloth to her forehead and feel her pulse and say something low and steady in her ear. 
 
-Elisabeth lay in the wagon bed on a doubled blanket, her white linen cap damp at the edges. She was soon too weak to nurse. Anna Maria wailed with a fierce, confused hunger for two days until Dorothea learned to pacify the toddler with knotted rags soaked in warm goat's milk. Her breathing was steady but shallow. Her face in fever was changed — all the daily arrangement of it gone, reduced to the bare essential structure, the bones beneath the skin. She was, Karl realized with a start that sat in his stomach for days, still a beautiful woman, under the cap and the years and the work.
+Mother lay in the wagon bed on a doubled blanket, her white linen cap damp at the edges. She was soon too weak to nurse. Anna Maria wailed with a fierce, confused hunger for two days until Dorothea learned to pacify the toddler with knotted rags soaked in warm goat's milk. Her breathing was steady but shallow. Her face in fever was changed — all the daily arrangement of it gone, reduced to the bare essential structure, the bones beneath the skin. She was, Karl realized with a start that sat in his stomach for days, still a beautiful woman, under the cap and the years and the work.
 
 The family moved around her with the careful, wide berth of people who do not wish to crowd what they fear. Michael spooned thin broth into her at each halt, holding the bowl close, refusing to pull it away until she swallowed. Dorothea held her hand when the column was moving and sat beside her in silence when it stopped. Johann and Karl said nothing useful and so said nothing, and Karl thought about the child in the Brandt wagon, and then made himself stop thinking about it.
 
-During a halt at a stream one afternoon, Pastor Hartmann climbed onto the wagon without announcement and sat beside Elisabeth. He opened his Bible and read from the Psalms — steady, unhurried, the words familiar enough that her lips moved faintly with some of them. At one point her head turned and she named the one she wanted. He found it without comment and read it again from the beginning.
+During a halt at a stream one afternoon, Pastor Hartmann climbed onto the wagon without announcement and sat beside Mother. He opened his Bible and read from the Psalms — steady, unhurried, the words familiar enough that her lips moved faintly with some of them. At one point her head turned and she named the one she wanted. He found it without comment and read it again from the beginning.
 
-One evening — the camp had quieted, the fires were low, and most of the column was already sleeping — Karl looked up from his side of the small fire to see his father sitting in the grass beside the wagon. Father had lowered himself down without sound and now sat with his elbows on his knees, a heaviness in the arrangement of his body that was not tiredness. He reached up and laid his hand on Elisabeth's forehead through the side of the wagon. His hand — calloused, missing the tip of its ring finger, a hand that had broken ground and split wood and pulled nets and done every manner of difficult thing — lay there without moving.
+One evening — the camp had quieted, the fires were low, and most of the column was already sleeping — Karl looked up from his side of the small fire to see his father sitting in the grass beside the wagon. Father had lowered himself down without sound and now sat with his elbows on his knees, a heaviness in the arrangement of his body that was not tiredness. He reached up and laid his hand on Mother's forehead through the side of the wagon. His hand — calloused, missing the tip of its ring finger, a hand that had broken ground and split wood and pulled nets and done every manner of difficult thing — lay there without moving.
 
 Karl watched. He had seen his father carry his mother's work when she was occupied. He had seen him reach past her to close a shutter against rain. He had never seen him touch her face.
 
-After a time Elisabeth opened her eyes. They were pale blue in the firelight, the blue of very cold winter sky, and despite the fever they were clear and direct and thoroughly her own.
+After a time Mother opened her eyes. They were pale blue in the firelight, the blue of very cold winter sky, and despite the fever they were clear and direct and thoroughly her own.
 
 "How far," she said.
 
@@ -226,7 +226,7 @@ Near the landing, visible from the bank at low water, the wreck of an earlier wa
 
 When the Isaak wagon reached the front of the queue, Karl studied the ferry — plank-built, flat, with low board rails and a rope running to the far bank. It looked like it had been made with adequate confidence but not excessive confidence. The horses did not want to board it. Michael went to the nearest horse's head and spoke to it with his face close to its ear, saying something Karl couldn't hear, until the animal's breathing slowed and it put one hoof on the planking and then the other and moved onto the ferry with its head low and trembling.
 
-Elisabeth sat in the wagon bed with Ernst clinging to her skirt and Maria bound fiercely to her chest in the woolen shawl. She had wrapped one arm around the boy and braced the other on the wagon side, and her face was calm — not the calm of someone not afraid, but the calm of someone who has already spent all her fear on the things worth being afraid of and has none left for a river.
+Mother sat in the wagon bed with Ernst clinging to her skirt and Maria bound fiercely to her chest in the woolen shawl. She had wrapped one arm around the boy and braced the other on the wagon side, and her face was calm — not the calm of someone not afraid, but the calm of someone who has already spent all her fear on the things worth being afraid of and has none left for a river.
 
 The ferry pushed off. The current took it sideways at once and the rope went taut and they were in it — the brown water racing past the planks, the far bank seeming to draw no closer, the wagon settled on the platform with all their possessions in it and nothing between them and the Bessarabian side but the river and the rope and the horses on the far bank leaning into their traces somewhere in the haze.
 
@@ -290,7 +290,7 @@ The junior officer made the entry in his ledger. The date was the first of Septe
 
 Karl looked at the two pegs in the high grass. They were short stakes, barely knee-high, already half-hidden by the grass moving around them in the wind. Sixty desjatines. An empire's gift, or the Tsar's investment, or both, or neither — he did not have the language for what it was. He only knew that the grass went a very long way in every direction from where he was standing, and that somewhere in it were two stakes that meant this part of it was theirs.
 
-Elisabeth handed the heavy, fussing toddler to Dorothea and climbed down from the wagon by herself.
+Mother handed the heavy, fussing toddler to Dorothea and climbed down from the wagon by herself.
 
 Michael moved toward her — she was still slow, still careful, the fever weeks behind her but her body remembering it. She put up one hand, not sharply, only a small definitive gesture, the gesture of a woman who has decided how she is going to do this and does not require assistance. He stopped.
 

@@ -130,7 +130,7 @@ They reached the farmyard.
 
 Father stopped. The family stopped behind him.
 
-He stood in the center of the snow-covered yard and looked at the *Wohnstallhaus*—the long timber-framed building that housed their family on one end and their cattle on the other. It was the house he had built with his own hands ten years ago. He looked at the thick clay-and-straw daub packed between the wooden beams, remembering the freezing autumn weeks he and Elisabeth had spent pressing it into place so the children wouldn't freeze.
+He stood in the center of the snow-covered yard and looked at the *Wohnstallhaus*—the long timber-framed building that housed their family on one end and their cattle on the other. It was the house he had built with his own hands ten years ago. He looked at the thick clay-and-straw daub packed between the wooden beams, remembering the freezing autumn weeks he and Mother had spent pressing it into place so the children wouldn't freeze.
 
 He looked past the barn to the rye fields, buried under a thick blanket of white. He remembered the grueling, back-breaking agony of clearing it, hauling stones out of the earth yard by yard until his hands bled, just to force a harvest from it. And beyond the rye, at the edge of the tree line, were the three small wooden crosses marking the typhus winter—neighbors they had buried when the ground was like iron, because there was no one else left to dig.
 

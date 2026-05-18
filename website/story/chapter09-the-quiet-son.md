@@ -76,9 +76,9 @@ The flyleaf already had one line on it, in his careful schoolmaster's hand:
 
 Below it, Gottlieb wrote a second line:
 
-*Den 12. Juni 1882. Meine Mutter ist gestorben in Kulm. Anna Elisabeth Louise Schimke Isaak. Sie war 83 Jahre alt.*
+*Den 12. Juni 1882. Meine Mutter ist gestorben in Kulm. Anna Elisabeth Luise Strümpske Isaak. Sie war 83 Jahre alt.*
 
-*June 12, 1882. My mother died in Kulm. Anna Elisabeth Louise Schimke Isaak. She was 83 years old.*
+*June 12, 1882. My mother died in Kulm. Anna Elisabeth Luise Strümpske Isaak. She was 83 years old.*
 
 He set the pen down. He did not close the Bible right away. David watched him look at the two lines together — the debt paid and the mother dead — and he understood, with a clarity that twenty-two-year-olds do not usually have, that his father was beginning to keep a record. That this Bible was going to hold a list. That the list was going to grow.
 
