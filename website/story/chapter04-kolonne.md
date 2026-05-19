@@ -68,6 +68,8 @@ The crossroads east of Pabianice was already full — a dozen families, and thei
 
 It was a smaller gathering than the one that had left the year before. These were the ones left behind — families who had needed one more harvest, one more season to settle debts or bury parents, or simply enough time to gather the courage to leave.
 
+Among the families were the Strümpskes, whom Karl knew only by sight from the church pews in Pabianice. Mr. Strümpske, a man of Father’s generation, stood near his wagon with his wife. Their daughter, Elisabeth, who was perhaps fifteen, was lifting her small brother Samuel onto the wagon bed. Karl noted them only as another set of mouths and hands in the column, and turned his attention back to his own wheel.
+
 Karl climbed onto the wagon seat to see over the crowd. The column stretched back along the road beneath the pale Polish sky, canvas tops and wagon wheels fading into the flat spring distance.
 
 Mr. Leischner sat his gelding at the head of the column with the self-possession of a man who had been elected to something and intended to carry it properly. He was a square-shouldered man with a voice built for carrying across distances, wearing a heavy wool frock coat despite the mild morning. As Karl watched, he reached into his coat with one hand, pressed the breast flat for a moment, and withdrew it. The Kronpass — the Crown Passport for the whole column — was in there, folded in oiled leather, good from the Vistula to the Black Sea. Leischner touched the coat the way other men touched a ring.
@@ -90,33 +92,25 @@ The column averaged ten miles on a good day — half that when the spring rains 
 
 The rhythm of the column had its own liturgy. Up before light. Pastor Hartmann moved from wagon to wagon in the darkness — sometimes on his horse, sometimes walking, his satchel over one shoulder — and led the morning prayers before the teams were hitched, his voice low and unhurried in the grey before first light. Hard bread and cheese eaten walking or sitting in the wagon bed while the team was hitched. 
 
-On the wagon seat, Mother rode with Maria bound tightly to her chest in a heavy woolen shawl. She had mastered a pioneer's ruthless economy of motion, quietly nursing the restless toddler beneath the thick wool while simultaneously mending a torn shirt with her free hands as the iron-rimmed wheels jolted over the ruts. Movement at first grey light. A long noon halt beside whatever stream or pond the route provided, animals grazing, cold food, children asleep in the sun. Then the afternoon march, the light coming lower and cooler, until Roloff called the halt near water and the wagons formed their rough circle and the fires were lit and the hymns rose at the camp edge in the long spring dusk.
+On the wagon seat, Mother rode with Maria bound tightly to her chest in a heavy woolen shawl. She had mastered a pioneer's ruthless economy of motion, quietly nursing the restless toddler beneath the thick wool while simultaneously mending a torn shirt with her free hands as the iron-rimmed wheels jolted over the ruts. Movement at first grey light. A long noon halt beside whatever stream or pond the route provided, animals grazing, cold food, children asleep in the sun.
 
-In the evenings the men talked about the manifesto.
+At these noon halts, Ernst often disappeared into the tall grass with seven-year-old Samuel Strümpske, the two boys forming a fast alliance of dirt and mischief. During one such rest beside a muddy creek, Karl went down the bank to fill the water buckets. He found himself kneeling in the wet clay beside Samuel's older sister, Elisabeth. She was wrestling with a heavy wooden pail, her boots sinking deep into the mud.
 
-They had been talking about it all winter, in the Lutheran prayer-houses of Mazovia, at each other's tables, at the edges of fields it no longer made sense to plant — but on the road, around their own fires, with the journey already begun, the talk had a different quality. More specific. More hungry.
+"Let me," Karl said, taking the iron handle before she could object. He hauled the full pail onto the dry grass.
 
-"Sixty desjatines," said a man named Becker, from the wagon ahead of the Isaaks. He held up both hands, working out the geometry. "How wide is that? How wide, exactly?"
+"I had it," she said, though she was breathing hard.
 
-Father knew what one desjatine looked like. He had cleared one himself, in the first years at Pabianice. Sixty was beyond him to picture.
+"I know," Karl said.
 
-"It is wide enough," he said.
+She looked at him, gave a short, pragmatic nod, and carried the water away without another word. A moment later, Karl realized he was watching the way she walked—steady, balanced, wasting no motion—and quickly turned back to his own work.
 
-"But if you run a straight line from corner to corner —"
+Johann, who was leading a horse down to drink, passed by and raised an eyebrow. 
 
-"It is wide enough," Father said again, and that settled it, because Father was not a man who said a thing twice without meaning it to stand.
+"It was a heavy bucket," Karl said, before his brother could speak.
 
-Michael sat across the fire and listened with the focused attention of a man being told the dimensions of his life. He was twenty-one. The eldest. He would have the primary claim on whatever those sixty desjatines became. He did not speak much at these fires, only listened, and Karl, watching him, thought his brother had aged a year for every hundred miles of road.
+Johann smiled at the water and said nothing.
 
-Wilhelm Leischner was fourteen and walked beside Karl most days. He was a collector of useless things — hawk feathers tucked in his cap, river stones polished on his trouser leg until they gleamed, a spent musket ball he'd found in a roadside ditch and wouldn't stop turning in his fingers. He gave Karl one of the stones in the third week, a piece of white quartz smooth as a tooth.
-
-"What's this for?" Karl said.
-
-"Nothing," Wilhelm said. "I just have two of them."
-
-Karl put it in his pocket. It was warm from Wilhelm's hand.
-
-Johann had taken note of Rosina Leischner — eighteen, chestnut braids pinned up against the road dust — and specifically of which side of the Leischner wagon she preferred to walk on. The left side of the Isaaks' wagon had, by no accident, come to sit consistently close to the right side of the Leischners'. Karl observed the geometry of this for two weeks and said nothing. Then one evening, lying under the wagon in the dark, blankets pulled against the cold, he said quietly: "Rosina has very nice braids."
+It was only fair; Johann had taken note of Rosina Leischner — eighteen, chestnut braids pinned up against the road dust — and specifically of which side of the Leischner wagon she preferred to walk on. The left side of the Isaaks' wagon had, by no accident, come to sit consistently close to the right side of the Leischners'. Karl observed the geometry of this for two weeks and said nothing. Then one evening, lying under the wagon in the dark, blankets pulled against the cold, he said quietly: "Rosina has very nice braids."
 
 A pause.
 
@@ -186,6 +180,18 @@ The summer heat settled in. The column bought buckwheat kasha from Ruthenian far
 
 "That's not entirely false," Karl said.
 
+A few nights later, a sudden summer squall broke over the camp. Lightning flashed, sharp and violent, spooking the tethered horses. Karl was out in the driving rain, struggling to secure a rearing gelding, when another pair of hands grabbed the halter from the opposite side. It was Elisabeth. She was soaked through, her dark hair plastered to her face, pulling down on the leather strap with her entire weight. Together, they forced the horse’s head down until it stopped thrashing.
+
+The rain eased almost as quickly as it had come. They stood in the dark, chests heaving, holding the wet leather between them.
+
+"You have a strong grip," Karl said, wiping rain from his eyes.
+
+"I have a terrified horse," she answered, her voice trembling slightly from the adrenaline.
+
+They did not let go of the halter immediately. For a few seconds, the noise of the settling camp faded, leaving only the sound of their breathing and the rain dripping from the wagon canvas. Karl felt an acute, unexpected awareness of her standing so close in the dark.
+
+Then Mr. Strümpske called her name from the next wagon. She stepped back, the darkness swallowed her, and the column's routine resumed.
+
 In the fourth week in Volhynia, a wheel broke. A spoke gave way at a creek crossing — a sudden crack, a list, the wheel riding the rim for ten feet before it stopped. Michael and the column's wheelwright worked on it for most of a day. The column did not wait; it went on at the morning's pace, and the Isaaks watched the last of it disappear around a bend in the road with the particular feeling of seeing a ship leave harbor while you are still standing on the dock. They caught up only by dusk, pulling into the camp circle at the moment the fires were being lit, and the relief of being back inside the column — of hearing familiar voices and smelling familiar smoke — was large enough that Karl was surprised by it.
 
 It was in that same week, or the next, that Mother stopped holding.
@@ -240,6 +246,12 @@ Later Karl heard what had happened to others in the days before and after. A wag
 
 The column re-formed on the eastern bank. Leischner counted the wagons. He did not speak, only counted and then nodded once to himself, and rode to the front, and they moved on.
 
+That evening, the sky began to fail.
+
+It was not a storm. As the sun set over the steppe, the light scattered into an unnatural, lurid violence. Deep, bleeding reds and bruised purples smeared across the entire horizon, glowing with a fierce intensity long after the sun was gone. The sky looked as though it had been flayed open.
+
+Karl stood by the wagon wheel, a cold unease settling in his stomach. He had no name for what he was seeing, and no cause for it. Around the camp, the fires were quieter than usual. A woman near the Leischner wagon crossed herself, pulling her child close. Pastor Hartmann stood alone at the edge of the grass, his Bible closed in his hand, watching the blood-red horizon with a grim, silent intensity. It felt like an omen, heavy and final.
+
 ---
 
 The trees disappeared.
@@ -248,7 +260,7 @@ Karl noticed it without quite noticing it — they had been sparse for a week, a
 
 Karl climbed onto the wagon seat to see farther.
 
-The horizon was a perfect line. He could see the curve of the earth in it — or he thought he could, though he was not sure if what he was seeing was real or only what his mind did when confronted with that much unmediated distance. The sky came down on all sides like an enormous pale bowl pressed over a table. The grass below it was waist-high and moved in long slow pulses under the constant wind, exactly the way water moves when a stone is dropped into it from very far away, the ripple reaching you long after the drop. It hissed. The wind came out of the east smelling of dry dust and distance, of something that had traveled a very long way before it got here.
+The horizon was a perfect line. He could see the curve of the earth in it — or he thought he could, though he was not sure if what he was seeing was real or only what his mind did when confronted with that much unmediated distance. The sky, still hazy, came down on all sides like an enormous pale bowl pressed over a table. The grass below it was waist-high and moved in long slow pulses under the constant wind, exactly the way water moves when a stone is dropped into it from very far away, the ripple reaching you long after the drop. It hissed. The wind came out of the east smelling of dry dust and distance, of something that had traveled a very long way before it got here.
 
 There was nothing else. No fence. No building. No shade. No tree. No road worthy of the name. Only the grass and the wind and the vast pale sky and the column moving through it like a row of stitches across the face of something enormous.
 
@@ -299,6 +311,8 @@ She walked from the wagon into the grass. Three steps, four — her skirt pushin
 The wind moved through the grass around her in long slow waves.
 
 The column was dispersing across the steppe on either side of them — the Leischner family somewhere to the north, others farther, each making their own particular accounting of the land they had arrived at. A woman in the middle distance bent and lifted a handful of earth. A man was on his knees. Two children ran into the grass and disappeared to their waists and kept running.
+
+Karl watched the Strümpske wagon pull away toward a parcel a few hundred yards down the valley. He registered the distance, noting with quiet, unspoken satisfaction that she would still be within reach in this new place.
 
 Karl watched his mother. He did not speak. None of them spoke. Even Ernst, who had been asking questions since before the Dniester, was silent.
 
