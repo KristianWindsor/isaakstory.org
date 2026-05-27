@@ -72,7 +72,7 @@ The Leischners found the Isaaks near the snow-capped gate.
 
 Katherina Leischner went straight to Mother, taking her arm in a tight, desperate grip, careful not to press against the sleeping newborn. "I know, Lieschen," Katherina whispered, her eyes wet but fierce. "I know."
 
-While the women held each other, Wilhelm, now thirteen, practically ran across the icy grass toward Karl. His nose was bright red from the cold, but his face was lit up with the desperate relief of finding something normal in a morning that felt entirely wrong.
+While the women held each other, Johann Wilhelm, now ten, practically ran across the icy grass toward Karl. His nose was bright red from the cold, but his face was lit up with the desperate relief of finding something normal in a morning that felt entirely wrong.
 
 "Karl, look," Wilhelm said, pulling a chipped, grey-brown stone from his heavy coat. "In the south field, where the wind blew the snow clear. It has to be an old arrowhead, doesn't it?"
 

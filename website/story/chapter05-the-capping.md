@@ -30,7 +30,7 @@ Mother had taken command of the dugout with sacred impatience, moving with the f
 
 “I am minding it.”
 
-Dorothea quietly redirected little Maria—two years old and convinced all baskets required inspection—from one forbidden corner to another. Ernst hovered wherever food might appear. Karl, who was nineteen and the bridegroom, found himself even less useful than the children.
+Dorothea, alongside her friends Louisa Mueller and Maria Jeske, formed a frantic defensive line. All three girls were exactly eleven years old and suddenly burdened with authority. They worked to redirect little Maria—two years old and convinced all baskets required inspection—from one forbidden corner to another, while simultaneously herding Ernst and the younger Jeske and Mueller children out of the way of the hot stove. Karl, who was nineteen and the bridegroom, found himself even less useful than the children.
 
 He brought water and was told he had brought too much. He split reeds and was told not those reeds. He stepped over a sack, struck his shoulder against a sack of salted fish, and turned to find Mother looking at him with both hands on her hips.
 
@@ -43,6 +43,16 @@ He brought water and was told he had brought too much. He split reeds and was to
 So he went outside.
 
 The cold took him at once, closing around his ears and inside his sleeves. He stood with his back to the dugout door and looked across the settlement. Smoke rose from the earth along the great village road, straight dark threads climbing from low sod roofs before the wind bent them flat. No proper houses yet. No church. No bell tower. Only dugouts under snow, black fields asleep beneath it, and people who had come too far to admit surprise at any of it.
+
+A few paces from the door, twelve-year-old Wilhelm Leischner was kicking stubbornly at a frozen clod of dirt. He paused, looked up at Karl, and gave a short, solemn nod of solidarity before returning to his boot-work. Karl nodded back.
+
+A moment later, crunching footsteps announced Gottfried Graumann. At seventeen, Gottfried had survived the winter work details alongside Karl, earning the right to bypass any formalities. He stopped, exhaled a white cloud of breath, and took in Karl’s idle stance.
+
+"Cast out of your own house?" Gottfried asked, his voice dry.
+
+"I stood too close to a sack of fish," Karl said.
+
+Gottfried gave a brief, lopsided smile. "A fatal error today." He clapped Karl once on the shoulder and continued down the frozen track.
 
 The thought of the wedding kept arriving in him at odd moments, like a person stepping suddenly from behind a door. He had known since Advent, when the fathers had spoken and Mother had asked him, alone, whether he was willing. Willing had seemed a small word for so large a thing, but it was true enough.
 
@@ -65,7 +75,6 @@ In Brandenburg, a bride wore fresh green myrtle. Here, in a frozen steppe withou
 Karl stepped toward the table and laid a short length of green wool thread beside the wire. He had saved it from the wagon months ago without knowing why.
 
 Mother looked up. Her eyes softened. She rested her hand briefly against his knuckles, then picked up the green thread and wove it into the base of the crown without a word.
-
 
 ---
 
@@ -105,7 +114,7 @@ He opened his book and began the old German Lutheran rite, his voice deep and st
 
 "Anna Elisabeth Luise Strümpske," the pastor read. The full name had an immense, metallic weight in the small room—the only time it would be spoken aloud on this day.
 
-Karl tried to listen to the formal High German, but his mind fixed on the physical details of the room: a single bead of water gathering on the  above the pastor's head, swelling heavy and clear, reflecting the candle flame. The smell of damp earth behind the altar.
+Karl tried to listen to the formal High German, but his mind fixed on the physical details of the room: a single bead of water gathering on the ceiling above the pastor's head, swelling heavy and clear, reflecting the candle flame. The smell of damp earth behind the altar.
 
 Then Elisabeth spoke her response. Her voice was low but perfectly clear.
 
@@ -127,7 +136,7 @@ Steam rose from the large earthenware bowls as they were set down. Thick chunks 
 
 Karl sat beside Elisabeth, the noise pressing into his ears until his head rang. Grease shone on his brothers' chins as they tore into the bread. The small room grew hot from the press of bodies, the smell of roasted fat, and the sharp sourness of the cabbage.
 
-A clay jug of harsh grain schnapps went round, burning the throat and loosening the tongues of the older men.
+A clay jug of harsh grain schnapps went round, burning the throat and loosening the tongues of the older men. From further down the packed table, Gottfried Graumann caught Karl’s eye. The older boy raised his wooden cup in a silent, acknowledging toast. Karl tipped his chin in return.
 
 Karl looked down at Elisabeth’s hand resting near his plate. They had never sat like this—side by side before the world.
 
@@ -141,11 +150,11 @@ He let out a short, startled laugh—a sudden bubble of relief that broke the te
 
 Old man Roloff pulled a battered fiddle from a greasy wool sack. The instrument had survived the road inside a flour barrel, its wood scratched but intact. He drew the bow across the strings, and a sharp, screeching Polish village tune leapt into the rafters.
 
-The dugout was too small for anyone to turn a proper circle. The dancing was therefore a matter of stamping and clapping in place—boots coming down hard on the packed dirt until the floor seemed to drop an inch under the weight.
+The dugout was too small for anyone to turn a proper circle. The dancing was therefore a matter of stamping and clapping in place—boots coming down hard on the packed dirt until the floor seemed to drop an inch under the weight. Against the sod wall, Dorothea, Louisa Mueller, and Maria Jeske stood in a tight cluster, balancing little Maria and the younger Jeske children on their hips while they watched the adults stamp and clap.
 
 As the heat rose, the moisture on the ceiling liquefied completely. Large drops of cold water began to rain down regularly on the dancers’ heads and shoulders. No one stopped. Michael wiped a drop from his forehead and shouted a joke into the crowd; it became the great jest of the evening—the steppe winter was literally weeping because it couldn't stop their joy.
 
-Then came the *Brauttanz*. Roloff stood by the altar plank, shouting out the prices. The men of the colony formed a line to dance a few stamping steps with Elisabeth, each paying for the privilege. Mr. Strümpske threw down a handful of iron nails; another neighbor dropped three copper copecks into a wooden bowl; Wilhelm Leischner offered a small twist of black tobacco. It was the colony's contribution to the survival of a new household.
+Then came the *Brauttanz*. Roloff stood by the altar plank, shouting out the prices. The men of the colony formed a line to dance a few stamping steps with Elisabeth, each paying for the privilege. Mr. Strümpske threw down a handful of iron nails; another neighbor dropped three copper copecks into a wooden bowl; Wilhelm Leischner offered a small twist of black tobacco he was almost certainly not permitted to smoke. It was the colony's contribution to the survival of a new household.
 
 Karl stood against the wall, watching his young wife spin from hand to hand, her dark wool coat flying out and the glass beads of her crown catching the light.
 

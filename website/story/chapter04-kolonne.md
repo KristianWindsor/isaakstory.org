@@ -68,7 +68,7 @@ The crossroads east of Pabianice was already full — a dozen families, and thei
 
 It was a smaller gathering than the one that had left the year before. These were the ones left behind — families who had needed one more harvest, one more season to settle debts or bury parents, or simply enough time to gather the courage to leave.
 
-Among the families were the Strümpskes, whom Karl knew only by sight from the church pews in Pabianice. Mr. Strümpske, a man of Father’s generation, stood near his wagon with his wife. Their daughter, Elisabeth, who was perhaps fifteen, was lifting her small brother Samuel onto the wagon bed. Karl noted them only as another set of mouths and hands in the column, and turned his attention back to his own wheel.
+Among the families were the Strümpskes, whom Karl knew only by sight from the church pews in Pabianice. Mr. Strümpske, a man of Father’s generation, stood near his wagon with his wife. Their daughter, Elisabeth, who was perhaps fifteen, was lifting her small brother Samuel onto the wagon bed, two thick chestnut braids swinging forward as she bent. Karl noted them only as another set of mouths and hands in the column, and turned his attention back to his own wheel.
 
 Karl climbed onto the wagon seat to see over the crowd. The column stretched back along the road beneath the pale Polish sky, canvas tops and wagon wheels fading into the flat spring distance.
 
@@ -88,7 +88,7 @@ Karl walked. The wheel iron turned in its groove beside his left hand, and the r
 
 The road was alive in May.
 
-The column averaged ten miles on a good day — half that when the spring rains set in and turned the Polish roads to a soft, clinging clay that swallowed wheels and tested patience. The men would gather at each stuck wagon, four or five of them, knee-deep, leaning their shoulders into the spokes and pulling while the horses heaved and snorted and the women and children moved their weight toward the high side and held on. By the time the last wagon had been wrestled clear, the men were muddy to the waist, breathing hard, and grinning in a way that made no obvious sense. They were moving. The mud was what it cost.
+The column averaged ten miles on a good day — half that when the spring rains set in and turned the Polish roads to a soft, clinging clay that swallowed wheels and tested patience. The men would gather at each stuck wagon, four or five of them, knee-deep, leaning their shoulders into the spokes and pulling while the horses heaved and snorted and the women and children moved their weight toward the high side and held on. Wilhelm among them, undersized but fiercely proud to be pushing alongside the men. By the time the last wagon had been wrestled clear, the men were muddy to the waist, breathing hard, and grinning in a way that made no obvious sense. They were moving. The mud was what it cost.
 
 The rhythm of the column had its own liturgy. Up before light. The quiet, methodical work of hitching the teams in the freezing darkness. Hard bread and cheese eaten walking or sitting in the wagon bed in the grey chill before dawn.
 
@@ -110,19 +110,43 @@ Johann, who was leading a horse down to drink, passed by and raised an eyebrow.
 
 Johann smiled at the water and said nothing.
 
-It was only fair; Johann had taken note of Rosina Leischner — eighteen, chestnut braids pinned up against the road dust — and specifically of which side of the Leischner wagon she preferred to walk on. The left side of the Isaaks' wagon had, by no accident, come to sit consistently close to the right side of the Leischners'. Karl observed the geometry of this for two weeks and said nothing. Then one evening, lying under the wagon in the dark, blankets pulled against the cold, he said quietly: "Rosina has very nice braids."
+Christian was fifteen and had always had more ear than judgment. Somewhere in the first week he started picking up words from the peasants and merchants they bought bread and milk from — eastern Polish at first, then something that shaded toward Ruthenian as the roads took them deeper into the empire's borderlands. By the third week he was bargaining in a working mixture of several things at once, and the market women laughed and threw in extra bread. Father watched this from a short distance. He spoke German, only German, and had never seen the need for anything else. He observed his youngest capable son accumulating languages the way a man watches someone spend freely on something he doesn't understand — and keeps being forced to admit is working.
+
+The Isaak and Leischner wagons traveled nose-to-tail, an arrangement Father and Mr. Leischner had settled on without needing to discuss it. For Karl, this meant walking with a shadow. Wilhelm Leischner was eleven and spent the miles scavenging the roadside. One afternoon, the boy fell into step beside Karl and held out a piece of white quartz, smooth as a tooth. 
+
+"Because I have two of them," Wilhelm said. 
+
+Karl took it. It was warm from the boy's hand. He slipped it into his pocket without breaking stride, remembering the useless things he had once brought to Michael.
+
+A few paces ahead at the lead horses, Johann and Rosina Leischner were loudly failing to ignore each other. Both eighteen, they treated the wagons' proximity as a personal punishment. 
+
+"It is an *sz* sound," Rosina insisted, her face flushed with road dust as she gestured back toward a wooden Polish town marker they had already passed.
+
+"You only think it is an *sz* sound because you are loudly guessing," Johann replied, not looking at her.
+
+"I was reading the primer to Wilhelm yesterday—"
+
+"You were guessing to Wilhelm yesterday."
+
+Karl watched them from a safe distance. He felt the heavy quartz in his pocket and enjoyed the quiet, entirely new pleasure of being the calm, amused sibling.
+
+Karl observed the geometry of this bickering for two weeks and said nothing. Then one evening, lying under the wagon in the dark, blankets pulled against the cold, he said quietly: "She knows you are watching her, you know."
 
 A pause.
 
-"Break your nose," Johann said pleasantly.
+"I am watching her," Johann said pleasantly, "because she is *always there.* It is a problem of proximity. Not of interest."
 
-"I'm only saying."
+"I see."
 
-"I'll break it in the morning when I can see it better."
+"She walks like she owns the road."
+
+"I did not mention how she walks."
+
+A longer pause.
+
+"Go to sleep, Karl."
 
 Karl smiled at the wagon's underside and said no more about it.
-
-Christian was fifteen and had always had more ear than judgment. Somewhere in the first week he started picking up words from the peasants and merchants they bought bread and milk from — eastern Polish at first, then something that shaded toward Ruthenian as the roads took them deeper into the empire's borderlands. By the third week he was bargaining in a working mixture of several things at once, and the market women laughed and threw in extra bread. Father watched this from a short distance. He spoke German, only German, and had never seen the need for anything else. He observed his youngest capable son accumulating languages the way a man watches someone spend freely on something he doesn't understand — and keeps being forced to admit is working.
 
 The country changed around them as they moved. The Catholic spires of Mazovia gave way — slowly, over many days, one at a time — to the occasional flash of an onion dome catching the eastern sun. The dialects in the villages warped and shifted. The faces of the women buying things in market squares were not the faces of Mazovia. Karl noticed all of it. He noticed the horizon widening as the land flattened, the way the sky ahead of them seemed to be expanding toward something he could not yet see.
 
@@ -148,7 +172,7 @@ That evening, the men still talked about sixty desjatines. But they spoke more q
 
 The first Russian uniform appeared at Utschiluk, late in May.
 
-The border post was a low wooden building flanked by two guards — young men, bored with a long posting, erect in dark green coats with polished buttons. Karl had not known quite what he was expecting, but these faces surprised him with their ordinariness, their capacity for yawning. The empire, here, wore the same expression as any other young man who had been standing at a gate since before sunrise.
+The border post was a low wooden building flanked by two guards — young men, bored with a long posting, erect in dark green coats with polished buttons. Karl had not known quite what he was expecting, but these faces surprised him with their ordinariness, their capacity for yawning. The empire, here, wore the same expression as any other young man who had been standing at a gate since before sunrise. Wilhelm stood beside Karl gripping the wagon wheel, his eyes wide at his first sight of Russian uniforms.
 
 The column halted. Mr. Leischner dismounted with the deliberate gravity of a man who has prepared for this moment. He reached into his coat and withdrew the oiled leather case and from it drew out the Kronpass, unfolded it, and handed it to the Russian officer across the table with both hands. The officer took it with one hand and did not look up.
 
@@ -180,7 +204,7 @@ The summer heat settled in. The column bought buckwheat kasha from Ruthenian far
 
 "That's not entirely false," Karl said.
 
-A few nights later, a sudden summer squall broke over the camp. Lightning flashed, sharp and violent, spooking the tethered horses. Karl was out in the driving rain, struggling to secure a rearing gelding, when another pair of hands grabbed the halter from the opposite side. It was Elisabeth. She was soaked through, her dark hair plastered to her face, pulling down on the leather strap with her entire weight. Together, they forced the horse’s head down until it stopped thrashing.
+A few nights later, a sudden summer squall broke over the camp. Lightning flashed, sharp and violent, spooking the tethered horses. Karl was out in the driving rain, struggling to secure a rearing gelding, when another pair of hands grabbed the halter from the opposite side. It was Elisabeth. She was soaked through, the dark wet ropes of her braids plastered to her cheeks, pulling down on the leather strap with her entire weight. Together, they forced the horse’s head down until it stopped thrashing.
 
 The rain eased almost as quickly as it had come. They stood in the dark, chests heaving, holding the wet leather between them.
 
