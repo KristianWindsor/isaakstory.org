@@ -76,7 +76,7 @@ Mr. Leischner sat his gelding at the head of the column with the self-possession
 
 The elected leader came past on a dark horse at an unhurried pace — Johann Ferdinand Roloff, out of Parlin, somewhere in his mid-fifties, broad-shouldered and grey-bearded, with a face that had seen enough to stop being surprised by hardship. He stopped briefly at each wagon, offered his hand, said whatever needed saying, and moved on. Karl watched him from the wagon seat for no more than a moment. The face stayed with him anyway.
 
-Pastor Hartmann climbed onto his wagon seat, opened his Bible, and the column went quiet. The Isaaks had known him for years — the Lutheran circuit pastor from Pabianice, older than Father, slightly stooped, his satchel worn smooth at the corners. Seeing him at the head of the column was its own kind of comfort. He read from Genesis — the call, the going out, the promise — and then the Gesangbücher came out and the column sang. Quietly, because they were still on Polish soil. But they sang, four parts, voices carrying across the fields in the thin morning.
+Herr Flegel climbed onto his wagon seat, opened his Bible, and the column went quiet. He was not ordained, but he was the eldest man among them, and on the road, that was authority enough. He read from Genesis — the call, the going out, the promise — and then the Gesangbücher came out and the column sang. Quietly, because they were still on Polish soil. But they sang, four parts, voices carrying across the fields in the thin morning.
 
 When the singing was done, Mother climbed onto the wagon seat. She folded the wool blanket double beneath her, settled her skirt, and straightened her spine. She did not look back toward Pabianice. Karl noticed this and said nothing. He thought of it later — how she had arranged herself as though she had already departed, had been gone since before they loaded, and only her body was completing the formality.
 
@@ -90,7 +90,7 @@ The road was alive in May.
 
 The column averaged ten miles on a good day — half that when the spring rains set in and turned the Polish roads to a soft, clinging clay that swallowed wheels and tested patience. The men would gather at each stuck wagon, four or five of them, knee-deep, leaning their shoulders into the spokes and pulling while the horses heaved and snorted and the women and children moved their weight toward the high side and held on. By the time the last wagon had been wrestled clear, the men were muddy to the waist, breathing hard, and grinning in a way that made no obvious sense. They were moving. The mud was what it cost.
 
-The rhythm of the column had its own liturgy. Up before light. Pastor Hartmann moved from wagon to wagon in the darkness — sometimes on his horse, sometimes walking, his satchel over one shoulder — and led the morning prayers before the teams were hitched, his voice low and unhurried in the grey before first light. Hard bread and cheese eaten walking or sitting in the wagon bed while the team was hitched. 
+The rhythm of the column had its own liturgy. Up before light. The quiet, methodical work of hitching the teams in the freezing darkness. Hard bread and cheese eaten walking or sitting in the wagon bed in the grey chill before dawn.
 
 On the wagon seat, Mother rode with Maria bound tightly to her chest in a heavy woolen shawl. She had mastered a pioneer's ruthless economy of motion, quietly nursing the restless toddler beneath the thick wool while simultaneously mending a torn shirt with her free hands as the iron-rimmed wheels jolted over the ruts. Movement at first grey light. A long noon halt beside whatever stream or pond the route provided, animals grazing, cold food, children asleep in the sun.
 
@@ -132,7 +132,7 @@ In the third week, a child died.
 
 A toddler from the wagon belonging to a family named Brandt — a boy of not quite two, Karl thought, though he had not known him. Diphtheria: a fever, a cough that closed on itself, two days that the family fought with everything they had and lost. The column halted a half-day. The grave was dug at the roadside, Polish soil, shallow because that was all the time and the tools allowed. The cross was wood, the name cut with a knife.
 
-Pastor Hartmann read the full Lutheran burial liturgy over the grave — the proper words, spoken by an ordained man, given without abbreviation to the family of a child who had not made it out of Poland. The column stood bareheaded in the May wind. Then the Gesangbücher came out and they sang Wenn wir in höchsten Nöten sein — Luther's hymn, in our greatest hour of need — and the voices rose into the flat Polish sky and went out in all directions, unbroken by any echo, until there was only the wind.
+The full Lutheran burial liturgy was read over the grave — the proper words, given without abbreviation by one of the colony elders, his voice rough but steady. The column stood bareheaded in the May wind. Then the Gesangbücher came out and they sang Wenn wir in höchsten Nöten sein — Luther's hymn, in our greatest hour of need — and the voices rose into the flat Polish sky and went out in all directions, unbroken by any echo, until there was only the wind.
 
 Karl watched the child's mother. She stood at the graveside with her husband's hand in both of hers and her head up, looking at the cross. Her face was not the face of someone who had been undone. It was the face of someone who had been altered, the way you alter metal — permanently, by something applied at great force and heat.
 
@@ -202,8 +202,6 @@ Mother lay in the wagon bed on a doubled blanket, her white linen cap damp at th
 
 The family moved around her with the careful, wide berth of people who do not wish to crowd what they fear. Michael spooned thin broth into her at each halt, holding the bowl close, refusing to pull it away until she swallowed. Dorothea held her hand when the column was moving and sat beside her in silence when it stopped. Johann and Karl said nothing useful and so said nothing, and Karl thought about the child in the Brandt wagon, and then made himself stop thinking about it.
 
-During a halt at a stream one afternoon, Pastor Hartmann climbed onto the wagon without announcement and sat beside Mother. He opened his Bible and read from the Psalms — steady, unhurried, the words familiar enough that her lips moved faintly with some of them. At one point her head turned and she named the one she wanted. He found it without comment and read it again from the beginning.
-
 One evening — the camp had quieted, the fires were low, and most of the column was already sleeping — Karl looked up from his side of the small fire to see his father sitting in the grass beside the wagon. Father had lowered himself down without sound and now sat with his elbows on his knees, a heaviness in the arrangement of his body that was not tiredness. He reached up and laid his hand on Mother's forehead through the side of the wagon. His hand — calloused, missing the tip of its ring finger, a hand that had broken ground and split wood and pulled nets and done every manner of difficult thing — lay there without moving.
 
 Karl watched. He had seen his father carry his mother's work when she was occupied. He had seen him reach past her to close a shutter against rain. He had never seen him touch her face.
@@ -250,7 +248,7 @@ That evening, the sky began to fail.
 
 It was not a storm. As the sun set over the steppe, the light scattered into an unnatural, lurid violence. Deep, bleeding reds and bruised purples smeared across the entire horizon, glowing with a fierce intensity long after the sun was gone. The sky looked as though it had been flayed open.
 
-Karl stood by the wagon wheel, a cold unease settling in his stomach. He had no name for what he was seeing, and no cause for it. Around the camp, the fires were quieter than usual. A woman near the Leischner wagon crossed herself, pulling her child close. Pastor Hartmann stood alone at the edge of the grass, his Bible closed in his hand, watching the blood-red horizon with a grim, silent intensity. It felt like an omen, heavy and final.
+Karl stood by the wagon wheel, a cold unease settling in his stomach. He had no name for what he was seeing, and no cause for it. Around the camp, the fires were quieter than usual. A woman near the Leischner wagon crossed herself, pulling her child close. Father stood alone at the edge of the grass, watching the blood-red horizon with a grim, silent intensity. It felt like an omen, heavy and final.
 
 ---
 

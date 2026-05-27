@@ -99,7 +99,7 @@ Mr. Strümpske guided her to Karl’s side.
 
 ---
 
-Pastor Hartmann stood behind the oak plank, his old black cassock green at the cuffs from years of trail dust. He was the same man who had blessed their departure from the Duchy, who had buried their neighbors' children by the roadside, and who had prayed over Mother when the marsh fever nearly took her.
+Pastor Schnabel stood behind the oak plank, his black cassock a stark contrast to the surrounding dirt. Friedrich Schnabel was still a stranger to the steppe—barely weeks off the road from Odessa, dispatched by the Welfare Committee to Tarutino with the church's official sanction.
 
 He opened his book and began the old German Lutheran rite, his voice deep and steady, skipping not a single syllable of the ancient liturgy. The colonists stood rigid, their heads bowed beneath the low woven reed ceiling.
 
@@ -119,7 +119,7 @@ A single drop of ice-cold meltwater fell from the ceiling, striking the bare ski
 
 ---
 
-The moment Pastor Hartmann lowered his hands, the rigid silence of the dugout evaporated. The solemnity did not fade; it was blown backward by a roar of voices and the stamp of feet. The colony had lived through five months of grey frost with nothing to celebrate; they took hold of this wedding with a desperate, hungry joy.
+The moment Pastor Schnabel lowered his hands, the rigid silence of the dugout evaporated. The solemnity did not fade; it was blown backward by a roar of voices and the stamp of feet. The colony had lived through five months of grey frost with nothing to celebrate; they took hold of this wedding with a desperate, hungry joy.
 
 The planks were cleared of the linen cloth, and the feast arrived. The two families had pared their winter stores down to the bone for this hour. Mr. Leischner had slaughtered a young shoat—a real, bleeding sacrifice from a thin winter herd.
 

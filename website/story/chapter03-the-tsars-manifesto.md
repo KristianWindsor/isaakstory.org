@@ -20,7 +20,7 @@ The low square church tower stood dark and empty. The bronze bell had been requi
 
 Inside, the chill seeped through the floorboards. The men sat on the right and the women on the left in the old way. The wooden benches were dark with sixty years of use, but the church was half-empty, hollowed out like a rotten tooth. Everywhere Karl looked, there were glaring gaps in the congregation—entire pews left vacant, marking the neighbors, friends, and whole families lost to the typhus epidemic the armies had left in their wake.
 
-Pastor Hartmann, looking older than his years and widowed by that same fever, stood at the altar. His breath plumed in the freezing air. He opened the heavy pulpit Bible to the Book of Genesis, looked out over his shivering congregation, and read a single verse.
+Pastor Schramm, looking older than his years and widowed by that same fever, stood at the altar. His breath plumed in the freezing air. He opened the heavy pulpit Bible to the Book of Genesis, looked out over his shivering congregation, and read a single verse.
 
 *"Now the Lord had said unto Abram, Get thee out of thy country, and from thy kindred, and from thy father's house, unto a land that I will shew thee."*
 
