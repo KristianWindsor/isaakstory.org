@@ -16,23 +16,25 @@ Karl read the fields by their silhouettes the way he read faces. The Leischners'
 
 The straggling line emerged from the dark pine forests, and the modest huddle of thatched-roof cottages along the frozen Dobrzynka River came into view. Rising starkly above the snow was the Zamek, the fortified manor house of the Kraków Chapter where the Lutherans merely rented space.
 
-It was not a church. It had no soaring steeple, no stained glass, and no cross. This was a squat, lime-washed box gone grey with weather, hunkered low in the wet ground between the river's backwaters as though it had sat down in the cold two hundred years ago and could not be persuaded to rise. As Karl approached the south entrance, the building’s defensive corner alcoves, pierced with narrow slit-windows, stared blindly out at the unpaved dirt square. Ghost-like patches of vibrant Renaissance frescoes peeled through the drab, utilitarian whitewash slapped on by bureaucrats.
+It was not a church. It had no soaring steeple, no stained glass, and no cross. The lime-washed fortress was rooted in the frozen ground between the river's backwaters, as though it had braced itself against the cold two hundred years ago and could not be moved. As Karl approached the south entrance, the building stared blindly out at the snow-choked square, its Renaissance grandeur buried completely beneath the thick, utilitarian whitewash slapped on by bureaucrats.
+
+![Pabianice Castle, 1814](/img/photos/1814-pabianice-castle.jpg)
 
 They shuffled through the heavy wooden doors on the south wall, stepping out of the wind into a freezing, cavernous vestibule, and finally into the great hall.
 
 Inside, the chill seeped up through the worn Renaissance brick floor. The men sat on the right and the women on the left in the old way, crowding onto rough, backless wooden benches the colonists had dragged in themselves. Above them, heavy, dark wooden beams pressed down from the flat ceiling. The room felt entirely secular, smelling of old plaster and cold dust. The walls were plain and whitewashed, and in the corner stood a massive, ornate white stone fireplace from the previous century, unlit and doing nothing to fight the bone-deep cold. Everywhere Karl looked, there were glaring gaps in the congregation—entire benches left vacant, marking the neighbors, friends, and whole families lost to the typhus epidemic the armies had left in their wake.
 
-Pastor Schramm, looking older than his years and widowed by that same fever, stood behind a simple wooden table draped with a linen cloth. His breath plumed in the freezing air. He opened his heavy Bible to the Book of Genesis, looked out over his shivering congregation, and read a single verse.
+Pastor Schramm, his face raw from the cold of the long ride from Piotrków, stood behind a simple wooden table draped with a linen cloth. His breath plumed in the freezing air. He opened his heavy Bible to the Book of Genesis, looked out over his shivering congregation, and read a single verse.
 
 *"Now the Lord had said unto Abram, Get thee out of thy country, and from thy kindred, and from thy father's house, unto a land that I will shew thee."*
 
 He closed the book and stepped aside.
 
-A stranger stood up from the front bench and walked to the front of the room. He wore the thick, forest-green greatcoat of a Russian imperial agent, his brass buttons gleaming like cold coins in the dim light spilling through the tall windows.
+A stranger stood up from the front bench and walked to the front of the room. He wore the thick, forest-green greatcoat of a Russian imperial agent, his brass buttons gleaming like cold coins in the dim winter light.
 
 When he spoke, it was in perfect, heavily accented German. He unrolled a heavy sheet of crown paper bearing the black, two-headed eagle stamp of Tsar Alexander I.
 
-"By the Imperial Manifesto of His Majesty," the agent began, his voice ringing off the flat timber ceiling, "signed the twenty-ninth of November, eighteen-thirteen... 'We, Alexander the First, by the Grace of God, Emperor and Autocrat of all the Russias, do hereby open the southern crown lands to you.'"
+"By the Imperial Manifesto of His Majesty," the agent began, his voice ringing off the low brick vault, "signed the twenty-ninth of November, eighteen-thirteen... 'We, Alexander the First, by the Grace of God, Emperor and Autocrat of all the Russias, do hereby open the southern crown lands to you.'"
 
 He spoke of a vast, untouched steppe on the Black Sea. A region the Tsar's men called *Bessarabien*.
 

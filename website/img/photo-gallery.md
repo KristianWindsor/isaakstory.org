@@ -2,6 +2,14 @@
 
 ---
 
+![Pabianice Castle, 1814](/img/photos/1814-pabianice-castle.jpg)
+
+*Pabianice Castle, Duchy of Warsaw, 1814.* 
+
+Digital reconstruction based on an [1869 archival photograph](https://www.pabjanice.pl/ten-murek/).
+
+---
+
 ![Eureka Wheat Market](/img/photos/1892-eureka-wheat-market.jpg)
 
 *Wheat Market, Eureka, South Dakota, 1892.*
