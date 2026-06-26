@@ -51,7 +51,10 @@ function chapterInfo(string $file): array {
 
 $prevChapter = $nextChapter = null;
 $prevTitle   = $nextTitle   = '';
+$pageTitle   = 'IsaakStory.org';
 if ($chapter !== null) {
+    $info      = chapterInfo($storyDir . $chapter . '.md');
+    $pageTitle = $info['title'] . ' | IsaakStory.org';
     $idx = array_search($chapter, $chapters);
     if ($idx > 0) {
         $prevChapter = $chapters[$idx - 1];
@@ -61,6 +64,10 @@ if ($chapter !== null) {
         $nextChapter = $chapters[$idx + 1];
         $nextTitle   = chapterInfo($storyDir . $nextChapter . '.md')['title'];
     }
+} elseif ($slug === 'photo-gallery') {
+    $pageTitle = 'Photo Gallery | IsaakStory.org';
+} elseif ($slug === 'map-gallery') {
+    $pageTitle = 'Map Gallery | IsaakStory.org';
 }
 ?>
 <!DOCTYPE html>
@@ -68,7 +75,7 @@ if ($chapter !== null) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>IsaakStory.org</title>
+    <title><?= htmlspecialchars($pageTitle) ?></title>
     <link rel="stylesheet" href="/style.css">
 </head>
 <body>
