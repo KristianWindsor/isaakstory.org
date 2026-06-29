@@ -50,6 +50,16 @@ Source: [Eureka Pioneer Museum Collection](https://digitalcollections.northern.e
 
 ---
 
+![Edith Allegra Isaak with her Roesch grandparents, 1930](/img/photos/1930-allegra-roesch-grandparents.jpg)
+
+*Allegra with her Roesch grandparents, near Eureka, South Dakota, 1930.*
+
+Grandma Roesch with little Allegra, Grandpa with a new lamb, and a very nervous mother sheep in the foreground.
+
+Source: McBirney family collection. Digitally restored.
+
+---
+
 ![Jack, Allegra, and Mike McBirney, 1955](/img/photos/1955-jack-allegra-mike-mcbirney.jpg)
 
 *Jack, Allegra, and Mike McBirney, College Station, Texas, August 1955.*
