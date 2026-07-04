@@ -2,3 +2,8 @@
 .claude
 psd
 delme
+
+research/**/*_
+research/**/*.pdf
+
+website/**/*_
