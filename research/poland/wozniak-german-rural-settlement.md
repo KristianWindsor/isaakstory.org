@@ -4521,7 +4521,12 @@ Cantories and prayer houses in the Piotrków governorate existing in 1849
 | 22. | Radogoszcz | łódzki | Radogoszcz | Zgierz | 7 | 1500 |
 | 23. | Rokicie Nowe | łódzki | Brus | Pabianice | 10 | 400 |
 | 24. | Rokicie Stare | łódzki | Brus | Pabianice | 12 | 600 |
-| 25. | Świnikierze | rawski | Żelechlin | | | |
+| 25. | Świnikierze | rawski | Żelechlin | Rawa | 25 | 200 |
+| 26. | Żubardź | łódzki | Radogoszcz | Łódź – św. Trójcy | 1 | 4800 |
+
+## Appendix XX
+
+### Cantorates and Their Pupils in Kalisz District in 1859
 
 | No. | Location | Boys | Girls | Total |
 |-----|----------|------|-------|-------|
@@ -4547,1520 +4552,765 @@ Cantories and prayer houses in the Piotrków governorate existing in 1849
 
 Source: APK, KO i NPK, ref. 395, fols. 27–27v.
 
-## Appendix XX
-
-### Cantorates and Their Pupils in Kalisz District in 1859
-
 ## Index of Persons
 *surnames of authors and editors in italics*
 
 Aldefeld Carl Ludwig Wilhelm 39
-
 Aleksander I 111, 119–120, 124, 134–135, 143, 205
-
 Alf Friedrich Bogusław, preacher 206
-
 Althaus Paul 258
-
 Arakcheyev Aleksei Andreyevich, Russian politician and general 134–135
-
 Arendt Karol, settler 247
-
 Arndt Martin, settler 161
-
 Arnold Stanisław 270
-
 Aubin Hermann 347
-
 Bade Klaus J. 344
-
 Badeni Marcin, Director General of National Estates and Forests 117
-
 Badziak Kazimierz 164, 387
-
 Bajer Franciszek, Kalisz notary 250
-
 Balzer Oswald 269
-
 Bandurka Mieczysław 15
-
 Baranowski Bohdan 14
-
 Baranowski Ignacy T. 10, 22, 28, 258
-
 Bardach Juliusz 155
-
 Barszczewska Alina 139, 141
-
 Bartsch Karl Gottlieb, pastor and consistory member 197, 226
-
 Bartyś Julian 166
-
 Basiński Mikołaj, Kalisz notary 23, 194, 217
-
 Bauer Karl 286
-
 Beer Mathias 8, 27, 81, 126, 237, 265, 267, 273, 288, 296
-
 Beheim-Schwarzbach Max 257
-
 Bender Ryszard 154
-
 Bergemann David, pastor 143, 173
-
 Beutelspacher Georg Friedrich, settler 91
-
 Biederman Fryderyk Dawid, head leaseholder of the economy 118
-
 Biedermann Daniel Gottlieb, pastor 224, 252–253
-
 Biegeleisen Henryk 222
-
 Biernacki Seweryn 165, 167–168, 172–173
-
 Biernawska Joanna, estate owner 137
-
 Biernawski Dionizy, estate owner 137
-
 Bilecki Marcin, settler 37
-
 Binkiewicz, priest 99
-
 Bischoff Friedrich, settler 96
-
 Bischoff Rozyna, wife of a settler 96
-
 Błaszczyk, settler 37
-
 Bobrzyński Michał 150
-
 Boenken Johan, steward 178
-
 Bogdański Antoni, Brzeziny notary 156
-
 Bogusławski Andrzej, Kalisz notary 25, 51, 110, 159
-
 Böhm Hermann 268
-
 Bojakiewicz Hieronim, estate owner 159
-
 Bolhagen David, printer and publisher 219, 221
-
 Borkiewicz Adam 15
-
 Brackmann Albert 269
-
 Brandes Detlef 17, 28, 111, 116, 120, 247
-
 Brehmer Ursula 286
-
 Breyer Albert 15, 19, 23–24, 26–27, 30–32, 34, 38–39, 42, 46, 48–49, 55–56, 58, 62, 64, 73–74, 82–83, 143, 156, 170, 173, 175, 177, 190–191, 194–195, 208–209, 216, 221–223, 226–227, 229, 233–236, 238, 241, 244–245, 248, 262, 264, 267, 274–275, 335, 337
-
 Brixen Leopold Franciszek, Łódź notary 90, 162, 174, 231
-
 Broda Józef 81
-
 Brunner Otto 307
-
 Brückner Aleksander 24
-
 Brzezina Maria 289
-
 Buchwitz Juliusz, teacher 225
-
 Buczyński Kazimierz, estate owner 158
-
 Budziszewski Tadeusz, estate owner 37
-
 Bujak Franciszek 258
-
 Burchard Walther Thomas 46, 74, 191, 201, 236, 238
-
 Busch Eduard Heinrich 8, 10, 178, 235–236, 243
-
 Bussenius Ingeburg Charlotte 81, 115
-
 Bücher Johann Christian, pastor 192–193
-
 Büllow Friedrich, teacher 206
-
 Bystroń Jan Stanisław 11
-
 Caban Wiesław 11, 14, 133, 192, 213–214, 225, 253, 255, 273, 287–289
-
 Cała Alina 254
-
 Celińscy, estate owners 217
-
 Celiński Krzysztof, estate owner 157, 194
-
 Celiński Maksymilian, estate owner 157
-
 Charłampowicz Józef 256, 270
-
 Chęciński Andrzej, settler 167
-
 Chobrzyński Walenty, estate owner 192
-
 Chodyła Zbigniew 36, 53, 64
-
 Chomać Regina 306
-
 Chrzanowski Wojciech 19, 24
-
 Chudzyński Marian 180
-
 Chwic Andreas, settler 97, 357
-
 Chyliński Urban, settler 35, 37
-
 Cichocka-Petrażycka Zofia 267
-
 Cichocki Ignacy, starost 24
-
 Cieślewicz Antoni, settler 167
-
 Cieśliński Ignacy, head leaseholder of the economy 116
-
 Ciszewski Stanisław 233, 237–238, 240, 244–245, 254, 259
-
 Colberg Juliusz 19
-
 Colomb von, official of the Warsaw chamber 86, 87
-
 Conze Werner 273
-
 Czajkowski Walenty, Płock notary 66
-
 Dahlmann Dittmar 8, 27, 81, 126, 237, 288, 296, 387
-
 Datzlaw Marcin, Hollander 26
-
 Dąbrowska Krystyna, photographer 335, 342–347
-
 Dąbski (Dąmbski) Antoni, estate owner 23, 191
-
 Dąbski (Dąmbski) Kazimierz, estate owner 23
-
 Dekowski Jan Piotr 154–155
-
 Dębowski (Dembowski) Kajetan, estate owner 25, 34, 38, 53, 64
-
 Diffenbacher Jan, teacher 224
-
 Dobrowolska Maria 267
-
 Dobrowolski Kazimierz 244
-
 Dolat Jerzy 194
-
 Domke Karl Friedrich, preacher 205
-
 Dornstein August Wilhelm, surveyor 44
-
 Drews Wojciech, Hollander 26
-
 Dryze Wilhelm, colonist 253
-
 Dure Andreas, settler 95
-
 Dure Michael, settler 95
-
 Eherissman Bernard, settler 245
-
 Ehrentraut Johann Gottlieb, pastor 225
-
 Eichler Adolf 83, 243, 263–265
-
 Enderówna Janina 211, 213
-
 Estreicher Karol 219
-
 Everth Paul Woldemar, superintendent 206
-
 Fenske Hans 273
-
 Fiedler Eduard Adolf, pastor 225
-
 Fiedor Karol 286
-
 Fietze Jan Gottlieb, cantor 222
-
 Fijałkowski Paweł 25, 29, 64, 191–192, 204, 287
-
 Fischer, councillor of the Warsaw chamber 208
-
 Fischer Adam 242
-
 Fremkel Kazimierz, estate owner 151–152
-
 Friderych (Friedrich) Georgi, Hollander 96, 357
-
 Fritsche Anita 387
-
 Fryderyk August 103–105, 107–108, 111, 113, 117, 127
-
 Fryderyk I 126
-
 Fryderyk II Wilhelm 78
-
 Fryderyk III Wilhelm 80
-
 Fryderyk Wielki [Frederick the Great] 257
-
 Fuchs Thomas 285–286
-
 Garczyński Stefan 208
-
 Gastpary Woldemar 190–191, 193–194, 221, 239, 287
-
 Gawarecki Wincenty Hipolit 73–74, 244–245, 247, 259
-
 Gawlitta Sewerin 8, 78–79, 111, 130, 168, 172–175, 187, 243, 247, 262, 266, 270, 287–288
-
 Gąsiorowska Natalia 103, 123–124
-
 Geißler Artur 221
-
 Geyer Helena Anna 387
-
 Gille Bertrand 142
-
 Gilly David 19, 25
-
 Gliszczyński Antoni, department prefect 112
-
 Gloger Zygmunt 39
-
 Główczewski Ignacy, Kalisz notary 157, 167, 182
-
 Gniotkiewicz Bartłomiej, townsman 246
-
 Goldbeck von, chancellor 211
-
 Goldberg Jakub 32–33, 37, 209, 274
-
 Golik Wojciech, Hollander 226
-
 Gołąbek Jakub (Taube Jakob) 39
-
 Górski Benedykt, estate owner 37
-
 Górski Dawid, Hollander 26, 38
-
 Górski Janusz 21, 78
-
 Górski Józef 237
-
 Górski Ludwik 168
-
 Górski Stefan 260
-
 Graboski Johan, settler 37
-
 Grabski Andrzej Feliks 16
-
 Grabski Władysław 154, 163
-
 Grelewski Stanisław 29, 287
-
 Grimm Friedrich Heinrich, pastor 208
-
 Grimm von, chamberlain 205
-
 Groniowski Krzysztof 187
-
 Grossman Henryk 309
-
 Grotowski Bonifacy, Piotrków notary 158, 336, 359
-
 Gruner, chamber councillor 82
-
 Grünberg Karol 188
-
 Gundlach Rudolf 309
-
 Gutakowski Ludwik, estate owner 24
-
 Gutknecht Bruno 30
-
 Haaß Jacob, settler 83, 335, 340–341
-
 Hahn Peter-Michel 309
-
 Handke Kwiryna 274–275
-
 Handt Bogusław, Hollander 156
-
 Hauser, settler 117
-
 Hauser Przemysław 273
-
 Heike Otto 9, 81–82, 84, 86, 88–89, 92–93, 96, 100, 115, 119, 132, 179, 190, 211, 226, 233–234, 238, 247–248, 252, 262, 268, 271–272, 277, 285, 289
-
 Henke, village headman 253
-
 Hensel Jürgen 18, 261, 285
-
 Hevelke Johann Karl, superintendent 221
-
 Hiery Hermann 273
-
 Hintz Fryderyk, teacher 227
-
 Hippel Wolfgang von 310
-
 Hiszpańska-Neumann Maria, graphic artist 388
-
 Hochgeladen E. 9
-
 Hoefig Alexander 251, 263
-
 Hohenlohe von Ingeltingen, estate owner 118
-
 Holsche August Carl von 13, 73, 125, 169, 257
-
 Hopf Hans 254
-
 Hoym Karl Georg von, minister 79–80, 100, 211
-
 Hubatsch Walther 81, 115
-
 Ihnatowicz Ireneusz 39, 42, 170
-
 Inglot Stefan 12, 185, 267
-
 Jadyszka Piotr (Jedyske Peter), Hollander 39
-
 Jaeckle Martin, settler 90
-
 Jaekel Samuel Fryderyk, pastor 197
-
 Janicki Kajetan, Łódź notary 23, 138, 162, 199
-
 Jankowski Stanisław, settler 167
-
 Jaroński Roman, Łódź notary 162, 231, 249
-
 Jaskłowski Wacław 237
-
 Jedlicki Jerzy 29, 153
-
 Jermołow, general 136
-
 Jerzmanowski Franciszek, starost 25
-
 Józef II 279
-
 Just Friedrich 234
-
 Jütteman Herbert 90
-
 Kaczmarczyk Zdzisław 269, 271
-
 Kaczorowski Gottlieb, village founder 37, 40
-
 Kaczyńska Elżbieta 137
-
 Kage Martin 68, 234
-
 Kaindl Raimund Friedrich 174, 255, 264, 269
-
 Kalinowski Józef, settler 167
-
 Kamińska Janina 270
-
 Kanigowski J., cupbearer 30
-
 Kargel Adolf 251
-
 Katarzyna II [Catherine II] 78, 236, 296
-
 Kauder Viktor 15, 19, 335, 337
-
 Kazimierczak Jan 158
-
 Keckowa Antonina 24
-
 Kern Rainer 90
-
 Kessler Wolfgang 19, 255, 285–286, 288
-
 Kinzel, draughtsman 335, 347
-
 Kirkor-Kiedroniowa Zofia 124, 129, 172–173
-
 Kiss Erwin 262, 267
-
 Kizik Edmund 29, 34
-
 Klatt Robert 24, 34, 83, 262–263
-
 Kleiner Gottfried 203
-
 Klinger Jozef, settler 158, 336, 359
-
 Kneifel Eduard 88, 173, 191, 193–194, 196, 200, 202, 204–206, 214, 271, 287
-
 Koch Emil 193
-
 Kohte Wolfgang 262, 265
-
 Kolberg Oskar 185, 241–242, 244
-
 Kołłątaj Hugon 259
-
 Kołodziejczyk Ryszard 16, 155, 314, 316
-
 Koniarski Jakub, Hollander 25
-
 Koniarski Jan, Hollander 26
-
 Konstanty, Grand Duke 136
-
 Koskowski Bolesław 260
-
 Kossmann [Eugen] Oskar 12–13, 25–30, 33–35, 37–38, 40, 43–44, 46, 49–53, 55–56, 58–64, 66–67, 69, 71, 74, 80–81, 88–90, 92, 94–95, 100, 110, 112, 116, 142, 151, 156, 159–160, 166, 170, 174, 189, 192, 212, 237–238, 245–246, 248, 262, 264, 268, 271–272, 274, 276, 285–286
-
 Kostrowicka Irena 123, 169, 177, 181
-
 Kościeski Wojciech, settler 37
-
 Kotewicz Ryszard 153
-
 Kowalczyk Rafał 106
-
 Kowalska-Glikman Stefania 239
-
 Kowalski Karol 237
-
 Kowalski Teofil J., Kalisz notary 187
-
 Kozarawski Osip, Russian official 135
-
 Kramm, draughtsman 86, 335, 343, 346
-
 Krasuski Jerzy 281
-
 Krause Johann, teacher 227
-
 Krebs Bernard 189
-
 Krebs Georg Caspar, settler 83
-
 Kretkowski, starost 24
-
 Kroll Benno 387
-
 Krombin Jan Fryderyk, teacher 227
-
 Krusche Gottlieb, manufacturer 9
-
 Krünitz Johann Georg 34
-
 Kuczyński Krzysztof A. 234, 286
-
 Kuhn Walther 86, 88–89, 161, 204, 233, 243, 245, 262, 266
-
 Kula Marcin 16
-
 Kula Witold 251, 282
-
 Kulesza Fabian, Kalisz notary 182
-
 Kunitzer Emil 9
-
 Kupsch Eduard 206
-
 Kurakin Aleksei, minister 112
-
 Kwaśniewicz Krzysztof 75
-
 Kwoka Bernard 272, 286
-
 Labuda Gerard 268
-
 Lackner Franz 133, 273
-
 Landau Zbigniew 22, 123, 169, 177, 181
-
 Lange Jan Bogumił, teacher 207, 227
-
 Lasocka Izabela, estate owner 246
-
 Lasocki Adam, castellan of Sochaczew 23, 26, 191
-
 Lasocki Antoni, castellan of Gostynin 42
-
 Lattermann Alfred 262
-
 Laukisch Franz 120
-
 Lechner Bogumił, teacher 228
-
 Leder 253
-
 Legrand Claude Juste-Alexandre, marshal and estate owner 114
-
 Lehner Frydrych, teacher and cantor 203
-
 Leibbrandt Georg 234
-
 Lembke, deputy 140
-
 Lepucki Henryk 267
-
 Leskiewiczowa Janina 123, 125, 195
-
 Leszczyc-Zielonawski S., estate owner 31
-
 Lewicki Michał, notary of Brzeziny 156
-
 Libeke (Liebeke) Joan, Hollander 97, 357
-
 Libiszowska Zofia 315
-
 Lipski K., prelate 32
-
 Lityński Andrzej, notary of Brzeziny 250
-
 Lorentz Zygmunt 161
-
 Löwe Heinz-Dietrich 8–10, 290
-
 Ludkiewicz Zdzisław 29, 55
-
 Ludwig Adolf Teodor, superintendent 206, 221–222
-
 Ludwig Juliusz, pastor 221
-
 Luter Marcin, reformer of the Church 201, 204, 207, 221, 230, 388
-
 Lück Kurt 9, 269, 270
-
 Łukasiewicz Dariusz 208, 210, 213, 223
-
 Łuszczewski Jan Paweł, minister 107
-
 Maas Walther 14, 275–276
-
 Mak Georg Adam, settler 142
-
 Manitius Gustaw, pastor 253
-
 Marchlewski Wojciech 28–29, 42, 46, 48, 51, 54, 61, 72, 74, 179, 277, 287
-
 Marggraf Martin, pastor 194
-
 Markowski Mieczysław B. 14
-
 Maske Johann Gottlieb, pastor 227
-
 Matelski Dariusz 285
-
 Mattner Georg, village headman 195
-
 Matz 253
-
 Meinard Melchior, village mayor 113
-
 Meissner Lucjan 19, 120, 166, 255, 266, 286
-
 Mencel Tadeusz 278–279
-
 Metzner Fryderyk, pastor 199
-
 Meysenholder Johann Friedrich, settler 92
-
 Mielke Emil 42, 48, 54–55, 62, 69–70, 74, 119, 139, 179, 190–192, 202, 208, 235, 273
-
 Milerski Bogusław 64, 191
-
 Milewski J., estate owner 23
-
 Missalowa Gryzelda 153, 271
-
 Mite 253
-
 Moderan Jan Gottlieb, teacher 225–226
-
 Modl Johann August, superintendent 220, 227, 253
-
 Modlińska Anna 34
-
 Modzelewski Karol 286
-
 Molik Witold 254, 287
-
 Morawski, estate owner 31
-
 Mostowski Tadeusz, minister 133
-
 Mueller Georg, locator 32, 38
-
 Muenster Georg, settler 247
-
 Mühle Rainer 11
-
 Müller August 261, 263
-
 Myszakow Jadwiga 270
-
 Napoleon I 103, 110, 199
-
 Nasierowski Józef, estate owner 108
-
 Nax Jan Ferdynand 21
-
 Neidhart Joseph, manufactory owner 388
-
 Nesselrode Karl Robert, Russian diplomat 140–141
-
 Neumann Bogusław August, teacher 228
-
 Niemcewicz Ursyn Julian 237, 240, 242–244
-
 Niemojowski Bonawentura, estate owner and politician 169
-
 Nieszkowski Bogusław, estate owner 98
-
 Nofer Ludwig, village mayor 114
-
 Norlitz Samuel, teacher 229
-
 Nothardt von, Prussian official 73, 80–82, 92
-
 Nowosielski Franciszek, notary of Kalisz 43, 51, 157, 336, 361
-
 Nowosilcoff (Nowosilcow) Nikołaj Nikołajewicz 134–135
-
 Oberkrome Willy 266
-
 Oberländer Erwin 284
-
 Okołowicz Kwiryn, estate owner 151
-
 Okołowicz-Krzywiec Mikołaj, estate owner 138
-
 Olszewicz Bolesław 19
-
 Olszewski Henryk 269
-
 Oppermann von, adjutant 205
-
 Ordon Franciszek, notary of Kalisz 186
-
 Orłowski Hubert 287
-
 Orłowski Ryszard 279
-
 Osterloff Karol, estate owner 225
-
 Ostrowski Antoni, senator and estate owner 153
-
 Ostrowski Antoni Kazimierz, estate owner 30
-
 Ostrowski Korabita Michał, estate owner 96, 351, 353, 355, 357
-
 Otuski Kazimierz, settler 167
-
 Pałucki Władysław 24
-
 Papritz Johannes 307
-
 Paskiewicz Iwan, viceroy of the Kingdom of Poland 54, 131, 141, 144, 147–148, 205, 213
-
 Pawelec Dariusz 206
-
 Pawiński Antoni 35
-
 Penck Albrecht 268
-
 Perthées Karol de 19
-
 Piasecki Tomasz, nobleman 116
-
 Picz (Pietsch) Georgius Joan, Hollander 96, 335, 350–351, 353, 357
-
 Picz (Pietsch) Samuel, Hollander 96, 357
-
 Piel Gottfryd, Hollander 99
-
 Pietrov Jurij 387
-
 Pilnik, settler 37
-
 Piotrowski Bernard 255–256, 262, 265–266, 269
-
 Piwek Jerzy 14
-
 Plattdütscher E. 235–236, 239
-
 Płonczyński Antoni, estate owner 156
-
 Podgórska Eugenia 208, 212–213, 216
-
 Pohl Ewa 206
-
 Pohlens Edmund, mayor of Łódź 185
-
 Pokrandt Alfred 121
-
 Popławski Antoni 21
-
 Potiemkin, deputy 136
-
 Potkański Karol 10, 12, 258, 267
-
 Potocki Kostka Stanisław, minister 212–213
-
 Praesent Hans 318
-
 Prechie Jakob, village mayor 38
-
 Prus Bolesław 261
-
 Prusiński Paweł, estate owner 31
-
 Pruss Witold 15, 29, 198, 295
-
 Prümers Rodgero 257
-
 Przeniosło Marek 289
-
 Przesmycki Karol 318
-
 Puś Wiesław 20
-
 Pytlak Antonius 108, 116, 127–128, 130, 146, 172–173, 243, 257–258
-
 Pytlas Stefan 259
-
 Raczyński, estate owner 186
-
 Raczyński Bonawentura, estate owner 194
-
 Radoliński Kajetan, estate owner 32
-
 Radoszewski Józef, president of the provincial commission 133
-
 Radzymiński, estate owner 148
-
 Ramotowska Franciszka 123, 125, 195
-
 Ratecka Barbara 234, 286
-
 Ratzlaff Erich L. 29
-
 Rauschning Hermann 263
-
 Reinhard Oswald 319
-
 Reiser Dietrich 62
-
 Rembieliński Rajmund, president of the provincial commission 112, 139, 153, 161
-
 Renz Regina 321
-
 Reps Michael, settler and roofer 247
-
 Reptowski Andrzej, parish priest 30
-
 Rewerowa Anna, townswoman 137
-
 Ritter Ernst 265
-
 Rodecki Franciszek 302
-
 Rogall Joachim 288
-
 Rohr Jan, underforester 99
-
 Rokoszny Józef 289
-
 Rosiewicz Lukas, settler 37
-
 Rosin Andreas, village mayor 207
-
 Rostworowski Michał 169
-
 Rożenowa Hanna 150
-
 Różański Adolf 271
-
 Różański Antoni, settler 167
-
 Rudzyński Chryzostomus, locator 37
-
 Rusiński Władysław 49, 130, 186, 258, 267, 273–274, 276, 278, 296
-
 Rutkowski Józef 109, 267
-
 Rynkowska Anna 153, 268
-
 Sadziński Roman 234
-
 Salzwedel Max 273
-
 Sawicka Franciszka 13
-
 Scharf Claus 78
-
 Scherp Eduard 263
-
 Schierle Jakob, village mayor 132
-
 Schippan Miachael 236
-
 Schmid Johann Christian, teacher 227
-
 Schmidt Erich 264
-
 Schmidt Rudolf 195–196, 257
-
 Schmiedke (married couple), settlers 234
-
 Schmit Michael 73, 86–87, 234
-
 Schmoller Gustaw 86, 126, 257, 271
-
 Scholz Jeremias, preacher 205
-
 Schubert Daniel, teacher 207, 217–218
-
 Schwartz Martin, settler 144
-
 Seegemund Johann Georg, pastor 226
-
 Senkowska-Gluck Monika 155
-
 Serczyk Jerzy 255, 262
-
 Sering Max, economist 257
-
 Sierociński Teodozy 219
-
 Sierzputowski Stanisław, notary of Brzeziny 182
-
 Siewert, draughtsman 335, 344–345
-
 Silewiczówna Maria 270
-
 Simsch Adelheid 78–80, 82, 100
-
 Sinell Karl Michael, superintendent 195
-
 Skarbek Fryderyk 125, 154, 242, 258
-
 Skórkowski Feliks, estate owner 138
-
 Smarzewski Marcin 13
-
 Sobczak Janusz 269
-
 Sobiczewski Bernard 272
-
 Sobolewski Stanisław, settler 167
-
 Sokoła-Garczyński Piotr, estate owner 32
-
 Sokołowski August 79, 93
-
 Sommer Hugo 320
-
 Sommerfeld 253
-
 Sotzmann Daniel Friedrich, cartographer 275
-
 Spiegelberg, councillor 112
-
 Sprzęglewski J., mayor 197
-
 Stadnicki F., estate owner 32, 194
-
 Stankiewicz Witold 21
-
 Stankiewicz Zbigniew 130, 154
-
 Starzyński Ignacy, estate owner 199
-
 Starzyński Sebastian, notary of Łódź 33, 44, 56, 96, 104, 199, 335–336, 338–339, 360
-
 Staszic Stanisław 21–22
-
 Stawowski, land purchaser 99
-
 Stebelski Adam 261, 270
-
 Stegner Tadeusz 192, 201, 205, 231, 254, 287
-
 Steinberg Hermann 238, 242
-
 Stejnke Michał, settler 249
-
 Stokowski Bogusław, estate owner 24
-
 Stokowski Józef, notary of Łódź 116, 162, 231, 235, 245, 261
-
 Stokowski Józefat, estate owner 44
-
 Stomma Ludwik 242
-
 Stroynowski Hieronim 21
-
 Strunk Johann Franz, printer and publisher 220–221
-
 Stulczewski Jarosław 151
-
 Surowiecki Wawrzyniec 258
-
 Sybel Heinrich, historian 269
-
 Sygulski Adam 176
-
 Szafran Przemysław 34
-
 Szafrański Bartłomiej, settler 167
-
 Szałygin Jerzy 30, 46–47, 68, 158, 287
-
 Szarota Tomasz 11
-
 Szczawiński Jan, estate owner 37, 41
-
 Szczawiński Kajetan, notary of Łódź 174
-
 Szczepański Janusz 24
-
 Szczepański Jerzy 14
-
 Szcześniak Janina 260
-
 Szelewski Adam, priest 240
-
 Szembek Krzysztof Antoni, bishop 23
-
 Szlak, colonist 253
-
 Szmidecki Wilhelm, president of the provincial commission 216
-
 Szreder Bogusław, settler 142
-
 Szulc Edward 203, 253
-
 Szweykowski Zygmunt 262
-
 Szyltzne Karol, cantor 217
-
 Śladkowski Wiesław 14, 170, 172, 175, 186–187, 214, 216, 280–284, 288
-
 Śmiałowski Józef 20, 154, 159, 186, 252
-
 Śmiłowski Józef, settler 167
-
 Świtkowski Piotr 43
-
 Tayfer Chrystian, Hollander 156
-
 Textor Ernst 72
-
 Textor Hermann 80, 82, 89, 91, 127, 129–130, 212, 229–230, 235, 262
-
 Tolschaker 253
-
 Tomaszewski Henryk Ryszard 206
-
 Tomaszewski Jerzy 22, 123, 169, 177, 181
-
 Tomczak Andrzej 25
-
 Tomicki Ryszard 244
-
 Tomm Otto Emil 55
-
 Trzciński Grzegorz, notary of Brzeziny 200, 246
-
 Trzebiński Wojciech 15
-
 Trzetrzewiński Wojciech 173
-
 Tuchtenhagen Ralph 9, 27, 126
-
 Tusikiewicz Maciej, settler 167
-
 Tymieniecki Kazimierz 269
-
 Vogl Gottlob, physician 246
-
 Volker Karl 265
-
 Voss Otto Karl Friedrich von, minister 78–82, 100, 195, 277
-
 Walczak Antoni W. 261
-
 Warschauer Adolf 257
-
 Wasilkowski Jan 237
-
 Wągrowski Marcin, sub-judge 31
-
 Wąsicki Jan 79, 277–278
-
 Weber Max 240
-
 Weinert, Hollander 108–110
-
 Werner Gustaw 253
-
 Wężyk J., estate owner 31, 195
-
 Wieliczka Zygmunt 269
-
 Wielopolski Aleksander, politician 216
-
 Wiercieński Henryk 260–261
-
 Wilk Marian 255
-
 Willaume Juliusz 119
-
 Winiarz Adam 212
-
 Wirtemberski Adam, estate owner 189
-
 Witthold Beniamin Gottlieb, pastor 208
-
 Włodarczyk Zdzisław 104
-
 Wójcik Monika 206
-
 Wojtkowski Andrzej 269
-
 Wolf Marionela 8, 150
-
 Wolicki, parish priest 23
-
 Wolnicki Kazimierz, settler 167
-
 Woźniak Andrzej 72
-
 Woźniak Krzysztof Paweł 15, 18–19, 64, 133, 153, 160, 162, 166, 178, 182, 191, 195, 232, 248, 255, 259, 264, 287–289, 336, 358
-
 Wróblewski Tadeusz S. 285
-
 Wrzesiński Wojciech 287
-
 Wybicki Józef 21
-
 Zabłocki Stanisław, cup-bearer and estate owner 26, 39
-
 Zajączek Józef, viceroy of the Kingdom of Poland 124, 133
-
 Zakrzewski K., estate owner 30
-
 Załęski Witold 175
-
 Zamoyski Andrzej, landowner 279
-
 Zawacki, settler 37
-
 Zeiser Johann, saddler 246
-
 Zerfass Henryk, bailiff 247
-
 Zimmer Klaus, historian 20
-
 Zimmermann Kazimierz 80, 200, 258
-
 Zinzendorf Ludwik, estate owner 204
-
 Żychowski Marian 148, 163–165, 170, 172, 174–176, 178, 180–182, 267, 278–279, 288
-
 ## Index of Place Names
 
 Aachen 136
-
 Adamów 200
-
 Adamów Nowy 231
-
 Adamów Stary 231
-
 Albertów 365
-
 Aleksandrowo 118
-
 Aleksandrów Łódzki 231, 246, 365
-
 Ambrożew 231
-
 America 80, 273
-
 South America 204
-
 Andrespol 118
-
 Antoniew 232, 249
-
 Arciechówek 26
-
 Augustynowo 118
-
 Austria 22, 77, 292
-
 Babiak 20, 194, 227
-
 Babice 365
-
 Baden-Durlach 89
-
 Baden 11, 80–81, 126, 142, 146, 237
-
 Balków 118
-
 Bałuty 365
-
 Banat 280
-
 Barczew 363
-
 Bavaria 288
-
 Rhenish Bavaria 132
-
 Bechcice 151
-
 Bedoń 144
-
 Bełdów 365
-
 Berlin 79, 96, 108, 218
-
 Bertelsdorf 206
-
 Bessarabia 116, 120, 137, 140, 234
-
 Besk 34, 46, 52, 57–59, 61, 65
-
 Będzików 217
-
 Białobłoty Holendry 32
-
 Bieganowo 34
-
 Bielawy 363
-
 Bieniew 26
-
 Biesiekierz 30
-
 Błaszki 152, 367
-
 Błędów 198
-
 Bobrowniki 72
-
 Boginia 200
-
 Bolesławowo 363
-
 Borki 24
-
 Borowiec 31
-
 Borowo (Wilhelmswalde) 82, 88, 115, 136, 335, 346
-
 Brandenburg 118, 208, 218
-
 Brudzew 222
-
 Brudzice 365
-
 Brus 365
-
 Brużyca 49
-
 Brużyca Mała 33, 40–41, 61, 64
-
 Brużyca Wielka 192
-
 Brysk 117
-
 Brzeg 32
-
 Brzeziny 199–200, 240, 246–247, 365
-
 Brzeźno Holendry 31
-
 Brzoza 228
-
 Budy Stokowskie 249
-
 Budzisław 363
-
 Bukowiec 82, 94, 115, 132, 196, 245
-
 Byszewy 46, 50–51, 57
-
 Bytoń 34
-
 Bzura 26, 28, 37, 154, 190
-
 Ceków 157, 194, 217, 363
-
 Celestynów 217
-
 Russian Empire 17, 135–137
-
 Chechło 37, 43, 45, 50, 52–53, 57, 59, 61, 140–142
-
 Chełmno nad Nerem 50, 207
-
 Chełmno nad Wisłą 28
-
 Kherson 207
-
 Chociszew 37, 199, 363
-
 Chocz 32, 38, 150–152
-
 Chodecz 30, 52, 194, 221
-
 Chojny 37, 231, 365
-
 Choroszcz 181
-
 Chyliczki (Hilitz) 82
-
 Ciechocinek 23, 37, 42, 73, 247
-
 Ciężkie 231
-
 Ciosny 365
-
 Czachulec 194, 367
-
 Czarny Las 166
-
 Bohemia 204
-
 Czermno 25, 34, 60
-
 Czerwonka 158
-
 Czyste 363
-
 Dalików 363
-
 Danowice 367
-
 Dąb 23
-
 Dąbie nad Nerem 30, 34, 220, 363–364
-
 Dąbrowa 33, 37–38, 41, 44, 47, 49, 52–53, 59, 61, 64–65, 208, 249, 365
-
 Dęblin 260
-
 Dębniałki 222
-
 Dębowiec 166
-
 Długie 365
-
 Dobiegniewo 23
-
 Dobra 365
-
 Dobrów 43, 49, 51
-
 Lower Silesia 32
-
 Domaradzyn 38–40, 45, 55, 57–59, 208
-
 Dominikowice 179
-
 Drążyn Holendry 31
-
 Dresden 221
-
 Dziekanów 82
-
 Dziepułć 365
-
 Dzierżanów 231, 365
-
 Dziurdzioły 158
-
 Elbląg 113
-
 Emitenhein 118
-
 Estonia 193, 201
-
 Eufeminów 144
-
 Europe 8, 22, 77, 105, 174, 231, 256–257, 262, 276, 284, 288, 296
-
 Central Europe 273
-
 Eastern Europe 273
-
 Western Europe 296
-
 Federal Republic of Germany 271–272
-
 Felicjanów 200
-
 Feliksów 138, 363
-
 France 123
-
 Franconia 189
-
 Friedrichsfelde 118
-
 Frisia 46
-
 Gać Kaliska 225, 367
-
 Gadów 32
-
 Gadów Holendry 32
-
 Galicia 93, 264, 267
-
 Western Galicia 279–280, 292
-
 Gałkówek 85, 365
-
 Gąbin 25, 28, 30, 32, 53, 64, 71, 178, 194, 204
-
 Gąski (Gonzig) 82
-
 Głogowiec 200, 208
-
 Gniezno 220, 228
-
 Gorzkiewki 82
-
 Gorzów Wielkopolski 31
-
 Gosławice 363
-
 Gostynin 133, 136, 194, 226, 242
-
 Górki 363
-
 Upper Lusatia 204
-
 Grabienic 176, 231
-
 Grabina 33, 40–41, 49–53, 57
-
 Grabina Holendry 45
-
 Grabów, Łęczyca district 50, 52, 363
-
 Grabów, Wieluń district 33
-
 Grądy 31
-
 Greifswald 235
-
 Greenland 204
-
 Grodziec 31, 81–83, 194, 200, 363
-
 Grosse Hollaender 275
-
 Grudziądz 27
-
 Grunt Bieniewski 26
-
 Georgia 136
-
 Grzegorzew 30
-
 Grzybowo 257
-
 Guzów 167, 227
-
 Heilbronn 80, 82
-
 Helenów 137
-
 Herrnhut 204, 206, 294
-
 Hesse 11, 151
-
 Holendry Czermińskie 25
-
 Holendry Dębowieckie 166
-
 Holendry Dębskie 367
-
 Holendry Gniewniewskie 24
-
 Holendry Januszewskie 24
-
 Holendry Kiszewskie 190
-
 Holendry Małowiejskie 24
-
 Holendry Maślane (Maślaki Holendry) 166, 194, 198
-
 Holendry Secomskie 24
-
 Holendry Stare Paprockie 203
-
 Holendry Węglewskie 31
-
 Holendry Wilkoskie 24
-
 Holendry Zbierskie 223
-
 Holendry Żarzyńskie 28
-
 Holędry Dębskie 215
-
 Holędry Stokowskie 95
-
 Holstein 46
-
 Huta Bardzińska 33
-
 Huta Brudzka 365
-
 Huta Stara 166
-
 Iłów 29, 191–192, 208
-
 Inowłódz 112
-
 Iwanowice 62, 195
-
 Izbica 363
-
 Janów 363
-
 Jarantów 222
-
 Jarosty 365
-
 Jasieniec 235
-
 Jaszczury 194, 218–219
-
 Joanka 62–63, 67, 167, 220, 222, 224–225, 227–228
-
 Joanów 138
 Józefosław (Krapenest) 81, 139
 Józefów 32, 38, 198, 367
 Justynów 365
-
 Kakawa 251
-
 Kaliskie 24, 237–238, 244–245, 248, 250
 Kalisz 148, 151, 178, 195, 363
 Kały 231
@@ -6093,7 +5343,6 @@ Kietlin 96–97, 301, 335, 350–351, 353
 Kiki 35, 37, 46, 49–50, 53, 57, 59–60
 Kiszewy 108–109
 Kleczew 161
-
 Klein Engelfinger 118
 Klein Gorne (Małe Górne) 92
 Kleine Hollaender 275
@@ -6131,7 +5380,6 @@ Krokocice 363
 Krotoszyn 32
 Kingdom of Poland 9, 11, 13–18, 20, 22, 28, 54, 61, 63, 100, 123–124, 126–129, 131–137, 140–153, 155, 161, 163, 165–166, 168, 170, 172–181, 184, 187, 189, 195–198, 200–202, 204–206, 212–214, 233–234, 236, 239–240, 243, 263, 267–268, 270–273, 276, 278–280, 282–284, 287–289, 291–295, 297
 Krzepice 112
-
 Krzewo 52, 58, 65
 Krzyworzeka 210
 Ksawerów near Łódź 166, 251
@@ -6146,9 +5394,7 @@ Kusy Kąt 249
 Kuszyn 228
 Kutno 133, 136, 207, 217, 226
 Kuźnice 194
-
 Laski (Storchnest) 82
-
 Leosin 365
 Leszno 363
 Leszno-Wola 144
@@ -6163,15 +5409,12 @@ Ludwigsthal 118
 Ludwinów (Ludwigsburg) 81
 Lutomiersk 151
 Lwówek (Leonberg) 9, 82–83, 88–89, 117, 190, 200, 206, 210, 245
-
 Łabiszyn 31
-
 Łacha Szkutnicza (Die Schuiten Lack) 275
 Łazisko 365
 Łazińskie Holendry 31
 Łaznowska Wola (Grömbach) 81, 83, 86, 88, 93–94, 96, 114, 133, 200, 210, 247, 335, 340, 343
 Łaznów 81, 92–93, 114–115, 117–118, 132, 237–238
-
 Łęczno 365
 Łęczyca 82, 185, 220, 242
 Łęczyckie 14, 33, 37, 40, 287
@@ -6183,9 +5426,7 @@ Lwówek (Leonberg) 9, 82–83, 88–89, 117, 190, 200, 206, 210, 245
 Łowicz 217
 Łódka 247
 Łódź 247–249, 263, 267, 272, 286, 365
-
 Majaczewice 384
-
 Marchwacz 218
 Marcinów 39–41, 44, 46, 49–50, 58–60, 62
 Marcinów Holendry 167
@@ -6213,9 +5454,7 @@ Black Sea 260, 271
 Mostki 30
 Mrówna 37, 49–50, 59
 Mycielin 367
-
 Rhineland 80
-
 Nagold 82
 Naramice 364
 Nassau 151
@@ -6236,9 +5475,7 @@ Nowosolna (Neu Sulzfeld) 9, 82, 88, 95, 97, 99, 114, 117–118, 132–133, 190, 
 Nowy Adamów 231
 Nowy Dwór Mazowiecki 204
 Nowy Tomyśl 32
-
 Obrowo 23
-
 Nadnotecki District (Netzedistrikt) 14, 17, 31, 234
 Oder 31
 Öhringen 80, 82, 88
@@ -6256,7 +5493,6 @@ Olędry Starotomickie 110
 Olędry Teodorowskie 167
 Olędry Tokarskie 110
 Olędry Wielkie 44, 335, 339
-
 Opacz 82
 Orężna (Schwenningen) 81
 Orszewice 118
@@ -6267,7 +5503,6 @@ Ostrówek 46, 50, 57
 Ostrówek Pokrzywno 56–57
 Ozorków 44, 127, 138, 199, 363–364
 Ozorzyn 194
-
 Pabianice 138, 195–197, 206, 210, 218, 224, 248, 252, 365–366
 Palatinate 11, 80, 89, 132, 200, 280
 Paprockie Holendry 31
@@ -6292,7 +5527,6 @@ Płockie 169, 287
 Podgórzyce 118
 Podgrabów 151
 Gostynin Lake District 30, 74, 170, 220, 238, 241–242
-
 Kuyavian Lake District 30, 234
 Poland 89–90, 104, 110, 141, 150, 264–265, 269, 271, 292, 316
 Central Poland (Mittelpolen) 46, 58, 61, 77, 90, 193, 204, 217–218, 268, 284, 286, 288, 291, 296
@@ -6325,12 +5559,10 @@ Pustkowie Dulęby 25
 Pustkowie Dzięcioły 25
 Pustkowie Górne 224
 Pustkowie Pośrednie 159
-
 Pustkowie Smolnik 223
 Pustkowie Zalesie 25
 Kampinos Forest 24
 Pyzdry 14
-
 Radogoszcz 38, 41, 45, 50–52, 208, 365–366
 Radomsko 96, 366
 Radzany 363, 367
@@ -6355,14 +5587,12 @@ Rydzyny 40, 44–45, 47, 50, 57, 59, 61–62, 210, 251
 Rypułtowice 28
 German Reich 8, 11, 18, 39–40, 82, 126, 147, 149–150, 236, 256, 266, 292–293
 Rzgów 364
-
 Sady 26, 192
 Sady Niemieckie 66
 Sadykierz 194, 218–219, 228
 Saxony 141, 204
 Sanniki 9, 154, 204, 237
 Transylvania 90
-
 Sienno 234
 Sieraków 31
 Sieraków Holendry 31
@@ -6402,14 +5632,12 @@ Siberia 253
 Szadek 151
 Szarłatów 381
 Szczecin 220, 235
-
 Szczepanów 36, 43, 50, 52, 57, 59
 Szczypiorno 151
 Szopy 81
 Szubin 31
 Szydłów 285
 Szydłówka (Rochów) 25
-
 Silesia 17, 78, 90, 110–111, 119, 179, 181, 217–218, 233, 275, 278
 Świątkowicka Kolonia 363
 Świecie 27
@@ -6417,7 +5645,6 @@ Silesia 17, 78, 90, 110–111, 119, 179, 181, 217–218, 233, 275, 278
 Świniary 24, 26
 Świniary Holenderskie 26
 Świniokierz 366
-
 Teleszyna 32
 Teodorów 200
 Tkaczew 81, 199, 238
@@ -6435,12 +5662,9 @@ Turkey 78
 Turek 225, 363
 Tury Holendry 31
 Ukraine 28
-
 Uniejów 31, 52, 56
-
 Warsaw 59, 72, 81–82, 91, 119, 127, 135–136, 139–140, 142, 145–148, 164, 166, 178, 190, 196–197, 208, 221, 238, 247, 269, 284, 287
 Warta 12, 22, 28, 31, 56, 59, 173, 175, 190, 248, 277
-
 Węglew 28
 Wiączemin 192
 Wiączemin Niemiecki (Deutsch Wionczemin, Wiączemin Nowy, Nowy Wiączemin) 24
@@ -6470,7 +5694,6 @@ Witka Królewska 24
 Witków 231
 Witów 37
 Wiżajny 226
-
 Władysławów, Kalisz region 194, 226
 Władysławów, Łęczyca region 364
 Włęcz (Lentzen) 69
@@ -6492,7 +5715,6 @@ Wysieradz 224
 Wysokie 363
 Wyszogród 23, 27, 194
 Wzgórze 33–34, 38–39, 48, 50, 52, 61, 65
-
 Zagórów 118, 364
 Zakrzyn 194, 217, 365
 Zamęta 367
@@ -6508,14 +5730,12 @@ Kalisz Land 31–32
 Lubusz Land 23
 Wieluń Land 23
 Żabieniec 228, 231
-
 Żakowice 200
 Żelazków 32
 Żelechlin 366
 Żubardź 366
 Vistula Delta 17, 23, 27, 34, 275
 Żytowice 28
-
 ## From the Editors
 
 Dr. Krzysztof Paweł Woźniak is a graduate of historical studies (1977) and ethnographic studies (1980) at the University of Łódź. Since 1982 he has been affiliated with the Department of Early Modern Polish History, and after 1989 with the Department of Social and Economic History, currently with the Department of Nineteenth-Century Polish History at the Institute of History, University of Łódź. He completed his doctorate on the basis of the dissertation *Problems of the Łódź Industrial District in the Opinion of German Historiography* (1990). His main area of research interest is the participation of the German population in the social and economic life of the Kingdom of Poland in the nineteenth and twentieth centuries. He also deals with modernization processes in the Kingdom of Poland in the nineteenth century, the history of the Evangelical-Augsburg Church in central Poland, and the history of multicultural Łódź.

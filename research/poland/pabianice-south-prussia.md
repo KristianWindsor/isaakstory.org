@@ -18,7 +18,6 @@ sources_cited:
   - "Henryk Stanisław Dinter, \"The Story of a Great Career. Łódź 1332–1860,\" Łódź 1965"
   - "Piotr Sölle, \"Pabianice Commune. Historical and Sightseeing Guide,\" Pabianice 2023"
 copyright: "© Sławomir Saładaj / City of Pabianice. Quoted works © their respective authors and publishers. Retained here for personal research/historical-context use only; not for redistribution without permission."
-retrieved_for: "The Isaak Story — historical context"
 editor_note: "Two clear factual typos in the source were corrected in [brackets]: the Peace of Tilsit year (1807) and the Third Partition year (1795). Corrupted characters from the original web encoding were normalised."
 description: "A translated local-history compilation from the City of Pabianice website, drawing on several published works (cited in-text). It traces Pabianice — and the wider Łódź region — through the Second and Third Partitions and the South Prussian period (1793–1807), including the arrival of German colonists whose surnames fill the parish registers."
 ---

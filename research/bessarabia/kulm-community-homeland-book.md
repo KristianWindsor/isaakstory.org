@@ -8,9 +8,11 @@ translation_date: "2005-06-26"
 source_url: "https://www.blackseagr.org/pdfs/konrad/Kulm%20Community%20Homeland%20Book.pdf"
 source_site: "Bessarabian Germans / Black Sea German Research (blackseagr.org)"
 place: "Kulm, Bessarabia (Akkerman District)"
+period: "1815–1940 (colony founding through Resettlement)"
 language: en
 copyright: "Translation © Allen E. Konrad. Underlying work © its respective authors. Retained here for personal research/historical-context use only; not for redistribution without permission."
-retrieved_for: "The Isaak Story — historical context"
+scope: "Community memorial book (Heimatbuch) compiled for the 150th anniversary of the Kulm colony. Covers the full arc from founding (1815) through the 1940 Nazi Resettlement to Germany. Contains personal histories, church records, trade/industry accounts, agricultural life, and reminiscences from Kulm residents."
+note: "Plain-text/Markdown conversion of the PDF; running page headers and footers removed. Extensive — the file is very large."
 ---
 
 # Kulm Community Homeland Book

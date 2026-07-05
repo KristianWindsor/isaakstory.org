@@ -6,8 +6,8 @@ source_url: "https://www.youtube.com/watch?v=DWBjxS8vG_w"
 video_title: "Virtual 3-Part Series: German Russian Genealogy"
 publisher: "Fayetteville Public Library"
 published: "2021-11-10"
+language: en
 description: "Steppe by Steppe: A history on German Russians, some migration patterns, German Russian genealogy, key resources and how to navigate them."
-retrieved_for: "The Isaak Story — general background on the Germans-from-Russia story"
 scope: "General overview of the Germans-from-Russia history and migration. Volga-centric, with secondary Black Sea coverage. No Bessarabia-specific detail — use the Kulm sources for the Isaak line's particulars."
 note: "Polished, formatted, and corrected from the video's transcript; garbled proper names and German/Russian terms fixed against historical sources."
 ---

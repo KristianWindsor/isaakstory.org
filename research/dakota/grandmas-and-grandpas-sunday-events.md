@@ -8,6 +8,8 @@ place: "Family homestead near Eureka, South Dakota"
 people: "'Grandma & Grandpa' = parents of Eva Roesch (the author's mother) = the author's maternal grandparents; Germans from Russia, emigrated 1898, homesteaded in SD"
 copyright: "© 2002 Allegra McBirney (family-held). Confirm before public use."
 provenance: "Transcribed from a printed family copy (photographed)."
+language: en
+scope: "Allegra McBirney's childhood recollection (ages 3–7) of Sunday visits to her maternal grandparents' farm near Eureka, SD, circa 1930–1934. Covers food, household rhythms, farm details, and extended-family Sunday gatherings."
 note: "Maternal (Roesch) line — NOT the Isaak surname line."
 ---
 

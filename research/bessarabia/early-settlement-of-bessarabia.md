@@ -14,7 +14,6 @@ source_site: "Bessarabian Germans / Black Sea German Research (blackseagr.org)"
 place: "Bessarabia (Budschak) — Malojaroslawetz I, Sarata, Tarutino, Kulm, and the other colonies"
 language: en
 copyright: "Translation © Allen E. Konrad. Underlying 1857 work in the public domain by age. Retained here for personal research/historical-context use."
-retrieved_for: "The Isaak Story — primary-source foundation for the Bessarabian colony years"
 scope: "First-hand 1857 statistical and historical account of the Bessarabian German colonies by a colony secretary. Highly relevant to the Isaak line: founding dates (Kulm 1815), the Poland-origin 'Kashubian' vs Württemberg 'Swabian' distinction, the Polish migration route (1812–1814), the 1829/1831/1848/1855 epidemics, soil/agriculture/wine, church-and-school life, Pietists and Separatists."
 note: "Polished and formatted from the translator's PDF. Konrad's translation wording is preserved verbatim (including its 19th-century phrasing and literal grammar); only photocopy page-markers were removed and headings/paragraphing added for readability. Words in [square brackets] are the translator's."
 ---

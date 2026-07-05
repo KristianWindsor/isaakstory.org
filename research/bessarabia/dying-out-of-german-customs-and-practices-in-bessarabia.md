@@ -9,12 +9,12 @@ author: "Martin Weiß, teacher in Alt-Posttal"
 written: "1929"
 english_translation_by: "Allen E. Konrad"
 translation_date: "2014-10"
+language: en
 source_url: "https://www.blackseagr.org/pdfs/konrad/Dying%20Out%20of%20German%20Customs%20and%20Practices%20in%20Bessarabia.pdf"
 source_site: "Bessarabian Germans / Black Sea German Research (blackseagr.org)"
 internet_location: "urn:nbn:de:bvb:355-ubr13936-5"
 place: "Bessarabia (Budschak) — Alt-Posttal, Tarutino"
 copyright: "Translation © Allen E. Konrad. Underlying 1929 work in the public domain by age. Retained here for personal research/historical-context use."
-retrieved_for: "The Isaak Story — Bessarabian German customs (weddings, festivals, seasonal life)"
 scope: "First-hand 1929 lament cataloguing folk customs that were vanishing among the Bessarabian Germans. Directly relevant to the Isaak line: Alt-Posttal and Tarutino are Budschak colonies neighboring Kulm. Rich on wedding, May Day, Easter, harvest, Kirchweih, and Christmas traditions."
 note: "Polished and formatted from the translator's PDF. Words in [square brackets] are the translator's. German custom-names preserved with their glosses."
 ---

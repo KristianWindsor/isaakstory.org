@@ -7,6 +7,8 @@ period: "c. 1890s–1930s"
 people: "David Isaak (paternal grandfather, storekeeper) · Albert Isaak (the author's father; ran the store with David) · Hannah K. F. Hetzler (David's wife; paternal grandmother) · Eva Roesch (the author's mother)"
 copyright: "© Allegra McBirney (family-held). Confirm before public use."
 provenance: "Transcribed from a printed family copy (photographed). Original had no byline."
+language: en
+scope: "Allegra McBirney's memoir of the Isaak paternal line: her grandfather David Isaak's general store in Eureka SD (c.1890), her father Albert's WWI service and post-war store management, and the family's move to Iowa."
 note: "Isaak (paternal) line."
 ---
 

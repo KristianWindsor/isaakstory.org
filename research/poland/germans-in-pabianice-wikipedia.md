@@ -11,7 +11,6 @@ language: en
 original_language: de
 license: "Text under Creative Commons Attribution-ShareAlike (CC BY-SA); see Wikipedia for the exact current version. This is an unofficial machine translation; attribute to 'Wikipedia contributors, \"Deutsche in Pabianice\"'."
 copyright: "© Wikipedia contributors, CC BY-SA. Machine-translated and reformatted for personal research/historical-context use."
-retrieved_for: "The Isaak Story — historical context"
 editor_note: "Source was a Google-Translate rendering of the German Wikipedia article. Image captions from the original have been omitted; inline footnote markers like [1] are kept and resolve to the Footnotes/References list. Body text and paragraph structure are otherwise preserved as translated; only machine-translation spacing artifacts (stray spaces before punctuation) were normalized."
 ---
 

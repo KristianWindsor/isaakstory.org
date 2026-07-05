@@ -10,10 +10,8 @@ publisher: "Łódź University Press (Wydawnictwo Uniwersytetu Łódzkiego)"
 place: "Central Poland (Łódź region; incl. Pabianice, Zgierz, Ozorków, Aleksandrów, Łęczyca)"
 language: en
 date_published: "2022"
-dates_processed: "Received 2022-02-06; Revised 2022-02-20; Accepted 2022-03-09"
-license: "Open access, Creative Commons. TODO: confirm the exact CC variant — ESRAP articles commonly carry CC BY-NC-ND 4.0, but verify on the article page before relying on it."
 copyright: "© 2022 Tadeusz Marszał / Łódź University Press. Open-access scholarly article retained here for personal research/historical-context use; cite the original via the DOI above and follow its license terms."
-retrieved_for: "The Isaak Story — historical context"
+scope: "Peer-reviewed 2022 survey of German immigration to the Łódź/Pabianice region from the late 18th century through the 1820s–1830s. Covers migration origins, settlement patterns, occupational structure, and the colonists' social insularity (separate village life, mother-tongue retention)."
 ---
 
 # German Immigrants in Central Poland in the Late 18th and Early 19th Centuries

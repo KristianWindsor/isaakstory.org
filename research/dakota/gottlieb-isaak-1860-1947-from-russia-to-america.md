@@ -8,9 +8,8 @@ people: "Gottlieb Isaak (1860–1947) · father Christian Isaak (1821–1912) ·
 do_not_confuse: "This Gottlieb (1860–1947) ≠ the story's Gottlieb Isaak (1834–1921). This Gottfried (1868–1956) ≠ the story's Gottfried Isaak (1820–1890)."
 source_citation: "'From Bessarabia to Northern Dakota: A Family's Journey,' in The Way It Was: The North Dakota Frontier Experience, Book Four: Germans from Russia Settlers, eds. Everett C. Albers & D. Jerome Tweton (Grass Roots Press, Fessenden, ND, 1999), pp. 33–40."
 shared_by: "Robert Roloff, on Ancestry, 14 Mar 2009"
-ref: "https://www.ancestry.com/mediaui-viewer/collection/1030/tree/1307170/person/-1848050511/media/9f43011e-fa7c-4d32-aaf5-76176b677ec0"
+source_url: "https://www.ancestry.com/mediaui-viewer/collection/1030/tree/1307170/person/-1848050511/media/9f43011e-fa7c-4d32-aaf5-76176b677ec0"
 copyright: "© 1999 editors/publisher. Excerpt kept for personal research; confirm permissions before public use."
-retrieved_for: "The Isaak Story — parallel Kulm-Isaak emigration (collateral branch)"
 note: "Lightly cleaned from an OCR'd book excerpt; facts/names/dates preserved, including source inconsistencies (the wife is 'Christina' early and 'Katherine' late). Uncertain village spellings left as in the source."
 ---
 

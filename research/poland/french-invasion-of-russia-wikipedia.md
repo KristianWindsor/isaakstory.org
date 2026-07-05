@@ -1,12 +1,15 @@
 ---
 title: "French invasion of Russia"
-source_type: "Wikipedia article"
+source_type: wikipedia
 source_url: "https://en.wikipedia.org/wiki/French_invasion_of_Russia"
 revision_url: "https://en.wikipedia.org/w/index.php?title=French_invasion_of_Russia&oldid=1361618451"
 oldid: "1361618451"
-original_file: "French invasion of Russia - Wikipedia.pdf"
-license_note: "Wikipedia text is available under the Creative Commons Attribution-ShareAlike License; see the source page history and license terms."
-cleanup_note: "Converted from PDF to Markdown. Image captions and the right-side infobox were mostly omitted; inline citation markers were preserved."
+place: "Russia / Europe"
+period: "1812"
+language: en
+license: "Text under Creative Commons Attribution-ShareAlike (CC BY-SA); see Wikipedia for the exact current version."
+scope: "Full Wikipedia article on Napoleon's 1812 Russian campaign: causes, the advance to Moscow, the retreat, and the campaign's aftermath."
+note: "Converted from PDF to Markdown. Image captions and the right-side infobox were mostly omitted; inline citation markers were preserved."
 ---
 
 # French invasion of Russia
