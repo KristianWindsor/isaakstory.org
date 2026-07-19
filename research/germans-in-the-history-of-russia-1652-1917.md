@@ -14,11 +14,20 @@ place: "Russian Empire (German colonies of the Volga, Novorossiya, Bessarabia, t
 period: "1652–1917"
 language: "English"
 original_language: "Russian"
+content: "full"
 document_count: 200
 pdf_page_count: 786
 transcription: "The Russian text was extracted from the OCR'd source PDF, cleaned of broken paragraphs and other PDF/OCR artifacts, and formatted as Markdown using Claude Code. It is suitable for research but may still contain occasional transcription or formatting errors."
 translation: "Unofficial English translation of the cleaned Russian Markdown transcription, produced with Claude Code for personal genealogical and historical research. Occasional word-level translation errors may remain."
 license: "The underlying pre-1917 Russian state documents are likely in the public domain. The 2006 compilation, introduction, editorial apparatus, notes, and arrangement may remain copyrighted by the compiler and/or publisher. This unofficial translation is retained as research material. Cite the original as: Немцы в истории России. 1652–1917 / Сост. В. Ф. Дизендорф. — М.: МФД; Материк, 2006."
+---
+
+> **Note:** This is the complete translation
+> and it is very large. Period-specific extracts have been trimmed from it:
+> - `poland/germans-in-the-history-of-russia-trimmed-1652-1814.md`
+> - `bessarabia/germans-in-the-history-of-russia-trimmed-1800-1878.md`
+> - `dakota/germans-in-the-history-of-russia-trimmed-1849-1897.md`
+
 ---
 
 **INTERNATIONAL FOUNDATION**
@@ -3671,7 +3680,7 @@ Of this sum the following are allotted: a) for the salaries of the teachers and 
 
 *PSZRI. Coll. 2. Vol. XVII. P. 42-44.*
 
-**No. 100. STATUTE ON THE GERMAN CHARITABLE SOCIETY IN ODESSA, CONFIRMED BY NICHOLAS I (1846)**
+## No. 100. STATUTE ON THE GERMAN CHARITABLE SOCIETY IN ODESSA, CONFIRMED BY NICHOLAS I (1846)
 
 20340. — August 23. Imperially confirmed statute on the charitable society for the benefit of Germans in Odessa.
 
@@ -11277,7 +11286,9 @@ Now the Sovereign Emperor, upon the submission of the Viceroy of the Caucasus an
 
 9. To close the Rural Office of the Tiflis colony, with the abolition of the community of Tiflis colonists.
 
-*PSZRI. Coll. 2. Vol. XXXVI, Part 1. P. 703–704. No. 123. RESOLUTION OF THE COMMITTEE OF MINISTERS ON RAISING LEVIES ON THE GERMAN COLONISTS OF NEW RUSSIA AND BESSARABIA, CONFIRMED BY ALEXANDER II (1861)*
+*PSZRI. Coll. 2. Vol. XXXVI, Part 1. P. 703–704.*
+
+## No. 123. RESOLUTION OF THE COMMITTEE OF MINISTERS ON RAISING LEVIES ON THE GERMAN COLONISTS OF NEW RUSSIA AND BESSARABIA, CONFIRMED BY ALEXANDER II (1861)
 
 37062. — May 30. Most Highly confirmed resolution of the Committee of Ministers, announced to the Senate by the Minister of State Domains. — On increasing the levy on the German colonists of the New Russian governorates and the Bessarabian region.
 
@@ -12089,7 +12100,7 @@ The Governor of Kherson, in his report of 12 December 1878, No. 3,477, submitted
 
 Having heard the opinion of the acting deputy chief procurator, the Governing Senate, in a joint session of the 1st and cassation departments, turning to consider the question raised by the Kherson Provincial Board for Peasant Affairs as to whether the decree of the 1st Department of the Governing Senate of 11 January 1878, No. 1,106, extends to settler-proprietors (former colonists), finds that settler-proprietors (former colonists), by the exact force of articles 700, 731, and 748 of Vol. IX with the notes thereto, and article 2 of the rules on their organization, set forth in No. XV of the statute on the rural estate (special appendix to Vol. IX, 1876 edition), have entered into the composition of rural inhabitants and been assigned to the category of peasants, whereby, as stated in this latter article, they retained, on the grounds indicated in the subsequent articles, also the personal privileges which they had hitherto enjoyed. From the literal sense of the said provisions it is evident that settler-proprietors (former colonists) have been granted not merely the name of peasant-proprietors, but that, besides the personal rights and privileges established in the special rules concerning settler-proprietors and those which they had hitherto enjoyed, they must also enjoy those rights, personal and pertaining to status, which are common to all rural inhabitants assigned to the category of peasant-proprietors, and which do not contradict the special provisions concerning settler-proprietors. Such a right is unquestionably the right granted to peasants in note 3 to article 24 of the General Statute on Peasants Emerging from Serfdom, establishing the rights of peasants with respect to claims, complaints, petitions, and litigation, and consisting in the following: "monetary exactions from peasants are carried out in accordance with the rules established in articles 384–407 of the Statute on the Good Order of State Villages, and that, in the sale of peasants' property to satisfy an exaction, out of the proceeds, arrears on state and seigneurial dues, as well as on communal levies, are satisfied first and in full, and only thereafter other exactions in proportion to the claims." Basing itself precisely on this note and on other provisions of the General Statute, as well as of the Statute on Redemption and the Local Statute of the Great Russian governorates relating to the procedure for collecting arrears on state taxes, communal levies, redemption payments, and seigneurial quitrents, the Governing Senate, through the 1st Department, by decree of 11 January 1878, No. 1,106, printed in article 62
 
-## No. 16. of the Collection of Statutes and Orders of the Government, resolved the question raised, among others, of the procedure by which the inventory and sale of the property of individual peasants should be carried out to satisfy private debts adjudged by court decisions, and then, in furtherance of the aforementioned laws, issued the rule set forth above in the journal of the Kherson Provincial Board for Peasant Affairs, for the guidance of court bailiffs, in the case where the execution of court decisions on the recovery of debts from individual peasants is entrusted to them apart from the village authorities. In consequence of this, and taking into account: 1) that, on the basis of the aforementioned rules on the organization of settler-proprietors, 1876 edition, former colonists have the same village and volost administration as peasants (art. 4), and likewise perform the same communal duties and zemstvo levies as peasants, and pay for the land allotments received under title deeds, on the same grounds as state peasants, the quitrent tax (arts. 5 and 18); 2) that the proper fulfillment by settlers of the taxes and levies, zemstvo and communal duties due from them, is likewise secured by the procedure indicated in articles 187–191 of the General Statute on Peasants and the supplementary provisions thereto (art. 5); 3) that the principal motivating cause for the issuance of the rules mentioned in the Senate decree of 11 January 1878 was the necessity of extreme caution in the sale of peasants' property to satisfy private debts, in order to safeguard the economic life of the peasant estate and its financial and economic interests, and 4) that the same necessity exists with respect to settler-proprietors (former colonists), who, as stated above, form part of that same peasant estate — the Governing Senate resolves: to recognize that the decree of the Governing Senate of 11 January 1878 applies also to settler-proprietors; and to send decrees to this effect to the Kherson Governor and to the Odessa District Justice of the Peace Congress.
+No. 16 of the Collection of Statutes and Orders of the Government, resolved the question raised, among others, of the procedure by which the inventory and sale of the property of individual peasants should be carried out to satisfy private debts adjudged by court decisions, and then, in furtherance of the aforementioned laws, issued the rule set forth above in the journal of the Kherson Provincial Board for Peasant Affairs, for the guidance of court bailiffs, in the case where the execution of court decisions on the recovery of debts from individual peasants is entrusted to them apart from the village authorities. In consequence of this, and taking into account: 1) that, on the basis of the aforementioned rules on the organization of settler-proprietors, 1876 edition, former colonists have the same village and volost administration as peasants (art. 4), and likewise perform the same communal duties and zemstvo levies as peasants, and pay for the land allotments received under title deeds, on the same grounds as state peasants, the quitrent tax (arts. 5 and 18); 2) that the proper fulfillment by settlers of the taxes and levies, zemstvo and communal duties due from them, is likewise secured by the procedure indicated in articles 187–191 of the General Statute on Peasants and the supplementary provisions thereto (art. 5); 3) that the principal motivating cause for the issuance of the rules mentioned in the Senate decree of 11 January 1878 was the necessity of extreme caution in the sale of peasants' property to satisfy private debts, in order to safeguard the economic life of the peasant estate and its financial and economic interests, and 4) that the same necessity exists with respect to settler-proprietors (former colonists), who, as stated above, form part of that same peasant estate — the Governing Senate resolves: to recognize that the decree of the Governing Senate of 11 January 1878 applies also to settler-proprietors; and to send decrees to this effect to the Kherson Governor and to the Odessa District Justice of the Peace Congress.
 
 *SURP. 1890. 1st half. No. 38. Pp. 778–783.*
 
@@ -12405,7 +12416,7 @@ Signed: Chief Commander of the Odessa Military District and Governor-General, Ge
 
 ## No. 166. CHAIRMAN OF THE COUNCIL OF MINISTERS I.L. GOREMYKIN TO GENERAL N.N. YANUSHKEVICH ON THE ORDER OF GENERAL M.I. EBELOV (NOVEMBER 14, 1914)
 
-## No. 8504.
+No. 8504.
 
 Dear Sir Nikolai Nikolaevich,
 
@@ -12423,7 +12434,7 @@ I. Goremykin
 
 ## No. 167. CHIEF OF STAFF OF THE SUPREME COMMANDER-IN-CHIEF N.N. YANUSHKEVICH TO GENERAL M.I. EBELOV ON THE ORDER CONCERNING PERSONS OF GERMAN NATIONALITY (NOVEMBER 19, 1914)
 
-## No. 519.
+No. 519.
 
 Dear Sir Mikhail Isaevich,
 
@@ -12441,7 +12452,7 @@ Certified true: Acting Secretary A. Danilov
 
 ## No. 168. GENERAL M.I. EBELOV TO GENERAL N.N. YANUSHKEVICH ON PROHIBITIVE MEASURES AGAINST GERMANS (1914)
 
-## No. 1402. Odessa
+No. 1402. Odessa
 
 Dear Sir Nikolai Nikolaevich,
 
@@ -12803,7 +12814,7 @@ To grant the Chief Administrator of Land Settlement and Agriculture the authorit
 
 ## No. 178. CHANCELLERY FOR CIVIL ADMINISTRATION AT THE STAFF OF THE SUPREME COMMANDER — TO THE DUTY GENERAL UNDER THE SUPREME COMMANDER P.K. KONDZEROVSKY, ON THE EXPULSION OF THE GERMAN POPULATION (30 OCTOBER 1915)
 
-## No. 6311.
+No. 6311.
 
 Returning herewith the telegram of General Bonch-Bruevich concerning the request that he be informed of all orders issued by the Staff of the Supreme Commander for the area of the Northern Front regarding the expulsion of German colonists, the Chancellery for Civil Administration has the honor to report the following:
 
@@ -13029,7 +13040,7 @@ Published in part: The History of Russian Germans in Documents (1763–1992). / 
 
 ## No. 181. CHIEF OF STAFF OF THE SUPREME COMMANDER-IN-CHIEF M.A. ALEKSEEV TO THE CHAIRMAN OF THE COUNCIL OF MINISTERS B.V. STÜRMER ON THE DEPORTATION OF GERMAN COLONISTS (JUNE 16, 1916)
 
-## No. 7592.
+No. 7592.
 
 Dear Sir Boris Vladimirovich,
 
@@ -13789,7 +13800,7 @@ Published: The History of Russian Germans in Documents (1763—1992). / Compiled
 
 ## No. 199. REPORT OF S. BAZAROV, HEAD OF THE CHANCELLERY FOR CIVIL ADMINISTRATION UNDER THE COMMANDER OF THE SOUTHWESTERN FRONT, ON THE EXPULSION OF GERMAN COLONISTS (AUGUST 29, 1917)
 
-## No. 1521.
+No. 1521.
 
 Since the transfer of matters concerning colonists to the jurisdiction of the Civil Chancellery (from August 4, 1917), approximately 500 petitions (as of October 15) have been received from colonists requesting permission to reside in their colonies, with half of the petitioners having already returned without authorization, citing the Provisional Government's abolition of all national and religious [restrictions] and the pardon of all those administratively exiled.
 
@@ -13827,7 +13838,7 @@ Resolution: Agreed. Lieutenant General                  Volodchenko.
 
 ## No. 200. N.G. VOLODCHENKO, COMMANDER OF THE SOUTHWESTERN FRONT, TO SUPREME COMMANDER A.F. KERENSKY, ON THE EXPELLED GERMAN COLONISTS (OCTOBER 1, 1917)
 
-## No. 1660.
+No. 1660.
 
 According to the journal of the Special Conference of June 23, 1915, on measures to be taken when troops clear certain localities of the Northern and Southwestern fronts, all German colonists without exception were subject to obligatory expulsion from the state border and further eastward.
 
@@ -13909,7 +13920,7 @@ In the 17th and early 18th centuries, in the German Sloboda, as everywhere else 
 
 Minau, Karl Gottfried (1720—1775) — a native of Riga, pastor of the Church of Sts. Peter and Paul in Moscow from 1754 to 1775.
 
-No. 11
+### No. 11.
 
 This act was preceded by the manifesto of Catherine II permitting foreigners to settle in Russia, of December 4, 1762 (for the text see: German Colonists in the Age of Catherine / Comp.: E.E. Lykova, M.I. Osekina. Moscow, 2004. Pp. 10—11). Unlike the present manifesto, it was general in character and had no direct consequences.
 
