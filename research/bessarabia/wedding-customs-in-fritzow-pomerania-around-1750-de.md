@@ -47,31 +47,31 @@ note: >-
 
 *Aus dem kirchlichen Monatsblatt der Synode Cammin 4-7/1910 von Pastor Strecker., Fritzow*
 
-# Hochzeitsbräuche in der Pfarrei Fritzow um 1750
+### Hochzeitsbräuche in der Pfarrei Fritzow um 1750
 
 Hierüber haben schon die „Monatsblätter für Pommersche Geschichte und Altertumskunde" im Jahre 1906 berichtet, ein Blatt, welches wert ist, in weiteren Kreisen gelesen zu werden. Es wird herausgegeben von der Gesellschaft für Pommersche Geschichte in Stettin. Mitglied dieser Gesellschaft kann man werden durch einen jährlichen Beitrag von 6 Mk., wofür man das „Monatsblatt" und andere Schriften erhält. Weil das Blatt aber nur wenigen zugänglich ist, mag jener Bericht auch in unserem Monatsblatt Aufnahme finden. Man hört doch gern, wie die Alten es getrieben haben.
 
-## Die Partnerwahl
+### Die Partnerwahl
 
 Bei der Wahl einer Braut oder eines Bräutigams kam es selten auf besondere Zuneigung an, sondern meist auf den Willen der Eltern oder, wenn diese nicht mehr lebten, der nächsten Verwandten. Diese hielten es ohnehin für einen großen Mangel an Achtung, wenn sie bei der Wahl nicht zu Rate gezogen wurden. Wenn nun auch die gegenseitige Neigung der Brautleute wenig beachtet wurde, so waren doch Zank und Unverträglichkeit in den Ehen selten.
 
 Wollte ein Witwer oder eine Witwe wieder heiraten, so hatten auch die erwachsenen Kinder eine maßgebende Stimme, umso mehr, als den Alten bei Übergabe des Hofes ein ansehnliches Altenteil ausgemacht wurde. Es wurden auch wohl gewisse Jahre festgesetzt, wie lange die Eltern noch wirtschaften sollten, ehe sie dem Sohn oder der Tochter den Hof verschrieben.
 
-## Arrangierte Ehen und Doppelhochzeiten
+### Arrangierte Ehen und Doppelhochzeiten
 
 Hatten die Eltern beschlossen, daß die Kinder heiraten sollten, so wurde Braut oder Bräutigam gewöhnlich aus den Gliedern der „Freundschaft" gewählt, die man als gute Wirtschafter kannte, und die auch ein Erkleckliches an Betten, Leinewand, Pferden, Kühen mitbrachten. Bot sich Gelegenheit, eine Doppelhochzeit anzustellen, so wurde diese besonders gern ergriffen. Die Fritzower Trauregister bezeugen es. Waren z. B. in einer Familie zwei Söhne, in der anderen zwei Töchter, so mußten diese sich heiraten. Der älteste Sohn blieb im Hofe des Vaters, der andere ging zu den Schwiegereltern.
 
 Manchmal geschah es, daß verwitwete Personen sich unter der Bedingung heirateten, daß ihre mitgebrachten, noch jungen Kinder sich später zusammengeben und beide Höfe besitzen oder, wenn ein Paar schon erwachsen war, sogleich den erledigten Hof einnehmen sollten.
 
-## Die Mitgift-Verhandlungen
+### Die Mitgift-Verhandlungen
 
 Um die Mitgift (bei Wohlhabenden außer Betten, Leinenzeug, Hausgerät noch 4 Pferde, 4 Kühe und einige hundert Taler) wurde sehr gefeilscht. Ein Teil ließ von seinen Bedingungen ab, der andere legte zu, sodaß es eigentlich ein Handel war wie bei einem Pferdekauf. Wurden die Parteien nicht einig, so gingen sie ruhig auseinander, und aus dem ganzen, schönen Plan wurde nichts. Kam es aber zu einer Einigung, so verabredete man sofort, wie und wann die Hochzeit ausgerichtet werden sollte. Mancher zartfühlenden Seele mag solche Handelei widerwärtig erscheinen, jedenfalls beugt sie vielen Enttäuschungen und Zwistigkeiten für später vor.
 
-## Die Hochzeitsbitter
+### Die Hochzeitsbitter
 
 Den Beginn der Hochzeitsfeierlichkeiten machten die Hochzeitsbitter, zwei Knechte, welche zu Pferde mit lang von der Schulter und dem Hut herabwallenden, bunten Bändern, auch mit künstlichen Blumensträußen ausgeputzt, in jedes Haus hineinritten und auf der großen Diele, wohl gar erst in der Stube Halt machten, um ihre Einladungssprüche herzusagen. Diese waren z. T. gereimt, handelten von der Stiftung des Ehestandes und ersuchten die Geladenen, im Hochzeitshause zu erscheinen, auch mit nötigen Geräten auszuhelfen, Gäste zu beherbergen usw.
 
-## Das Hochzeitslied
+### Das Hochzeitslied
 
 Diese Einladung hieß das Hochzeitslied und lautete, wie folgt:
 
@@ -97,15 +97,21 @@ Von der Mahlzeit zum Trunk Fröhlich zum Sprung, mit Tanzen und Springen und and
 
 **9. Strophe:** Gern möchte ich gesehen Han, wie Adam und Eva haben getan, wie sie beide ihr Herz erquickt, als sie sich haben einander erblickt.
 
-**10. Strophe:** Wie wird doch Adam haben gelacht, als er vom Schlaf ist aufgewacht. Er legt sich nieder ganz allein, stand auf und fand ein Jungferlein. Adam bedachte sich nicht weit, er zog nicht lange auf die Freit; er nahm die erste, die er fand und begab sich mit ihr in den Ehestand. Er traf es auch sehr recht und wohl und tat damit, was er tun soll, daß er die erste bald behält; Gott hat sie ihm selbst dargestellt. Wie wird sich Eva haben gestellt, die Fürstin und Kaiserin der Welt, weil sie zur Ehe kam, bald da sie fing zu leben an.
+**10. Strophe:** Wie wird doch Adam haben gelacht, als er vom Schlaf ist aufgewacht. Er legt sich nieder ganz allein, stand auf und fand ein Jungferlein.  
+Adam bedachte sich nicht weit, er zog nicht lange auf die Freit; er nahm die erste, die er fand und begab sich mit ihr in den Ehestand.  
+Er traf es auch sehr recht und wohl und tat damit, was er tun soll, daß er die erste bald behält; Gott hat sie ihm selbst dargestellt.  
+Wie wird sich Eva haben gestellt, die Fürstin und Kaiserin der Welt, weil sie zur Ehe kam, bald da sie fing zu leben an.  
 
 **11. Strophe:** Er gab ihr auch Hülf mit ihr der ganzen Welt samt ihrer Zier. Daher war Adam gar sehr reich, daß ihm noch keiner ist worden gleich.
 
-**12. Strophe:** Eva auch kein Bedünknis trägt, ihm diese Verbeugnis (nicht?) abschlägt. Vor allen andern in der Welt ihr unser Adam wohlgefällt. Ein Wunderding allhier geschieht, desgleichen wir erfahren nicht: Adam war lang noch nicht ein Jahr, da er zum Ehstand tüchtig war.
+**12. Strophe:** Eva auch kein Bedünknis trägt, ihm diese Verbeugnis (nicht?) abschlägt. Vor allen andern in der Welt ihr unser Adam wohlgefällt.  
+Ein Wunderding allhier geschieht, desgleichen wir erfahren nicht: Adam war lang noch nicht ein Jahr, da er zum Ehstand tüchtig war.
 
-**13. Strophe:** Eva war auch keine Stund nicht alt, taugt doch zum Weibe dem Adam bald. Doch wo hat sie gelernet wohl, wie sie ihre Wirtschaft führen soll? Sie hat ja keine Mutter nicht, die sie hierin hat abgericht. Gott, der sie Adam zugewandt, der hat ihr solches eingepflanzt.
+**13. Strophe:** Eva war auch keine Stund nicht alt, taugt doch zum Weibe dem Adam bald. Doch wo hat sie gelernet wohl, wie sie ihre Wirtschaft führen soll?  
+Sie hat ja keine Mutter nicht, die sie hierin hat abgericht. Gott, der sie Adam zugewandt, der hat ihr solches eingepflanzt.
 
-**14. Strophe:** Wo ist ein Tischler hergebracht, der ihr das Brautbett hat gemacht so fein und sauber schön geziert, wie diesen jungen Eheleuten gebührt? Das tat der weise Zimmermann, der künstliche Arbeit machen kann. Gott, der die ganze Welt erbaut, dem war solch Brautbett anvertraut.
+**14. Strophe:** Wo ist ein Tischler hergebracht, der ihr das Brautbett hat gemacht so fein und sauber schön geziert, wie diesen jungen Eheleuten gebührt?  
+Das tat der weise Zimmermann, der künstliche Arbeit machen kann. Gott, der die ganze Welt erbaut, dem war solch Brautbett anvertraut.
 
 **15. Strophe:** Welcher Priester hat doch die Gnad, der sie gekopulieret hat? Das hat der Herr Christus selber getan; der war Priester und auch Freiermann.
 
@@ -119,7 +125,8 @@ Von der Mahlzeit zum Trunk Fröhlich zum Sprung, mit Tanzen und Springen und and
 
 Der Ehstand, den Gott zuerst im Paradiese eingesetzet hat und auch zugleich begäbet mit seiner Gnad, der soll (sein) in aller Zucht und Ehrbarkeit, wie ihn Gott geordnet hat zu jeder Zeit.
 
-**20. Strophe:** Darum, ihr Lieben, so lasset uns nicht Übels tun, daß diese Hochzeit nicht werde eine gewisse Unruh; sondern lasset uns gute Christen sein, essen und trinken und fröhlich sein, nicht fressen und saufen wie die Ungeheuer. Wird oft beklagt im ewigen Feuer! Daß nicht geliebet der reiche Mann, der durft auch nicht darüber geklaget Han, da er nun sitzet in der Höllen Glut; solches hat ihm verdienet sein eigen Fleisch und Blut.
+**20. Strophe:** Darum, ihr Lieben, so lasset uns nicht Übels tun, daß diese Hochzeit nicht werde eine gewisse Unruh; sondern lasset uns gute Christen sein, essen und trinken und fröhlich sein, nicht fressen und saufen wie die Ungeheuer.  
+Wird oft beklagt im ewigen Feuer! Daß nicht geliebet der reiche Mann, der durft auch nicht darüber geklaget Han, da er nun sitzet in der Höllen Glut; solches hat ihm verdienet sein eigen Fleisch und Blut.
 
 **21. Strophe:** So laßt uns nun auch Josefs Zucht vorstellen wohl, und auch Tobiam, da er Hochzeit machen wollt. Da haben sie vor allem gebeten sehr, sodaß es Gott habe im Himmel erhört, und der böse Geist vertrieben ward, daß (er) ihm nicht schadete am Vorhaben seiner Hochzeit, und der junge Tobias am Leben bleib, nicht wie er den sieben vorigen hat getan.
 
@@ -137,11 +144,11 @@ III. Zum dritten die Tugend. Die Tugend achte ich für das Allerbest, denn ein t
 
 **25. Strophe:** Meine Bitte ist zu bedenken: habt ihr ein Gläschen Bier, so tuts mir einschenken; oder ein Gläschen Branntewein, das möcht mir auch wohl dienlich sein. Amen.
 
-## Variationen des Hochzeitslieds
+### Variationen des Hochzeitslieds
 
 Die Hochzeitsbitter brachten dadurch Abwechselung in das Hochzeitslied, daß sie zuweilen statt der Verse 8—23 desselben das Lied von Paul Gerhardt „Voller Wunder, voller Kunst" vom 2. bis zum 10. Verse aufsagten. Dies schöne Lied ist leider in unserem Provinzialgesangbuch sehr verkürzt. Wer es ganz kennen lernen will, der muß es im Bollhagen aufschlagen. Dort steht es unter Nr. 1096. Hat der Hochzeitsbitter bei allen Einzuladenden die Runde gemacht und seine Sprüchlein aufgesagt, so ist ihm wohl die Kehle trocken geworden, und der Schluß seines Liedes wird uns recht verständlich, aber seine Aufgabe ist noch nicht gelöst. Er muß in das Hochzeitshaus zurück und Rechenschaft ablegen, wie er seines Amtes gewartet, und ob er alle Einladungen in gehöriger Ordnung angebracht hat.
 
-## Das Rechenschaftslied des Hochzeitsbitters
+### Das Rechenschaftslied des Hochzeitsbitters
 
 Das tut er in folgendem Liede:
 
@@ -151,13 +158,18 @@ Das tut er in folgendem Liede:
 
 **3. Strophe:** Auch habe ich gebeten die Manns und die Gesellen, die Jungfern und die Jungfrauen. Auch habe ich gebeten, daß sie mögen keine notwendigen Sachen vorwenden, damit die Tage der Ehe nicht geschwächet sondern vielmehr gestärket werden. Wenn sie würden wieder einen Sohn oder eine Tochter ausgeben oder eine andere Elation anstellen, sofern als ihr dazu geladen würdet, wollet ihr auch wiederum Hilf und Beistand tun.
 
-**4. Strophe:** Ich wünsche euch allen einen guten Abend, liebe Braut und Bräutigam, auch eurem Vater und Mutter, Brüder und Schwester. Lebet wohl, ihr vielgeliebten Brautleute mein; nun freue dich, lieber Bräutigam mein, daß deine liebe Braut wird kommen. Indem wirst du sie rufen und schreien an: „Seid mir willkommen vor die andern all. „Zu euch steht mein Verlangen. „Ich will dich herzlich lieben und umfangen." Der Ehstand hier auf Erden Soll billig geromentieret (?) werden.
+**4. Strophe:** Ich wünsche euch allen einen guten Abend, liebe Braut und Bräutigam, auch eurem Vater und Mutter, Brüder und Schwester. Lebet wohl, ihr vielgeliebten Brautleute mein; nun freue dich, lieber Bräutigam mein, daß deine liebe Braut wird kommen.  
+Indem wirst du sie rufen und schreien an: „Seid mir willkommen vor die andern all. „Zu euch steht mein Verlangen. „Ich will dich herzlich lieben und umfangen."  
+Der Ehstand hier auf Erden Soll billig geromentieret (?) werden.
 
-**5. Strophe:** Denn wofern wird sein ein Mann mit seinem Weibelein, da will denn auch Christus sein, aus Wasser machen roten Wein. So gedenket daran, ihr Braut und Bräutigam fein, daß nach diesem Winter der Sommer wird brechen herein. Du bist von einem guten Stamm und von dem Erzvater Abraham; lieb Gott und freue dich, Bräutigam. Putze die Pferde und spanne bald an; fahre mit Freuden über das Feld und hole die Braut ins Freudengezelt mit vielen Leuten und Gottes Segen; den rufet an auf all euren Wegen; so wird er euch trösten in der Not und euch segnen und geben Brot.
+**5. Strophe:** Denn wofern wird sein ein Mann mit seinem Weibelein, da will denn auch Christus sein, aus Wasser machen roten Wein.  
+So gedenket daran, ihr Braut und Bräutigam fein, daß nach diesem Winter der Sommer wird brechen herein. Du bist von einem guten Stamm und von dem Erzvater Abraham; lieb Gott und freue dich, Bräutigam.  
+Putze die Pferde und spanne bald an; fahre mit Freuden über das Feld und hole die Braut ins Freudengezelt mit vielen Leuten und Gottes Segen; den rufet an auf all euren Wegen; so wird er euch trösten in der Not und euch segnen und geben Brot.
 
 **6. Strophe:** So bitte, mein Bräutigam, und sei guter Dinge. Frühmorgens, wenn aufgeht die Sonne, so bringt sie dir Freud und Wonne.
 
-**7. Strophe:** Also, meine geliebten Brautleute schon, was soll ich euch wünschen von meiner Person? Diesen Wunsch will ich euch schenken und verehren beiderseits dem Bräutigam und der Braut, die in Gott nun sind vertraut. Der Ehstand, den ihr jetzt anfangt, ist ehrenwert, hat ihn doch der Herr Christus selber geehrt. Als er auf der Hochzeit zu Kana in Galiläa geladen ward, kam er mit seinen Jüngern beiderseits dem Bräutigam und der Braut zu Ehren.
+**7. Strophe:** Also, meine geliebten Brautleute schon, was soll ich euch wünschen von meiner Person? Diesen Wunsch will ich euch schenken und verehren beiderseits dem Bräutigam und der Braut, die in Gott nun sind vertraut.  
+Der Ehstand, den ihr jetzt anfangt, ist ehrenwert, hat ihn doch der Herr Christus selber geehrt. Als er auf der Hochzeit zu Kana in Galiläa geladen ward, kam er mit seinen Jüngern beiderseits dem Bräutigam und der Braut zu Ehren.
 
 ### Praktische Anweisungen für die Hochzeitsvorbereitungen
 
@@ -179,17 +191,17 @@ Spielet mir Hochzeitsbote auch einen guten Abendrei (d. h. — reigen), mein Gel
 
 **15. Strophe:** Gott der Sohn Jesus Christus, der gebe euch solchen Frieden und Eintracht, daß einer den andern gern lieben und trösten mag. Solches soll eine Braut anzeigen (erzeigen) ihrem Bräutigam, ein Bräutigam seiner Braut, sie sind reich oder arm, jung oder alt, lieblich oder schön, krank oder gesund, daß einer dem andern nicht bald feind wird, sondern von Tag zu Tag, von Woch zu Woch, von Jahr zu Jahr, in Glück oder Unglück, in Lieb oder Leid soll einer den andern lieben und trösten; je länger der liebe Gott euch im Ehstand läßt leben, je größer die Liebe und Freundschaft soll werden. Amen.
 
-## Weitere Hochzeitsbräuche
+### Weitere Hochzeitsbräuche
 
 Die Hochzeitsfeier wurde bei Wohlhabenden im Brauthause wie im Bräutigamshause gehalten. Holte der Bräutigam die Braut in sein väterliches Haus, so war der Anfang der Hochzeit bei der Braut. Ging er aber in den Hof der Braut über, so mußte diese, zumal wenn es eine Witwe war, die sich einen Wehrsmann\*) holte, zum Bräutigam kommen und die Hochzeit fand dort statt.
 
 \*) d. h. einen Gatten, der bis zum Mündigwerden der Stiefkinder den Hof bewirtschaftete, aufhielt, weshalb er auch Aufhalter hieß.
 
-## Die Hochzeitszeremonie in der Kirche
+### Die Hochzeitszeremonie in der Kirche
 
 Die Trauung fand in der Kirche in der vorgeschriebenen Form statt. Dazu fand sich die Braut mit ihren Gespielen auf einem großen, vierspännigen Wagen ein, auf dem vorn die Musikanten mit „Piepsack und Violen" saßen. Der Bräutigam kam mit seiner ganzen Gesellschaft von Verwandten und allen Knechten im Dorf auf den besten Pferden geritten, für die sie blanke Zäume hatten. Dabei wurde häufig geschossen. Geschärfte Verordnungen schafften dies Schießen allmählich ab, da manchmal Unfälle dabei vorkamen. Die begleitenden Wagen mit der weiblichen Hochzeitsgesellschaft suchten in schnellster Fahrt einander den ersten Platz abzugewinnen. Wer zuerst bei der Kirche ankam, fuhr nach allgemeiner Meinung die Person, die demnächst Hochzeit machen würde.
 
-## Die Brautkleidung
+### Die Brautkleidung
 
 Die Braut erschien in der üblichen, schwarzen Kleidung, die bei Wohlhabenden feiner, wohl gar von Seide war. Sie hatte eine schwarze, oft seidene, und über diese eine wollene, nesseltuchene oder Leinwand-Schürze vorgebunden. Um den Leib trug sie den ledernen Brautgürtel, der dicht mit silbernen, vergoldeten Buckeln besetzt und vorn mit einer silbernen Kette geschlossen war. Auch der Schnürleib war mit solcher Kette verschnürt.
 
@@ -201,7 +213,7 @@ Um den Hals trug die Braut einen weißen, blau gestärkten Kragen, der in einige
 
 Die Ringe waren auch Inventarienstücke, von Silber und stark vergoldet, so groß, daß sie wohl über den Daumen gesteckt werden konnten. In der Mitte war ein Zierrat mit einer Einfassung von Edelsteinen angebracht.
 
-## Der Ablauf der Trauung
+### Der Ablauf der Trauung
 
 Die Braut betrat die Kirche erst nach Beginn des Hochzeitsliedes. Vor ihr her zogen die unverheirateten, weiblichen Personen; ihr folgten die Ehefrauen. Bei ihrem Eintritt hielt sie mit allen weiblichen Personen einen Opfergang um den Altar.
 
@@ -251,7 +263,7 @@ Nun ging der Bräutigam mit den männlichen Gästen in die Stube zur Tafel; für
 
 Wegen der zahlreichen Versammlung, die bis zu 8 Tagen gespeist wurde, war die Bewirtung kostspielig genug. Gewöhnlich brauchte man bei Bemittelten 18 Scheffel Brotkorn und 18 Scheffel Malz. Dazu wurden geschlachtet 1 Ochse, 2 Kühe, 2—4 Schweine, 6 oder mehr Schafe, außer ungezähltem Federvieh. Die Fische, die man in Massen verzehrte, wurden meist vorher gekocht und kalt vorgesetzt.
 
-Die Gerichte waren:
+### Die Gerichte waren:
 
 1. Süße Grütze d. h. Gerstgrütze mit Milch oder auch Hirse oder Reis mit Milch und vieler Butter darauf nebst Rosinen. Oben darüber war zerriebener Pfefferkuchen oder roter Zucker gestreut.
 2. Fische, entweder kalt oder aus dem Salze, wobei Meerrettig in Buttermilch gekocht aufgesetzt zu werden pflegte.
@@ -272,7 +284,7 @@ Der erste Tanz war allemal der lange Streich. Der Brautdiener (das war der Hochz
 
 Dieser Tanz wurde geraume Zeit fortgesetzt und zwar mit vielen Verbeugungen, da die Mädchenpaare oft unter dem emporgehobenen Tuch der Braut durchzugehen hatten.
 
-## Die Zuführung
+### Die Zuführung
 
 War der Tanz endlich beschlossen, so führte der Hochzeitsbitter die Braut dem in der Stube harrenden Bräutigam zu, einem jeden der Trauführer obenso eine Tänzerin und zwar mit den Worten:
 
@@ -290,11 +302,25 @@ Der Bräutigam trank, stieg vom Pferde, tat mit der Braut den Brauttanz und füh
 
 Bald nachher kam dann nun der Hochzeitsbitter zu dem letzten Teil seiner vielseitigen Tätigkeit am Hochzeitstage — er führte die Braut dem Bräutigam entgegen mit folgenden Worten:
 
-Guten Abend, liebwertester Bräutigam. Zu dir komme ich geschritten. Ich hatte kein Pferd, sonst käme ich geritten. Ich ließ mein Pferd zu Hause stehn, nun muß ich zu Fuße gehen. Ich bin vor Abend Oberst worden und habe eine große Menge Volk erworben. Nun ist die Nacht schon vor der Tür. Nun wollte ich meinem Volke gern haben Quartier. Nun bitte ich den Bräutigam fein, ob er nicht wollte von der Güte fein und nehmen diese Jungfer Braut zu sich in sein Quartier. So antworte mit einem Worte ja oder nein.
+Guten Abend, liebwertester Bräutigam.  
+Zu dir komme ich geschritten.  
+Ich hatte kein Pferd, sonst käme ich geritten.  
+Ich ließ mein Pferd zu Hause stehn,  
+nun muß ich zu Fuße gehen.  
+Ich bin vor Abend Oberst worden  
+und habe eine große Menge Volk erworben.  
+Nun ist die Nacht schon vor der Tür.  
+Nun wollte ich meinem Volke gern haben Quartier.  
+Nun bitte ich den Bräutigam fein,  
+ob er nicht wollte von der Güte fein und nehmen diese Jungfer Braut zu sich in sein Quartier.  
+So antworte mit einem Worte ja oder nein.
 
 **Bräutigam:** Ja!
 
-Da nimm sie hin an deine Seit und leb mit ihr in Freud und Einigkeit. Nun wünsch ich euch ein langes Leben, Friede und Einigkeit und hernach die ewige Seligkeit. Amen.
+Da nimm sie hin an deine Seit  
+und leb mit ihr in Freud und Einigkeit.  
+Nun wünsch ich euch ein langes Leben, Friede  
+und Einigkeit und hernach die ewige Seligkeit. Amen.
 
 Am Morgen nach der Trauung gingen die Knechte mit allen Einwohnern des Hochzeitshauses aus, den sog. „Brauthahn" zu holen. Mit Musik und Bierkannen bewaffnet zogen alle zum Nachbarhofe.
 
