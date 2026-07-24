@@ -35,13 +35,14 @@ The complete translation is very large, so period-specific extracts have been tr
 
 ```
 research/
-    germans-in-the-history-of-russia-1652-1917.md                <-- Full version
+    russian-state-and-military-documents-1652-1917-en.md              <-- Full version (English)
+    russian-state-and-military-documents-1652-1917-ru.md              <-- Full version (Russian original)
     poland/
-        germans-in-the-history-of-russia-trimmed-1652-1814.md    <-- Poland Era
+        russian-state-and-military-documents-trimmed-1652-1814.md     <-- Poland Era
     bessarabia/
-        germans-in-the-history-of-russia-trimmed-1800-1878.md    <-- Life in Bessarabia (this file)
+        russian-state-and-military-documents-trimmed-1800-1878.md     <-- Life in Bessarabia (this file)
     dakota/
-        germans-in-the-history-of-russia-trimmed-1849-1897.md    <-- Bessarabian Emigration
+        russian-state-and-military-documents-trimmed-1849-1897.md     <-- Bessarabian Emigration
 ```
 
 This extract overlaps at both ends: Nos. 63 and 64 are shared with the Poland Era extract, and the 1849–1878 departure and conscription documents are shared with the Bessarabian Emigration extract. Anything trimmed out remains in the full version.

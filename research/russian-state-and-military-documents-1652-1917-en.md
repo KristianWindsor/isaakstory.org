@@ -17,16 +17,18 @@ original_language: "Russian"
 content: "full"
 document_count: 200
 pdf_page_count: 786
+original_file: "russian-state-and-military-documents-1652-1917-ru.md"
 transcription: "The Russian text was extracted from the OCR'd source PDF, cleaned of broken paragraphs and other PDF/OCR artifacts, and formatted as Markdown using Claude Code. It is suitable for research but may still contain occasional transcription or formatting errors."
 translation: "Unofficial English translation of the cleaned Russian Markdown transcription, produced with Claude Code for personal genealogical and historical research. Occasional word-level translation errors may remain."
 license: "The underlying pre-1917 Russian state documents are likely in the public domain. The 2006 compilation, introduction, editorial apparatus, notes, and arrangement may remain copyrighted by the compiler and/or publisher. This unofficial translation is retained as research material. Cite the original as: Немцы в истории России. 1652–1917 / Сост. В. Ф. Дизендорф. — М.: МФД; Материк, 2006."
 ---
 
-> **Note:** This is the complete translation
-> and it is very large. Period-specific extracts have been trimmed from it:
-> - `poland/germans-in-the-history-of-russia-trimmed-1652-1814.md`
-> - `bessarabia/germans-in-the-history-of-russia-trimmed-1800-1878.md`
-> - `dakota/germans-in-the-history-of-russia-trimmed-1849-1897.md`
+> **Note:** This is the complete English translation, and it is very large.
+> The complete Russian original is `russian-state-and-military-documents-1652-1917-ru.md` (this same directory).
+> Period-specific extracts have been trimmed from this translation:
+> - `poland/russian-state-and-military-documents-trimmed-1652-1814.md`
+> - `bessarabia/russian-state-and-military-documents-trimmed-1800-1878.md`
+> - `dakota/russian-state-and-military-documents-trimmed-1849-1897.md`
 
 ---
 
