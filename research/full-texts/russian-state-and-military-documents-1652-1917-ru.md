@@ -27,9 +27,9 @@ license: "Underlying documents are pre-1917 Russian state acts (public domain). 
 > The complete English translation is `russian-state-and-military-documents-1652-1917-en.md` (this same directory).
 > Period-specific extracts (translated into English only; there are no separate Russian-language
 > extract files) have been trimmed from that translation:
-> - `poland/russian-state-and-military-documents-trimmed-1652-1814.md`
-> - `bessarabia/russian-state-and-military-documents-trimmed-1800-1878.md`
-> - `dakota/russian-state-and-military-documents-trimmed-1849-1897.md`
+> - `../poland/russian-state-and-military-documents-trimmed-1652-1814.md`
+> - `../bessarabia/russian-state-and-military-documents-trimmed-1800-1878.md`
+> - `../dakota/russian-state-and-military-documents-trimmed-1849-1897.md`
 
 ---
 

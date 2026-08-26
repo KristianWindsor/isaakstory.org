@@ -26,9 +26,9 @@ license: "The underlying pre-1917 Russian state documents are likely in the publ
 > **Note:** This is the complete English translation, and it is very large.
 > The complete Russian original is `russian-state-and-military-documents-1652-1917-ru.md` (this same directory).
 > Period-specific extracts have been trimmed from this translation:
-> - `poland/russian-state-and-military-documents-trimmed-1652-1814.md`
-> - `bessarabia/russian-state-and-military-documents-trimmed-1800-1878.md`
-> - `dakota/russian-state-and-military-documents-trimmed-1849-1897.md`
+> - `../poland/russian-state-and-military-documents-trimmed-1652-1814.md`
+> - `../bessarabia/russian-state-and-military-documents-trimmed-1800-1878.md`
+> - `../dakota/russian-state-and-military-documents-trimmed-1849-1897.md`
 
 ---
 

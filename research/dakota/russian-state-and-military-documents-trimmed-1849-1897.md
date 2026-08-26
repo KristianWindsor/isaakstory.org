@@ -35,8 +35,9 @@ The complete translation is very large, so period-specific extracts have been tr
 
 ```
 research/
-    russian-state-and-military-documents-1652-1917-en.md              <-- Full version (English)
-    russian-state-and-military-documents-1652-1917-ru.md              <-- Full version (Russian original)
+    full-texts/
+        russian-state-and-military-documents-1652-1917-en.md          <-- Full version (English)
+        russian-state-and-military-documents-1652-1917-ru.md          <-- Full version (Russian original)
     poland/
         russian-state-and-military-documents-trimmed-1652-1814.md     <-- Poland Era
     bessarabia/
