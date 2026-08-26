@@ -19,8 +19,13 @@ transcription: >-
   Text extracted via vision-based reading of page images (no OCR text
   layer present in the source PDF). 39 parallel Sonnet subagents
   processed 10-page chunks at 200 DPI. Footnotes, archival references,
-  and source-language spellings preserved as printed. Illustrations
-  noted but not reproduced.
+  and source-language spellings preserved as printed. The book's 19
+  illustration plates (maps, engravings, portraits, and photographs)
+  were extracted from the source PDF, cropped to isolate each image
+  from surrounding page text, and inserted inline at their original
+  locations. Each image's alt text is an unverified AI-generated
+  description of the picture; the italic caption beneath it is the
+  book's own printed caption.
 scope: >-
   Complete Russian-language text of Druzhinina's monograph on the
   social and economic history of Novorossiya and southern Bessarabia,
@@ -307,7 +312,9 @@ relevance: >-
 
 Проведение всей этой работы до сих пор ошибочно приписывалось декабристу А. О. Корниловичу. Между тем переписка декабриста неопровержимо доказывает, что исполнителем этого ответственного задания был его дядя С. И. Корнилович (который принимал участие в воспитании своего племянника, оставшегося без отца)[^123].
 
-> *[Illustration: Map No. 2 — «Карта Бессарабии собственно так называемой, или Буджака» 1820 г., a schematic reproduction of the manuscript map compiled by S. I. Kornilovich (ЦГВИА СССР, ф. ВУА, д. 18582, л. 222). The map covers the area between the Dniester and Prut rivers, bounded by Moldavia to the north, the Kherson governorate across the Dniester to the northeast, and the Black Sea to the southeast. It shows the "Part of the Bendery cynut," the "Izmail cynut," and "Akkerman"-area districts; the Upper Trajan Wall (Верхний Траянов вал); towns and settlements including Tiraspol, Bendery, Kaushany, Kirnet, Komrat, Congaz, Chadyr-Lunga, Kubey, Bolgrad, Reni, Karagach, Izmail, Kilia, Vilkovo, Akkerman, Shaba, Budaki, Gura Roșa; the numbered/named colonies Leipzig, Borodino (№ 9), Berezina, Tarutino, Paris (№ 13), Arsis; the rivers Dniester, Prut, Danube, Sarata, Alkaliya (Ялпух); the lakes Sasyk, Kunduk, Alibey, Shagany, Katlabukh, and Kitay; and the Black Sea. A legend explains four line types: А — the old borderline that, before the last war with the Porte, separated the Tatar possessions in Bessarabia from the Moldavian cynuts; Б — the line to which the estates of several landowners now extend; a hatched line — the boundary of land surveyed for the Warsaw colonies; a dash-dot line — the cynut (district) borders, laid down from a description made by the regional surveyor by order of the Bessarabian government. Caption below the map: «2. „Карта Бессарабии собственно так называемой, или Буджака" 1820 г. (схема рукописной карты, составленной С. И. Корниловичем.— ЦГВИА СССР, ф. ВУА, д. 18582, л. 222)»]*
+![Map of the Budjak in southern Bessarabia showing towns, rivers, lakes, district boundaries, and land surveyed for the German "Warsaw" colonies, including Leipzig, Tarutino, Borodino, and Arzis](img/south-ukraine-p039-bessarabia-budjak-map-1820.jpg)
+
+*2. „Карта Бессарабии собственно так называемой, или Буджака" 1820 г. (схема рукописной карты, составленной С. И. Корниловичем.— ЦГВИА СССР, ф. ВУА, д. 18582, л. 222)*
 
 В период подготовки «Статистического описания» был составлен еще один документ, относящийся к хозяйственной истории Буджака: список виноградных и фруктовых садов с указанием числа деревьев в районе Аккермана[^124]. Точность собранных сведений засвидетельствовал «по квартирмейстерской части полковник Корнилович».
 
@@ -560,7 +567,9 @@ relevance: >-
 
 Под влиянием «облысения» степи (выражение Палимпсестова) климат степной полосы становился все более сухим и суровым. В Буджаке, писал наблюдатель 1820-х годов, «погода редко тихая, всегда почти дуют продолжительные ветры». Летом погода менялась по нескольку раз в сутки. Бывали сильные бури с грозой и градом, опустошавшие поля. «Град иногда бывает такой
 
-> *[Illustration: Одесса. Вид на порт в начале XIX в. Гравюра. (Государственный исторический музей)]*
+![View of the port of Odessa in the early 19th century](img/south-ukraine-p054-odessa-harbor-view.jpg)
+
+*Одесса. Вид на порт в начале XIX в. Гравюра. (Государственный исторический музей)*
 
 величины, что убивает на полях людей, скот и птиц. Однако дожди летом редко приходят. Годами существуют сильный зной и великие засухи, от коих совершенно сгорает все в степи, в речках и колодезях пересыхает вода»[^20]. Подобные же явления наблюдались на Молочных Водах (Таврическая губерния), где вихри нередко сносили землю вместе с посевом[^21].
 
@@ -630,7 +639,7 @@ relevance: >-
 
 Серьезные трудности возникали из-за неблагоприятных условий навигации в Таганрогском заливе. Дело в том, что этот залив был «буквально усеян косами и отмелями»[^49]. Особенно мелок он был у берегов. Это обрекало суда на движение по узкому фарватеру, так как им приходилось обходить многочисленные
 
-> *[Illustration: Engraving of the port of Taganrog in 1825, showing a large sailing ship being unloaded near the shore, smaller boats, and dockworkers wading in the water]*
+![The port of Taganrog in 1825, with a ship unloaded offshore into carts and dockworkers wading in the shallows](img/south-ukraine-p062-taganrog-1825.jpg)
 
 *Таганрог в 1825 г. Литография с рисунка П. Свиньина*
 
@@ -668,7 +677,7 @@ relevance: >-
 
 Помимо влаги, связанной с близостью моря, большое значение для флоры Крыма имели реки. Они не были такими крупными, как в степной полосе, и не были удобны для навигации. Зато они орошали многочисленные сады и виноградники. С Крымских гор сбегало множество ручьев и речек, которые, сливаясь, образовывали более крупные потоки. Главные реки Крымского полуострова текут на север и северо-запад. Это Казыклы, или Чоргун (ныне Черная), Кабарта (ныне Бельбек), Кача, Альма, Салгир, Кючук-Карасу, Биюк-Карасу и Индол. Последние четыре реки несли свои воды в Сиваш, причем обе Карасу, Большая и Малая, сливались с Салгиром. В летнее время количество воды в крымских реках, питавшихся снегами и дождями, резко убывало, и многие из них, не достигая моря, терялись в песках. Реки Крыма в силу быстроты их течения и сравнительно небольшой длины не образовывали крупных лиманов и дельт. Наиболее значительный лиман имелся в устье реки Черной (так называемая Большая, или Южная бухта), где в конце XVIII в. начал строиться военный порт Севастополь.
 
-> *[Illustration: View of the port of Sevastopol in the early 19th century, showing sailing ships at anchor and two figures in the foreground on the shore]*
+![Sailing ships at anchor in Sevastopol harbour, with two figures on the shore](img/south-ukraine-p067-sevastopol-harbor-view.jpg)
 
 *Севастополь. Вид порта в начале XIX в.*
 
@@ -680,7 +689,7 @@ relevance: >-
 
 После присоединения Крыма к России на полуострове впервые появились кипарисы, ставшие постепенно неотъемлемой частью крымского пейзажа. Первые опыты в этом отношении были сделаны ученым-естествоиспытателем К. Габлицем, который по поручению Г. А. Потемкина вел в Крыму научную и административную работу. В 1780-х годах Габлиц посадил в районе Алупки несколько кипарисов. В 1793 г. Паллас оповестил научный мир о том, что деревья принялись и развиваются успешно[^64].
 
-> *[Illustration: Engraving of sailing ships at anchor in a harbor, likely a view of Sevastopol]*
+![Engraving of sailing ships at anchor in a harbour, probably Sevastopol](img/south-ukraine-p068-sevastopol-harbor-view-2.jpg)
 
 В наши дни экскурсоводы Алупки показывают один из этих первых кипарисов (приблизительно 190-летнего возраста).
 
@@ -994,13 +1003,9 @@ relevance: >-
 
 Украинские казаки охотно переселялись на Кубань: им не грозило там закрепощение, в то время как на Левобережье крепостнические поползновения помещиков после прикрепления крестьян к земле в 1783 г. заметно усилились. Черноморские казаки обязаны были выделять из своей среды и содержать определенное число воинов, зато им не нужно было платить оброк, подушные и зависеть от помещиков.
 
-> *[Illustration: Photograph of a traditional thatched-roof peasant hut, with a person seated on a bench in front.]*
+![Thatched-roof peasant hut with a person seated on a bench outside](img/south-ukraine-p098-magdalinovka-thatched-hut.jpg)
 
->
-
-> *Хата в селе Магдалиновке Екатеринославской губернии, построенная в конце XVIII в.*
-
->
+*Хата в селе Магдалиновке Екатеринославской губернии, построенная в конце XVIII в.*
 
 > *(Днепропетровский исторический музей). Фото начала XX в.*
 
@@ -1126,7 +1131,7 @@ relevance: >-
 
 Переходя на казенные земли, колонисты имели право переносить туда с помещичьей земли или продавать «хозяйственные их обзаведения» (постройки, орудия труда, скот, посаженные растения и проч.) «как собственность, по всей справедливости им принадлежащую»[^123]. Исключение составляли строения, возведенные за счет помещика. На территории колоний не должно было существовать никаких откупов. Очень важной была ст. 13, касавшаяся «коренных жителей», оказавшихся на территории колонистских округов (молдаване, украинцы, русские): учитывая их давнее поселение в данном районе, разведение виноградных и фруктовых садов и их проживание «совместно с болгарами», правительство распространяло и на них колонистские права.
 
-> *[Illustration: portrait of I. N. Inzov, oil painting by D. Dow, State Hermitage, Gallery of Heroes of the 1812 War]*
+![Oil portrait of I. N. Inzov](img/south-ukraine-p115-inzov-portrait.jpg)
 
 *И. Н. Инзов. Портрет работы Д. Доу. Масло*
 
@@ -1180,7 +1185,7 @@ relevance: >-
 
 Ногайцам было отведено обширное пространство в 353 тыс. десятин, тянувшееся вдоль Азовского моря между устьями рек Берда и Молочные Воды и доходившее на северо-западе до реки Токмак[^155]. Именно здесь познакомился с бытом ногайцев в конце 1793 г. П. С. Паллас. По его сведениям, их было тогда 5 тыс. человек — едисанцев, едичкульцев и джамбуйлуков. Справедливо отмечая, что приазовская степь слишком обширна для такого количества населения, Паллас высказал уверенность, что со временем их число возрастет[^156]. В описании Палласа имеются штрихи, позволяющие судить о национальных и социальных отношениях среди ногайцев. У них были мурзы (первоначально —
 
-> *[Illustration: Гравюра — знатная ногайская девушка (в центре), справа ее мать, слева рабыня; рисунок Х. Г. Г. Гейслера из книги P. S. Pallas, «Bemerkungen auf einer Reise nach den südlichen Statthalterschaften des Russischen Reichs...», Bd. I, Leipzig, 1803]*
+![Engraving of three Nogai women: a noblewoman flanked by her mother and a slave](img/south-ukraine-p123-nogai-women-engraving.jpg)
 
 *Знатная ногайская девушка (в центре). Справа — ее мать, слева — рабыня. Рис. Х. Г. Г. Гейслера из кн.: P. S. Pallas. Bemerkungen auf einer Reise nach den südlichen Statthalterschaften des Russischen Reichs... Bd. I, Leipzig, 1803*
 
@@ -1346,7 +1351,7 @@ relevance: >-
 
 Когда в 1805 г. швейцарские эмигранты из первой и последующих партий прибыли, наконец, в Крым, их было всего 49 семей. Они обосновались в 16 км от Феодосии на реке Индоле. Склоны гор, покрытые лесом, напоминали им родную страну. На первых порах они разместились в плетневых хижинах, покинутых татарами. Им предстояло из ремесленников превратиться в земледельцев, так как спрос на промышленные изделия был в Крыму еще невелик. Многие из переселенцев нашли источник дохода в рубке и продаже леса. Постепенно вокруг Цюрихталя стали группироваться выходцы из Вюртемберга и других германских государств; несколько семей перешло сюда также с реки Молочной. Цюрихталь сделался центром особого колонистского округа, включившего в свой состав также селения Судак, Герцберг и Гейльбрунн. В 1820 г. в округе насчитывалось 145 домохозяев (семейных и холостых), из них 79 жило в Цюрихтале [^242].
 
-> *[Illustration: Engraving of Kafa (Feodosia) in the early 19th century, showing the coastal town, bay with ships at anchor, ruined fortress walls in the foreground, and surrounding hills]*
+![Kafa (Feodosia) in the early 19th century: the coastal town, ships at anchor, and ruined fortress walls](img/south-ukraine-p148-feodosia-kafa-view.jpg)
 
 *Кафа (Феодосия). Гравюра начала XIX в.*
 
@@ -1980,7 +1985,9 @@ relevance: >-
 
 В 1803 г. на таганрогского градоначальника была возложена обязанность заботиться не только о расширении торгового судоходства по Азовскому морю, но и о развитии отечественного судостроения. Расширение его функций выразилось в присвоении ему звания главного попечителя судоходства по Азовскому морю[^9].
 
-> *[Illustration: Map No. 3 — «Карта Таганрогского градоначальства. Март 1818 г.» (Map of the Taganrog city-governorship, March 1818). Shows the territory of the Taganrog градоначальство, including Rostov, Nakhichevan, Taganrog, Azov, Mariupol and surrounding villages, with district boundaries against the neighboring Ekaterinoslav guberniya, Tavricheskaya guberniya and the Land of the Don Host (Земля Войска Донского). Caption beneath: «(схема рукописной карты, подписанной ростовским уездным землемером Трофимом Шаржинским.— ЦГВИА СССР, ф. ВУА, д. 20776)»]*
+![Map of the Taganrog city-governorship showing Rostov, Nakhichevan, Taganrog, Azov and Mariupol, and its boundaries against the neighbouring provinces and the Land of the Don Host](img/south-ukraine-p177-taganrog-gradonachalstvo-map-1818.jpg)
+
+*«Карта Таганрогского градоначальства. Март 1818 г.» (схема рукописной карты, подписанной ростовским уездным землемером Трофимом Шаржинским.— ЦГВИА СССР, ф. ВУА, д. 20776)*
 
 Бессарабия была выделена в особую область с центром в Кишиневе. Во главе ее был поставлен управляющий, называвшийся (с 1816 г.) полномочным наместником, который должен был действовать в контакте с молдавскими боярами. Фактически, а в известные периоды и юридически, три новороссийские губернии и Бессарабия возглавлялись одним лицом, так как новороссийский генерал-губернатор был одновременно и полномочным наместником Бессарабской области.
 
@@ -2142,7 +2149,7 @@ relevance: >-
 
 Ришелье мог теперь выбирать любое местопребывание на юге страны. Он остался в Одессе, где занял вместе со своими канцелярскими служащими скромный домик из пяти комнат. Пуританское воспитание прочно пустило корни в сознании Ришелье, который в своем личном поведении был скорее похож на разночинца, чем на аристократа. Он жил на свое жалованье, не окружал себя роскошью, не строил богатых дворцов. Рано утром губернатор начинал свою работу за письменным столом, затем принимал прошения, беседуя с посетителями лично, ходил по
 
-> *[Illustration: Гравюра начала XIX в. с изображением первого одесского театра — здания с колонным портиком, перед которым изображены экипажи и прогуливающиеся горожане.]*
+![Engraving of Odessa's first theatre, a colonnaded building with carriages and strollers outside](img/south-ukraine-p198-odessa-first-theater.jpg)
 
 *Первый театр в Одессе. Гравюра начала XIX в.*
 
@@ -2174,7 +2181,9 @@ relevance: >-
 
 Однако борьба оказалась не под силу Ришелье. После вторичного ухода в отставку в конце 1821 г. он уже больше не возвращался к власти. Н. Г. Чернышевский, подробно осветивший этот период политической истории Франции, подчеркнул непримиримую вражду, с которой отнеслись к Ришелье правые роялисты. Указав на крупную роль Ришелье на Венском конгрессе, Чернышевский продолжал: «Словом сказать, не было в то время человека, которому Франция была бы так много обязана, как герцогу Ришелье. Теперь, переставая быть министром, он делался бедняком. Франция должна была обеспечить от нищеты старость человека, оказавшего ей безмерные услуги и для службы ей отказавшегося от блестящего и прочного положения в России». При обсуждении вопроса о назначении пенсии Ришелье роялисты подняли, по выражению Чернышевского, «самый неприличный крик». «Речи роялистов были так обидны, что когда большинство палат назначило ему пенсию, он пожертвовал ее в пользу бордоских госпиталей»[^80]. Через несколько месяцев Ришелье скончался от пережитых потрясений.
 
-> *[Illustration: Овальный портрет-гравюра герцога А. Э. Ришелье в темном сюртуке, повернутого в три четверти. Подпись: «А. Э. Ришелье. С миниатюры де Сена (из кн.: L. de Crousaz-Crétet. Le duc de Richelieu en Russie et en France. 1766—1822. Paris, 1897)».]*
+![Oval engraved portrait of the Duc de Richelieu in three-quarter view](img/south-ukraine-p202-richelieu-portrait.jpg)
+
+*А. Э. Ришелье. С миниатюры де Сена (из кн.: L. de Crousaz-Crétet. Le duc de Richelieu en Russie et en France. 1766—1822. Paris, 1897)*
 
 Незадолго до смерти он сообщил Сикару, что мечтает посетить Одессу. Однако для этого, писал он, нужно принять ряд предосторожностей, иначе «непременно скажут, что я еду туда продавать России секреты Франции, точно так же, как меня уже обвиняли в продаже ей французских интересов». Чтобы обращать на себя как можно меньше внимания, Ришелье собирался отправиться сначала в Вену, а «оттуда пробраться на берега Черного моря»[^81].
 
@@ -2986,7 +2995,7 @@ relevance: >-
 
 В декабре 1803 г. Палласу предложено было выбрать земли для училища [^120]. Ученый высказался за Судакскую долину, где училище и открылось в 1804 г. Паллас был приглашен руководить его работой, давая мастерам и персоналу «советы и наставления свои» [^121].
 
-> *[Illustration: Portrait of P. S. Pallas, oil painting by an unknown artist]*
+![Oil portrait of P. S. Pallas](img/south-ukraine-p252-pallas-portrait.jpg)
 
 *П. С. Паллас. Портрет работы неизвестного художника. Масло.*
 
@@ -3387,7 +3396,7 @@ relevance: >-
 
 Чтобы оценить место и значение Екатеринославской казенной суконной фабрики в ряду подобных предприятий начала XIX в., обратимся к цифровым показателям, приведенным в исследовании крупнейшего специалиста по истории шерстяной промышленности К. А. Пажитнова. Он сообщает, что в суконной промышленности общее число рабочих в течение всей первой четверти XIX в. составляло в среднем 200 или несколько менее на одно предприятие. Так, в 1809 г. на 209 мануфактурах числилось 36 547 рабочих, т. е. в среднем по 174 человека на каждой; в 1820 г. число мануфактур достигло 304, число рабо-
 
-> *[Illustration: Photograph of the Ekaterinoslav cloth manufactory building, dating from the first half of the 19th century, from the Dnepropetrovsk Historical Museum; photographed in 1914.]*
+![The Ekaterinoslav cloth manufactory building, photographed in 1914](img/south-ukraine-p276-ekaterinoslav-cloth-factory.jpg)
 
 *Екатеринославская суконная мануфактура. Здание первой половины XIX в. (Днепропетровский исторический музей). Фото 1914 г.*
 
@@ -3916,9 +3925,7 @@ relevance: >-
 
 По мере роста тутовых плантаций развивалось шелкомотальное дело. Однако крупных предприятий в первой четверти XIX в. не появилось. В «шелковичном заведении» помещика Меликова, основанном в 1808 г., продукция, как мы видели, исчислялась фунтами. И все же по производству шелка Таврическая губерния неуклонно шла вперед, обгоняя Екатеринославскую и Херсонскую губернии. Если в своем первом отчете (1804 г.) Мертваго определял ежегодную выработку шелка в 8—15 пудов, то в 1814 г. она поднялась до 20 пудов, в 1816 г.— до 37, а в 1825 г.— до 45 (основная доля этих количеств приходилась на шелк-сырец)[^165].
 
-> *[Illustration: Litho­graph "Vue des lacs salés" ("View of the Salt Lakes"), a panoramic engraving showing a curved salt lake with numerous carts, workers, and mounds of harvested salt along its shores, with a town in the distance]*
-
->
+![Lithograph "Vue des lacs salés": a Crimean salt lake with carts, workers, and mounds of harvested salt](img/south-ukraine-p316-crimean-salt-lakes.jpg)
 
 > *Добыча соли из крымских озер. Литография из книги Г. Кастельно*
 
@@ -4267,7 +4274,13 @@ relevance: >-
 
 Издавались постановления о выделении на нужды портовых городов (строительство молов, набережных и пр.) определенной части таможенных или иных государственных доходов[^54]. За счет
 
-> *[Illustration: Two maps of Odessa. Top map, «PLAN D'ODESSA en 1794» (in French), shows the sparsely settled Black Sea coastline with roads to Tiraspol and Ovidiopol and a small star-shaped fortress; captioned below: «План Одессы 1794 г. Из книги Г. Кастельно». Bottom map, «Plan de la Ville d'Odessa», shows the fully laid-out city grid of the later town with numbered landmarks, a legend, the harbor, and the star-shaped fortress; captioned below: «План Одессы 1814 г. Из книги Г. Кастельно».]*
+![Plan of Odessa in 1794: a sparsely settled coastline with a small star-shaped fortress and roads to Tiraspol and Ovidiopol](img/south-ukraine-p334-odessa-plan-1794.jpg)
+
+*План Одессы 1794 г. Из книги Г. Кастельно*
+
+![Plan of Odessa in 1814: the laid-out city grid with numbered landmarks, a legend, the harbour, and the fortress](img/south-ukraine-p334-odessa-plan-1814.jpg)
+
+*План Одессы 1814 г. Из книги Г. Кастельно*
 
 этих средств строились Одесса, Таганрог, Феодосия. Жители Одессы в течение длительного времени были освобождены от податей.
 
@@ -4691,7 +4704,7 @@ relevance: >-
 
 Уже в первой четверти XIX в. Одесса сделалась крупным
 
-> *[Illustration: Lithograph view of Odessa, 1820 — a panoramic townscape showing church domes and buildings along tree-lined streets descending toward the harbor, with sailing ships at anchor; from the book by G. Castelnau]*
+![Lithograph panorama of Odessa in 1820, with church domes and tree-lined streets descending to the harbour](img/south-ukraine-p364-odessa-view-1820.jpg)
 
 *Вид Одессы. Литография 1820 г. из книги Г. Кастельно*
 
@@ -6026,6 +6039,11 @@ relevance: >-
 
 2-я типография издательства «Наука». Москва Г-99, Шубинский пер., 10
 
-> *[Illustration: Map No. 1, «Новороссийская губерния в 1796—1802 гг.» (Novorossiysk Province in 1796–1802). A legend in the upper left explains the symbols used: state borders, borders of Novorossiysk Province, uezd (district) borders, provincial capital, uezd towns, other settlements, and colonies. The map shows the northern Black Sea and Sea of Azov coast with the Dnieper, Bug, and Don rivers, and marks towns including Novomirgorod, Elisavetgrad, Novorossiysk (Ekaterinoslav until 1797), Kremenchug, Ekaterinoslav, Bakhmut, the Lugansk foundry, Kherson, Nikolaev, Olviopol, Dubossary, Grigoriopol, Tiraspol, Odessa (Gadzhibey), Ochakov, Simferopol (Ak-Mechet'), Bakhchisaray, Sevastopol (Akhtiar), Feodosiya (Kafa), Sudak, Yalta, Kerch, Enikale, Mariupol, Taganrog, Rostov, Nakhichevan, Ekaterinodar and Ust-Labinskaya. A boxed inset in the lower right indicates the territory that entered Russia in the 1770s–1790s. Large single letters scattered across the map spell out the names of provinces and lands (Херсонская, Екатеринославская, Таврическая, Земля Войска Черноморского, etc.).]*
+![Map of Novorossiysk Province, 1796–1802: the Black Sea and Azov coasts with district boundaries, provincial and district towns, and colonies](img/south-ukraine-p386-novorossiysk-province-map-1796-1802.jpg)
 
-> *[Illustration: Map No. 4, «Основные типы сельских поселений Новороссии и Буджака в 1820-х годах» (Principal types of rural settlement in Novorossiya and Budzhak in the 1820s). An extensive legend in the lower right distinguishes: the border of the Russian Empire in 1825; borders of provinces and oblasts; borders of uezды, tsynuты, and the Taganrog city administration; the border of Buджак; areas of established bourgeois relations (with a small admixture of serf-type economy); areas of independent (partly farmer-type) settler households, by townships and villages; Smolensk peasants; Belorussian (bobyl') peasants; Jewish farmers; settlers from the Crimea (Greeks, Armenians, etc.); settlers from Turkey (Bulgarians, Gagauz, etc.); settlers from central Europe; "aggrieved settlers" (обиженные поселяне); Dukhobors; and areas of serf-type estates (military settlements). The map covers Kherson, Ekaterinoslav and Taurida provinces and the Crimean peninsula, marked with numerous small shaded and hatched areas and settlement symbols keyed to the legend, and place names including Ekaterinoslav, Kherson, Odessa, Nikolaev, Simferopol, Feodosiya, Sevastopol and Kerch.]*
+*«Новороссийская губерния в 1796—1802 гг.»*
+
+![Map of rural settlement types in Novorossiya and the Budjak in the 1820s, its legend distinguishing settlers from central Europe, the Crimea, and Turkey from serf-estate and military-settlement areas](img/south-ukraine-p387-novorossiya-settlement-types-map-1820s.jpg)
+
+*«Основные типы сельских поселений Новороссии и Буджака в 1820-х годах»*
+
