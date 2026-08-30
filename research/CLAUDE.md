@@ -53,18 +53,20 @@ Step 2 covers the mechanical fixes. Do **not** silently resolve: uncertain names
 - **Filenames:** lowercase, hyphenated, descriptive. Date-stamp names where it disambiguates (`gottlieb-isaak-1860-1947-...`).
 - **Dates in prose:** keep the source's format; don't normalize.
 - **Place/personal names:** preserve the source spelling. Normalize only unambiguous, well-known names (e.g. Brandenburg), and note in the front matter's `note` field that you did so. Leave uncertain village names as written.
-- **Editorial notes**, when needed, go in a blockquote or a clearly labeled section (e.g. "Notes on This Extract — *editorial, not part of the original*"), placed before the source body; for disambiguation of people, a note may sit *above* the document's H1 title so it's seen first.
+- **Editorial notes** belong in the front matter (`note`, `do_not_confuse`, `relevance`, or another appropriate field), never in the document body. The body after the YAML block is the source text; do not insert blockquotes, sections, footnotes, or any other AI-written commentary into it.
 
 ## Front-matter specification
 
 Every file starts with a YAML front-matter block. Fields aren't rigidly enforced, but aim for consistency with this schema. Use `snake_case` keys, spaces not tabs, and quote text values containing punctuation. This is the target schema; some older files predate it and are being normalized toward it.
+
+**Keep it short.** The front matter is metadata, not commentary. Each field value should be a phrase or a sentence — not a paragraph. Don't restate what the source text already says, don't repeat repo conventions, and don't explain the obvious. If the frontmatter is approaching the length of the source text, something has gone wrong. Omit an optional field entirely rather than filling it with information the reader will get from reading the document.
 
 ### Required (every file)
 - `title` — the document's title, in the language of this file's text. For a non-English file, add `title_en` with the English title alongside it.
 - `source_type` — e.g. `book`, `article`, `journal_article`, `translated_article`, `primary_source`, `translated_primary_source`, `video_transcript`, `family_memoir`, `published_memoir`, `obituary`, `wikipedia`, `webpage`, `website`. Add a new `snake_case` value if none fits.
 - `source_url` — canonical link to **the version actually used** to prepare the file. Do not label an independently hosted copy as the source if it was not used; record useful alternates as `html_edition`, `alternate_url`, or `archive_url`, with a companion note (e.g. `html_edition_note`) if the alternate may differ in wording or pagination. (If the source is offline-only, use a `source:` prose field describing it instead.)
 - `language` — ISO code of *this file's* text: `en`, `de`, `ru`, `pl`. (Use the code, not "English".)
-- `copyright` — rights status **and** a reuse caveat. (Standardize on `copyright`; do not use `license`.) Do not describe a work as public domain unless reasonably established; distinguish rights in the underlying historical document from rights in a modern edition/translation/website; never imply the repository grants reuse permission.
+- `copyright` — short rights status. (Standardize on `copyright`; do not use `license`.) State the status; don't write a legal brief. Never imply the repository grants reuse permission.
 
 ### Required when applicable
 - `author` and/or `compiler`
@@ -79,7 +81,7 @@ Put method notes in `transcription` and `translation` rather than dumping them i
 - `period` — the time span the *content* covers. **This is what decides which subdirectory the file belongs in** (see below).
 - `scope` — 1–2 sentences on what's inside. (Use `scope`, not `extract_scope`.)
 - `relevance` — why it's here / how it ties to the Isaak line.
-- `note` — freeform catch-all (normalizations made, quirks preserved, etc.).
+- `note` — only when something genuinely needs flagging (a normalization you made, a quirk you preserved). A sentence or two. Omit if there's nothing to say.
 
 ### Optional / source-specific
 Not a closed list — add what the source needs. Commonly used: `publisher`, `year_published`, `isbn`, `series`, `written`, `published`, `translated_by`, `translation_date`, `original_publication`, `original_printer`, `source_pdf`, `source_site`, `html_edition`, `internet_location`, `people`, `do_not_confuse`, `narrator`, `shared_by`, `ref`.
