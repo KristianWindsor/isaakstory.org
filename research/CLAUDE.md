@@ -86,6 +86,8 @@ Put method notes in `transcription` and `translation` rather than dumping them i
 ### Optional / source-specific
 Not a closed list — add what the source needs. Commonly used: `publisher`, `year_published`, `isbn`, `series`, `written`, `published`, `translated_by`, `translation_date`, `original_publication`, `original_printer`, `source_pdf`, `source_site`, `html_edition`, `internet_location`, `people`, `do_not_confuse`, `narrator`, `shared_by`, `ref`.
 
+- `people` — always use a block-style YAML list with one name per line, never an inline list.
+
 ## Directory scope (what goes where)
 
 The regional subdirectories are keyed to the **era of the family's life in that place**, so a document's usefulness is judged by whether its content falls in that window — not merely by the region it names. A document about Bessarabia in 1920 is not useful to `bessarabia/`, because the family had already left.
