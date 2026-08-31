@@ -31,6 +31,11 @@ These files exist to preserve real source material faithfully. Preserving the or
 5. **Front matter.** Add the YAML block (see spec below).
 6. **Verify.** Re-read against the source: no duplicated or missing text (check the beginning and end of every page/section), headings in the right places, names/dates/figures correct, YAML parses, Markdown renders cleanly in GitHub, front matter accurate.
 
+### Page markers for long transcriptions
+
+- For a transcription spanning more than four source pages, add hidden page markers to make comparison with the original easier.
+- Use `<!-- source_page: N -->` immediately before the first content from each page, including page 1. If a page changes mid-paragraph, put the marker inline so the paragraph remains one line. Do not use visible page headings or split paragraphs merely to show a page boundary.
+
 ### Don't guess
 
 Step 2 covers the mechanical fixes. Do **not** silently resolve: uncertain names or place names; ambiguous dates or numerals; contradictions within the source; wording that may reflect the author's style; translation choices that materially affect meaning. Preserve the uncertain reading, mark it with `[sic]` or a bracketed clarification, or explain it in an editorial note.
@@ -53,7 +58,7 @@ Step 2 covers the mechanical fixes. Do **not** silently resolve: uncertain names
 - **Filenames:** lowercase, hyphenated, descriptive. Date-stamp names where it disambiguates (`gottlieb-isaak-1860-1947-...`).
 - **Dates in prose:** keep the source's format; don't normalize.
 - **Place/personal names:** preserve the source spelling. Normalize only unambiguous, well-known names (e.g. Brandenburg), and note in the front matter's `note` field that you did so. Leave uncertain village names as written.
-- **Editorial notes** belong in the front matter (`note`, `do_not_confuse`, `relevance`, or another appropriate field), never in the document body. The body after the YAML block is the source text; do not insert blockquotes, sections, footnotes, or any other AI-written commentary into it.
+- **Editorial notes** belong in the front matter (`note`, `do_not_confuse`, `relevance`, or another appropriate field), never in the document body. Apart from the hidden page markers permitted for long transcriptions, the body after the YAML block is the source text; do not insert blockquotes, sections, footnotes, or any other AI-written commentary into it.
 
 ## Front-matter specification
 
