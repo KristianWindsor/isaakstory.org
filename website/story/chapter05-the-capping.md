@@ -2,25 +2,19 @@
 
 # The Capping
 
-Kulm, Bessarabia — February 1816
+Paulsberg, Bessarabia (later Kulm) — February 1816
 
 ---
 
 The Isaak dugout had never been large, but in the days before the wedding it became impossible.
 
-It was one low room cut into the slope above the Kogälnik, with packed-earth walls, sod brick, a roof of reed and thin poles and more sod, and an earthen stove that gave out heat with the reluctance of an old man handing over coins. Ten people slept there when everyone was accounted for: Father and Mother, Michael, Karl, Johann, Christian, Dorothea, Ernst, little Maria, and whatever neighbor the winter had driven in for a bowl of something hot and a place near the stove. Soon there would be eleven.
+Nine people slept in the low room cut into the slope above the Kogälnik. Soon there would be ten. Karl had to turn sideways between the table and the sleeping places, and even then his coat caught on the baskets. Damp wool hung from the poles overhead. The earthen stove gave out heat with the reluctance of an old man handing over coins.
 
-The room smelled of wool, damp earth, rye bread, tallow smoke, and *Mistholz* — dried manure bricks that burned with a bitter, grassy stink and made heat only because nothing else had the decency to exist.
+Karl set down a pail and braced his hand against the wall. A rough edge of sod caught the split beneath his thumb. He had cut that brick himself in September.
 
-Karl ran a hand along the packed-earth wall, his palm catching on the rough edge of a sod brick. It had not become a home easily. His hands had split cutting these bricks in September; they had dug until the black earth froze into iron under the spade. By January, when the wind came shrieking over the steppe, the room had finally begun to feel less like a hole and more like something they had survived into being.
+Christian pushed a brick of dried dung into the stove. The bitter, grassy stink spread through the room, mixing with rye dough and the salt fish hanging near the door. Karl wiped his hand on his trousers and looked for somewhere to put the second pail.
 
-Outside, the steppe lay white and hard beneath snow. The daylight coming down the dugout steps was thin and grey, a poor silver wash that did not dazzle even at noon. Snow should have shone. This snow seemed only to remember that shining was expected of it.
-
-No one spoke of the light. The sky had been strange for months. The sun rose dull and went down red, and the shadows at midday lay flat and colorless. Kulm had too many nearer troubles for anyone to quarrel with heaven.
-
-Inside, the wedding had turned the dugout into a workshop.
-
-Mother had taken command of the dugout with sacred impatience, moving with the force of a woman determined to wrest one proper celebration out of a winter that wanted none. Dorothea worked at her side, sleeves rolled, hair escaping from her kerchief, learning by being useful and being corrected every five minutes.
+Mother had taken command of the table. Dorothea worked at her side, sleeves rolled, hair escaping from her kerchief.
 
 “No, not there. The good cloth stays wrapped until the morning.”
 
@@ -30,9 +24,9 @@ Mother had taken command of the dugout with sacred impatience, moving with the f
 
 “I am minding it.”
 
-Dorothea, alongside her friends Louisa Mueller and Maria Jeske, formed a frantic defensive line. All three girls were exactly eleven years old and suddenly burdened with authority. They worked to redirect little Maria—two years old and convinced all baskets required inspection—from one forbidden corner to another, while simultaneously herding Ernst and the younger Jeske and Mueller children out of the way of the hot stove. Karl, who was nineteen and the bridegroom, found himself even less useful than the children.
+At eleven, Dorothea could order Ernst about almost as well as Mother. Her friends Louisa Mueller and Maria Jeske helped with the younger children. Little Maria had got both hands inside a basket before Louisa caught her. When Louisa set her down, she went straight for another. Maria Jeske caught her before she reached it. Karl, who was nineteen and the bridegroom, found himself waiting for permission to move.
 
-He brought water and was told he had brought too much. He split reeds and was told not those reeds. He stepped over a sack, struck his shoulder against a sack of salted fish, and turned to find Mother looking at him with both hands on her hips.
+He brought water and was told he had brought too much. He cut reeds and was told not those reeds. He stepped over a crate, struck his shoulder against the sack of fish, and turned to find Mother looking at him with both hands on her hips.
 
 “Karl.”
 
@@ -42,25 +36,43 @@ He brought water and was told he had brought too much. He split reeds and was to
 
 So he went outside.
 
-The cold took him at once, closing around his ears and inside his sleeves. He stood with his back to the dugout door and looked across the settlement. Smoke rose from the earth along the great village road, straight dark threads climbing from low sod roofs before the wind bent them flat. No proper houses yet. No church. No bell tower. Only dugouts under snow, black fields asleep beneath it, and people who had come too far to admit surprise at any of it.
+The cold closed around his ears and slid inside his sleeves. Along the village road, smoke rose from low sod roofs before the wind bent it flat. Here and there a house stood above the dugouts; farther along, bare frames waited under snow. He pulled on his mittens. His thumb found the split in the left one.
 
-A few paces from the door, twelve-year-old Wilhelm Leischner was kicking stubbornly at a frozen clod of dirt. He paused, looked up at Karl, and gave a short, solemn nod of solidarity before returning to his boot-work. Karl nodded back.
+A few paces from the door, twelve-year-old Wilhelm Leischner was kicking at a frozen clod of dirt. He looked up at Karl, gave a solemn nod, and returned to his kicking. Karl nodded back.
 
-A moment later, crunching footsteps announced Gottfried Graumann. At seventeen, Gottfried had survived the winter work details alongside Karl, earning the right to bypass any formalities. He stopped, exhaled a white cloud of breath, and took in Karl’s idle stance.
+Gottfried Graumann came crunching up the track with a cane hung with ribbons. At seventeen he had spent much of the winter hauling and digging beside Karl; now he was going from door to door to invite the bride’s guests. He stopped and looked Karl over.
 
-"Cast out of your own house?" Gottfried asked, his voice dry.
+“Cast out of your own house?”
 
-"I stood too close to a sack of fish," Karl said.
+“I stood too close to a sack of fish.”
 
-Gottfried gave a brief, lopsided smile. "A fatal error today." He clapped Karl once on the shoulder and continued down the frozen track.
+“A fatal error today.” Gottfried clapped him on the shoulder and went on.
 
-The thought of the wedding kept arriving in him at odd moments, like a person stepping suddenly from behind a door. He had known since Advent, when the fathers had spoken and Mother had asked him, alone, whether he was willing. Willing had seemed a small word for so large a thing, but it was true enough.
+Johann followed a few minutes later, hoarse from two days of delivering the invitation for the Isaaks. His own cane streamed ribbons. At every threshold he had promised schnapps, wine, roast meat, and dancing. Now he gave Karl the end of the old speech with a flourish:
 
-He and Elisabeth were not strangers. She was sixteen, and the Strümpskes had come in the same column from the Duchy. Karl had seen her muddy to the knee, carrying water with both hands. He had seen her asleep against her mother’s shoulder in the wagon. He had seen her at the Dniester, pale but steady, her little brother Samuel pressed against her side. He knew what she looked like tired, frightened, hungry, angry, and trying not to show any of it. He also knew how quickly she went quiet when older women began speaking of things she was expected to understand now, and how she still looked first to her mother before answering questions put to her as a grown woman.
+“And only as long as the food holds out!”
 
-That seemed to him a better beginning than a dance.
+Karl laughed, then looked back at the dugout door. Tomorrow Elisabeth would come home through it.
 
-Behind him, Mother’s voice rose through the dugout door.
+He had known since Advent, when the fathers had spoken and Mother had asked him, alone, whether he was willing. Willing had seemed a small word for so large a thing.
+
+He and Elisabeth were not strangers. The Strümpskes had come in the same column from the Duchy, and Karl had seen her muddy to the knee, carrying water with both hands. He remembered her gripping the loose canvas in the storm, telling him to give the frightened horse room.
+
+After the fathers had spoken, he had waited outside her parents’ dugout.
+
+“Did they ask you?”
+
+“Of course.”
+
+“And what did you say?”
+
+She looked at him a moment. “I said yes. What did you say?”
+
+“Yes.”
+
+“Well, then.” She shifted her basket to her other arm. “You can walk with me.”
+
+Mother’s voice pulled him back to the cold outside his own door.
 
 “Karl! Since you are outside already, bring in more fuel.”
 
@@ -68,162 +80,253 @@ He took the basket and went.
 
 ---
 
-Karl did not see the assembly of the crown, not directly. Custom kept him outside the circle of women, but he found the evidence of it on the table when he came back from the windbreak.
+When Karl came back from the fuel stack, the women had cleared a space on the table.
 
-In Brandenburg, a bride wore fresh green myrtle. Here, in a frozen steppe without a living leaf, the colony's older women had reached into the bottoms of their travel chests. On the table lay the *Schappel*: a fragile skeleton of wire bent into a curve, threaded with glass beads from Katherina Leischner, a scrap of faded silk flower, a length of blue ribbon from Mrs. Strümpske. The crown was being built from scraps that had survived the road because they were too small to lose.
+On it lay a curve of thin wire, a few glass beads, and a faded silk flower. Katherina Leischner held one end of the wire while Mother wound blue ribbon around it. Mrs. Strümpske bent close to the candle to thread a bead. Each time she missed the hole she wet the thread between her lips and tried again.
 
-Karl stepped toward the table and laid a short length of green wool thread beside the wire. He had saved it from the wagon months ago without knowing why.
+Karl set the fuel beside the stove. He watched the flower take its place above the ribbon. There was no green in the little crown.
 
-Mother looked up. Her eyes softened. She rested her hand briefly against his knuckles, then picked up the green thread and wove it into the base of the crown without a word.
+He worked a short length of green wool thread out of his pocket. He had been keeping it to mend his mitten.
 
----
+“Would this do?”
 
-The dugout woke long before the first grey slit of dawn appeared under the door. The earthen stove hissed as Christian threw on a fresh block of dried Mistholz, the smell of burning dung sharp and dry in the cold room.
+Mother laid it against the wire. Then she rested her hand briefly on his knuckles and began to wind it in.
 
-Karl sat on the low bench in his dark wool coat and good shirt, scraping frozen mud from his boot heels with a bone knife. He worked with obsessive care, digging the brown ice out of the seams until the leather stood clean.
-
-Father walked over without a speech. He produced a small wedge of tempered iron—a spare harrow tooth, scarce and valuable—and dropped it into Karl's hand. Then he placed his palm on Karl's shoulder and pressed once, hard. Karl held his ground. Father nodded.
-
-Mother brushed the lint from his collar with a fierce, possessive sharpness. Her face was set like flint; she did not weep.
-
-Karl stepped up the stairs and into the open morning.
-
-At the eastern horizon, the sun sat as a flat, blood-red disc—glareless, so that Karl could look directly into it without blinking. It looked like a rusted iron coin in a milky sky. The sight sent a shudder through his belly.
-
-"Come on," Michael said, his own breath freezing into a thick white cloud as he led the way down the valley track toward the mayor's dugout.
+Karl went to put the basket away. Behind him, the beads clicked against the tabletop.
 
 ---
 
-There was no church in Kulm, nor would there be a proper house of prayer for years to come. The wedding was held in the communal dugout—the largest hole in the valley, usually reserved for town meetings.
+The dugout woke before the first grey light reached the steps. Karl sat on the low bench in his dark coat and good shirt, scraping frozen mud from his boot heels with his knife. Brown chips fell between his feet.
 
-Karl stooped as he entered. The air inside was a solid wall of heat and moisture—sixty families packed body to body, the frozen ceiling already thawing from their breathing, beading with water.
+Father opened the Bible on the table. Mother covered the dough with a cloth, and Christian shut the stove door. Karl put down the knife. They bowed their heads while Father read, and afterward Karl said the Lord’s Prayer with the others. Beside him, Ernst stumbled over a word and Dorothea supplied it under her breath.
 
-At the far end stood the altar: a wagon tailgate across two flour barrels, covered with a white linen cloth carried from the Duchy inside a family Bible. Two tallow candles burned against the sod wall, their flames sputtering.
+When they rose, Father put something into Karl’s hand: a spare iron spike for a harrow, the wooden frame dragged over plowed soil to break it up. Its edge was cold against his palm.
 
-The room went quiet as the door groaned back.
+“For yours,” Father said.
 
-Elisabeth came down the steps in her finest heavy black wool, her bodice stiff with linen, her eyes on the dirt floor. On her head sat the *Schappel*. The glass beads caught the candlelight, and Karl’s green thread flashed against the dark fabric of her hair. She looked small under the crown, and entirely unbreakable.
+Karl closed his fingers around it. He had no harrow yet.
 
-Mr. Strümpske guided her to Karl’s side.
+Father pressed his shoulder once, hard, then went to fetch his coat. Karl wrapped the iron in a rag and set it among his things.
 
----
+Mother brushed the lint from his collar. She smoothed the same place twice.
 
-Pastor Schnabel stood behind the oak plank, his black cassock a stark contrast to the surrounding dirt. Friedrich Schnabel was still a stranger to the steppe—barely weeks off the road from Odessa, dispatched by the Welfare Committee to Tarutino with the church's official sanction.
+“God go with you,” she said.
 
-He opened his book and began the old German Lutheran rite, his voice deep and steady, skipping not a single syllable of the ancient liturgy. The colonists stood rigid, their heads bowed beneath the low woven reed ceiling.
+Outside, the sun was coming up red and small over the snow, with no more warmth in it than a coin.
 
-"Anna Elisabeth Luise Strümpske," the pastor read. The full name had an immense, metallic weight in the small room—the only time it would be spoken aloud on this day.
+“Come on,” Michael said.
 
-Karl tried to listen to the formal High German, but his mind fixed on the physical details of the room: a single bead of water gathering on the ceiling above the pastor's head, swelling heavy and clear, reflecting the candle flame. The smell of damp earth behind the altar.
-
-Then Elisabeth spoke her response. Her voice was low but perfectly clear.
-
-The physical details vanished. He reached into his vest pocket and found the plain iron band—warm from being carried against his chest all morning—and as he took Elisabeth's hand the magnitude of the moment arrived all at once: he was promising before God and sixty households to keep this person alive.
-
-The congregation began to sing. There was no organ within five hundred miles; their voices rose a cappella, packed shoulder to shoulder. The old wedding hymn was a wall of harmony that shook the low room until Karl could feel the vibration through the soles of his boots. It was the valley’s true voice, dense and heavy.
-
-*Plip.*
-
-A single drop of ice-cold meltwater fell from the ceiling, striking the bare skin at the back of Karl’s neck. He flinched slightly, the sudden cold snapping him back down into the reality of the dirt room, the smoky tallow, and the solid weight of his wife standing beside him.
+Karl followed him down the track.
 
 ---
 
-The moment Pastor Schnabel lowered his hands, the rigid silence of the dugout evaporated. The solemnity did not fade; it was blown backward by a roar of voices and the stamp of feet. The colony had lived through five months of grey frost with nothing to celebrate; they took hold of this wedding with a desperate, hungry joy.
+There was no church in the colony. They were marrying in the communal dugout, the largest hole in the settlement, where they prayed on Sundays and quarreled the rest of the week.
 
-The planks were cleared of the linen cloth, and the feast arrived. The two families had pared their winter stores down to the bone for this hour. Mr. Leischner had slaughtered a young shoat—a real, bleeding sacrifice from a thin winter herd.
+Karl stooped through the doorway. Warm, wet air met his face. The Isaaks, the Strümpskes, and their neighbors were packed along the benches, coats steaming, shoulders pressed together. Water beaded on the low reed ceiling. Someone pulled in his knees to let Karl pass.
 
-Steam rose from the large earthenware bowls as they were set down. Thick chunks of salted pork fat sat in pools of grey sauerkraut that had been put down in the autumn; there were loops of coarse dark garlic sausage and loaves of heavy Russian rye flour bread bartered from the soldiers down at the post. It wasn’t an abundant table, but every dish showed the careful, deliberate sacrifice of people who loved them.
+At the far end, a wagon tailgate lay across two flour barrels. A white linen cloth covered it, the cloth Mother had carried from the Duchy wrapped around the family Bible. Two tallow candles burned against the sod wall.
 
-Karl sat beside Elisabeth, the noise pressing into his ears until his head rang. Grease shone on his brothers' chins as they tore into the bread. The small room grew hot from the press of bodies, the smell of roasted fat, and the sharp sourness of the cabbage.
+Old Flegel stood behind it in his black church coat. Karl knew the hands resting beside the open book: thick fingers, one nail blackened where a hammer had caught it. They were the same hands that had held the Bible on the road.
 
-A clay jug of harsh grain schnapps went round, burning the throat and loosening the tongues of the older men. From further down the packed table, Gottfried Graumann caught Karl’s eye. The older boy raised his wooden cup in a silent, acknowledging toast. Karl tipped his chin in return.
+Pastor Schnabel was still a prisoner in Kishinev. Father had said they would seek his blessing when he could come. Today Flegel would read the prayers and hear their vows.
 
-Karl looked down at Elisabeth’s hand resting near his plate. They had never sat like this—side by side before the world.
+The door groaned again, and the room quieted.
 
-"Are you eating?" he asked quietly, leaning his shoulder into hers so she could hear him over the din.
+Elisabeth came down the steps in her best black wool dress, one hand gathering the skirt clear of the dirt. On her head sat the little crown, the *Kranz*. A glass bead caught the candlelight. Karl saw his green thread wound among the ribbons.
 
-Elisabeth turned her head, her face flushed from the heat of the stove. She reached out and subtly dropped a thick slice of sausage onto his plate. "If I eat any more cabbage, Karl, you will have to sleep outside the blanket tonight."
+At the foot of the steps she looked up and found him.
 
-He let out a short, startled laugh—a sudden bubble of relief that broke the tension in his chest.
+Mr. Strümpske brought her to Karl’s side. When he let go of her arm, she moved closer to Karl to make room for him to pass.
 
----
+Flegel began to read. The formal German sounded strange in the voice Karl was used to hearing across a work yard. He bowed his head with the others, but his eyes kept returning to a drop of water above Flegel’s shoulder. It swelled on the end of a reed and held there, bright with the candle flame.
 
-Old man Roloff pulled a battered fiddle from a greasy wool sack. The instrument had survived the road inside a flour barrel, its wood scratched but intact. He drew the bow across the strings, and a sharp, screeching Polish village tune leapt into the rafters.
+“Anna Elisabeth Louise Strümpske, will you take Karl Isaak as your husband?”
 
-The dugout was too small for anyone to turn a proper circle. The dancing was therefore a matter of stamping and clapping in place—boots coming down hard on the packed dirt until the floor seemed to drop an inch under the weight. Against the sod wall, Dorothea, Louisa Mueller, and Maria Jeske stood in a tight cluster, balancing little Maria and the younger Jeske children on their hips while they watched the adults stamp and clap.
+Her full name made Karl look at her. She stood with her hands together, the thumbnail of one pressed into the other palm.
 
-As the heat rose, the moisture on the ceiling liquefied completely. Large drops of cold water began to rain down regularly on the dancers’ heads and shoulders. No one stopped. Michael wiped a drop from his forehead and shouted a joke into the crowd; it became the great jest of the evening—the steppe winter was literally weeping because it couldn't stop their joy.
+“Yes,” she answered, quiet and clear.
 
-Then came the *Brauttanz*. Roloff stood by the altar plank, shouting out the prices. The men of the colony formed a line to dance a few stamping steps with Elisabeth, each paying for the privilege. Mr. Strümpske threw down a handful of iron nails; another neighbor dropped three copper copecks into a wooden bowl; Wilhelm Leischner offered a small twist of black tobacco he was almost certainly not permitted to smoke. It was the colony's contribution to the survival of a new household.
+In his coat pocket Karl’s thumb found the worn French sou. He rubbed it once, let it lie, and reached into his vest for the iron ring. It was warm from being carried against his chest.
 
-Karl stood against the wall, watching his young wife spin from hand to hand, her dark wool coat flying out and the glass beads of her crown catching the light.
+Flegel turned to him. “Karl Isaak, will you take Elisabeth as your wife?”
 
-In the corner, Johann was laughing, his arm brushing against Rosina Leischner’s shawl as they watched the dancers. Karl noticed it with a quiet, knowing look, saving the ribbing for a later day.
+Elisabeth looked at him. He had answered Mother without hesitating. Now, with Elisabeth waiting and the room quiet around them, he could not get even that one word out.
 
----
+*Lord, help me.*
 
-At midnight, the music died. Roloff laid his fiddle across his knees, and the laughter faded into a heavy, domestic silence. The solemnity returned, but it was no longer the formal weight of the church; it was the quiet, ancient grief of the women.
+Flegel waited too. Karl took a breath.
 
-The older wives of the colony formed a tight circle around Elisabeth in the center of the floor. Mother and Mrs. Strümpske stood at the front, their weathered faces dark under their own linen caps.
+“Yes,” he said.
 
-Mother reached up, her rough fingers moving with unexpected delicacy as she untwisted the wire pins that held the ribbon crown. She lifted the *Schappel* from Elisabeth’s head. Girlhood ended with that single upward movement.
+Elisabeth held out her right hand. The ring stopped at her knuckle. He eased it over, careful of the red crack beside it. Then her fingers closed around his.
 
-In its place, Mrs. Strümpske brought forward the *Haube*—the close-fitting white cloth cap of a married woman. Together, the two mothers smoothed Elisabeth’s hair and tied the linen strings securely beneath her chin. From this hour until her death, her hair would be covered from the eyes of men. She had crossed the line.
+Flegel began the next prayer. Karl bowed his head, still holding her hand.
 
-A low, collective sniffling rose from the circle of women. Mother’s face broke then; two heavy tears leaked from her eyes, tracing the deep wrinkles in her cheeks. It wasn't grief for the match itself, but a shared mourning for the end of a girl's freedom and the beginning of a working wife’s long, unsparing labor. Every woman in that hole had made that same hard crossing. Dorothea watched from behind Mother’s skirt, her twelve-year-old face pale as she realized the true cost of the day.
-
-Karl watched the linen cap go on and felt a sudden, sharp ache of understanding. The day was not equal. He had gained a household and a partner; she had laid down her girlhood in the dirt.
-
-"Elisabeth," Michael said from the bench, his voice dropping the playful diminutive the family had used for her all winter. The girl-name was left on the table with the wire crown.
+A drop of meltwater struck the back of his neck and ran beneath his collar. He jerked his head. Elisabeth’s fingers tightened, and he saw the corner of her mouth move before she bowed her head again.
 
 ---
 
-The walk back to the Isaak Erdhütte took less than three minutes, but the cold made it feel like a league. They walked under an immense, blue-black steppe sky, the crust of the snow crunching like broken glass beneath their boots. It was the first time they had walked anywhere as husband and wife.
+After the last prayer, someone at the back began *Nun danket alle Gott*. Karl heard Mother take up the tune behind him, then Father’s low voice. Elisabeth was singing beside him. He joined her, the cold trickle drying against his neck, her shoulder touching his.
 
-Out here, with no elders watching, the public bride vanished. Elisabeth let her chin drop from her collar. Her shoulders slumped with an unglamorous, honest exhaustion.
+Then the benches scraped back. Mother folded the altar cloth while Michael called for the food.
 
-“My feet feel like they have been hammered into the dirt,” she said, her voice dropping its formal cadence.
+Bowls came down the steps wrapped in shawls. Steam rose as the women uncovered pork and sauerkraut; there were loops of dark garlic sausage and heavy rye loaves baked from the Crown’s flour ration. Mr. Leischner’s young pig had gone into the feast, along with food from shelves Karl had seen growing bare. The seed sacks at home remained roped shut. Nobody ate the spring.
 
-Karl looked at her. “We can go back to our own corner soon.”
+Karl sat beside Elisabeth. He had already reached for the bread when Father folded his hands. Karl drew his own back and bowed his head.
 
-“Good.” She turned her face toward him, her eyes steady in the starlight. “We have the planting to think of when the crust breaks, Karl. We cannot spend all our strength on one night.”
+“Lord God, heavenly Father, bless these gifts, and keep us thankful for Thy goodness.”
 
-He took her hand, his thumb tracing the callus on her palm, and they walked the last hundred yards in silence.
+The room answered amen. Then Michael passed the first bowl.
 
-When Karl pushed the door open, the reality of their situation met them in the dark. There was no separate cottage for them; the earth was frozen to the depth of three feet, and no new dugout could be hacked out until May. Elisabeth walked directly into the room that already held nine other people. Eleven of them would share this air.
+Karl broke the rye crust with both thumbs. The bread was dense and sour, and he dragged it through the pork fat before taking a bite. Across the boards, Ernst gnawed a strip of rind with grease shining on his chin. Hot cabbage stung Karl’s cracked lip. He ate another mouthful anyway.
 
-But the family had given them what privacy the world could spare. Across the far corner, near the storage bins, they had strung a heavy, grease-stained woolen blanket and two old shawls on a length of hemp rope. It enclosed a single yard of packed earth and a straw pallet. That was their entire house.
+A man came down the steps with a skin of wine under his arm, one of the Moldavian herdsmen Karl had seen trading at the edge of the settlement. He set it on the boards and accepted a plate. Karl shifted along the bench, but the man shook his head and stood by the wall, eating with his coat still fastened. Before Karl had finished his bread, the man had gone. The wine stayed.
 
-The rest of the family was already lying down on their pads, their backs turned deliberately toward the corner. Michael was snoring softly with theatrical loudness; Johann was tucking Ernst under a sheepskin without looking up. They were establishing the ironclad peasant contract of the night: they would hear nothing, see nothing, and know nothing.
+A clay jug of grain schnapps followed it down the table. Karl swallowed too much and felt it burn all the way into his chest. Gottfried caught his eye over a wooden cup and raised it. Karl tipped his chin in return.
+
+Elisabeth’s hand lay beside his plate, the iron ring dark against her skin. He could sit close enough for their knees to touch, and nobody told him to move.
+
+“Are you eating?” he asked.
+
+She leaned toward him so he could hear her over the table.
+
+“If I eat any more cabbage, Karl, you will have to sleep outside the blanket tonight.”
+
+He laughed with a mouthful of bread and had to cover his mouth.
+
+“Feed him, Else, he’s had a hard day standing still!” Michael called.
+
+Elisabeth put a thick slice of sausage on Karl’s plate.
 
 ---
 
-Karl pulls the blanket across the corner, and the room beyond it becomes sound only: the low breathing of bodies, someone shifting a shoulder against the packed earth wall. Inside the corner, there is no light at all. He has never been truly alone with her before.
+Roloff brought his fiddle out of a greasy wool sack. It had survived the road inside a flour barrel; Karl remembered helping lift the barrel down. Now Roloff tucked the scratched wood beneath his chin and drew the bow across it. The first note made Ernst wince. The next few brought Michael to his feet.
 
-He lifts the heavy sheepskin, and she slides in beside him. Above the bedding, the air is a knife, but beneath the thick wool, the sudden, trapped heat of their two bodies is shocking. No one undresses on the steppe in February, but as their coarse linen shifts push up, the cold meets newly bared skin.
+They pushed the benches against the walls. There was scarcely room to turn, but boots stamped and hands clapped while Roloff played a tune Karl knew from the Polish villages. Dorothea held little Maria on her hip and bounced her to the beat. Louisa Mueller and Maria Jeske joined in beside her until all three girls were laughing and trying to keep hold of the children.
 
-In the dark, her hand finds his. Her fingers are freezing, but her pulse jumps under his thumb, fast as a trapped bird. He can feel his own heartbeat answering it, frantic against the inside of his skin.
+The ceiling dripped on heads and shoulders. Michael wiped his forehead with his sleeve and kept dancing.
 
-"Are you cold?" he whispers, his voice barely a breath.
+Then Roloff laid down his bow and called the households forward with their gifts. Mr. Strümpske set a handful of iron nails on the boards. A neighbor dropped three copper kopecks into a wooden bowl. Wilhelm Leischner contributed a twist of black tobacco, glanced at his father, and stepped quickly back into the crowd.
 
-"I have been cold since we came down," she whispers back. "It will pass."
+Karl gathered the nails into a fold of cloth. Enough for a door, if he was careful where he drove them.
 
-He understands she does not mean only the temperature. "Mine too," he says.
+Somewhere in the stamping, Elisabeth’s shoe went missing. Wilhelm came up from under the table holding it high, his face solemn. Elisabeth stood in one stocking on the packed dirt, laughing, one hand on Karl’s shoulder for balance.
 
-She shifts toward him, and the bare skin of her shin slides along his beneath the hem of her nightshirt. The shock of it goes through him so cleanly that he forgets to breathe. The absolute novelty of her—warm, breathing, and astonishingly real—expands in his chest. His hand comes up slowly, finding her side through the thin linen: the narrow warmth of her ribs, the rapid rise and fall of her breathing.
+Gottfried haggled Wilhelm down to a kopeck. Karl held out his hand for the shoe. Wilhelm put it behind his back until Gottfried had paid.
 
-She makes a low, wordless sound in her throat. Her own hand rises, coming to rest flat against his chest to learn him by measure. Her fingertips map the line of his jaw and the corner of his mouth without sight. He finds the cold curve of her cheek, the tip of her nose, and kisses her properly for the first time as her husband. Her mouth is startlingly warm.
+When Roloff took up the bow again, the men danced with Elisabeth in turn, a few stamping steps apiece before she offered her hand to the next. Karl watched from the wall. The beads of her crown flashed whenever she turned her head.
 
-The nightshirts push up under the pelts. When his belly presses against hers she gasps — the shock of bared skin, and the shock, for Karl, of how little of her there is. A heartbeat later, she gives a startled, breathless laugh. It undoes him. He answers with a silent laugh of his own pressed into her shoulder, finding relief in the sheer absurdity of it.
+Then she beckoned to him.
 
-The laughter fades, leaving only the heavy, electric pull between them. He shifts his weight, his knee parting her thighs. In the pitch black, every sensation is magnified: the drag of coarse wool against his calves, the slick heat of her skin, the frantic, shallow rhythm of her breath against his collarbone. He guides himself forward, blind and fumbling, driven by a raw, immediate need.
+He shook his head. She kept her hand out.
 
-At the first sharp pressure, Elisabeth stiffens. She draws in a ragged breath, her fingers digging hard into the meat of his shoulder.
+Karl left the wall. On the second turn he trod on her newly returned shoe. She gripped his arm, recovered her footing, and pulled him into the next step.
 
-Karl freezes instantly. "Elisabeth?" he whispers.
+---
 
-She shakes her head once in the dark, her forehead pressed hard against his neck. Wait. He holds perfectly still, acutely aware of the freezing dugout pressing down on their pocket of heat, of his own racing pulse. Then, her hand slides down to grip his hip. She pulls him, returning the pressure.
+Late in the night, Roloff laid his fiddle across his knees. Mother beckoned Elisabeth away from the table, and the voices around Karl grew quiet.
 
-He presses forward, sinking into the tight, wet heat of her. She lets out a muffled, broken sound, instantly biting down on his shoulder to keep it from crossing the blanket. He begins to move, awkward at first, finding a clumsy rhythm in the dark. The friction builds a desperate, escalating fire between them. She arches into him, her nails scraping his back, her hips rising to meet his thrusts. The world shrinks entirely to the slick heat of their bodies, the stifling weight of the sheepskin, and the frantic effort to stay completely silent while pleasure completely overwhelms them. He catches her next gasp with his mouth, kissing her deeply as he shudders through a sudden, intense release, feeling her body clench tight and unyielding around him.
+The older wives gathered around her in the center of the floor. Karl moved along the wall until he could see between their shoulders.
 
-Afterward, they lie still, heartbeats pounding between them. Karl is shaking faintly, and he feels Elisabeth trembling against him. Her cheek rests against the bare skin of his collarbone, her exhales sweeping across his neck—the warmest thing he has ever felt. She fits against his side as if the shape had been hollowed out for her. His thumb moves once against the small of her back to be absolutely sure she is real and still there. She is. Karl closes his eyes.
+Mother reached for the crown. Her fingers moved carefully among the wire pins, lifting each clear before she took the *Kranz* from Elisabeth’s head.
+
+Mrs. Strümpske unfolded the white linen cap, the *Haube*, that Elisabeth would wear as a married woman. She and Mother smoothed Elisabeth’s hair and tucked it beneath the cloth. One string caught on a pin. Elisabeth held it clear while her mother tied the bow under her chin.
+
+Mrs. Strümpske kept hold of the ends a moment longer.
+
+“God keep you, my child.”
+
+She kissed Elisabeth’s forehead, then moved aside. The married women shifted along their bench and made room for her.
+
+Mother wiped her cheeks with the heel of her hand. Katherina Leischner was smiling. Dorothea leaned forward to see the knot beneath Elisabeth’s chin.
+
+Elisabeth looked toward her father. Samuel was asleep across his knees with his mouth open. She smiled, then pressed her lips together.
+
+Karl had spent the winter thinking of the space she would take beside him. He had not thought much about the space she would leave.
+
+Mother wrapped the crown in Elisabeth’s shawl. Karl waited while Elisabeth went to her father. She bent to kiss Samuel’s cheek without waking him. Mr. Strümpske put a hand against the back of her head, held it there, then let her go.
+
+---
+
+Outside, the cold found the sweat beneath Karl’s collar. Snow crust broke under their boots. After the heat and noise, he could hear Elisabeth breathing beside him.
+
+“My feet feel as though they’ve been hammered into the dirt.”
+
+He shortened his stride.
+
+“I’m going to see Mother tomorrow,” she said. “Will you keep Samuel busy? I’d like to talk to her without him pulling at her.”
+
+“I’ll take him with me for the water.”
+
+“Take two pails. He’ll want his own.”
+
+Karl took her hand. Through the gap in his mitten her fingers touched his thumb. They walked the rest of the way without speaking.
+
+He went down the steps first and held the door for her. The stove had sunk to embers. His parents, brothers, and sisters were settling into their sleeping places, and Elisabeth had to step over Ernst’s boots before she could set down her bundle.
+
+There was no cottage waiting for them. Until the ground thawed and Karl could build, they had the corner by the storage bins. The family had hung a heavy wool blanket and two old shawls from a rope. Behind them lay a straw pallet, barely wide enough for two.
+
+Michael was already snoring. Johann tucked Ernst beneath a sheepskin without looking up.
+
+Karl drew the blanket across the corner. Beyond it came the scrape of a heel, Mother’s quiet good night, the wind worrying at the door.
+
+Elisabeth sat on the pallet and unwrapped the crown.
+
+“Will you put this somewhere safe? I don’t want it crushed.”
+
+By the faint light beneath the blanket, Karl found an empty basket. He folded his scarf into it, laid the crown on top, and put it on the highest bin.
+
+“Out of Ernst’s reach,” he whispered.
+
+“And everyone else’s.”
+
+Karl laughed. Beyond the blanket, Michael stopped snoring.
+
+“Go to sleep, Michael,” Elisabeth said.
+
+After a moment the snoring began again, louder than before.
+
+---
+
+They knelt beside the pallet. Karl’s knee found a small stone under the straw. He shifted it away and folded his hands.
+
+He had said his evening prayer beside his brothers for as long as he could remember. Tonight Elisabeth began it with him. He could barely hear her voice, but when he paused, she was at the same place.
+
+At the end he added, “Keep us this night, Lord. Teach us to be good to one another.”
+
+“Amen,” she whispered.
+
+He helped her out of the heavy dress, working at the fastenings by touch. His own coat and waistcoat went over the end of the pallet. They kept their linen on and slipped beneath the sheepskin. The air caught every patch of skin they uncovered.
+
+Her hand found his in the dark. Her fingers were cold, and her pulse was quick beneath his thumb. His own was no slower. He could feel it in his throat.
+
+“Are you cold?”
+
+“I have been cold since we came down,” she whispered.
+
+He pulled the sheepskin higher over her shoulder.
+
+She shifted toward him, and her bare shin slid along his. He forgot to breathe. His hand found her side through the linen, the narrow ribs, the quick rise and fall. She laid her palm on his chest, then reached up to touch his jaw and the corner of his mouth. He found the cold curve of her cheek, the tip of her nose, and kissed her for the first time as her husband. Her mouth was warm. Everything else in the world was frozen, and her mouth was warm.
+
+Their linen pushed up beneath the pelt. When his belly met hers she gasped—the cold, and, for Karl, the shock of how little of her there was, how much of what he had taken for her was wool. Then she laughed. He pressed his face into her shoulder to keep his own laugh quiet. Beyond the blanket someone turned over, and they lay still until the straw stopped rustling.
+
+Then she drew him close again.
+
+He moved over her, his knee parting hers, clumsy in the dark. Wool dragged at his calves. The straw ticked beneath his hand, and her breath came quick against his collarbone.
+
+At the first sharp pressure she stiffened. Her fingers dug into the meat of his shoulder.
+
+He stopped. “Elisabeth?”
+
+“Wait.”
+
+He held his weight off her on one arm. Beyond the blanket he could hear the others breathing and the wind at the door. His arm began to shake. He waited until her breath slowed and her hand moved down to his hip, drawing him closer.
+
+He pressed forward, and she took him in. She made one low, broken sound against his shoulder. He began to move, awkwardly at first, then less so as they found the rhythm together. Her hips rose to meet him. Straw shifted under his knees. He kissed her, trying to keep quiet, until the sudden release went through him and he held still with his face against her neck.
+
+Afterward they lay with their hearts beating against each other. He was shaking a little. So was she. He drew the linen down over her and pulled the sheepskin around their feet.
+
+Her cheek settled against his collarbone. Karl lay listening as her breathing slowed, his hand resting at her back. Once, when he began to drift off, the weight of her beside him woke him again.
+
+He reached for the edge of the covering and tucked it beneath her shoulder.
+
