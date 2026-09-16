@@ -9,6 +9,17 @@ $storyDir = __DIR__ . '/story/';
 $imgDir   = __DIR__ . '/img/';
 $slug     = trim($uri, '/');
 
+$redirects = require __DIR__ . '/redirects.php';
+if (array_key_exists($slug, $redirects)) {
+    if ($redirects[$slug] === null) {
+        http_response_code(410);
+        echo '<!DOCTYPE html><html><head><title>Gone</title></head><body><h1>This chapter has been removed.</h1><p><a href="/">Return to home</a></p></body></html>';
+        exit;
+    }
+    header('Location: /' . $redirects[$slug], true, 301);
+    exit;
+}
+
 $chapter     = null;
 $contentFile = null;
 $pageType    = 'home';

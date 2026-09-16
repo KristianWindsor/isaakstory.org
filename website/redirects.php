@@ -1,0 +1,19 @@
+<?php
+return [
+    'chapter06-what-the-summer-took' => null,
+    'chapter07-black-earth' => 'chapter06-black-earth',
+    'chapter08-the-contract' => 'chapter07-the-contract',
+    'chapter09-the-crossing' => 'chapter08-the-crossing',
+    'chapter10-wide-open-spaces' => 'chapter09-wide-open-spaces',
+    'chapter11-the-quiet-son' => 'chapter10-the-quiet-son',
+    'chapter12-in-this-place-we-do-not-want-to-die' => 'chapter11-in-this-place-we-do-not-want-to-die',
+    'chapter13-the-hardware-store' => 'chapter12-the-hardware-store',
+    'chapter14-the-golden-wedding' => 'chapter13-the-golden-wedding',
+    'chapter15-the-beloved-journeys' => 'chapter14-the-beloved-journeys',
+    'chapter16-the-corporal' => 'chapter15-the-corporal',
+    'chapter17-the-childrens-hour' => 'chapter16-the-childrens-hour',
+    'chapter18-tante-frieda' => 'chapter17-tante-frieda',
+    'chapter19-apparel-art' => 'chapter18-apparel-art',
+    'chapter20-south' => 'chapter19-south',
+    'chapter21-pig-feet' => 'chapter20-pig-feet',
+];
