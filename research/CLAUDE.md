@@ -54,7 +54,18 @@ Step 2 covers the mechanical fixes. Do **not** silently resolve: uncertain names
 - **Lists** only when the underlying content is a list (rosters, enumerations, a document index). Genealogical descents and family trees are fine as lists or as ASCII trees in a code fence.
 - **Tables and rosters** with column alignment go in ```` ```text ```` code fences so the alignment survives. Preserve meaningful table structure rather than flattening it into ambiguous prose.
 - **Blockquotes** for quoted passages, not for general commentary. Preserve footnotes with standard Markdown footnote syntax when possible.
-- **Images** extracted from a source live in an `img/` subdirectory beside the document (e.g. `full-texts/img/`), with the source page number in the filename. Describe the image in one sentence in its **alt text** — that keeps editorial description out of the body — and put the source's own printed caption beneath it as an italic line. Note in `transcription` that alt text is AI-generated and unverified.
+- **Images** extracted from a source live in an `img/` subdirectory beside the document (e.g. `full-texts/img/`), with the source page number in the filename. Every image, retained or not, is a two-line unit: a description line, then the source's own printed caption as its own italic line below it. End the description line with two trailing spaces (a hard line break) so the caption renders on its own line — a single newline alone collapses into one run-on paragraph in rendered Markdown.
+  - **Retained photograph:**
+    ```md
+    ![One-sentence visual description.](img/file-p03.jpg)  
+    *Source's own printed caption*
+    ```
+    The one-sentence description goes in the **alt text**, not visible body prose — that keeps AI-written description out of the body.
+  - **Omitted photograph:** don't describe it in visible prose either. Use a `*[Image omitted]*` marker with the description tucked into a hidden HTML comment on the same line, then the caption below, same shape as a retained photo:
+    ```md
+    *[Image omitted]* <!-- Image description: One-sentence visual description. -->  
+    *Source's own printed caption*
+    ```
 - **Filenames:** lowercase, hyphenated, descriptive. Date-stamp names where it disambiguates (`gottlieb-isaak-1860-1947-...`).
 - **Dates in prose:** keep the source's format; don't normalize.
 - **Place/personal names:** preserve the source spelling. Normalize only unambiguous, well-known names (e.g. Brandenburg), and note in the front matter's `note` field that you did so. Leave uncertain village names as written.
