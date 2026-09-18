@@ -1,7 +1,8 @@
 <?php
 return [
     'chapter06-what-the-summer-took' => null,
-    'chapter07-black-earth' => 'chapter06-black-earth',
+    'chapter06-black-earth' => 'chapter06-give-us-this-day',
+    'chapter07-black-earth' => 'chapter06-give-us-this-day',
     'chapter08-the-contract' => 'chapter07-the-contract',
     'chapter09-the-crossing' => 'chapter08-the-crossing',
     'chapter10-wide-open-spaces' => 'chapter09-wide-open-spaces',
