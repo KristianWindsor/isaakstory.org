@@ -1,30 +1,10 @@
-## Chapter Eight
+## Chapter Nine
 
 # The Contract
 
-Kulm, Bessarabia — Late August 1853
+Kulm, Bessarabia — November 26, 1854
 
 ---
-
-Karl August Isaak died on a Thursday at the end of August, at fifty-seven, and left behind a widow, a sixty-six-hectare farm, and ten living sons.
-
-The trouble started before the funeral was over.
-
-It did not look like trouble. It looked like brothers standing around a kitchen table after a burial, drinking coffee, not saying much. The shutters were closed against the heat. The wheat was in. The flies had found the kitchen, the way flies always find a kitchen on a hot day in August, and one of them was working its way along the rim of the sugar bowl while nobody bothered to wave it off.
-
-Gottfried, the eldest at thirty-three, stood at the head of the table because no one had told him not to, and no one told him not to because he had been running the farm for the last five years while their father's health failed, and everyone knew it. Christian and Karl Ludwig flanked him, thick-armed and sunburned, men who had been pulling plows since boyhood. Andreas leaned against the doorframe with his arms crossed, already calculating.
-
-The younger boys lined the walls. Gottlieb, eighteen, stood next to August, who was fourteen, who stood next to Johann, who was eleven, who stood next to Daniel, who was nine, who stood next to Martin, who was six and did not understand why everyone was so quiet.
-
-Their mother sat in the corner and said nothing. She had buried a husband that morning. She did not have the energy to referee what was about to happen.
-
-Nobody spoke the word *land*. They didn't need to. The farm was sixty-six hectares. There were ten of them. Even little Martin, standing on his toes to see over the table, could feel the weight of that arithmetic pressing down on the room like a change in weather.
-
-Gottlieb watched his brothers' faces and understood, with the clarity of a man looking at a horizon he cannot reach, that his inheritance was not land. It was the knowledge that there was not enough.
-
----
-
-**Kulm, Bessarabia — November 26, 1854**
 
 He married Louisa Schulz on a cold Sunday in the prayer house at Kulm. She was sixteen. He was twenty. The pastor from Tarutino performed the service — the same Lutheran rite, the same vows at the door, the same reading from Genesis — and afterward there was a meal at his mother's house, crowded and tense and full of brothers pretending the food was what mattered.
 
