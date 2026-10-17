@@ -35,6 +35,7 @@ These files exist to preserve real source material faithfully. Preserving the or
 
 - For a transcription spanning more than four source pages, add hidden page markers to make comparison with the original easier.
 - Use `<!-- source_page: N -->` immediately before the first content from each page, including page 1. If a page changes mid-paragraph, put the marker inline so the paragraph remains one line. Do not use visible page headings or split paragraphs merely to show a page boundary.
+- Keep tables and rosters in continuous code blocks. Omit page markers within them; never close and reopen a block just to mark a page boundary.
 
 ### Don't guess
 
@@ -75,20 +76,20 @@ Step 2 covers the mechanical fixes. Do **not** silently resolve: uncertain names
 
 Every file starts with a YAML front-matter block. Fields aren't rigidly enforced, but aim for consistency with this schema. Use `snake_case` keys, spaces not tabs, and quote text values containing punctuation. This is the target schema; some older files predate it and are being normalized toward it.
 
-**Keep it short.** The front matter is metadata, not commentary. Each field value should be a phrase or a sentence — not a paragraph. Don't restate what the source text already says, don't repeat repo conventions, and don't explain the obvious. If the frontmatter is approaching the length of the source text, something has gone wrong. Omit an optional field entirely rather than filling it with information the reader will get from reading the document.
+**Keep it short.** The front matter is metadata, not commentary. Each field value should be a phrase or a sentence — not a paragraph. Don't restate what the source text already says, don't repeat repo conventions, and don't explain the obvious. If the frontmatter is approaching the length of the source text, something has gone wrong. Omit fields with no useful information, including `null` values and placeholders such as "Not given in the translation" or "No reuse license stated."
 
 ### Required (every file)
 - `title` — the document's title, in the language of this file's text. For a non-English file, add `title_en` with the English title alongside it.
 - `source_type` — e.g. `book`, `article`, `journal_article`, `translated_article`, `primary_source`, `translated_primary_source`, `video_transcript`, `family_memoir`, `published_memoir`, `obituary`, `wikipedia`, `webpage`, `website`. Add a new `snake_case` value if none fits.
 - `source_url` — canonical link to **the version actually used** to prepare the file. Do not label an independently hosted copy as the source if it was not used; record useful alternates as `html_edition`, `alternate_url`, or `archive_url`, with a companion note (e.g. `html_edition_note`) if the alternate may differ in wording or pagination. (If the source is offline-only, use a `source:` prose field describing it instead.)
 - `language` — ISO code of *this file's* text: `en`, `de`, `ru`, `pl`. (Use the code, not "English".)
-- `copyright` — short rights status. (Standardize on `copyright`; do not use `license`.) State the status; don't write a legal brief. Never imply the repository grants reuse permission.
 
 ### Required when applicable
+- `copyright` — known rights status or explicit reuse terms; omit if unknown or unstated. Use `copyright`, not `license`, and never imply the repository grants reuse permission.
 - `author` and/or `compiler`
 - `transcription` — how the text was captured and cleaned (OCR, tool, caveats).
 - `translation` — by whom/how, if the file is translated.
-- `original_title` and `original_language` — if translated. Use `original_title`, not language-specific keys like `original_title_de`.
+- `original_title` and `original_language` — if translated and known. Omit unknown values; use `original_title`, not language-specific keys like `original_title_de`.
 
 Put method notes in `transcription` and `translation` rather than dumping them into `note`.
 
