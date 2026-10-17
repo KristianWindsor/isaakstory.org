@@ -97,7 +97,7 @@ Put method notes in `transcription` and `translation` rather than dumping them i
 - `period` — the time span the *content* covers. **This is what decides which subdirectory the file belongs in** (see below).
 - `scope` — 1–2 sentences on what's inside. (Use `scope`, not `extract_scope`.)
 - `relevance` — why it's here / how it ties to the Isaak line.
-- `note` — only when something genuinely needs flagging (a normalization you made, a quirk you preserved). A sentence or two. Omit if there's nothing to say.
+- `note` — only when something genuinely needs flagging (a normalization you made, a quirk you preserved). A sentence or two. Omit if there's nothing important or highly relevant to say.
 
 ### Optional / source-specific
 Not a closed list — add what the source needs. Commonly used: `publisher`, `year_published`, `isbn`, `series`, `written`, `published`, `translated_by`, `translation_date`, `original_publication`, `original_printer`, `source_pdf`, `source_site`, `html_edition`, `internet_location`, `people`, `do_not_confuse`, `narrator`, `shared_by`, `ref`.
