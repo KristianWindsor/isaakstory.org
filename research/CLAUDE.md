@@ -8,7 +8,7 @@ These files exist to preserve real source material faithfully. Preserving the or
 
 - **Do not** add AI-generated summaries, analysis, paraphrase, or commentary into the body of a source. The source text should be the source text.
 - **Do not** silently "fix" the source: keep its wording, spellings, names, dates, and even its internal inconsistencies. Flag problems; don't edit them away.
-- Permitted additions are limited to: the **front matter**, and — only when genuinely useful — a **short editor's note** or one or two **context sections** clearly marked as not part of the original (e.g. under a heading like "Notes on This Extract" or in a blockquote). Keep these minimal.
+- Permitted additions are limited to the **front matter** (plus the hidden page markers described below). Editor's notes, extract descriptions, and other context go there, not in a body section. Keep them minimal.
 - When a passage is corrected, glossed, or inserted by a translator or by you, mark it — e.g. words in `[square brackets]` are the translator's/editor's.
 
 ## Using the research (evidence rules)
@@ -67,7 +67,7 @@ Step 2 covers the mechanical fixes. Do **not** silently resolve: uncertain names
     *[Image omitted]* <!-- Image description: One-sentence visual description. -->  
     *Source's own printed caption*
     ```
-- **Filenames:** lowercase, hyphenated, descriptive. Date-stamp names where it disambiguates (`gottlieb-isaak-1860-1947-...`).
+- **Filenames:** lowercase, hyphenated, and based on the English title. Expand short or vague titles with useful details such as names, dates, or source type; simplify overly long titles. If the original source is not in English, append its language code before `.md` (e.g. `colonist-laws-of-1854-de.md`, `david-isaak-1860-1917-obituary.md`).
 - **Dates in prose:** keep the source's format; don't normalize.
 - **Place/personal names:** preserve the source spelling. Normalize only unambiguous, well-known names (e.g. Brandenburg), and note in the front matter's `note` field that you did so. Leave uncertain village names as written.
 - **Editorial notes** belong in the front matter (`note`, `do_not_confuse`, `relevance`, or another appropriate field), never in the document body. Apart from the hidden page markers permitted for long transcriptions, the body after the YAML block is the source text; do not insert blockquotes, sections, footnotes, or any other AI-written commentary into it.
@@ -76,7 +76,9 @@ Step 2 covers the mechanical fixes. Do **not** silently resolve: uncertain names
 
 Every file starts with a YAML front-matter block. Fields aren't rigidly enforced, but aim for consistency with this schema. Use `snake_case` keys, spaces not tabs, and quote text values containing punctuation. This is the target schema; some older files predate it and are being normalized toward it.
 
-**Keep it short.** The front matter is metadata, not commentary. Each field value should be a phrase or a sentence — not a paragraph. Don't restate what the source text already says, don't repeat repo conventions, and don't explain the obvious. If the frontmatter is approaching the length of the source text, something has gone wrong. Omit fields with no useful information, including `null` values and placeholders such as "Not given in the translation" or "No reuse license stated."
+**Keep it short.** The front matter is metadata, not commentary. Each field value should be a phrase or a sentence — not a paragraph. Don't restate what the source text already says, don't repeat repo conventions, and don't explain the obvious. If the frontmatter is approaching the length of the source text, something has gone wrong. Omit fields with no useful information, including `null` values and placeholders such as "Not given in the translation" or "No reuse license stated." Very large documents may bend this rule, though it is heavily discouraged (see "Large documents" below).
+
+**Formatting values.** Keep the YAML simple: a value is a string or a block-style list of strings (one item per line, never an inline list), not a nested structure. For multi-paragraph text, use a folded block scalar (`>`): one paragraph per line, with a blank line between paragraphs.
 
 ### Required (every file)
 - `title` — the document's title, in the language of this file's text. For a non-English file, add `title_en` with the English title alongside it.
@@ -90,6 +92,7 @@ Every file starts with a YAML front-matter block. Fields aren't rigidly enforced
 - `transcription` — how the text was captured and cleaned (OCR, tool, caveats).
 - `translation` — by whom/how, if the file is translated.
 - `original_title` and `original_language` — if translated and known. Omit unknown values; use `original_title`, not language-specific keys like `original_title_de`.
+- `related` — other files in this repo that overlap with this one (a full text and its extracts, a translation, or the same source obtained elsewhere), as a list of `"path: description."` strings. Paths are relative to this file, with same-directory files first and the rest alphabetical; no backticks. When two files share an underlying source, note what one has that the other lacks.
 
 Put method notes in `transcription` and `translation` rather than dumping them into `note`.
 
@@ -105,6 +108,14 @@ Not a closed list — add what the source needs. Commonly used: `publisher`, `ye
 
 - `people` — always use a block-style YAML list with one name per line, never an inline list.
 
+### Large documents
+
+The following fields are allowed but heavily discouraged. Use them only for very large documents (a book of hundreds of pages, or a period extract of one) that would be hard to navigate without them, and put them in the front matter, never in a notes section of the body:
+
+- `contents` — what the file contains and how it was selected (`>` block).
+- `table_of_contents` — a flat list in document order with one entry per item and no group headings, e.g. `"No. 34 (1800): Senate report on measures to improve the condition of the New Russia colonies."`
+- `historical_background` — background or paraphrase drawn from the source's own apparatus (e.g. a compiler's introduction), labeled as a paraphrase (`>` block).
+
 ## Directory scope (what goes where)
 
 The regional subdirectories are keyed to the **era of the family's life in that place**, so a document's usefulness is judged by whether its content falls in that window — not merely by the region it names. A document about Bessarabia in 1920 is not useful to `bessarabia/`, because the family had already left.
@@ -114,6 +125,6 @@ The regional subdirectories are keyed to the **era of the family's life in that 
 - `dakota/` — the Dakota/America years (1878 onward).
 - `full-texts/` — complete unabridged works, not keyed to a single era.
 
-Keep a full text there even when an era folder holds an extract of it, and link each to the other rather than duplicating.
+Keep a full text there even when an era folder holds an extract of it, and link each to the other through `related` rather than duplicating.
 
 A source that straddles a boundary belongs with the era it illuminates: material on the pressures that drove the 1870s emigration, for instance, can sit in `dakota/` even though it begins well before 1878. State the temporal reach in `period` either way.

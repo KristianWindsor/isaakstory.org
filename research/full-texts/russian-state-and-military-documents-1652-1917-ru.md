@@ -21,16 +21,11 @@ translation_file: "russian-state-and-military-documents-1652-1917-en.md"
 editor_note: "Full Russian text of the edition as printed: title pages, editorial council, publisher's data, the complete Introduction (Введение), all 200 numbered documents, the Reference Materials heading (Справочные материалы), the Notes (Примечания, endnotes keyed to document numbers), the Index of Names (Указатель имен), and the Table of Contents (Содержание). Source citations use: ПСЗРИ = Complete Collection of Laws of the Russian Empire; СУРП = Collection of Legalizations and Decrees of the Government; Собр. 1/2 = 1st/2nd Series; Т. = volume; Отд. = part; С. = page. Land in desyatinas (≈1.09 ha); 'лев' = the Moldavian leu, the currency used in Bessarabia."
 transcription: "Transcribed from the OCR'd source PDF and converted to Markdown with Claude Code, then cleaned up and formatted, for personal genealogical / historical-context research. Original spelling and punctuation preserved. Good for research, but not a perfect reproduction — expect occasional word-level and formatting errors, plus leftover OCR artifacts (e.g. 'Д1МОКРАТИЯ' for 'ДЕМОКРАТИЯ', stray page numbers rendered as '## № nnn.' headings)."
 license: "Underlying documents are pre-1917 Russian state acts (public domain). The 2006 compilation, apparatus, and Introduction are © the International Foundation \"Democracy\" / the compiler; this transcription is for private research use. Attribute to: Немцы в истории России. 1652–1917 / Сост. В. Ф. Дизендорф. — М.: МФД: Материк, 2006."
----
-
-> **Note:** This is the complete Russian original, and it is very large.
-> The complete English translation is `russian-state-and-military-documents-1652-1917-en.md` (this same directory).
-> Period-specific extracts (translated into English only; there are no separate Russian-language
-> extract files) have been trimmed from that translation:
-> - `../poland/russian-state-and-military-documents-trimmed-1652-1814.md`
-> - `../bessarabia/russian-state-and-military-documents-trimmed-1800-1878.md`
-> - `../dakota/russian-state-and-military-documents-trimmed-1849-1897.md`
-
+related:
+  - "../bessarabia/colonist-laws-of-1854-de.md: separately sourced German text of No. 115 (Statute on Colonies), 1875 edition; includes passages cut from the 1857 text printed here."
+  - "../bessarabia/russian-state-and-military-documents-trimmed-1800-1878.md: Life in Bessarabia extract, English only (1800–1878)."
+  - "../dakota/russian-state-and-military-documents-trimmed-1849-1897.md: Bessarabian Emigration extract, English only (1849–1897)."
+  - "../poland/russian-state-and-military-documents-trimmed-1652-1814.md: Poland Era extract, English only (1652–1814)."
 ---
 
 **МЕЖДУНАРОДНЫЙ ФОНД**

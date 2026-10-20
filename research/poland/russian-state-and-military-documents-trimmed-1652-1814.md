@@ -18,99 +18,55 @@ content: "extract"
 document_count: 23
 source_document_count: 200
 pdf_page_count: 786
-extract_scope: "Empire-wide background on how Russia recruited and organized German colonists (1652–1799), plus the two 1814 acts covering the Poland-to-Bessarabia move (Nos. 63 and 64). Full selection criteria are in the notes below, which are canonical."
+scope: "Empire-wide background on how Russia recruited and organized German colonists (1652–1799), plus the two 1814 acts covering the Poland-to-Bessarabia move (Nos. 63 and 64). Full selection criteria are in the contents field below, which is canonical."
 transcription: "The Russian text was extracted from the OCR'd source PDF, cleaned of broken paragraphs and other PDF/OCR artifacts, and formatted as Markdown using Claude Code. It is suitable for research but may still contain occasional transcription or formatting errors."
 translation: "Unofficial English translation of the cleaned Russian Markdown transcription, produced with Claude Code for personal genealogical and historical research. Occasional word-level translation errors may remain."
 license: "The underlying pre-1917 Russian state documents are likely in the public domain. The 2006 compilation, introduction, editorial apparatus, notes, and arrangement may remain copyrighted by the compiler and/or publisher. This unofficial translation is retained as research material. Cite the original as: Немцы в истории России. 1652–1917 / Сост. В. Ф. Дизендорф. — М.: МФД; Материк, 2006."
----
+related:
+  - "../bessarabia/russian-state-and-military-documents-trimmed-1800-1878.md: Life in Bessarabia extract (1800–1878); shares Nos. 63 and 64, which mark the transition between the two periods."
+  - "../dakota/russian-state-and-military-documents-trimmed-1849-1897.md: Bessarabian Emigration extract (1849–1897)."
+  - "../full-texts/russian-state-and-military-documents-1652-1917-en.md: full English translation this extract was trimmed from; anything cut here remains there."
+  - "../full-texts/russian-state-and-military-documents-1652-1917-ru.md: full Russian original."
+summary: "Poland era: how Russia recruited and organized German colonists in the decades before the family's 1814–15 move. 23 of the collection's 200 documents, spanning 1652–1814."
+contents: >
+  This book collects Russian imperial state acts, so it documents almost nothing about German life inside Poland or the Duchy of Warsaw — a separate, non-Russian jurisdiction until 1815. What it offers instead is empire-wide background from 1652 to 1799: how Russia recruited, organized, and governed German-speaking colonists in the decades before the family's 1814–15 move, which is the system they were about to enter. Two 1814 documents mark the move itself — No. 63, authorizing Warsaw-area colonists to resettle in Bessarabia, and No. 64, on the first arrivals' refusal to be sworn in — and both also appear in the Life in Bessarabia extract.
 
-# Notes on This Extract
+  On the 1814–1816 gap. The collection is nearly silent on the migration years themselves, and that gap is in the source, not in this extract. Only three documents are dated 1814–1816: Nos. 63 and 64, both reproduced here, and No. 65 (1815), which is Volga-exclusive. Nothing at all is dated 1816 — the collection jumps from 1815 to 1817. The Kulm community homeland book and the early-settlement account in ../bessarabia/ fill that silence; the next relevant act here is No. 67 (1817), in the Life in Bessarabia extract.
+table_of_contents:
+  - "No. 1 (1652): Tsar Aleksei Mikhailovich allots land for the German Quarter in Moscow, the collection's opening document."
+  - "No. 2 (1695): Ivan V and Peter I on investigating Russian ores in Germany and inviting foreign mining specialists into Russian service."
+  - "No. 3 (1702): Peter I's manifesto inviting foreigners to settle in Russia."
+  - "No. 4 (1710), No. 5 (1712): Peter I's charters to the Livonian and Estonian nobility, the basis of the Baltic German position."
+  - "No. 6 (1720): Peter I permits foreigners to engage in mining."
+  - "No. 7 (1727): Peter II allocates a site for an Evangelical church, school, and pastor's house in St. Petersburg."
+  - "No. 8 (1731): Anna Ioannovna on accepting engineer-officers from Prussia and other countries into Russian service."
+  - "No. 9 (1747): Elizabeth Petrovna on the oath of allegiance for foreigners."
+  - "No. 10 (1762): Peter III on cemeteries in the German Quarter of Moscow."
+  - "No. 11 (1763): the manifesto inviting foreign colonists to settle in Russia: the founding act of the whole colonist system."
+  - "No. 18 (1765): Orlov's report on settling foreigners on private lands near St. Petersburg."
+  - "No. 19 (1766): two German colonies created in Livonia."
+  - "No. 20 (1766): Orlov on supplying colonists with subsistence money."
+  - "No. 21 (1766): the Belovezh colonies near Chernigov created."
+  - "No. 22 (1766): admission of foreign colonists temporarily suspended."
+  - "No. 24 (1783): the school at the St. Petersburg Lutheran Church of St. Peter becomes the Chief German School."
+  - "No. 26 (1793): colonists resettled from Yamburg district to Ekaterinoslav governorate, with privileges and payment terms."
+  - "No. 28 (1797): report on the St. Petersburg colonists, confirmed by Paul I."
+  - "No. 32 (1798): Paul I directs the colonists' debt to be used for the colonists' own needs."
+  - "No. 33 (1799): the plan of the Protestant university at Dorpat."
+  - "No. 63 (1814): Alexander I authorizes the resettlement of German colonists from Poland to Bessarabia: the decree the family's own move ran on."
+  - "No. 64 (1814): the Committee of Ministers on administering the oath to the Bessarabian colonists and appointing clergy to them, prompted by the first arrivals' refusal to be sworn in."
+historical_background: >
+  The compiler's Introduction (V. F. Diesendorf, 2006) frames the 17th–19th-century background against which the Isaak family's own migration (Brandenburg/Prussia → northern Poland, 1790s → Pabianice, 1800) took place, even though the book itself — a collection of Russian state acts — has no jurisdiction over Prussian- or Napoleonic-era Poland and so contains no documents about German colonial administration in Poland itself. The relevant background facts drawn from the Introduction:
 
-*Editorial notes — not part of the original source text.*
+  - Germans had settled in Moscow since the mid-17th century (the "German Quarter"/Sloboda), and their numbers and role in Russian state service grew steadily under Peter I and Catherine II.
 
-**Poland era:** how Russia recruited and organized German colonists in the decades
-before the family's 1814–15 move. 23 of the collection's 200 documents, spanning 1652–1814.
+  - Peter I and Catherine II are characterized by the compiler as "Eurocentrists" rather than specifically Germanophile: Peter drew in foreign specialists and, after the Great Northern War, inherited a German-noble Baltic elite; Catherine II (herself German-born) initiated the large-scale invitation of German-speaking agricultural colonists into Russia from 1763 onward, but the compiler notes she "thereafter took very little interest in their fate."
 
-The complete translation is very large, so period-specific extracts have been trimmed from it:
+  - Paul I is credited by the compiler as decisive for the survival of the fledgling Volga and Novorossiya (New Russia) colonies founded under Catherine — he ordered detailed surveys of the colonies' condition and provided support that Alexander I and Nicholas I continued.
 
-```
-research/
-    full-texts/
-        russian-state-and-military-documents-1652-1917-en.md          <-- Full version (English)
-        russian-state-and-military-documents-1652-1917-ru.md          <-- Full version (Russian original)
-    poland/
-        russian-state-and-military-documents-trimmed-1652-1814.md     <-- Poland Era (this file)
-    bessarabia/
-        russian-state-and-military-documents-trimmed-1800-1878.md     <-- Life in Bessarabia
-    dakota/
-        russian-state-and-military-documents-trimmed-1849-1897.md     <-- Bessarabian Emigration
-```
+  - This is the general historical backdrop — an established, decades-old Russian state apparatus for receiving and organizing foreign (chiefly German) agricultural colonists — into which the Warsaw-area colonists (including families such as the Isaaks) sought to fold themselves in 1814, per Document No. 63 below.
 
-Documents No. 63 and No. 64 also appear in the Life in Bessarabia extract, since they mark the transition between the two periods. Anything trimmed out of this file remains in the full version.
-
-## What this extract contains
-
-This book collects **Russian imperial state acts**, so it documents almost nothing about German life inside Poland or the Duchy of Warsaw — a separate, non-Russian jurisdiction until 1815. What it offers instead is empire-wide background from 1652 to 1799: how Russia recruited, organized, and governed German-speaking colonists in the decades before the family's 1814–15 move, which is the system they were about to enter. Two 1814 documents mark the move itself — No. 63, authorizing Warsaw-area colonists to resettle in Bessarabia, and No. 64, on the first arrivals' refusal to be sworn in — and both also appear in the Life in Bessarabia extract.
-
-**On the 1814–1816 gap.** The collection is nearly silent on the migration years themselves, and that gap is in the source, not in this extract. Only three documents are dated 1814–1816: Nos. 63 and 64, both reproduced here, and No. 65 (1815), which is Volga-exclusive. Nothing at all is dated 1816 — the collection jumps from 1815 to 1817. The Kulm community homeland book and the early-settlement account in `bessarabia/` fill that silence; the next relevant act here is No. 67 (1817), in the Life in Bessarabia extract.
-
-Twenty-three documents, in chronological order:
-
-**Germans in Russian service and the first settlements (1652–1762)**
-
-- **No. 1 (1652)** — Tsar Aleksei Mikhailovich allots land for the German Quarter in Moscow, the collection's opening document.
-- **No. 2 (1695)** — Ivan V and Peter I on investigating Russian ores in Germany and inviting foreign mining specialists into Russian service.
-- **No. 3 (1702)** — Peter I's manifesto inviting foreigners to settle in Russia.
-- **No. 4 (1710)**, **No. 5 (1712)** — Peter I's charters to the Livonian and Estonian nobility, the basis of the Baltic German position.
-- **No. 6 (1720)** — Peter I permits foreigners to engage in mining.
-- **No. 7 (1727)** — Peter II allocates a site for an Evangelical church, school, and pastor's house in St. Petersburg.
-- **No. 8 (1731)** — Anna Ioannovna on accepting engineer-officers from Prussia and other countries into Russian service.
-- **No. 9 (1747)** — Elizabeth Petrovna on the oath of allegiance for foreigners.
-- **No. 10 (1762)** — Peter III on cemeteries in the German Quarter of Moscow.
-
-**Catherine II's colonization program (1763–1783)**
-
-- **No. 11 (1763)** — the manifesto inviting foreign colonists to settle in Russia: the founding act of the whole colonist system.
-- **No. 18 (1765)** — Orlov's report on settling foreigners on private lands near St. Petersburg.
-- **No. 19 (1766)** — two German colonies created in Livonia.
-- **No. 20 (1766)** — Orlov on supplying colonists with subsistence money.
-- **No. 21 (1766)** — the Belovezh colonies near Chernigov created.
-- **No. 22 (1766)** — admission of foreign colonists temporarily suspended.
-- **No. 24 (1783)** — the school at the St. Petersburg Lutheran Church of St. Peter becomes the Chief German School.
-
-**Consolidation under Catherine II and Paul I (1793–1799)**
-
-- **No. 26 (1793)** — colonists resettled from Yamburg district to Ekaterinoslav governorate, with privileges and payment terms.
-- **No. 28 (1797)** — report on the St. Petersburg colonists, confirmed by Paul I.
-- **No. 32 (1798)** — Paul I directs the colonists' debt to be used for the colonists' own needs.
-- **No. 33 (1799)** — the plan of the Protestant university at Dorpat.
-
-**The move from Poland to Bessarabia (1814)**
-
-- **No. 63 (1814)** — Alexander I authorizes the resettlement of German colonists from Poland to Bessarabia: the decree the family's own move ran on.
-- **No. 64 (1814)** — the Committee of Ministers on administering the oath to the Bessarabian colonists and appointing clergy to them, prompted by the first arrivals' refusal to be sworn in.
-
-## Historical background from the compiler's Introduction (paraphrase)
-
-The compiler's Introduction (V. F. Diesendorf, 2006) frames the 17th–19th-century background against which the Isaak family's own migration (Brandenburg/Prussia → northern Poland, 1790s → Pabianice, 1800) took place, even though the book itself — a collection of *Russian* state acts — has no jurisdiction over Prussian- or Napoleonic-era Poland and so contains no documents about German colonial administration in Poland itself. The relevant background facts drawn from the Introduction:
-
-- Germans had settled in Moscow since the mid-17th century (the "German Quarter"/Sloboda), and their numbers and role in Russian state service grew steadily under Peter I and Catherine II.
-- Peter I and Catherine II are characterized by the compiler as "Eurocentrists" rather than specifically Germanophile: Peter drew in foreign specialists and, after the Great Northern War, inherited a German-noble Baltic elite; Catherine II (herself German-born) initiated the large-scale invitation of German-speaking agricultural colonists into Russia from 1763 onward, but the compiler notes she "thereafter took very little interest in their fate."
-- Paul I is credited by the compiler as decisive for the survival of the fledgling Volga and Novorossiya (New Russia) colonies founded under Catherine — he ordered detailed surveys of the colonies' condition and provided support that Alexander I and Nicholas I continued.
-- This is the general historical backdrop — an established, decades-old Russian state apparatus for receiving and organizing foreign (chiefly German) agricultural colonists — into which the Warsaw-area colonists (including families such as the Isaaks) sought to fold themselves in 1814, per Document No. 63 below.
-
-This is a paraphrase of the Introduction's argument, not a verbatim reproduction (the Introduction is a copyrighted 2006 essay). The full original English translation is in the full version listed above.
-
-<!-- ######################################################################## -->
-<!-- ######################################################################## -->
-<!-- ######################################################################## -->
-
----
-
-# Original Source Text
-
-*Everything below this line is the English translation of the 2006 edition.*
-
+  This is a paraphrase of the Introduction's argument, not a verbatim reproduction (the Introduction is a copyrighted 2006 essay). The full original English translation is in the full version listed in related.
 ---
 
 ## No. 1. DECREE OF TSAR ALEKSEI MIKHAILOVICH ON THE ALLOTMENT OF LAND FOR THE GERMAN QUARTER IN MOSCOW (1652)

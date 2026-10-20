@@ -18,151 +18,102 @@ content: "extract"
 document_count: 82
 source_document_count: 200
 pdf_page_count: 786
-extract_scope: "Novorossiya and Bessarabia colonist life, law, and administration, 1800–1878, plus cross-empire colonist documents kept as comparative context. Volga-exclusive and Mennonite-exclusive material is excluded. Full selection criteria are in the notes below, which are canonical."
+scope: "Novorossiya and Bessarabia colonist life, law, and administration, 1800–1878, plus cross-empire colonist documents kept as comparative context. Volga-exclusive and Mennonite-exclusive material is excluded. Full selection criteria are in the contents field below, which is canonical."
 transcription: "The Russian text was extracted from the OCR'd source PDF, cleaned of broken paragraphs and other PDF/OCR artifacts, and formatted as Markdown using Claude Code. It is suitable for research but may still contain occasional transcription or formatting errors."
 translation: "Unofficial English translation of the cleaned Russian Markdown transcription, produced with Claude Code for personal genealogical and historical research. Occasional word-level translation errors may remain."
 license: "The underlying pre-1917 Russian state documents are likely in the public domain. The 2006 compilation, introduction, editorial apparatus, notes, and arrangement may remain copyrighted by the compiler and/or publisher. This unofficial translation is retained as research material. Cite the original as: Немцы в истории России. 1652–1917 / Сост. В. Ф. Дизендорф. — М.: МФД; Материк, 2006."
----
+related:
+  - "colonist-laws-of-1854-de.md: separately sourced German text of No. 115 (Statute on Colonies), 1875 edition; includes passages cut from the 1857 text printed here."
+  - "../dakota/russian-state-and-military-documents-trimmed-1849-1897.md: Bessarabian Emigration extract (1849–1897); shares the 1849–1878 departure and conscription documents."
+  - "../full-texts/russian-state-and-military-documents-1652-1917-en.md: full English translation this extract was trimmed from; anything cut here remains there."
+  - "../full-texts/russian-state-and-military-documents-1652-1917-ru.md: full Russian original."
+  - "../poland/russian-state-and-military-documents-trimmed-1652-1814.md: Poland Era extract (1652–1814); shares Nos. 63 and 64."
+summary: "Life in Bessarabia: colonist law, land, schools, churches, and administration in Bessarabia and New Russia. 82 of the collection's 200 documents, spanning 1800–1878."
+contents: >
+  Most of this book's substantive legal content concerns exactly this region and period, since New Russia and Bessarabia were administered as a single system — No. 72 below establishes one authority for colonists "in the three New Russian Governorates and in the Bessarabian Region" together. Documents on the Caucasus, Crimea, St. Petersburg, and Chernigov colonies are kept as comparative context where the same institution plausibly applied to Bessarabian Germans; Volga-exclusive material is not. The extract stops at 1878, the year the Isaak family left for Dakota, ending with the December military-service exemption (No. 139). Later documents (Nos. 140–160) are in the full version, and those about the colonists who stayed are also in the Bessarabian Emigration extract.
+table_of_contents:
+  - "No. 34 (1800): Senate report on measures to improve the condition of the New Russia colonies."
+  - "No. 35 (1800): instruction for the Office of Guardianship of the New Russia Foreign Settlers."
+  - "No. 36 (1800): surveying of land for the Chernigov colonists."
+  - "No. 39 (1801): instruction on the internal order and administration of the New Russia colonies."
+  - "No. 40 (1802): rules for the reception and settlement of foreign immigrants."
+  - "No. 44 (1803): supplement to the instruction on internal order and administration."
+  - "No. 45 (1803), No. 46 (1803): settlement of German colonists in the Crimea and in New Russia."
+  - "No. 47 (1804): the Minister of Internal Affairs on rules for receiving and settling colonists."
+  - "No. 48 (1804): locations for settling foreigners in southern Russia."
+  - "No. 49 (1804): foreign colonists permitted to purchase land in Novorossiya."
+  - "No. 50 (1804): landowners permitted to settle colonists on their own lands."
+  - "No. 51 (1805): the German theater in St. Petersburg."
+  - "No. 52 (1805): payments by the St. Petersburg colonies to the treasury."
+  - "No. 53 (1805): payments of the Khortitsa Mennonites and Josephsthal colonists."
+  - "No. 55 (1809), No. 57 (1809): settlement of colonists near Oranienbaum."
+  - "No. 56 (1809): administration of the Chernigov colonies."
+  - "No. 58 (1810): monetary loans to colonists discontinued."
+  - "No. 59 (1811): arrangement of fugitive Novorossiysk colonists."
+  - "No. 60 (1811): resettlement of the colonists of Tsarskoye Selo district."
+  - "No. 61 (1812): taxes on colonists raised."
+  - "No. 62 (1812): transfer of colonists to other estates."
+  - "No. 63 (1814): Alexander I authorizes the resettlement of German colonists from Poland to Bessarabia."
+  - "No. 64 (1814): administering the oath to the Bessarabian colonists and appointing clergy to them."
+  - "No. 66 (1817): reception of foreign colonists on private lands."
+  - "No. 67 (1817): the Committee of Ministers on the settlement of colonists in Bessarabia."
+  - "No. 68 (1817): resettlement of German colonists from the Caucasus colony of Karras."
+  - "No. 69 (1817): supplementary rules for settling colonists on landowners' lands."
+  - "No. 70 (1817): Alexander I's charter to the Baltic Herrnhuters (Moravian Brethren)."
+  - "No. 71 (1817): increased payment from the Mennonites; the first New Russian colonists equalized with state peasants in taxation."
+  - "No. 72 (1818): the Regulation on the Administration of the Colonies of Southern Russia: the framework governing Bessarabia and New Russia together, establishing the single committee for colonists of the southern territory. (The translation renders its name \"Trusteeship Committee\" in this document and \"Guardianship Committee\" elsewhere — e.g. in Nos. 102 and 129 — for the same body, the Попечительный комитет that administered the southern colonies until 1877.)"
+  - "No. 73 (1818): settlement of colonists from Württemberg in Transcaucasia."
+  - "No. 74 (1818): foreign clothiers settled in Poltava governorate."
+  - "No. 75 (1819): administration of the Transcaucasian colonies."
+  - "No. 76 (1819), No. 77 (1819): resettlement of foreigners to Russia halted; passports for that purpose prohibited."
+  - "No. 78 (1819): oral oath of the Transcaucasian colonists."
+  - "No. 79 (1820): collection of debt from the St. Petersburg colonists."
+  - "No. 80 (1823): raised payment from the original St. Petersburg colonists."
+  - "No. 81 (1824): raised tax from the Livonian colonists."
+  - "No. 82 (1824): Senate decree on the taxes and obligations of foreign colonists."
+  - "No. 83 (1825): collection of debt from the New Russia colonists."
+  - "No. 85 (1828), No. 93 (1835): reorganization of the Caucasus colony of Karras."
+  - "No. 86 (1828): a society established for orphans of the Protestant confession."
+  - "No. 87 (1830): organization of the Livonian colonies."
+  - "No. 88 (1831): Chernigov colonists resettled to Ekaterinoslav governorate."
+  - "No. 89 (1831): resettlement of German colonists from the Kingdom of Poland to Russia."
+  - "No. 90 (1833): settlement of colonists near Peterhof."
+  - "No. 96 (1841): an overseer appointed for the Chernigov colony of Novye Mezirichi."
+  - "No. 98 (1842): return of the residents of the Transcaucasian colony of Annenfeld."
+  - "No. 99 (1842): statute on the Werner school in the Bessarabian colony of Sarata."
+  - "No. 100 (1846): statute on the German Charitable Society in Odessa."
+  - "No. 101 (1847): statute on the Moscow Board of Guardians for the Poor of the Evangelical Confession."
+  - "No. 102 (1849), No. 104 (1852), No. 112 (1856): the shifting rules on colonists' departure abroad, tightened during the 1848–49 European revolutions and relaxed afterward."
+  - "No. 105 (1852): residents of the Voronezh colony of Riebensdorf resettled to Yeisk district."
+  - "No. 106 (1852): exemptions for the Transcaucasian colony of Marienfeld."
+  - "No. 108 (1852): exemptions for the school at the Lutheran Church of St. Anne, St. Petersburg."
+  - "No. 109 (1853): procedure for assessing colonists with the quitrent tax."
+  - "No. 113 (1856): a shelter for boys established at the Lutheran Church of St. Peter."
+  - "No. 114 (1857): the Statutes on the Spiritual Affairs of Foreign Confessions: the law governing Lutheran church life, consistories, and clergy."
+  - "No. 115 (1857): the Statute on Colonies of Foreigners: the consolidated colonist law."
+  - "No. 117 (1858): taxes and obligations of the Novgorod colonists."
+  - "No. 120 (1860): economic rights of foreigners in Russia."
+  - "No. 121 (confirmed 1860, promulgated 1861): rules for the settlement of privately owned lands in Crimea by foreign immigrants."
+  - "No. 122 (1861): the German colony near Tiflis incorporated into the city."
+  - "No. 123 (1861): levies raised on the German colonists of New Russia and Bessarabia, at 10 rubles per family for Bessarabia specifically."
+  - "No. 124 (1865): colonists who resettle between governorates without permission lose colonist status permanently."
+  - "No. 126 (1866): a Lutheran auxiliary fund committee established at Tarutino, the largest Bessarabian colony."
+  - "No. 127 (1866): the colonies of several governorates subordinated to the general institutions for peasant affairs; the southern colonies left for later."
+  - "No. 128 (1868): passport issuance devolved to district and village boards."
+  - "No. 129 (1871): the Rules for the Organization of Settler-Proprietors: colonist status abolished, former colonists folded into the peasant estate, with a ten-year window to renounce subjecthood and leave."
+  - "No. 130 (1874): procedure for foreigners to renounce Russian subjecthood."
+  - "No. 131 (1874): procedure for former colonists to depart abroad, tied to the conscription year."
+  - "No. 134 (1877): redemption of land by the Izhora colony near St. Petersburg."
+  - "No. 135 (1877): the Lippert scholarships established."
+  - "No. 137 (1877): organization of Lutheran parishes in the settlements of former colonists, after the Guardianship Committee's dissolution."
+  - "No. 138 (1878): the school at the Moscow Lutheran Church of SS. Peter and Paul."
+  - "No. 139 (1878): military-service exemptions for foreign settlers; the last document in this extract."
+historical_background: >
+  The compiler's Introduction (V. F. Diesendorf, 2006) notes that under Catherine II Germans "for the first time came to constitute a notable share of the population not only in the capital cities or the Baltic governorates, but across the country as a whole," settling "vast, sparsely populated, predominantly peripheral territories" — exactly the Novorossiya/Bessarabia pattern this file documents in detail. Paul I's survey-and-support policy for the young Volga/Novorossiya colonies (noted above) is what matured, by 1814–1817, into the organized reception system that absorbed the Warsaw colonists (the Isaak family among them) into Bessarabia.
 
-# Notes on This Extract
+  The Introduction goes on to describe the gradual erosion of colonist status across the 19th century: Alexander II and Bismarck-era Germany kept Russo-German relations stable through the League of the Three Emperors (1873), but Prussia's 1871 victory over France and the formation of the German Empire made Russia's rulers "wary" of their own German subjects. This is presented as the direct backdrop to two pivotal 1871–1874 measures reproduced in full below: the 1871 abolition of colonist status (Document No. 129) and the 1874 extension of general military conscription to former colonists together with new emigration/departure rules (Documents No. 130, 131, 139) — the beginning of the pressures that would eventually push families like the Isaaks to emigrate to America.
 
-*Editorial notes — not part of the original source text.*
-
-**Life in Bessarabia:** colonist law, land, schools, churches, and administration in
-Bessarabia and New Russia. 82 of the collection's 200 documents, spanning 1800–1878.
-
-The complete translation is very large, so period-specific extracts have been trimmed from it:
-
-```
-research/
-    full-texts/
-        russian-state-and-military-documents-1652-1917-en.md          <-- Full version (English)
-        russian-state-and-military-documents-1652-1917-ru.md          <-- Full version (Russian original)
-    poland/
-        russian-state-and-military-documents-trimmed-1652-1814.md     <-- Poland Era
-    bessarabia/
-        russian-state-and-military-documents-trimmed-1800-1878.md     <-- Life in Bessarabia (this file)
-    dakota/
-        russian-state-and-military-documents-trimmed-1849-1897.md     <-- Bessarabian Emigration
-```
-
-This extract overlaps at both ends: Nos. 63 and 64 are shared with the Poland Era extract, and the 1849–1878 departure and conscription documents are shared with the Bessarabian Emigration extract. Anything trimmed out remains in the full version.
-
-## What this extract contains
-
-Most of this book's substantive legal content concerns exactly this region and period, since New Russia and Bessarabia were administered as a single system — No. 72 below establishes one authority for colonists "in the three New Russian Governorates and in the Bessarabian Region" together. Documents on the Caucasus, Crimea, St. Petersburg, and Chernigov colonies are kept as comparative context where the same institution plausibly applied to Bessarabian Germans; Volga-exclusive material is not. The extract stops at 1878, the year the Isaak family left for Dakota, ending with the December military-service exemption (No. 139). Later documents (Nos. 140–160) are in the full version, and those about the colonists who stayed are also in the Bessarabian Emigration extract.
-
-Eighty-two documents, in chronological order:
-
-**Organizing the New Russia colonies (1800–1812)**
-
-- **No. 34 (1800)** — Senate report on measures to improve the condition of the New Russia colonies.
-- **No. 35 (1800)** — instruction for the Office of Guardianship of the New Russia Foreign Settlers.
-- **No. 36 (1800)** — surveying of land for the Chernigov colonists.
-- **No. 39 (1801)** — instruction on the internal order and administration of the New Russia colonies.
-- **No. 40 (1802)** — rules for the reception and settlement of foreign immigrants.
-- **No. 44 (1803)** — supplement to the instruction on internal order and administration.
-- **No. 45 (1803)**, **No. 46 (1803)** — settlement of German colonists in the Crimea and in New Russia.
-- **No. 47 (1804)** — the Minister of Internal Affairs on rules for receiving and settling colonists.
-- **No. 48 (1804)** — locations for settling foreigners in southern Russia.
-- **No. 49 (1804)** — foreign colonists permitted to purchase land in Novorossiya.
-- **No. 50 (1804)** — landowners permitted to settle colonists on their own lands.
-- **No. 51 (1805)** — the German theater in St. Petersburg.
-- **No. 52 (1805)** — payments by the St. Petersburg colonies to the treasury.
-- **No. 53 (1805)** — payments of the Khortitsa Mennonites and Josephsthal colonists.
-- **No. 55 (1809)**, **No. 57 (1809)** — settlement of colonists near Oranienbaum.
-- **No. 56 (1809)** — administration of the Chernigov colonies.
-- **No. 58 (1810)** — monetary loans to colonists discontinued.
-- **No. 59 (1811)** — arrangement of fugitive Novorossiysk colonists.
-- **No. 60 (1811)** — resettlement of the colonists of Tsarskoye Selo district.
-- **No. 61 (1812)** — taxes on colonists raised.
-- **No. 62 (1812)** — transfer of colonists to other estates.
-
-**Poland to Bessarabia, and the 1818 southern system (1814–1819)**
-
-- **No. 63 (1814)** — Alexander I authorizes the resettlement of German colonists from Poland to Bessarabia.
-- **No. 64 (1814)** — administering the oath to the Bessarabian colonists and appointing clergy to them.
-- **No. 66 (1817)** — reception of foreign colonists on private lands.
-- **No. 67 (1817)** — the Committee of Ministers on the settlement of colonists in Bessarabia.
-- **No. 68 (1817)** — resettlement of German colonists from the Caucasus colony of Karras.
-- **No. 69 (1817)** — supplementary rules for settling colonists on landowners' lands.
-- **No. 70 (1817)** — Alexander I's charter to the Baltic Herrnhuters (Moravian Brethren).
-- **No. 71 (1817)** — increased payment from the Mennonites; the first New Russian colonists equalized with state peasants in taxation.
-- **No. 72 (1818)** — the Regulation on the Administration of the Colonies of Southern Russia: the framework governing Bessarabia and New Russia together, establishing the single committee for colonists of the southern territory. (The translation renders its name "Trusteeship Committee" in this document and "Guardianship Committee" elsewhere — e.g. in Nos. 102 and 129 — for the same body, the Попечительный комитет that administered the southern colonies until 1877.)
-- **No. 73 (1818)** — settlement of colonists from Württemberg in Transcaucasia.
-- **No. 74 (1818)** — foreign clothiers settled in Poltava governorate.
-- **No. 75 (1819)** — administration of the Transcaucasian colonies.
-- **No. 76 (1819)**, **No. 77 (1819)** — resettlement of foreigners to Russia halted; passports for that purpose prohibited.
-- **No. 78 (1819)** — oral oath of the Transcaucasian colonists.
-
-**Taxes, debt, schools, and colony administration (1820–1847)**
-
-- **No. 79 (1820)** — collection of debt from the St. Petersburg colonists.
-- **No. 80 (1823)** — raised payment from the original St. Petersburg colonists.
-- **No. 81 (1824)** — raised tax from the Livonian colonists.
-- **No. 82 (1824)** — Senate decree on the taxes and obligations of foreign colonists.
-- **No. 83 (1825)** — collection of debt from the New Russia colonists.
-- **No. 85 (1828)**, **No. 93 (1835)** — reorganization of the Caucasus colony of Karras.
-- **No. 86 (1828)** — a society established for orphans of the Protestant confession.
-- **No. 87 (1830)** — organization of the Livonian colonies.
-- **No. 88 (1831)** — Chernigov colonists resettled to Ekaterinoslav governorate.
-- **No. 89 (1831)** — resettlement of German colonists from the Kingdom of Poland to Russia.
-- **No. 90 (1833)** — settlement of colonists near Peterhof.
-- **No. 96 (1841)** — an overseer appointed for the Chernigov colony of Novye Mezirichi.
-- **No. 98 (1842)** — return of the residents of the Transcaucasian colony of Annenfeld.
-- **No. 99 (1842)** — statute on the Werner school in the Bessarabian colony of Sarata.
-- **No. 100 (1846)** — statute on the German Charitable Society in Odessa.
-- **No. 101 (1847)** — statute on the Moscow Board of Guardians for the Poor of the Evangelical Confession.
-
-**Departure abroad, quitrent, and the great 1857 statutes (1849–1860)**
-
-- **No. 102 (1849)**, **No. 104 (1852)**, **No. 112 (1856)** — the shifting rules on colonists' departure abroad, tightened during the 1848–49 European revolutions and relaxed afterward.
-- **No. 105 (1852)** — residents of the Voronezh colony of Riebensdorf resettled to Yeisk district.
-- **No. 106 (1852)** — exemptions for the Transcaucasian colony of Marienfeld.
-- **No. 108 (1852)** — exemptions for the school at the Lutheran Church of St. Anne, St. Petersburg.
-- **No. 109 (1853)** — procedure for assessing colonists with the quitrent tax.
-- **No. 113 (1856)** — a shelter for boys established at the Lutheran Church of St. Peter.
-- **No. 114 (1857)** — the Statutes on the Spiritual Affairs of Foreign Confessions: the law governing Lutheran church life, consistories, and clergy.
-- **No. 115 (1857)** — the Statute on Colonies of Foreigners: the consolidated colonist law.
-- **No. 117 (1858)** — taxes and obligations of the Novgorod colonists.
-- **No. 120 (1860)** — economic rights of foreigners in Russia.
-
-**The erosion of colonist status (1861–1878)**
-
-- **No. 121 (confirmed 1860, promulgated 1861)** — rules for the settlement of privately owned lands in Crimea by foreign immigrants.
-- **No. 122 (1861)** — the German colony near Tiflis incorporated into the city.
-- **No. 123 (1861)** — levies raised on the German colonists of New Russia and Bessarabia, at 10 rubles per family for Bessarabia specifically.
-- **No. 124 (1865)** — colonists who resettle between governorates without permission lose colonist status permanently.
-- **No. 126 (1866)** — a Lutheran auxiliary fund committee established at Tarutino, the largest Bessarabian colony.
-- **No. 127 (1866)** — the colonies of several governorates subordinated to the general institutions for peasant affairs; the southern colonies left for later.
-- **No. 128 (1868)** — passport issuance devolved to district and village boards.
-- **No. 129 (1871)** — the Rules for the Organization of Settler-Proprietors: colonist status abolished, former colonists folded into the peasant estate, with a ten-year window to renounce subjecthood and leave.
-- **No. 130 (1874)** — procedure for foreigners to renounce Russian subjecthood.
-- **No. 131 (1874)** — procedure for former colonists to depart abroad, tied to the conscription year.
-- **No. 134 (1877)** — redemption of land by the Izhora colony near St. Petersburg.
-- **No. 135 (1877)** — the Lippert scholarships established.
-- **No. 137 (1877)** — organization of Lutheran parishes in the settlements of former colonists, after the Guardianship Committee's dissolution.
-- **No. 138 (1878)** — the school at the Moscow Lutheran Church of SS. Peter and Paul.
-- **No. 139 (1878)** — military-service exemptions for foreign settlers; the last document in this extract.
-
-## Historical background from the compiler's Introduction (paraphrase)
-
-The compiler's Introduction (V. F. Diesendorf, 2006) notes that under Catherine II Germans "for the first time came to constitute a notable share of the population not only in the capital cities or the Baltic governorates, but across the country as a whole," settling "vast, sparsely populated, predominantly peripheral territories" — exactly the Novorossiya/Bessarabia pattern this file documents in detail. Paul I's survey-and-support policy for the young Volga/Novorossiya colonies (noted above) is what matured, by 1814–1817, into the organized reception system that absorbed the Warsaw colonists (the Isaak family among them) into Bessarabia.
-
-The Introduction goes on to describe the gradual erosion of colonist status across the 19th century: Alexander II and Bismarck-era Germany kept Russo-German relations stable through the League of the Three Emperors (1873), but Prussia's 1871 victory over France and the formation of the German Empire made Russia's rulers "wary" of their own German subjects. This is presented as the direct backdrop to two pivotal 1871–1874 measures reproduced in full below: the 1871 abolition of colonist status (Document No. 129) and the 1874 extension of general military conscription to former colonists together with new emigration/departure rules (Documents No. 130, 131, 139) — the beginning of the pressures that would eventually push families like the Isaaks to emigrate to America.
-
-This is a paraphrase of the Introduction's argument, not a verbatim reproduction (the Introduction is a copyrighted 2006 essay). The full original English translation is in the full version listed above.
-
-<!-- ######################################################################## -->
-<!-- ######################################################################## -->
-<!-- ######################################################################## -->
-
----
-
-# Original Source Text
-
-*Everything below this line is the English translation of the 2006 edition.*
-
+  This is a paraphrase of the Introduction's argument, not a verbatim reproduction (the Introduction is a copyrighted 2006 essay). The full original English translation is in the full version listed in related.
 ---
 
 ## No. 34. REPORT OF THE SENATE ON MEASURES TO IMPROVE THE CONDITION OF THE NEW RUSSIA COLONIES, CONFIRMED BY PAUL I (1800)

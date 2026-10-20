@@ -18,86 +18,47 @@ content: "extract"
 document_count: 18
 source_document_count: 200
 pdf_page_count: 786
-extract_scope: "The legal machinery behind the 1878 emigration (departure rules, the 1871 abolition of colonist status, conscription and renunciation of subjecthood), and the Russification measures that followed for the Bessarabian Lutherans who stayed, through 1897. Full selection criteria are in the notes below, which are canonical."
+scope: "The legal machinery behind the 1878 emigration (departure rules, the 1871 abolition of colonist status, conscription and renunciation of subjecthood), and the Russification measures that followed for the Bessarabian Lutherans who stayed, through 1897. Full selection criteria are in the contents field below, which is canonical."
 transcription: "The Russian text was extracted from the OCR'd source PDF, cleaned of broken paragraphs and other PDF/OCR artifacts, and formatted as Markdown using Claude Code. It is suitable for research but may still contain occasional transcription or formatting errors."
 translation: "Unofficial English translation of the cleaned Russian Markdown transcription, produced with Claude Code for personal genealogical and historical research. Occasional word-level translation errors may remain."
 license: "The underlying pre-1917 Russian state documents are likely in the public domain. The 2006 compilation, introduction, editorial apparatus, notes, and arrangement may remain copyrighted by the compiler and/or publisher. This unofficial translation is retained as research material. Cite the original as: Немцы в истории России. 1652–1917 / Сост. В. Ф. Дизендорф. — М.: МФД; Материк, 2006."
----
+related:
+  - "../bessarabia/russian-state-and-military-documents-trimmed-1800-1878.md: Life in Bessarabia extract (1800–1878); shares the 1849–1878 departure and conscription documents, but stops at 1878."
+  - "../full-texts/russian-state-and-military-documents-1652-1917-en.md: full English translation this extract was trimmed from; anything cut here remains there."
+  - "../full-texts/russian-state-and-military-documents-1652-1917-ru.md: full Russian original."
+  - "../poland/russian-state-and-military-documents-trimmed-1652-1814.md: Poland Era extract (1652–1814)."
+summary: "The 1878 emigration: why they left, how they left, and what became of those who stayed. 18 of the collection's 200 documents, spanning 1849–1897."
+contents: >
+  Eighteen documents in chronological order. Thirteen of them (Nos. 102–139) are also in the Life in Bessarabia extract; the five post-1878 documents (Nos. 149, 150, 151, 152, 160) appear only here, since that extract stops at 1878.
 
-# Notes on This Extract
+  Documents on the emigrants' arrival in America are not present, and cannot be: the collection is Russian state legislation and stops at the border.
+table_of_contents:
+  - "No. 102 (1849), No. 104 (1852), No. 112 (1856): the shifting rules on colonists' departure abroad, tightened during the 1848–49 European revolutions and relaxed afterward."
+  - "No. 123 (1861): the treasury-debt levy raised to 10 rubles per family for the German colonists of the Bessarabian region specifically, the highest bracket outside Kherson and the Molochna."
+  - "No. 124 (1865): colonists who resettle between governorates without ministerial permission lose colonist status and its privileges forever."
+  - "No. 126 (1866): a District Committee of the Lutheran auxiliary fund established at Tarutino, the largest Bessarabian colony and seat of the region's oldest parish (1815), so that the 28,000 Bessarabian colonists' contributions would build churches and schools in Bessarabia instead of going across the Dniester to Odessa."
+  - "No. 127 (1866): the first governorates' colonies transferred to the general institutions for peasant affairs; the southern colonies, Bessarabia included, are explicitly left for later, and that \"later\" is 1871."
+  - "No. 128 (1868): passport issuance devolved to the district and village boards, simplifying the paperwork of leaving a colony."
+  - "No. 129 (1871): the central act: colonist status abolished, Bessarabia named in the title, former colonists reclassified as \"settler-proprietors\" within the peasant estate. Two articles matter most here. Art. 9, para. b opens a ten-year window (i.e. to 1881) in which a settler may renounce Russian subjecthood and leave Russia without surrendering any part of his accumulated capital to the treasury — the concession the Isaaks used in 1878, and which expired three years later. Art. 5, para. a, note preserves the old exemption from recruit duty only \"until the issuance of a general law on military service\" — the warning shot that became the 1874 conscription statute. Art. 4, para. i requires all village and volost record-keeping to be in Russian, a language almost no colonist then read."
+  - "No. 130 (1874): renunciation of Russian subjecthood tied to the new conscription statute."
+  - "No. 131 (1874): the exit deadline: intent to emigrate must be declared before 1 September of one's conscription year, and those who declare and then fail to leave are conscripted without drawing lots, as evaders."
+  - "No. 137 (1877): after the Guardianship Committee's dissolution, Lutheran church property in the former colonies of Bessarabia and the southern governorates passes to elected parish church councils, and parishioners gain the right to call their own preachers."
+  - "No. 139 (1878): conscription exemption extended to foreign settlers who had entered on the terms of the 1861 private-lands decree."
+  - "No. 149 (1890): the Senate finally rules, eleven years late, that \"settler-proprietors\" are entitled to the same protection from ruinous debt-collection as other peasants."
+  - "No. 150 (1890): all Lutheran church schools outside the Baltic governorates subordinated to the Ministry of Public Education."
+  - "No. 151 (1891): consistory presidents appointed by the emperor on the Minister of Internal Affairs' recommendation."
+  - "No. 152 (1891): Lutheran vital records to be kept in Russian from 1 January 1892."
+  - "No. 160 (1897): Russian introduced \"as far as possible, gradually\" as the language of instruction in former-colonist schools, with the native language and religious instruction preserved."
+historical_background: >
+  This is a collection of Russian imperial state acts; it has no jurisdiction over, and contains no documents about, Dakota Territory or the United States. What it does contain — and what is reproduced below — is the Russian side of the emigration story, in two parts.
 
-*Editorial notes — not part of the original source text.*
+  The first is the machinery of departure: the rules for leaving Russia, renouncing Russian subjecthood, and the conscription obligations that former colonists (people in the Isaak family's exact legal position after 1871) had to satisfy or evade before they could go. The compiler's Introduction frames 1871–1874 as the hinge. The abolition of colonist status in 1871 (doc. No. 129) and the extension of general military conscription to former colonists in 1874 broke a promise that Catherine II and every emperor since had made to the colonists and their descendants in perpetuity; the compiler is blunt that this "profoundly undermined the trust of Russian Germans in the supreme authority" and produced "a sharp rise in emigration sentiment" (endnote to doc. No. 130). Those two acts, together with a decade of preceding measures — the levy increase of 1861 that fell specifically on the Bessarabian colonists (doc. No. 123), the 1865 penalty stripping colonist status from anyone who moved between governorates without permission (doc. No. 124), and the transfer of the colonies to ordinary peasant administration begun in 1866 (doc. No. 127) — are the push factors behind the 1878 departure for Dakota Territory.
 
-**The 1878 emigration:** why they left, how they left, and what became of those who
-stayed. 18 of the collection's 200 documents, spanning 1849–1897.
+  The second is what the same legislation meant for the majority of Bessarabian Lutherans, who did not leave. For them the years after 1871 were a slow absorption into the ordinary Russian peasant estate and, from about 1890, into a deliberate program of Russification. The Guardianship Committee that had administered the southern colonies since 1818 was wound up in 1877, and with it the special church arrangements the colonist parishes had enjoyed (doc. No. 137). Lutheran church schools passed to the Ministry of Public Education in 1890 (doc. No. 150); consistory presidents became imperial appointees in 1891 (doc. No. 151); parish registers — the birth, marriage, and death records of Kulm and Sofiental — had to be kept in Russian from 1 January 1892 (doc. No. 152); and instruction in the village schools was to shift to Russian from 1897 (doc. No. 160). Doc. No. 149 shows the practical cost of the 1871 settlement in a single case: courts denying "settler-proprietors" even the protections granted to former serfs, and selling a man's last horse.
 
-The complete translation is very large, so period-specific extracts have been trimmed from it:
+  The compiler presents this whole arc as the beginning of the process that eventually culminated in the much harsher WWI-era "liquidation legislation" of Nicholas II — which is out of scope for this file since it postdates 1900 and is excluded from all three files per the extraction criteria.
 
-```
-research/
-    full-texts/
-        russian-state-and-military-documents-1652-1917-en.md          <-- Full version (English)
-        russian-state-and-military-documents-1652-1917-ru.md          <-- Full version (Russian original)
-    poland/
-        russian-state-and-military-documents-trimmed-1652-1814.md     <-- Poland Era
-    bessarabia/
-        russian-state-and-military-documents-trimmed-1800-1878.md     <-- Life in Bessarabia
-    dakota/
-        russian-state-and-military-documents-trimmed-1849-1897.md     <-- Bessarabian Emigration (this file)
-```
-
-The 1849–1878 departure and conscription documents are shared with the Life in Bessarabia extract, which stops at 1878; this file carries the post-1878 material on the colonists who stayed. Anything trimmed out remains in the full version.
-
-## What this extract contains
-
-Eighteen documents in chronological order. Thirteen of them (Nos. 102–139) are also in the Life in Bessarabia extract; the five post-1878 documents (Nos. 149, 150, 151, 152, 160) appear only here, since that extract stops at 1878:
-
-**Push factors and the exit process (1849–1878)**
-
-- **No. 102 (1849), No. 104 (1852), No. 112 (1856)** — the shifting rules on colonists' departure abroad, tightened during the 1848–49 European revolutions and relaxed afterward.
-- **No. 123 (1861)** — the treasury-debt levy raised to 10 rubles per family for the German colonists of the Bessarabian region specifically, the highest bracket outside Kherson and the Molochna.
-- **No. 124 (1865)** — colonists who resettle between governorates without ministerial permission lose colonist status and its privileges forever.
-- **No. 127 (1866)** — the first governorates' colonies transferred to the general institutions for peasant affairs; the southern colonies, Bessarabia included, are explicitly left for later, and that "later" is 1871.
-- **No. 128 (1868)** — passport issuance devolved to the district and village boards, simplifying the paperwork of leaving a colony.
-- **No. 129 (1871)** — the central act: colonist status abolished, Bessarabia named in the title, former colonists reclassified as "settler-proprietors" within the peasant estate. Two articles matter most here. Art. 9, para. b opens a **ten-year window** (i.e. to 1881) in which a settler may renounce Russian subjecthood and leave Russia without surrendering any part of his accumulated capital to the treasury — the concession the Isaaks used in 1878, and which expired three years later. Art. 5, para. a, note preserves the old exemption from recruit duty only "until the issuance of a general law on military service" — the warning shot that became the 1874 conscription statute. Art. 4, para. i requires all village and volost record-keeping to be in Russian, a language almost no colonist then read.
-- **No. 130 (1874)** — renunciation of Russian subjecthood tied to the new conscription statute.
-- **No. 131 (1874)** — the exit deadline: intent to emigrate must be declared before 1 September of one's conscription year, and those who declare and then fail to leave are conscripted without drawing lots, as evaders.
-- **No. 139 (1878)** — conscription exemption extended to foreign settlers who had entered on the terms of the 1861 private-lands decree.
-
-**The colonies and the people who stayed (1866–1897)**
-
-- **No. 126 (1866)** — a District Committee of the Lutheran auxiliary fund established at Tarutino, the largest Bessarabian colony and seat of the region's oldest parish (1815), so that the 28,000 Bessarabian colonists' contributions would build churches and schools in Bessarabia instead of going across the Dniester to Odessa.
-- **No. 137 (1877)** — after the Guardianship Committee's dissolution, Lutheran church property in the former colonies of Bessarabia and the southern governorates passes to elected parish church councils, and parishioners gain the right to call their own preachers.
-- **No. 149 (1890)** — the Senate finally rules, eleven years late, that "settler-proprietors" are entitled to the same protection from ruinous debt-collection as other peasants.
-- **No. 150 (1890)** — all Lutheran church schools outside the Baltic governorates subordinated to the Ministry of Public Education.
-- **No. 151 (1891)** — consistory presidents appointed by the emperor on the Minister of Internal Affairs' recommendation.
-- **No. 152 (1891)** — Lutheran vital records to be kept in Russian from 1 January 1892.
-- **No. 160 (1897)** — Russian introduced "as far as possible, gradually" as the language of instruction in former-colonist schools, with the native language and religious instruction preserved.
-
-Documents on the emigrants' arrival in America are not present, and cannot be: the collection is Russian state legislation and stops at the border.
-
-## Historical background from the compiler's Introduction (paraphrase)
-
-This is a collection of **Russian imperial state acts**; it has no jurisdiction over, and contains no documents about, Dakota Territory or the United States. What it does contain — and what is reproduced below — is the Russian side of the emigration story, in two parts.
-
-The first is the machinery of departure: the rules for leaving Russia, renouncing Russian subjecthood, and the conscription obligations that former colonists (people in the Isaak family's exact legal position after 1871) had to satisfy or evade before they could go. The compiler's Introduction frames 1871–1874 as the hinge. The abolition of colonist status in 1871 (doc. No. 129) and the extension of general military conscription to former colonists in 1874 broke a promise that Catherine II and every emperor since had made to the colonists and their descendants in perpetuity; the compiler is blunt that this "profoundly undermined the trust of Russian Germans in the supreme authority" and produced "a sharp rise in emigration sentiment" (endnote to doc. No. 130). Those two acts, together with a decade of preceding measures — the levy increase of 1861 that fell specifically on the Bessarabian colonists (doc. No. 123), the 1865 penalty stripping colonist status from anyone who moved between governorates without permission (doc. No. 124), and the transfer of the colonies to ordinary peasant administration begun in 1866 (doc. No. 127) — are the push factors behind the 1878 departure for Dakota Territory.
-
-The second is what the same legislation meant for the majority of Bessarabian Lutherans, who did not leave. For them the years after 1871 were a slow absorption into the ordinary Russian peasant estate and, from about 1890, into a deliberate program of Russification. The Guardianship Committee that had administered the southern colonies since 1818 was wound up in 1877, and with it the special church arrangements the colonist parishes had enjoyed (doc. No. 137). Lutheran church schools passed to the Ministry of Public Education in 1890 (doc. No. 150); consistory presidents became imperial appointees in 1891 (doc. No. 151); parish registers — the birth, marriage, and death records of Kulm and Sofiental — had to be kept in Russian from 1 January 1892 (doc. No. 152); and instruction in the village schools was to shift to Russian from 1897 (doc. No. 160). Doc. No. 149 shows the practical cost of the 1871 settlement in a single case: courts denying "settler-proprietors" even the protections granted to former serfs, and selling a man's last horse.
-
-The compiler presents this whole arc as the beginning of the process that eventually culminated in the much harsher WWI-era "liquidation legislation" of Nicholas II — which is out of scope for this file since it postdates 1900 and is excluded from all three files per the extraction criteria.
-
-This is a paraphrase, not a verbatim reproduction of the copyrighted Introduction essay; the full text is in the full version listed above.
-
-<!-- ######################################################################## -->
-<!-- ######################################################################## -->
-<!-- ######################################################################## -->
-
----
-
-# Original Source Text
-
-*Everything below this line is the English translation of the 2006 edition.*
-
+  This is a paraphrase, not a verbatim reproduction of the copyrighted Introduction essay; the full text is in the full version listed in related.
 ---
 
 ## No. 102. DECISION OF THE STATE COUNCIL ON THE CONDITIONS FOR COLONISTS' DEPARTURE ABROAD, CONFIRMED BY NICHOLAS I (1849)
