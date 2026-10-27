@@ -30,6 +30,16 @@ These files exist to preserve real source material faithfully. Preserving the or
 4. **Style.** Apply proper Markdown: headings for the source's own section structure, paragraphs, lists only where the source is genuinely a list, code fences to preserve column-aligned tables/rosters.
 5. **Front matter.** Add the YAML block (see spec below).
 6. **Verify.** Re-read against the source: no duplicated or missing text (check the beginning and end of every page/section), headings in the right places, names/dates/figures correct, YAML parses, Markdown renders cleanly in GitHub, front matter accurate.
+7. **Review images.** For illustrated sources, automatically complete the image-selection workflow below.
+
+### Image selection
+
+Preserve the source first, then curate its images for the research collection. The user makes the final selection.
+
+- **Capture all initially.** Extract/save every image belonging to the source and insert it at its original position in the Markdown, preserving captions. Do not preselect by apparent relevance; report any images that cannot be captured.
+- **Review automatically.** After preparing and verifying the document, inspect each image itself carefully alongside its source context. Present a table in the conversation, in document appearance order: number, filename, **Keep/Delete** recommendation, concise reasoning, and **High/Medium/Low** confidence in the recommendation. Keep this assessment out of the source document.
+- **Judge research value.** Consider relevance to the family's places and periods, future research and visual reconstruction, evidence beyond the text, redundancy, legibility, and storage cost. Do not judge solely by usefulness to the current chapter or file count. Distinguish direct evidence from illustration; flag uncertain dates, locations, and attribution.
+- **Apply the user's choices.** Keep images until the user decides. For approved omissions, use the omitted-image convention below, update original and translated versions consistently, and remove an image file only if no retained document references it.
 
 ### Page markers for long transcriptions
 
