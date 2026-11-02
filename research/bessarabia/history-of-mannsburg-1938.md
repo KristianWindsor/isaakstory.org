@@ -11,7 +11,7 @@ translation: "Published English translation by Allen E. Konrad, April 2020."
 place: "Mannsburg, Cetatea-Albă (Akkerman) District, southern Bessarabia; also Straßburg I, Benkendorf and Neu-Posttal"
 period: "1863–1938"
 scope: "Village history for Mannsburg's 75th anniversary: the 1863 lease of Baron Günsburg's estate, 1881 purchase, tenants and buyers, administration, church, schools and the Mannsburg Bank; brief notes on Straßburg I, Benkendorf and Neu-Posttal."
-relevance: "Lists first tenants Daniel, Christian and August Isaak, with settlers mostly from Kulm, Alt-Posttal, Alt-Elft and Dennewitz; no link to the family line is stated. Its Benkendorf ownership note (Kotschubei, then Demidowa née Benkendorf) bears on the unconfirmed Sofiental landowner lead."
+relevance: "A tenant colony of 1863, about 20 km west of Sofiental, settled mostly from Kulm. Its first tenants include Daniel, Christian and August Isaak (relationship to Gottlieb unknown). Records the salty wells and the 1873 crop failure Gottlieb also describes."
 ---
 
 <!-- source_page: 1 -->
