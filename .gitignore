@@ -2,8 +2,12 @@
 .claude
 psd
 delme
+TODO.md
 
-research/**/*_
+# Files and folders ending with _ are drafts/scratch work
+**/*_
+
 research/**/*.pdf
 
-website/**/*_
+# Versioned chapter drafts (e.g. chapter06-black-earth--v2--notes.md)
+website/story/*--v[0-9]*
